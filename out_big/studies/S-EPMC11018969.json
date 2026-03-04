@@ -1,0 +1,179 @@
+{
+  "accno": "S-EPMC11018969",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "The Radiation Therapy Technology Evidence Matrix: a framework to visualize evidence development for innovations in radiation therapy."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2024-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "The Radiation Therapy Technology Evidence Matrix: a framework to visualize evidence development for innovations in radiation therapy."
+      },
+      {
+        "name": "Abstract",
+        "value": "Clinical evidence is crucial in enabling the judicious adoption of technological innovations in radiation therapy (RT). Pharmaceutical evidence development frameworks are not useful for understanding how technical advances are maturing. In this paper, we introduce a new framework, the Radiation Therapy Technology Evidence Matrix (rtTEM), that helps visualize how the clinical evidence supporting new technologies is developing. The matrix is a unique 2D model based on the R-IDEAL clinical evaluation framework. It can be applied to clinical hypothesis testing trials, as well as publications reporting clinical treatment. We present the rtTEM and illustrate its application, using emerging and mature RT technologies as examples. The model breaks down the type of claim along the vertical axis and the strength of the evidence for that claim on the horizontal axis, both of which are inherent in clinical hypothesis testing. This simplified view allows for stakeholders to understand where the evidence is and where it is heading. Ultimately, the value of an innovation is typically demonstrated through superiority studies, which we have divided into three key categories - administrative, toxicity and control, to enable more detailed visibility of evidence development in that claim area. We propose the rtTEM can be used to track evidence development for new interventions in RT. We believe it will enable researchers and sponsors to identify gaps in evidence and to further direct evidence development. Thus, by highlighting evidence looked for by key policy decision makers, the rtTEM will support wider, timely patient access to high value technological advances."
+      }
+    ],
+    "files": [
+      {
+        "path": "DataSheet_1.pdf",
+        "size": 12300951,
+        "type": "file"
+      }
+    ],
+    "links": [
+      [
+        {
+          "url": "NCT04384770",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        }
+      ]
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Frontiers in oncology"
+          },
+          {
+            "name": "Volume",
+            "value": "14"
+          },
+          {
+            "name": "Pages",
+            "value": "1351610"
+          },
+          {
+            "name": "Publication date",
+            "value": "2024"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.3389/fonc.2024.1351610",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC11018969",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "38628665",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Edwards S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Luzzara M"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Dell'Acqua V"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Christodouleas J"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Medical Affairs and Clinical Research, Elekta AB, Stockholm, Sweden."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

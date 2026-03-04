@@ -1,0 +1,347 @@
+{
+  "accno": "S-EPMC4851902",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "MiR-33a Decreases High-Density Lipoprotein-Induced Radiation Sensitivity in Breast Cancer."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2016-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "MiR-33a Decreases High-Density Lipoprotein-Induced Radiation Sensitivity in Breast Cancer."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Purpose</h4>We previously showed that high-density lipoprotein (HDL) radiosensitizes inflammatory breast cancer (IBC) cells in vitro and is associated with better local control after radiation therapy in IBC patients. The microRNA miR-33 family negatively regulates the adenosine triphosphate binding cassette transporter subfamily A member 1. We hypothesized that variations in miR-33a expression in IBC cancer cells versus non-IBC cells would correlate with radiation sensitivity following exposure to HDL in vitro.<h4>Methods and materials</h4>MiR-33a expression was analyzed by reverse transcriptase-polymerase chain reaction in 4 cell lines representing common clinical breast cancer subtypes. Overexpression and knockdown of miR-33a was demonstrated via transfection of an miR-33a mimic or an anti-miR-33a construct in high- and low-expressing miR-33a cell lines. Clonogenic survival in vitro in these cells was quantified at baseline and following HDL treatment. MiR-33a expression on distant relapse-free survival (DRFS) of 210 cases downloaded from the Oxford breast cancer dataset was determined.<h4>Results</h4>Expression levels of miR-33a were lower in IBC cell lines and IBC tumor samples than in non-IBC cell lines and normal breast tissue. Cholesterol concentrations in the cell membranes were higher in IBC cells than in non-IBC cells. Clonogenic survival following 24 hours of HDL treatment was decreased in response to irradiation in the low-miR-33a-expressing cell lines SUM149 and KPL4, but survival following HDL treatment decreased in the high-miR-33a-expressing cell lines MDA-MB-231 and SUM159. In the high-miR-33a-expressing cell lines, anti-miR-33a transfection decreased radiation resistance in clonogenic assays. Conversely, in the low-miR-33a-expressing cell lines, the miR-33a mimic reversed the HDL-induced radiation sensitization. Breast cancer patients in the top quartile based on miR-33a expression had markedly lower rates of DRFS than the bottom quartile (P=.0228, log-rank test). For breast cancer patients treated with radiation, high miR-33a expression predicted worse overall survival (P=.06).<h4>Conclusions</h4>Our results reveal miR-33a negatively regulates HDL-induced radiation sensitivity in breast cancer."
+      }
+    ],
+    "links": [
+      [
+        {
+          "url": "GSE22216",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "geo"
+            }
+          ]
+        }
+      ]
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCATS NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "TL1 TR000369"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "R01 CA180061"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "R01 CA138239"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "International journal of radiation oncology, biology, physics"
+          },
+          {
+            "name": "Volume",
+            "value": "95(2)"
+          },
+          {
+            "name": "Pages",
+            "value": "791-9"
+          },
+          {
+            "name": "Publication date",
+            "value": "2016 Jun"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1016/j.ijrobp.2016.01.025",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "10.1016/j.ijrobp.2016.01.025",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC4851902",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "27055396",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Wolfe AR"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Bambhroliya A"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-2584-2517"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Reddy JP"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0001-9378-4585"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Debeb BG"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Huo L"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Larson R"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Li L"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Ueno NT"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a9",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Woodward WA"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-7935-739X"
+          },
+          {
+            "name": "affiliation",
+            "value": "o5",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Pathology, The University of Texas MD Anderson Cancer Center, Houston, Texas."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, The University of Texas MD Anderson Cancer Center, Houston, Texas."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, The University of Texas MD Anderson Cancer Center, Houston, Texas; Morgan Welch Inflammatory Breast Cancer Research Program and Clinic, The University of Texas MD Anderson Cancer Center, Houston, Texas."
+          }
+        ]
+      },
+      {
+        "accno": "o5",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, The University of Texas MD Anderson Cancer Center, Houston, Texas; Morgan Welch Inflammatory Breast Cancer Research Program and Clinic, The University of Texas MD Anderson Cancer Center, Houston, Texas. Electronic address: wwoodward@mdanderson.org."
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Morgan Welch Inflammatory Breast Cancer Research Program and Clinic, The University of Texas MD Anderson Cancer Center, Houston, Texas."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

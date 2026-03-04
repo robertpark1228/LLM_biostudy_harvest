@@ -1,0 +1,311 @@
+{
+  "accno": "S-EPMC10014325",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Development and dissemination of structured hashtags for radiation oncology: Two-Year trends."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2023-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Development and dissemination of structured hashtags for radiation oncology: Two-Year trends."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Purpose</h4>For radiation oncology, social media is a favored communication platform, but it uses non-structured hashtags, which limits communication. In this work, we created a set of structured hashtags with key opinion leaders in radiation oncology, and we report on their use after two years post-deployment.<h4>Materials/methods</h4>Hashtags were created, voted on, and refined by crowdsourcing 38 international experts, including physicians, physicists, patients, and organizations from North America, Europe, and Australia. The finalized hashtag set was shared with the radiation oncology community in September 2019. The number of tweets for each hashtag was quantified via Symplur through December 2021. For the top five tweeted hashtags, we captured the number of yearly tweets in the pre-deployment and post-deployment periods from 09/01/2019 to 08/31/2021.<h4>Results</h4>The initial 2019 list contained 39 hashtags organized into nine categories. The top five hashtags by total number of tweets were: #Radonc, #PallOnc, #MedPhys, #SurvOnc, and #SuppOnc. Six hashtags had less than 10 total tweets and were eliminated. Post-deployment, there was an increase in the yearly tweets, with the following number of tweets by the second year post-deployment: #RadOnc (98,189 tweets), #MedPhys (15,858 tweets), and #SurvOnc (6,361 tweets). Two popular radiation oncology-related hashtags were added because of increased use: #DEIinRO (1,603 tweets by year 2) and #WomenWhoCurie (7,212 tweets by year 2). Over the two years, hashtags were used mostly by physicians (131,625 tweets, 34.8%).<h4>Conclusion</h4>We created and tracked structured social media hashtags in radiation oncology. These hashtags disseminate information among a diverse oncologic community. To maintain relevance, regular updates are needed."
+      }
+    ],
+    "files": [
+      {
+        "path": "mmc1.docx",
+        "size": 3275408,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Clinical and translational radiation oncology"
+          },
+          {
+            "name": "Volume",
+            "value": "39"
+          },
+          {
+            "name": "Pages",
+            "value": "100524"
+          },
+          {
+            "name": "Publication date",
+            "value": "2023 Mar"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1016/j.ctro.2022.09.007",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC10014325",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "36935852",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Baydoun A"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Pereira IJ"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Turner S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Siva S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Albert AA"
+          },
+          {
+            "name": "affiliation",
+            "value": "o5",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Andrew Loblaw D"
+          },
+          {
+            "name": "affiliation",
+            "value": "o6",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Simcock RA"
+          },
+          {
+            "name": "affiliation",
+            "value": "o7",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Zaorsky NG"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a9",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Katz MS"
+          },
+          {
+            "name": "affiliation",
+            "value": "o8",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o5",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Arizona Center for Cancer Care, Scottsdale, AZ 85258, USA."
+          }
+        ]
+      },
+      {
+        "accno": "o7",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Brighton and Sussex University Hospitals NHS Trust, Brighton BN2 1DH, UK."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Crown Princess Mary Cancer Centre, Westmead 2145, Australia."
+          }
+        ]
+      },
+      {
+        "accno": "o6",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Sunnybrook Odette Cancer Centre, University of Toronto, Toronto, ON M4N 3M5, Canada."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, University Hospitals of Cleveland, Cleveland, OH 44106, USA."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Queen's University, Kingston, ON K7L 3N6, Canada."
+          }
+        ]
+      },
+      {
+        "accno": "o8",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Radiation Oncology Associates, PA, Lowell, MA 01854, USA."
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "University of Melbourne, Melbourne 3010, Australia."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

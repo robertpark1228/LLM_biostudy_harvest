@@ -1,0 +1,137 @@
+{
+  "accno": "S-EPMC4297324",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Hypofractionated radiation therapy for prostate cancer: biologic and technical considerations."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2014-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Hypofractionated radiation therapy for prostate cancer: biologic and technical considerations."
+      },
+      {
+        "name": "Abstract",
+        "value": "The optimal radiation schedule for the curative treatment of prostate cancer is not known. The dose-response of tumors and normal tissues to fractionated irradiation can be described according to a parameter called the alpha-beta ratio (α/β). In the past several years numerous reports have been published that suggest that the alpha-beta ratio for prostate cancer may be quite low; between 1 and 3. If this hypothesis is true, then a radiation therapy schedule that employs less frequent and larger fractions, termed hypofractionation, may be more efficacious. Multiple randomized trials have been conducted comparing moderate (less than 5 Gy/day) hypofractionated radiation therapy and standard radiation therapy in men with prostate cancer. In the majority of these studies the moderate hypofractionated arm had equivalent efficacy with a similar or improved side effect profile. One area to use caution may be in patients with compromised (IPSS > 12) urinary function at baseline due to an increase in urinary toxicity observed in patients treated with hypofractionated radiation in one study. Extreme hypofractionation (greater than or equal to 5 Gy/day), is currently being compared in a randomized trial. Early prospectively collected data from multiple institutions demonstrates efficacy and toxicity that compares favorably with historical controls. The cost savings from hypofractionation could be profound on a national level and only increases the necessity of testing hypofractionated treatment schedules. Long term data and future trials will help radiation oncologists determine the ideal fractionation scheme based on cost, efficacy, and toxicity."
+      }
+    ],
+    "links": [
+      [
+        {
+          "url": "NCT01230866",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        }
+      ]
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "American journal of clinical and experimental urology"
+          },
+          {
+            "name": "Volume",
+            "value": "2(4)"
+          },
+          {
+            "name": "Pages",
+            "value": "286-93"
+          },
+          {
+            "name": "Publication date",
+            "value": "2014"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "PMC4297324",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "25606574",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Sanfilippo NJ"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Cooper BT"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-7044-7989"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, New York University School of Medicine New York, NY, USA."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

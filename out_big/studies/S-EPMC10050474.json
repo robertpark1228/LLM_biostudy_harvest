@@ -1,0 +1,140 @@
+{
+  "accno": "S-EPMC10050474",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Measuring Global Inequity in Radiation Therapy: Resource Deficits in Low- and Middle-Income Countries Without Radiation Therapy Facilities."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2023-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Measuring Global Inequity in Radiation Therapy: Resource Deficits in Low- and Middle-Income Countries Without Radiation Therapy Facilities."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Purpose</h4>Although radiation therapy (RT) is an effective and inexpensive pillar of multidisciplinary cancer care, access to RT facilities remains highly inequitable globally. Numerous studies have documented this resource gap, yet many countries continue facing their raging cancer epidemics ill-equipped. In this study, we present an estimation of resource deficits in low- and middle-income countries (LMICs) without any RT facilities at all.<h4>Methods and materials</h4>This study builds on publicly available data on country classification, population, cancer incidence, and RT requirements provided by the World Bank Group, the World Health Organization, and the International Atomic Energy Agency. Leveraging these data, we developed a capacity-planning model to estimate the current deficit of fundamental RT resources for LMICs with more than 1 million inhabitants and no active RT facilities.<h4>Results</h4>There were 23 LMICs with a population of more than 1 million inhabitants and without any active RT facilities, 78% of which were located in sub-Saharan Africa. The aggregate population of these countries was 197.3 million people. The largest countries without RT facilities were Afghanistan and Malawi, with a population of 38.0 million and 18.6 million inhabitants, respectively. Estimated cancer incidence for all countries under study totaled at 134,783 new cases per year, 84,239 (62.5%) of which would have required RT. There was an aggregate deficit of 188 megavoltage machines and 85 brachytherapy afterloaders, along with simulation equipment and human capital in the magnitude of approximately 3363 trained radiation oncology staff.<h4>Conclusions</h4>Hundreds of thousands of patients with cancer in LMICs continue to live in countries without access to RT in their own country. This extreme form of global health inequity requires urgent and decisive action, the success of which depends on the integration of international and local efforts."
+      }
+    ],
+    "files": [
+      {
+        "path": "mmc1.docx",
+        "size": 3275408,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Advances in radiation oncology"
+          },
+          {
+            "name": "Volume",
+            "value": "8(4)"
+          },
+          {
+            "name": "Pages",
+            "value": "101175"
+          },
+          {
+            "name": "Publication date",
+            "value": "2023 Jul-Aug"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1016/j.adro.2023.101175",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC10050474",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "37008253",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Christ SM"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0001-5330-3820"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Willmann J"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, University Hospital Zurich, University of Zurich, Zurich, Switzerland."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

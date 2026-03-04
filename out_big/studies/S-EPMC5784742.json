@@ -1,0 +1,269 @@
+{
+  "accno": "S-EPMC5784742",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Model-Based Evaluation of Radiation and Radiosensitizing Agents in Oncology."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2018-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Model-Based Evaluation of Radiation and Radiosensitizing Agents in Oncology."
+      },
+      {
+        "name": "Abstract",
+        "value": "Radiotherapy is one of the major therapy forms in oncology, and combination therapies involving radiation and chemical compounds can yield highly effective tumor eradication. In this paper, we develop a tumor growth inhibition model for combination therapy with radiation and radiosensitizing agents. Moreover, we extend previous analyses of drug combinations by introducing the tumor static exposure (TSE) curve. The TSE curve for radiation and radiosensitizer visualizes exposure combinations sufficient for tumor regression. The model and TSE analysis are then tested on xenograft data. The calibrated model indicates that the highest dose of combination therapy increases the time until tumor regrowth 10-fold. The TSE curve shows that with an average radiosensitizer concentration of 1.0 μg/mL the radiation dose can be decreased from 2.2 Gy to 0.7 Gy. Finally, we successfully predict the effect of a clinically relevant treatment schedule, which contributes to validating both the model and the TSE concept."
+      }
+    ],
+    "files": [
+      {
+        "path": "PSP4-7-51-s001.doc",
+        "size": 110592,
+        "type": "file"
+      },
+      {
+        "path": "PSP4-7-51-s002.docx",
+        "size": 13556,
+        "type": "file"
+      },
+      {
+        "path": "PSP4-7-51-s003.docx",
+        "size": 19945,
+        "type": "file"
+      },
+      {
+        "path": "PSP4-7-51-s004.pdf",
+        "size": 68032,
+        "type": "file"
+      },
+      {
+        "path": "PSP4-7-51-s005.pdf",
+        "size": 158872,
+        "type": "file"
+      },
+      {
+        "path": "PSP4-7-51-s006.pdf",
+        "size": 94314,
+        "type": "file"
+      },
+      {
+        "path": "PSP4-7-51-s007.pdf",
+        "size": 70555,
+        "type": "file"
+      },
+      {
+        "path": "PSP4-7-51-s008.txt",
+        "size": 84458,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "CPT: pharmacometrics & systems pharmacology"
+          },
+          {
+            "name": "Volume",
+            "value": "7(1)"
+          },
+          {
+            "name": "Pages",
+            "value": "51-58"
+          },
+          {
+            "name": "Publication date",
+            "value": "2018 Jan"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1002/psp4.12268",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC5784742",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "29218836",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Cardilin T"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Almquist J"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-4745-9332"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Jirstrand M"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-6612-8037"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Zimmermann A"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "El Bawab S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Gabrielsson J"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Biomedical Sciences and Veterinary Public Health, Swedish University of Agricultural Sciences, Uppsala, Sweden."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Fraunhofer-Chalmers Centre, Chalmers Science Park, Gothenburg, Sweden."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Global Early Development - Quantitative Pharmacology and Drug Disposition, Quantitative Pharmacology, Merck, Darmstadt, Germany."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Translation Innovation Platform Oncology, Merck, Darmstadt, Germany."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

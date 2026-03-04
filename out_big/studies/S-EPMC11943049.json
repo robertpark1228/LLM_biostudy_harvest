@@ -1,0 +1,264 @@
+{
+  "accno": "S-EPMC11943049",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Differential Effects of the Prolyl-Hydroxylase Inhibitor on the Cellular Response to Radiation."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2025-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Differential Effects of the Prolyl-Hydroxylase Inhibitor on the Cellular Response to Radiation."
+      },
+      {
+        "name": "Abstract",
+        "value": "The prolyl-hydroxylase inhibitor (PHI), used effectively in several countries for the treatment of renal anemia, activates the multifunctional hypoxia-inducible factors (HIFs). While hypoxic conditions in tumors are known to affect the response to radiation therapy, the effect of PHI on the radiation response of cancer cells has not been determined. Hypoxic pretreatment increased the radiation sensitivity of A549 lung adenocarcinoma cells, whereas hypoxic culture after irradiation decreased the radiation sensitivity of HSC2 oral squamous cell carcinoma cells. Treatment of PC9 lung adenocarcinoma and HSC2 cells with the PHI FG-4592 significantly increased radiation resistance, whereas A549 and TIG3 lung fibroblast cells tended to be sensitized, suggesting cell type-specific differential effects of PHI. Quantitative RT-PCR analyses revealed that the basal and radiation-inducible expressions of <i>DEC2</i>, <i>BAX</i>, and <i>BCL2</i> may be related to PHI-mediated radiation responses. Knock-down experiments showed that silencing of DEC2 sensitized both A549 and PC9 cells under PHI-treated conditions. On the other hand, silencing of p53, which regulates <i>BAX</i>/<i>BCL2</i>, desensitized A549 cells expressing wild-type p53, but not PC9 cells, with mutant-type p53, to irradiation, regardless of whether PHI was treated or not. Taken together, PHI modifies radiation responses in a cell type-specific manner, possibly through DEC2 signaling."
+      }
+    ],
+    "files": [
+      {
+        "path": "ijms-26-02742-s001.zip",
+        "size": 214764,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "JSPS"
+          },
+          {
+            "name": "grant_id",
+            "value": "18K09768, 23K084770"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "International journal of molecular sciences"
+          },
+          {
+            "name": "Volume",
+            "value": "26(6)"
+          },
+          {
+            "name": "Pages",
+            "value": "2742"
+          },
+          {
+            "name": "Publication date",
+            "value": "2025 Mar"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.3390/ijms26062742",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC11943049",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "40141384",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Murao M"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Fukazawa T"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Bhawal UK"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Tewari N"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Shime N"
+          },
+          {
+            "name": "affiliation",
+            "value": "o5",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Hirohashi N"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Tanimoto K"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Center for Global Health Research, Saveetha Institute of Medical and Technical Sciences, Saveetha Medical College and Hospitals, Saveetha University, Chennai 600077, India"
+          }
+        ]
+      },
+      {
+        "accno": "o5",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Emergency and Critical Care Medicine, Graduate School of Biomedical and Health Sciences, Hiroshima University, Hiroshima 734-8551, Japan"
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Disaster Medicine, Research Institute for Radiation Biology and Medicine, Hiroshima University, Hiroshima 734-8553, Japan"
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Division of Pediatric and Preventive Dentistry, Centre for Dental Education and Research, All India Institute of Medical Sciences, New Delhi 110029, India"
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Natural Science Center for Basic Research and Development, Hiroshima University, Hiroshima 734-8553, Japan"
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

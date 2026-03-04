@@ -1,0 +1,186 @@
+{
+  "accno": "S-EPMC5874664",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Stereotactic Body Radiation Therapy in the Management of Upper GI Malignancies."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2018-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Stereotactic Body Radiation Therapy in the Management of Upper GI Malignancies."
+      },
+      {
+        "name": "Abstract",
+        "value": "The role of external beam radiation therapy (EBRT) in the management of upper gastrointestinal malignancies is constantly evolving. As radiation therapy techniques improve and are able to deliver more ablative doses of radiotherapy while sparing healthy tissue, radiation can be applied to a wider range of clinical scenarios. Stereotactic body radiation therapy (SBRT) allows a high dose of radiation to be delivered to a highly conformal treatment volume in a short amount of time. Another potential advantage of SBRT is its ability to increase tumor immunogenicity, while also having less of an immunosuppressive effect on the patient, as compared to conventionally fractionated radiation therapy. In so doing, SBRT may potentiate the effects of immune therapy when the two treatments are combined, thus improving therapeutic outcomes. This article provides an overview of the role of SBRT in the management of upper gastrointestinal GI malignancies and the emerging data on immune biomarkers and SBRT, with a focus on pancreatic and liver cancer."
+      }
+    ],
+    "links": [
+      [
+        {
+          "url": "NCT01926197",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT01992705",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        }
+      ]
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Biomedicines"
+          },
+          {
+            "name": "Volume",
+            "value": "6(1)"
+          },
+          {
+            "name": "Pages",
+            "value": "E7"
+          },
+          {
+            "name": "Publication date",
+            "value": "2018 Jan"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.3390/biomedicines6010007",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC5874664",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "29301352",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Tchelebi L"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Zaorsky N"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Mackley H"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Penn State Health Milton S. Hershey Medical Center, Hershey, PA 17033, USA. hmackley@pennstatehealth.psu.edu."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Penn State Health Milton S. Hershey Medical Center, Hershey, PA 17033, USA. ltchelebi@pennstatehealth.psu.edu."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Penn State Health Milton S. Hershey Medical Center, Hershey, PA 17033, USA. nzaorsky@pennstatehealth.psu.edu."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

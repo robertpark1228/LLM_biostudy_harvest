@@ -1,0 +1,323 @@
+{
+  "accno": "S-EPMC7497027",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Long-term Effects of 222-nm ultraviolet radiation C Sterilizing Lamps on Mice Susceptible to Ultraviolet Radiation."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2020-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Long-term Effects of 222-nm ultraviolet radiation C Sterilizing Lamps on Mice Susceptible to Ultraviolet Radiation."
+      },
+      {
+        "name": "Abstract",
+        "value": "Germicidal lamps that emit primarily 254 nm ultraviolet radiation (UV) are routinely utilized for surface sterilization but cannot be used for human skin because they cause genotoxicity. As an alternative, 222-nm UVC has been reported to exert sterilizing ability comparable to that of 254-nm UVC without producing cyclobutane pyrimidine dimers (CPDs), the major DNA lesions caused by UV. However, there has been no clear evidence for safety in chronic exposure to skin, particularly with respect to carcinogenesis. We therefore investigated the long-term effects of 222-nm UVC on skin using a highly photocarcinogenic phenotype mice that lack xeroderma pigmentosum complementation group A (Xpa-) gene, which is involved in repairing of CPDs. CPDs formation was recognized only uppermost layer of epidermis even with high dose of 222-nm UVC exposure. No tumors were observed in Xpa-knockout mice and wild-type mice by repetitive irradiation with 222-nm UVC, using a protocol which had shown to produce tumor in Xpa-knockout mice irradiated with broad-band UVB. Furthermore, erythema and ear swelling were not observed in both genotype mice following 222-nm UVC exposure. Our data suggest that 222-nm UVC lamps can be safely used for sterilizing human skin as far as the perspective of skin cancer development."
+      }
+    ],
+    "files": [
+      {
+        "path": "PHP-96-853-s001.pdf",
+        "size": 2822031,
+        "type": "file"
+      },
+      {
+        "path": "PHP-96-853-s002.pdf",
+        "size": 1039403,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Ministry of Education, Culture, Sports, Science and Technology"
+          },
+          {
+            "name": "grant_id",
+            "value": "16k10126"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Photochemistry and photobiology"
+          },
+          {
+            "name": "Volume",
+            "value": "96(4)"
+          },
+          {
+            "name": "Pages",
+            "value": "853-862"
+          },
+          {
+            "name": "Publication date",
+            "value": "2020 Jul"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1111/php.13269",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC7497027",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "32222977",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Yamano N"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kunisada M"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0003-2210-6108"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kaidzu S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Sugihara K"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Nishiaki-Sawada A"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Ohashi H"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Yoshioka A"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Igarashi T"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a9",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Ohira A"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a10",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Tanito M"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a11",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Nishigori C"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Ophthalmology and Visual Science, Graduate School of Biomedical Sciences, Nagasaki University, Nagasaki, Japan."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Ophthalmology, Faculty of Medicine, Shimane University, Izumo, Japan."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Division of Dermatology, Department of Internal Related, Graduate School of Medicine, Kobe University, Kobe, Japan."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Ushio Inc., Tokyo, Japan."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

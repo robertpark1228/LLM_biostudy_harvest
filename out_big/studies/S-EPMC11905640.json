@@ -1,0 +1,232 @@
+{
+  "accno": "S-EPMC11905640",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Cranial radiation disrupts dopaminergic signaling and connectivity in the mammalian brain."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2025-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Cranial radiation disrupts dopaminergic signaling and connectivity in the mammalian brain."
+      },
+      {
+        "name": "Abstract",
+        "value": "Cognitive impairment is a common and challenging side effect of cranial radiation therapy for brain tumors, though its precise mechanisms remain unclear. The mesocortical dopaminergic pathway, known to play a key role in cognitive function, is implicated in several neuropsychiatric disorders, yet its involvement in radiation-induced cognitive dysfunction is unexplored. Here, with using in vivo multi-electrode array recordings of both anesthetized and free-moving rats to monitor the firing activities of dopamine neurons in the ventral tegmental area (VTA) and local field potentials in both the prefrontal cortex (PFC) and VTA, as well as the immunofluorescence assays and western blotting, we report that cranial irradiation transiently altered VTA dopamine neuron firing patterns without affecting overall firing rates and led to sustained reductions in both \"awake\" and total dopamine neuron density. Additionally, radiation exposure impaired D2 receptor function and disrupted connectivity between the PFC and VTA. These multifaceted disruptions in the mesocortical dopamine signaling may underlie the development of radiation-induced cognitive dysfunction. These findings pave the way for novel research to prevent or reverse radiation-induced injury, ultimately improving the quality of life for brain tumor survivors."
+      }
+    ],
+    "files": [
+      {
+        "path": "40478_2025_1976_MOESM1_ESM.tif",
+        "size": 67770,
+        "type": "file"
+      },
+      {
+        "path": "40478_2025_1976_MOESM2_ESM.tif",
+        "size": 115652,
+        "type": "file"
+      },
+      {
+        "path": "40478_2025_1976_MOESM3_ESM.docx",
+        "size": 13243,
+        "type": "file"
+      },
+      {
+        "path": "40478_2025_1976_MOESM4_ESM.tif",
+        "size": 107274,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Cancer Prevention and Research Institute of Texas"
+          },
+          {
+            "name": "grant_id",
+            "value": "RP230018"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "P30 CA016672"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Acta neuropathologica communications"
+          },
+          {
+            "name": "Volume",
+            "value": "13(1)"
+          },
+          {
+            "name": "Pages",
+            "value": "59"
+          },
+          {
+            "name": "Publication date",
+            "value": "2025 Mar"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1186/s40478-025-01976-3",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC11905640",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "40083022",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Zhang D"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Thomas R"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Lam TT"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Veselinovic I"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Grosshans DR"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Departments of Radiation Oncology and Experimental Radiation Oncology, Unit 97, The University of Texas MD Anderson Cancer Center, 1515 Holcombe Blvd, 77030-4009, Houston, TX, USA"
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Departments of Radiation Oncology and Experimental Radiation Oncology, Unit 97, The University of Texas MD Anderson Cancer Center, 1515 Holcombe Blvd, 77030-4009, Houston, TX, USA. dgrossha@mdanderson.org"
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

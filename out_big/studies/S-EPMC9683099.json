@@ -1,0 +1,349 @@
+{
+  "accno": "S-EPMC9683099",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Short-term and bystander effects of radiation on murine submandibular glands."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2022-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Short-term and bystander effects of radiation on murine submandibular glands."
+      },
+      {
+        "name": "Abstract",
+        "value": "Many patients treated for head and neck cancers experience salivary gland hypofunction due to radiation damage. Understanding the mechanisms of cellular damage induced by radiation treatment is important in order to design methods of radioprotection. In addition, it is crucial to recognize the indirect effects of irradiation and the systemic responses that may alter saliva secretion. In this study, radiation was delivered to murine submandibular glands (SMGs) bilaterally, using a 137Cs gamma ray irradiator, or unilaterally, using a small-animal radiation research platform (SARRP). Analysis at 3, 24 and 48 h showed dynamic changes in mRNA and protein expression in SMGs irradiated bilaterally. Unilateral irradiation using the SARRP caused similar changes in the irradiated SMGs, as well as significant off-target, bystander effects in the non-irradiated contralateral SMGs."
+      }
+    ],
+    "files": [
+      {
+        "path": "dmm-15-049570-s1.pdf",
+        "size": 2408762,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "University of Rochester"
+          },
+          {
+            "name": "grant_id",
+            "value": "T90 DE021985"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "National Center for Advancing Translational Sciences"
+          },
+          {
+            "name": "grant_id",
+            "value": "UH3 DE027695"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NIDCR NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "UH3 DE027695"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NIDCR NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "R90 DE022529"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "National Institute of Dental and Craniofacial Research"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NIDCR NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "T90 DE021985"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "University of Rochester"
+          },
+          {
+            "name": "grant_id",
+            "value": "R90 DE022529"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Medical Center, University of Rochester"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Disease models & mechanisms"
+          },
+          {
+            "name": "Volume",
+            "value": "15(11)"
+          },
+          {
+            "name": "Pages",
+            "value": "dmm049570"
+          },
+          {
+            "name": "Publication date",
+            "value": "2022 Nov"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1242/dmm.049570",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC9683099",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "36263624",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Uchida H"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Ingalls MH"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Maruyama EO"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Johnston CJ"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Hernady E"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-8159-5282"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Faustoferri RC"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-5741-4971"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Ovitt CE"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-8045-3119"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Center for Oral Biology, University of Rochester Medical Center, Rochester, NY 14642, USA."
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Biomedical Genetics, University of Rochester Medical Center, Rochester, NY 14642USA."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Pediatrics, University of Rochester Medical Center, Rochester, NY 14642, USA."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, University of Rochester Medical Center, Rochester, NY 14642, USA."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

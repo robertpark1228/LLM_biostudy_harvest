@@ -1,0 +1,362 @@
+{
+  "accno": "S-EPMC9273087",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Radiation therapy enhances systemic antitumor efficacy in PD-L1 therapy regardless of sequence of radiation in murine osteosarcoma."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2022-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Radiation therapy enhances systemic antitumor efficacy in PD-L1 therapy regardless of sequence of radiation in murine osteosarcoma."
+      },
+      {
+        "name": "Abstract",
+        "value": "Recent studies demonstrate that immune checkpoint blockade (ICB) increases the chances of the abscopal effect, an anti-tumor effect outside the radiation field in radiation therapy. However, the optimal sequence between radiation and ICB remains unclear. To investigate the impact of sequence of radiation in anti-PD-L1 antibody (P1) therapy on immune microenvironments and antitumor efficacies in local and abscopal tumors, metastatic LM8 osteosarcoma cells were inoculated into both legs of C3H mice. For irradiation, only one side leg was irradiated at 10 Gy. Then mice were divided into four groups: administrated anti-PD-L1 antibody three times (P1 monotherapy), receiving radiation 3 days prior to P1 therapy (P1+pre-Rad), and receiving concurrent radiation with P1 therapy (P1+conc-Rad). Thereafter, tumor immune microenvironment and tumor volume changes were analyzed in irradiated and unirradiated tumors. The P1+pre-Rad regimen increased the proportion of CD8+ programmed cell death 1 (PD-1)+ granzyme B (GzmB)+ reinvigorated T cells and decreased the proportion of CD8+ PD-1+ GzmB- exhausted T cells than P1+conc-Rad regimen in unirradiated tumors. Combination regimens suppressed tumor growth in irradiated tumors compared with that in P1 monotherapy. In both irradiated and unirradiated tumors, significant tumor growth suppression and prolonged overall survival were observed under both combination treatment regimens compared with P1 monotherapy. However, no distinct differences in unirradiated tumor volume and survival were observed between P1+pre-Rad and P1+conc-Rad groups. These results suggest that local irradiation is necessary to improve systemic treatment efficacy in P1 therapy regardless of sequence of local irradiation."
+      }
+    ],
+    "files": [
+      {
+        "path": "pone.0271205.s001.tif",
+        "size": 2693516,
+        "type": "file"
+      },
+      {
+        "path": "pone.0271205.s002.tif",
+        "size": 2869916,
+        "type": "file"
+      },
+      {
+        "path": "pone.0271205.s003.tif",
+        "size": 1473806,
+        "type": "file"
+      },
+      {
+        "path": "pone.0271205.s004.tif",
+        "size": 2118222,
+        "type": "file"
+      },
+      {
+        "path": "pone.0271205.s005.tif",
+        "size": 2077118,
+        "type": "file"
+      },
+      {
+        "path": "pone.0271205.s006.tif",
+        "size": 2077118,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Princess Takamatsu Cancer Research Fund"
+          },
+          {
+            "name": "grant_id",
+            "value": "16-25805"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Japan Society of the Promotion of Science"
+          },
+          {
+            "name": "grant_id",
+            "value": "Kiban B: 18H02767, Kiban C: 16K07173, 19K08151, and Kiban C: 22K07694"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "PloS one"
+          },
+          {
+            "name": "Volume",
+            "value": "17(7)"
+          },
+          {
+            "name": "Pages",
+            "value": "e0271205"
+          },
+          {
+            "name": "Publication date",
+            "value": "2022"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1371/journal.pone.0271205",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC9273087",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "35816501",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Katsuki S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Takahashi Y"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Tamari K"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Minami K"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Takenaka W"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Ibuki Y"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Yamamoto J"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Tatekawa S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a9",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Hayashi K"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a10",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Seo Y"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a11",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Isohashi F"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a12",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Ogawa K"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a13",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Koizumi M"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Medical Physics and Engineering, Osaka University Graduate School of Medicine, Suita, Osaka, Japan."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Osaka University Graduate School of Medicine, Suita, Osaka, Japan."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

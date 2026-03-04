@@ -1,0 +1,602 @@
+{
+  "accno": "S-EPMC10684055",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Trends in Radiation Dose to the Contralateral Breast During Breast Cancer Radiation Therapy."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2023-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Trends in Radiation Dose to the Contralateral Breast During Breast Cancer Radiation Therapy."
+      },
+      {
+        "name": "Abstract",
+        "value": "Over 4 million survivors of breast cancer live in the United States, 35% of whom were treated before 2009. Approximately half of patients with breast cancer receive radiation therapy, which exposes the untreated contralateral breast to radiation and increases the risk of a subsequent contralateral breast cancer (CBC). Radiation oncology has strived to reduce unwanted radiation dose, but it is unknown whether a corresponding decline in actual dose received to the untreated contralateral breast has occurred. The purpose of this study was to evaluate trends in unwanted contralateral breast radiation dose to inform risk assessment of second primary cancer in the contralateral breast for long-term survivors of breast cancer. Individually estimated radiation absorbed doses to the four quadrants and areola central area of the contralateral breast were estimated for 2,132 women treated with radiation therapy for local/regional breast cancers at age <55 years diagnosed between 1985 and 2008. The two inner quadrant doses and two outer quadrant doses were averaged. Trends in dose to each of the three areas of the contralateral breast were evaluated in multivariable models. The population impact of reducing contralateral breast dose on the incidence of radiation-associated CBC was assessed by estimating population attributable risk fraction (PAR) in a multivariable model. The median dose to the inner quadrants of the contralateral breast was 1.70 Gy; to the areola, 1.20 Gy; and to the outer quadrants, 0.72 Gy. Ninety-two percent of patients received ≥1 Gy to the inner quadrants. For each calendar year of diagnosis, dose declined significantly for each location, most rapidly for the inner quadrants (0.04 Gy/year). Declines in dose were similar across subgroups defined by age at diagnosis and body mass index. The PAR for CBC due to radiation exposure >1 Gy for women <40 years of age was 17%. Radiation dose-reduction measures have reduced dose to the contralateral breast during breast radiation therapy. Reducing the dose to the contralateral breast to <1 Gy could prevent an estimated 17% of subsequent radiation-associated CBCs for women treated under 40 years of age. These dose estimates inform CBC surveillance for the growing number of breast cancer survivors who received radiation therapy as young women in recent decades. Continued reductions in dose to the contralateral breast could further reduce the incidence of radiation-associated CBC."
+      }
+    ],
+    "files": [
+      {
+        "path": "NIHMS1936758-supplement-Supplementary_file_1.docx",
+        "size": 961929,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "R01 CA129639"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "R01 CA114236"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "R01 CA097397"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "U01 CA083178"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "P30 CA008748"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Radiation research"
+          },
+          {
+            "name": "Volume",
+            "value": "200(4)"
+          },
+          {
+            "name": "Pages",
+            "value": "331-339"
+          },
+          {
+            "name": "Publication date",
+            "value": "2023 Oct"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1667/RADE-23-00014.1",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "10.1667/rade-23-00014.1",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC10684055",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "37590492",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Watt GP"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-2024-0015"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Smith SA"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Howell RM"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Perez-Andujar A"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Reiner AS"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-1258-6112"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Cervino L"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "McCormick B"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Hess D"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a9",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Knight JA"
+          },
+          {
+            "name": "affiliation",
+            "value": "o5",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a10",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Malone KE"
+          },
+          {
+            "name": "affiliation",
+            "value": "o6",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a11",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "John EM"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0003-3259-8003"
+          },
+          {
+            "name": "affiliation",
+            "value": "o7",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a12",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Bernstein L"
+          },
+          {
+            "name": "affiliation",
+            "value": "o8",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a13",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Lynch CF"
+          },
+          {
+            "name": "affiliation",
+            "value": "o9",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a14",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Mellemkjær L"
+          },
+          {
+            "name": "affiliation",
+            "value": "o10",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a15",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Shore RE"
+          },
+          {
+            "name": "affiliation",
+            "value": "o11",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a16",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Liang X"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a17",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Woods M"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a18",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Boice JD"
+          },
+          {
+            "name": "affiliation",
+            "value": "o12",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a19",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Dauer LT"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a20",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Bernstein JL"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o8",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Beckman Research Institute, City of Hope Comprehensive Cancer Center, Duarte, California."
+          }
+        ]
+      },
+      {
+        "accno": "o10",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Danish Cancer Society Research Center, Copenhagen, Denmark."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Epidemiology and Biostatistics, Memorial Sloan Kettering Cancer Center, New York, New York."
+          }
+        ]
+      },
+      {
+        "accno": "o9",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Epidemiology, University of Iowa, Iowa City, Iowa."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Medical Physics, Memorial Sloan Kettering Cancer Center, New York, New York."
+          }
+        ]
+      },
+      {
+        "accno": "o11",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Population Health, New York University Grossman School of Medicine, New York, New York."
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Memorial Sloan Kettering Cancer Center, New York, New York."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Physics, The University of Texas MD Anderson Cancer Center, Houston, Texas."
+          }
+        ]
+      },
+      {
+        "accno": "o7",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Departments of Epidemiology & Population Health and of Medicine, Stanford University School of Medicine, Stanford, California."
+          }
+        ]
+      },
+      {
+        "accno": "o5",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Lunenfeld-Tanenbaum Research Institute, Sinai Health, Toronto, Ontario, Canada."
+          }
+        ]
+      },
+      {
+        "accno": "o12",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "National Council on Radiation Protection and Measurements, Bethesda, Maryland."
+          }
+        ]
+      },
+      {
+        "accno": "o6",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Public Health Sciences Division, Fred Hutchinson Cancer Research Center, Seattle, Washington."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

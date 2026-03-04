@@ -1,0 +1,238 @@
+{
+  "accno": "S-EPMC5562856",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Cherenkov Radiation Control via Self-accelerating Wave-packets."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2017-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Cherenkov Radiation Control via Self-accelerating Wave-packets."
+      },
+      {
+        "name": "Abstract",
+        "value": "Cherenkov radiation is a ubiquitous phenomenon in nature. It describes electromagnetic radiation from a charged particle moving in a medium with a uniform velocity larger than the phase velocity of light in the same medium. Such a picture is typically adopted in the investigation of traditional Cherenkov radiation as well as its counterparts in different branches of physics, including nonlinear optics, spintronics and plasmonics. In these cases, the radiation emitted spreads along a \"cone\", making it impractical for most applications. Here, we employ a self-accelerating optical pump wave-packet to demonstrate controlled shaping of one type of generalized Cherenkov radiation - dispersive waves in optical fibers. We show that, by tuning the parameters of the wave-packet, the emitted waves can be judiciously compressed and focused at desired locations, paving the way to such control in any physical system."
+      }
+    ],
+    "files": [
+      {
+        "path": "41598_2017_8705_MOESM1_ESM.doc",
+        "size": 121344,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Scientific reports"
+          },
+          {
+            "name": "Volume",
+            "value": "7(1)"
+          },
+          {
+            "name": "Pages",
+            "value": "8695"
+          },
+          {
+            "name": "Publication date",
+            "value": "2017 Aug"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1038/s41598-017-08705-4",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC5562856",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "28821743",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Hu Y"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Li Z"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0003-1964-8619"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Wetzel B"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-2691-0307"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Morandotti R"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Chen Z"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0001-7050-9943"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Xu J"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Institut National de la Recherche Scientifique, Université du Québec, Varennes, Québec, J3X1S2, Canada."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "The Key Laboratory of Weak-Light Nonlinear Photonics, Ministry of Education, School of Physics and TEDA Institute of Applied Physics, Nankai University, Tianjin, 300071, P.R. China."
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "The Key Laboratory of Weak-Light Nonlinear Photonics, Ministry of Education, School of Physics and TEDA Institute of Applied Physics, Nankai University, Tianjin, 300071, P.R. China. jjxu@nankai.edu.cn."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "The Key Laboratory of Weak-Light Nonlinear Photonics, Ministry of Education, School of Physics and TEDA Institute of Applied Physics, Nankai University, Tianjin, 300071, P.R. China. zgchen@nankai.edu.cn."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

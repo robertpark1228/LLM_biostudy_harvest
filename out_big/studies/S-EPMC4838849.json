@@ -1,0 +1,254 @@
+{
+  "accno": "S-EPMC4838849",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Radiation Resistant Vanadium-Graphene Nanolayered Composite."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2016-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Radiation Resistant Vanadium-Graphene Nanolayered Composite."
+      },
+      {
+        "name": "Abstract",
+        "value": "Ultra high strength V-graphene nanolayers were developed for the first time that was demonstrated to have an excellent radiation tolerance as revealed by the He(+) irradiation study. Radiation induced hardening, evaluated via nanopillar compressions before and after He(+) irradiation, is significantly reduced with the inclusion of graphene layers; the flow stresses of V-graphene nanolayers with 110 nm repeat layer spacing showed an increase of 25% while pure V showed an increase of 88% after He(+) dosage of 13.5 dpa. The molecular dynamics simulations confirmed that the graphene interface can spontaneously absorb the nearby crystalline defects that are produced from a collision cascade, thereby enhancing the lifetime of the V-graphene nanolayers via this self-healing effect. In addition, the impermeability of He gas through the graphene resulted in suppression of He bubble agglomerations that in turn reduced embrittlement. In-situ SEM compression also showed the ability of graphene to hinder crack propagation that suppressed the failure."
+      }
+    ],
+    "files": [
+      {
+        "path": "srep24785-s1.pdf",
+        "size": 729530,
+        "type": "file"
+      },
+      {
+        "path": "srep24785-s2.avi",
+        "size": 22203988,
+        "type": "file"
+      },
+      {
+        "path": "srep24785-s3.avi",
+        "size": 2445604,
+        "type": "file"
+      },
+      {
+        "path": "srep24785-s4.avi",
+        "size": 3552466,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Scientific reports"
+          },
+          {
+            "name": "Volume",
+            "value": "6"
+          },
+          {
+            "name": "Pages",
+            "value": "24785"
+          },
+          {
+            "name": "Publication date",
+            "value": "2016 Apr"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1038/srep24785",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC4838849",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "27098407",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kim Y"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Baek J"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kim S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kim S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Ryu S"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0001-9516-5809"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Jeon S"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-5338-0671"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Han SM"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Materials Science and Engineering and Graphene Research Center of KI for the NanoCentury, Korea Advanced Institute of Science &Technology, Daejeon 305-338, Korea."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Mechanical Engineering, Korea Advanced Institute of Science &Technology, Daejeon 305-338, Korea."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Graduate School of Energy, Environment, Water and Sustainability, Korea Advanced Institute of Science &Technology, Daejeon 305-338, Korea."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

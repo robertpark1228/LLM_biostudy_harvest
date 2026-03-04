@@ -1,0 +1,145 @@
+{
+  "accno": "S-EPMC7592480",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "CT-based ventilation imaging in radiation oncology."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2019-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "CT-based ventilation imaging in radiation oncology."
+      },
+      {
+        "name": "Abstract",
+        "value": "A form of lung function imaging is emerging that uses phase-resolved four-dimensional CT (4DCT or breath-hold CT) images along with image processing techniques to generate lung function maps that provide a surrogate of lung ventilation. CT-based ventilation (referred to as CT-ventilation) research has gained momentum in Radiation Oncology because many lung cancer patients undergo four-dimensional CT simulation as part of the standard treatment planning process. Therefore, generating CT-ventilation images provides functional information without burdening the patient with an extra imaging procedure. CT-ventilation has progressed from an image processing calculation methodology, to validation efforts, to retrospective demonstration of clinical utility in Radiation Oncology. In particular, CT-ventilation has been proposed for two main clinical applications: functional avoidance radiation therapy and thoracic dose-response assessment. The idea of functional avoidance radiation therapy is to preferentially spare functional portions of the lung (as measured by CT-ventilation) during radiation therapy with the hypothesis that reducing dose to functional portions of the lung will lead to reduced rates of radiation-related thoracic toxicity. The idea of imaging-based dose-response assessment is to evaluate pre- to post-treatment CT-ventilation-based imaging changes. The hypothesis is that early, imaging-change-based response can be an early predictor of subsequent thoracic toxicity. Based on the retrospective evidence, the clinical applications of CT-ventilation have progressed from the retrospective setting to on-going prospective clinical trials. This review will cover basic CT-ventilation calculation methodologies, validation efforts, presentation of clinical applications, summarize on-going clinical trials, review potential uncertainties and shortcomings of CT-ventilation, and discuss future directions of CT-ventilation research."
+      }
+    ],
+    "links": [
+      [
+        {
+          "url": "NCT02308709",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT02528942",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT02843568",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        }
+      ]
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "BJR open"
+          },
+          {
+            "name": "Volume",
+            "value": "1(1)"
+          },
+          {
+            "name": "Pages",
+            "value": "20180035"
+          },
+          {
+            "name": "Publication date",
+            "value": "2019"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1259/bjro.20180035",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC7592480",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "33178925",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Vinogradskiy Y"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, University of Colorado School of Medicine, Aurora, CO."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

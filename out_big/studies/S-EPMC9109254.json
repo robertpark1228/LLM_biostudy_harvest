@@ -1,0 +1,398 @@
+{
+  "accno": "S-EPMC9109254",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Targeted Radiosensitizers for MR-Guided Radiation Therapy of Prostate Cancer."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2020-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Targeted Radiosensitizers for MR-Guided Radiation Therapy of Prostate Cancer."
+      },
+      {
+        "name": "Abstract",
+        "value": "Adjuvant radiotherapy is frequently prescribed to treat cancer. To minimize radiation-related damage to healthy tissue, it requires high precision in tumor localization and radiation dose delivery. This can be achieved by MR guidance and targeted amplification of radiation dose selectively to tumors by using radiosensitizers. Here, we demonstrate prostate cancer-targeted gold nanoparticles (AuNPs) for MR-guided radiotherapy to improve the targeting precision and efficacy. By conjugating Gd(III) complexes and prostate-specific membrane antigen (PSMA) targeting ligands to AuNP surfaces, we found enhanced uptake of AuNPs by PSMA-expressing cancer cells with excellent MR contrast and radiation therapy outcome <i>in vitro</i> and <i>in vivo</i>. The AuNPs binding affinity and <i>r</i><sub>1</sub> relaxivity were dramatically improved and the combination of Au and Gd(III)provided better tumor suppression after radiation. The precise tumor localization by MR and selective tumor targeting of the PSMA-1-targeted AuNPs could enable precise radiotherapy, reduction in irradiating dose, and minimization of healthy tissue damage."
+      }
+    ],
+    "files": [
+      {
+        "path": "NIHMS1804227-supplement-si.pdf",
+        "size": 836575,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "R01 CA260847"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NIBIB NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "R01 EB005866"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "National Institute of Biomedical Imaging and Bioengineering"
+          },
+          {
+            "name": "grant_id",
+            "value": "RO1 EB020353-03"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "National Institute of Biomedical Imaging and Bioengineering"
+          },
+          {
+            "name": "grant_id",
+            "value": "R01EB5866-6"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NIBIB NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "R01 EB020353"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Nano letters"
+          },
+          {
+            "name": "Volume",
+            "value": "20(10)"
+          },
+          {
+            "name": "Pages",
+            "value": "7159-7167"
+          },
+          {
+            "name": "Publication date",
+            "value": "2020 Oct"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1021/acs.nanolett.0c02487",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "10.1021/acs.nanolett.0c02487",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC9109254",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "32845644",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Luo D"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Johnson A"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Wang X"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Li H"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0001-5444-1168"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Erokwu BO"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Springer S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Lou J"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Ramamurthy G"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a9",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Flask CA"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a10",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Burda C"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-7342-2840"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a11",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Meade TJ"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a12",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Basilion JP"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Biomedical Engineering, Case Western Reserve University, Cleveland, Ohio 44106, United States."
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Chemistry, Case Western Reserve University, Cleveland, Ohio 44106, United States."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Chemistry, Molecular Biosciences, Neurobiology, and Radiology, Northwestern University, Evanston, Illinois 60208, United States."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiology, Case Western Reserve University, Cleveland, Ohio 44106, United States."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

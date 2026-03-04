@@ -1,0 +1,576 @@
+{
+  "accno": "S-EPMC9273339",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Advances in Imaging for HPV-Related Oropharyngeal Cancer: Applications to Radiation Oncology."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2021-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Advances in Imaging for HPV-Related Oropharyngeal Cancer: Applications to Radiation Oncology."
+      },
+      {
+        "name": "Abstract",
+        "value": "While there has been an overall decline of tobacco and alcohol-related head and neck cancer in recent decades, there has been an increased incidence of HPV-associated oropharyngeal cancer (OPC). Recent research studies and clinical trials have revealed that the cancer biology and clinical progression of HPV-positive OPC is unique relative to its HPV-negative counterparts. HPV-positive OPC is associated with higher rates of disease control following definitive treatment when compared to HPV-negative OPC. Thus, these conditions should be considered unique diseases with regards to treatment strategies and survival. In order to sufficiently characterize HPV-positive OPC and guide treatment strategies, there has been a considerable effort to diagnose, prognose, and track the treatment response of HPV-associated OPC through advanced imaging research. Furthermore, HPV-positive OPC patients are prime candidates for radiation de-escalation protocols, which will ideally reduce toxicities associated with radiation therapy and has prompted additional imaging research to detect radiation-induced changes in organs at risk. This manuscript reviews the various imaging modalities and current strategies for tackling these challenges as well as provides commentary on the potential successes and suggested improvements for the optimal treatment of these tumors."
+      }
+    ],
+    "links": [
+      [
+        {
+          "url": "NCT03210103",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT02442375",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT03972072",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT04667585",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        }
+      ]
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "R01 CA258827"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "P30 CA016672"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "R01 CA218148"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCATS NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "TL1 TR003169"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "P50 CA097007"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "R01 CA214825"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NIDCR NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "R01 DE025248"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NIDCR NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "F31 DE029093"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NIDCR NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "R01 DE028290"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NIBIB NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "R25 EB025787"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NIDCR NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "R56 DE025248"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Seminars in radiation oncology"
+          },
+          {
+            "name": "Volume",
+            "value": "31(4)"
+          },
+          {
+            "name": "Pages",
+            "value": "371-388"
+          },
+          {
+            "name": "Publication date",
+            "value": "2021 Oct"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1016/j.semradonc.2021.05.001",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "10.1016/j.semradonc.2021.05.001",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC9273339",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "34455992",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Salzillo TC"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Taku N"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Wahid KA"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-0503-0175"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "McDonald BA"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0003-4230-1330"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Wang J"
+          },
+          {
+            "name": "affiliation",
+            "value": "o5",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "van Dijk LV"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-9515-5616"
+          },
+          {
+            "name": "affiliation",
+            "value": "o6",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Rigert JM"
+          },
+          {
+            "name": "affiliation",
+            "value": "o7",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Mohamed ASR"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0003-2064-7613"
+          },
+          {
+            "name": "affiliation",
+            "value": "o8",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a9",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Wang J"
+          },
+          {
+            "name": "affiliation",
+            "value": "o9",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a10",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Lai SY"
+          },
+          {
+            "name": "affiliation",
+            "value": "o10",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a11",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Fuller CD"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-5264-3994"
+          },
+          {
+            "name": "affiliation",
+            "value": "o11",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o10",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Head and Neck Surgery, The University of Texas MD Anderson Cancer Center, Houston, TX. Electronic address: sylai@mdanderson.org."
+          }
+        ]
+      },
+      {
+        "accno": "o11",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, The University of Texas MD Anderson Cancer Center, Houston, TX. Electronic address: CDFuller@MDAnderson.org."
+          }
+        ]
+      },
+      {
+        "accno": "o5",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, The University of Texas MD Anderson Cancer Center, Houston, TX. Electronic address: Jarey.Wang@bcm.edu."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, The University of Texas MD Anderson Cancer Center, Houston, TX. Electronic address: NTaku@mdanderson.org."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, The University of Texas MD Anderson Cancer Center, Houston, TX. Electronic address: TCSalzillo@mdanderson.org."
+          }
+        ]
+      },
+      {
+        "accno": "o8",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, The University of Texas MD Anderson Cancer Center, Houston, TX. Electronic address: asmohamed@mdanderson.org."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, The University of Texas MD Anderson Cancer Center, Houston, TX. Electronic address: kawahid@mdanderson.org."
+          }
+        ]
+      },
+      {
+        "accno": "o6",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, The University of Texas MD Anderson Cancer Center, Houston, TX. Electronic address: lvvan@mdanderson.org."
+          }
+        ]
+      },
+      {
+        "accno": "o7",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, The University of Texas MD Anderson Cancer Center, Houston, TX; Department of Head and Neck Surgery, The University of Texas MD Anderson Cancer Center, Houston, TX. Electronic address: jillian.rigert@gmail.com."
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, The University of Texas MD Anderson Cancer Center, Houston, TX; Department of Radiation Physics, The University of Texas MD Anderson Cancer Center, Houston, TX. Electronic address: BMcDonald@mdanderson.org."
+          }
+        ]
+      },
+      {
+        "accno": "o9",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Physics, The University of Texas MD Anderson Cancer Center, Houston, TX. Electronic address: Jihong.Wang@mdanderson.org."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

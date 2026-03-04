@@ -1,0 +1,283 @@
+{
+  "accno": "S-EPMC7944435",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Literature Review of Vaginal Stenosis and Dilator Use in Radiation Oncology."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2019-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Literature Review of Vaginal Stenosis and Dilator Use in Radiation Oncology."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Purpose</h4>Guidelines for the care of women undergoing pelvic radiation therapy (RT) recommend vaginal dilator therapy (VDT) to prevent radiation-induced vaginal stenosis (VS); however, no standard protocol exists. This review seeks to update our current state of knowledge concerning VS and VDT in radiation oncology.<h4>Methods and materials</h4>A comprehensive literature review (1972-2017) was conducted using search terms \"vaginal stenosis,\" \"radiation,\" and \"vaginal dilator.\" Information was organized by key concepts including VS definition, time course, pathophysiology, risk factors, and interventions.<h4>Results</h4>VS is a well-described consequence of pelvic RT, with early manifestations and late changes evolving over several years. Strong risk factors for VS include RT dose and volume of vagina irradiated. Resultant vaginal changes can interfere with sexual function and correlational studies support the use of preventive VDT. The complexity of factors that drive noncompliance with VDT is well recognized. There are no prospective data to guide optimal duration of VDT, and the consistency with which radiation oncologists monitor VS and manage its consequences is unknown.<h4>Conclusions</h4>This review provides information concerning VS definition, pathophysiology, and risk factors and identifies domains of VDT practice that are understudied. Prospective efforts to monitor and measure outcomes of patients who are prescribed VDT are needed to guide practice."
+      }
+    ],
+    "files": [
+      {
+        "path": "NIHMS1629969-supplement-1.pdf",
+        "size": 707781,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "P30 CA008748"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Practical radiation oncology"
+          },
+          {
+            "name": "Volume",
+            "value": "9(6)"
+          },
+          {
+            "name": "Pages",
+            "value": "479-491"
+          },
+          {
+            "name": "Publication date",
+            "value": "2019 Nov"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1016/j.prro.2019.07.001",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "10.1016/j.prro.2019.07.001",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC7944435",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "31302301",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Damast S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Jeffery DD"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Son CH"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Hasan Y"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Carter J"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Lindau ST"
+          },
+          {
+            "name": "affiliation",
+            "value": "o5",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Jhingran A"
+          },
+          {
+            "name": "affiliation",
+            "value": "o6",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Defense, Defense Health Agency, Falls Church, Virginia."
+          }
+        ]
+      },
+      {
+        "accno": "o5",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Obstetrics and Gynecology, University of Chicago, Chicago, Illinois; Department of Medicine-Geriatrics and Palliative Medicine, University of Chicago, Chicago, Illinois; Comprehensive Cancer Center, University of Chicago, Chicago, Illinois."
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Psychiatry and Behavioral Sciences, Memorial Sloan Kettering Cancer Center, New York, New York."
+          }
+        ]
+      },
+      {
+        "accno": "o6",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, The University of Texas MD Anderson Cancer Center, Houston, Texas."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation and Cellular Oncology, University of Chicago, Chicago, Illinois."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Therapeutic Radiology, Yale University, New Haven, Connecticut. Electronic address: shari.damast@yale.edu."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

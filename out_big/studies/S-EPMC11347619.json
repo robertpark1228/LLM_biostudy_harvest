@@ -1,0 +1,297 @@
+{
+  "accno": "S-EPMC11347619",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Multiwell-based G0-PCC assay for radiation biodosimetry."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2024-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Multiwell-based G0-PCC assay for radiation biodosimetry."
+      },
+      {
+        "name": "Abstract",
+        "value": "In major radiological events, rapid assays to detect ionizing radiation exposure are crucial for effective medical interventions. The purpose of these assays is twofold: to categorize affected individuals into groups for initial treatments, and to provide definitive dose estimates for continued care and epidemiology. However, existing high-throughput cytogenetic biodosimetry assays take about 3 days to yield results, which delays critical interventions. We have developed a multiwell-based variant of the chemical-induced G0-phase Premature Chromosome Condensation Assay that delivers same-day results. Our findings revealed that using a concentration of phosphatase inhibitor lower than recommended significantly increases the yield of cells with highly condensed chromosomes. These chromosomes exhibited increased fragmentation in a dose-dependent manner, enabling to quantify radiation damage using a custom Deep Learning algorithm. This algorithm demonstrated reasonable performance in categorizing doses into distinct treatment groups (84% and 80% accuracy for three and four iso-treatment dose bins, respectively) and showed reliability in determining the actual doses received (correlation coefficient of 0.879). This method is amendable to full automation and has the potential to address the need for same-day, high-throughput cytogenetic test for both dose categorization and dose reconstruction in large-scale radiation emergencies."
+      }
+    ],
+    "files": [
+      {
+        "path": "41598_2024_69243_MOESM1_ESM.pdf",
+        "size": 1135322,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NIAID NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "U19 AI067773"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "U19-AI067773"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Scientific reports"
+          },
+          {
+            "name": "Volume",
+            "value": "14(1)"
+          },
+          {
+            "name": "Pages",
+            "value": "19789"
+          },
+          {
+            "name": "Publication date",
+            "value": "2024 Aug"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1038/s41598-024-69243-4",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC11347619",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "39187542",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Royba E"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Shuryak I"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Ponnaiya B"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Repin M"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Pampou S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Karan C"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Turner H"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Garty G"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a9",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Brenner DJ"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Center for Radiological Research, Columbia University Irving Medical Center, New York, NY, 10032, USA."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Center for Radiological Research, Columbia University Irving Medical Center, New York, NY, 10032, USA. er2889@cumc.columbia.edu."
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Columbia Genome Center High-Throughput Screening Facility, Columbia University Irving Medical Center, New York, NY, 10032, USA."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Radiological Research Accelerator Facility, Columbia University, Irvington, NY, 10533, USA."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

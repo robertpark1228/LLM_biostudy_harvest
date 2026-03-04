@@ -1,0 +1,199 @@
+{
+  "accno": "S-EPMC8092767",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Long-term variations in solar radiation, diffuse radiation, and diffuse radiation fraction caused by aerosols in China during 1961-2016."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2021-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Long-term variations in solar radiation, diffuse radiation, and diffuse radiation fraction caused by aerosols in China during 1961-2016."
+      },
+      {
+        "name": "Abstract",
+        "value": "The effects of atmospheric aerosols on the terrestrial climate system are more regional than those of greenhouse gases, which are more global. Thus, it is necessary to examine the typical regional effects of how aerosols affect solar radiation in order to develop a more comprehensive understanding. In this study, we used global AErosol RObotic NETwork (AERONET) data and robust radiation observational evidence to investigate the impact of aerosols on total radiation, diffuse radiation, and the diffuse radiation fraction in China from 1961 to 2016. Our results showed that there were different temporal changes in the aerosol optical depth (AOD), total solar radiation, diffuse radiation and diffuse radiation fraction over the past 56 years. Specifically, the 550 nm AOD from 2005 to 2016 decreased significantly, with annual average AOD of 0.51. Meanwhile, the average total solar radiation reduced by 2.48%, while there was a slight increase in average diffuse radiation at a rate of 3.10 MJ·m-2·yr-1. Moreover, the spatial heterogeneities of AOD, total radiation, diffuse radiation, and the diffuse radiation fraction in China were significant. Aerosol particle emissions in the developed eastern and southern regions of China were more severe than those in the western regions, resulting in higher total radiation and diffuse radiation in the western plateau than in the eastern plain. In addition, aerosols were found to have negative effects on total radiation and sunshine hours, and positive effects on diffuse radiation and diffuse radiation fraction. Further, the diffuse radiation fraction was negatively correlated with sunshine hours. However, there was a positive correlation between AOD and sunshine hours. These results could be used to assess the impacts of climate change on terrestrial ecosystem productivity and carbon budgets."
+      }
+    ],
+    "files": [
+      {
+        "path": "pone.0250376.s001.xlsx",
+        "size": 178172,
+        "type": "file"
+      },
+      {
+        "path": "pone.0250376.s002.xlsx",
+        "size": 70435,
+        "type": "file"
+      },
+      {
+        "path": "pone.0250376.s003.xlsx",
+        "size": 13143,
+        "type": "file"
+      },
+      {
+        "path": "pone.0250376.s004.xlsx",
+        "size": 13335,
+        "type": "file"
+      },
+      {
+        "path": "pone.0250376.s005.xlsx",
+        "size": 94574,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "National Key Research and Development Program of China"
+          },
+          {
+            "name": "grant_id",
+            "value": "2017YFA0603004"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "PloS one"
+          },
+          {
+            "name": "Volume",
+            "value": "16(5)"
+          },
+          {
+            "name": "Pages",
+            "value": "e0250376"
+          },
+          {
+            "name": "Publication date",
+            "value": "2021"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1371/journal.pone.0250376",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC8092767",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "33939718",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Xie H"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Zhao J"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Wang K"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Peng H"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "State Key Laboratory of Severe Weather, Chinese Academy of Meteorological Sciences, Beijing, China."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

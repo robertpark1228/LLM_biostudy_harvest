@@ -1,0 +1,248 @@
+{
+  "accno": "S-EPMC8596120",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Space-Time Wave Packets from Smith-Purcell Radiation."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2021-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Space-Time Wave Packets from Smith-Purcell Radiation."
+      },
+      {
+        "name": "Abstract",
+        "value": "Space-time wave packets are electromagnetic waves with strong correlations between their spatial and temporal degrees of freedom. These wave packets have gained much attention for fundamental properties like propagation invariance and user-designed group velocities, and for potential applications like optical microscopy, micromanipulation, and laser micromachining. Here, free-electron radiation is presented as a natural and versatile source of space-time wave packets that are ultra-broadband and highly tunable in frequency. For instance, ab initio theory and numerical simulations show that the intensity profile of space-time wave packets from Smith-Purcell radiation can be directly tailored through the grating properties, as well as the velocity and shape of the electron bunches. The result of this work indicates a viable way of generating space-time wave packets at exotic frequencies such as the terahertz and X-ray regimes, potentially paving the way toward new methods of shaping electromagnetic wave packets through free-electron radiation."
+      }
+    ],
+    "files": [
+      {
+        "path": "ADVS-8-2100925-s001.pdf",
+        "size": 956922,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Science and Engineering Research Council"
+          },
+          {
+            "name": "grant_id",
+            "value": "A18A5b0056"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Science and Engineering Research Council"
+          },
+          {
+            "name": "grant_id",
+            "value": "A1984c0043"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Agency for Science, Technology and Research"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)"
+          },
+          {
+            "name": "Volume",
+            "value": "8(22)"
+          },
+          {
+            "name": "Pages",
+            "value": "e2100925"
+          },
+          {
+            "name": "Publication date",
+            "value": "2021 Nov"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1002/advs.202100925",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC8596120",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "34658164",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Tan YJ"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-6454-6059"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Pitchappa P"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-6168-4130"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Wang N"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Singh R"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0001-8068-7428"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Wong LJ"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Institute of Microelectronics, Agency for Science, Technology and Research (A*STAR), 2 Fusionopolis Way, Singapore, 138634, Singapore."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "School of Electrical and Electronic Engineering, Nanyang Technological University, 50 Nanyang Avenue, Singapore, 639798, Singapore."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "School of Physical and Mathematical Sciences, Nanyang Technological University, 21 Nanyang Link, Singapore, 637371, Singapore."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

@@ -1,0 +1,284 @@
+{
+  "accno": "S-EPMC9184867",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Characterizing Twitter Influencers in Radiation Oncology."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2022-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Characterizing Twitter Influencers in Radiation Oncology."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Purpose</h4>Both the superstructures of virtual discourse in radiation oncology and the entities occupying influential positions in the social media landscape of radiation oncology remain poorly characterized.<h4>Methods and materials</h4>NodeXL Pro was used to prospectively sample all tweets with the hashtag #radonc every 8 to 10 days during the course of 1 year (December 4, 2018, to November 29, 2019). Twitter handles were grouped into conversational clusters using the Clauset-Newman-Moore community detection algorithm. For each sample period, the top 10 #radonc Twitter influencers, defined using betweenness centrality, were categorized. Influencers were scored in each sample period according to their top 10 influence rank and summarized with descriptive statistics. Linear regression assessed for characteristics that predicted higher influence scores among top influencers.<h4>Results</h4>In the study, 684,000 tweets were sampled over 38 periods. #radonc tweets took on the crowd superstructure of a hub-and-spoke broadcast network formed when prominent individuals are widely repeated by many audience members. Professional societies were the most influential category of Twitter handles with an average influence score of 7.63 out of 10 (standard deviation [SD] = 1.94). When industry handles were present among top 10 influencers, they exhibited the second highest average influence scores (6.75, SD = 1.06), followed by individuals with scores of 5.28 (SD = 0.43). The categories of influencers were stable during the course of 1 year. The role of attending physician, radiation oncology specialty, male sex, academic practice, and US-based handles in North America were predictors of higher influence score.<h4>Conclusions</h4>Twitter influencers in radiation oncology represent a diverse group of people and organizations, but male academic radiation oncologists based in North America occupy particularly influential positions in virtual communities broadly characterized as \"hub and spoke\" broadcast networks. Periodic network-based analyses of the social media discourse in radiation oncology are warranted to maintain an awareness of the handles that are influencing discussions on Twitter and ensure that social media utilization continues to contribute to the field of radiation oncology in a meaningful way."
+      }
+    ],
+    "files": [
+      {
+        "path": "mmc1.docx",
+        "size": 365649,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "P30 CA008748"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Advances in radiation oncology"
+          },
+          {
+            "name": "Volume",
+            "value": "7(6)"
+          },
+          {
+            "name": "Pages",
+            "value": "100919"
+          },
+          {
+            "name": "Publication date",
+            "value": "2022 Nov-Dec"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1016/j.adro.2022.100919",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC9184867",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "35694034",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Valle LF"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Chu FI"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Smith M"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Wang C"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Lee P"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Moghanaki D"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Chino FL"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Steinberg ML"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a9",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Raldow AC"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, MD Anderson Cancer Center, Houston, Texas."
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Memorial Sloan Kettering Cancer Center, New York, New York."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Social Media Research Foundation, Redwood City, California."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "UCLA Department of Radiation Oncology, University of California Los Angeles, Los Angeles, California."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

@@ -1,0 +1,536 @@
+{
+  "accno": "S-EPMC4418193",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Predictors of radiation pneumonitis in patients receiving intensity modulated radiation therapy for Hodgkin and non-Hodgkin lymphoma."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2015-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Predictors of radiation pneumonitis in patients receiving intensity modulated radiation therapy for Hodgkin and non-Hodgkin lymphoma."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Purpose</h4>Few studies to date have evaluated factors associated with the development of radiation pneumonitis (RP) in patients with Hodgkin lymphoma (HL) and non-Hodgkin lymphoma (NHL), especially in patients treated with contemporary radiation techniques. These patients represent a unique group owing to the often large radiation target volumes within the mediastinum and to the potential to receive several lines of chemotherapy that add to pulmonary toxicity for relapsed or refractory disease. Our objective was to determine the incidence and clinical and dosimetric risk factors associated with RP in lymphoma patients treated with intensity modulated radiation therapy (IMRT) at a single institution.<h4>Methods and materials</h4>We retrospectively reviewed clinical charts and radiation records of 150 consecutive patients who received mediastinal IMRT for HL and NHL from 2009 through 2013. Clinical and dosimetric predictors associated with RP according to Radiation Therapy Oncology Group (RTOG) acute toxicity criteria were identified in univariate analysis using the Pearson χ(2) test and logistic multivariate regression.<h4>Results</h4>Mediastinal radiation was administered as consolidation therapy in 110 patients with newly diagnosed HL or NHL and in 40 patients with relapsed or refractory disease. The overall incidence of RP (RTOG grades 1-3) was 14% in the entire cohort. Risk of RP was increased for patients who received radiation for relapsed or refractory disease (25%) versus those who received consolidation therapy (10%, P=.019). Several dosimetric parameters predicted RP, including mean lung dose of >13.5 Gy, V20 of >30%, V15 of >35%, V10 of >40%, and V5 of >55%. The likelihood ratio χ(2) value was highest for V5 >55% (χ(2) = 19.37).<h4>Conclusions</h4>In using IMRT to treat mediastinal lymphoma, all dosimetric parameters predicted RP, although small doses to large volumes of lung had the greatest influence. Patients with relapsed or refractory lymphoma who received salvage chemotherapy and hematopoietic stem cell transplantation were at higher risk for symptomatic RP."
+      }
+    ],
+    "files": [
+      {
+        "path": "NIHMS671707-supplement.pdf",
+        "size": 74990,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "P30 CA016672"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "CA016672"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "International journal of radiation oncology, biology, physics"
+          },
+          {
+            "name": "Volume",
+            "value": "92(1)"
+          },
+          {
+            "name": "Pages",
+            "value": "175-82"
+          },
+          {
+            "name": "Publication date",
+            "value": "2015 May"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1016/j.ijrobp.2015.02.010",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "10.1016/j.ijrobp.2015.02.010",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC4418193",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "25863764",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Pinnix CC"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0003-3982-3664"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Smith GL"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-3171-2911"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Milgrom S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Osborne EM"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Reddy JP"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0001-9378-4585"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Akhtari M"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Reed V"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Arzu I"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a9",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Allen PK"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a10",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Wogan CF"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a11",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Fanale MA"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a12",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Oki Y"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a13",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Turturro F"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a14",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Romaguera J"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a15",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Fayad L"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a16",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Fowler N"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a17",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Westin J"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-1824-2337"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a18",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Nastoupil L"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a19",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Hagemeister FB"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a20",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Rodriguez MA"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a21",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Ahmed S"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0001-7302-8299"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a22",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Nieto Y"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a23",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Dabaja B"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Lymphoma/Myeloma, The University of Texas MD Anderson Cancer Center, Houston, Texas."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, The University of Texas MD Anderson Cancer Center, Houston, Texas."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, The University of Texas MD Anderson Cancer Center, Houston, Texas. Electronic address: ccpinnix@mdanderson.org."
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Stem Cell Transplantation and Cellular Therapy, The University of Texas MD Anderson Cancer Center, Houston, Texas."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

@@ -1,0 +1,335 @@
+{
+  "accno": "S-EPMC11381992",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Impact of discrimination on training and career of radiation oncologists in France."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2024-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Impact of discrimination on training and career of radiation oncologists in France."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Purpose</h4>In France, radiation oncologists are predominantly men with only 44 % of women. Many studies have highlighted gender disparities in medicine. The main objective of our study was to assess the impact of discriminations on radiation oncologists' career.<h4>Materials and methods</h4>An anonymous online questionnaire, adapted from the one used by the ESMO W4O group, was sent to all radiation oncologists in France between March and June 2022. It included questions related to professional experience, gender, socio-ethnicity, sexual orientation, and personal life.<h4>Results</h4>Among the 999 radiation oncologists and 168 residents in France, 225 questionnaires were collected (19.2 %). Among the respondents, 60 % were women and 25 % were residents. The mean age was 39.2 years (range: 25-78). The career satisfaction rate was 92 %, with no gender difference. Gender was considered to have a negative impact on the career development by 65 % of women. Social origin was an obstacle to career development for 37 % of all the respondents, and ethnic origin for 25 %. Sixty two percent of women reported having experienced inappropriate behavior or sexual harassment in their workplace, 38 % felt that having a child had \"extremely\" or \"very\" much impacted their career versus 8.5 % of men (p < 0.001). The most popular proposals for improvement were the creation of a network of women radiation oncologists with specific educational programs and the addition of quotas in institutions and key positions.<h4>Conclusions</h4>This study is the first one assessing the various type of discrimination experienced by radiation oncologists in France. We make a few proposals for improvement of training and working conditions, regardless of the origin and gender."
+      }
+    ],
+    "files": [
+      {
+        "path": "mmc1.pdf",
+        "size": 991824,
+        "type": "file"
+      },
+      {
+        "path": "mmc2.pdf",
+        "size": 27874,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Clinical and translational radiation oncology"
+          },
+          {
+            "name": "Volume",
+            "value": "48"
+          },
+          {
+            "name": "Pages",
+            "value": "100840"
+          },
+          {
+            "name": "Publication date",
+            "value": "2024 Sep"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1016/j.ctro.2024.100840",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC11381992",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "39252882",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Aziez S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Evin C"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-6130-6068"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Azria D"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Montpetit E"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Gannam Y"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "El Houat Y"
+          },
+          {
+            "name": "affiliation",
+            "value": "o5",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Ruffier A"
+          },
+          {
+            "name": "affiliation",
+            "value": "o6",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Vendrely V"
+          },
+          {
+            "name": "affiliation",
+            "value": "o7",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a9",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Laprie A"
+          },
+          {
+            "name": "affiliation",
+            "value": "o8",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a10",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Huguet F"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o7",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Centre Hospitalier Universitaire Bordeaux, Bordeaux, France."
+          }
+        ]
+      },
+      {
+        "accno": "o5",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Centre Hospitalier Universitaire Vaudois, Lausanne, Suisse."
+          }
+        ]
+      },
+      {
+        "accno": "o6",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Clinique Victor Hugo, Le Mans, France."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Hôpital Privé Océane, Vannes, France."
+          }
+        ]
+      },
+      {
+        "accno": "o8",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Institut Universitaire du Cancer de Toulouse, Toulouse, France."
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Institut de Cancérologie de l'Ouest, Angers, France."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Institut du Cancer de Montpellier, Montpellier, France."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Tenon Hospital, AP-HP, Sorbonne University, Paris, France."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

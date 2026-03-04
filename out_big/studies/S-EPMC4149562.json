@@ -1,0 +1,212 @@
+{
+  "accno": "S-EPMC4149562",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Diet-induced obesity modulates epigenetic responses to ionizing radiation in mice."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2014-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Diet-induced obesity modulates epigenetic responses to ionizing radiation in mice."
+      },
+      {
+        "name": "Abstract",
+        "value": "Both exposure to ionizing radiation and obesity have been associated with various pathologies including cancer. There is a crucial need in better understanding the interactions between ionizing radiation effects (especially at low doses) and other risk factors, such as obesity. In order to evaluate radiation responses in obese animals, C3H and C57BL/6J mice fed a control normal fat or a high fat (HF) diet were exposed to fractionated doses of X-rays (0.75 Gy ×4). Bone marrow micronucleus assays did not suggest a modulation of radiation-induced genotoxicity by HF diet. Using MSP, we observed that the promoters of p16 and Dapk genes were methylated in the livers of C57BL/6J mice fed a HF diet (irradiated and non-irradiated); Mgmt promoter was methylated in irradiated and/or HF diet-fed mice. In addition, methylation PCR arrays identified Ep300 and Socs1 (whose promoters exhibited higher methylation levels in non-irradiated HF diet-fed mice) as potential targets for further studies. We then compared microRNA regulations after radiation exposure in the livers of C57BL/6J mice fed a normal or an HF diet, using microRNA arrays. Interestingly, radiation-triggered microRNA regulations observed in normal mice were not observed in obese mice. miR-466e was upregulated in non-irradiated obese mice. In vitro free fatty acid (palmitic acid, oleic acid) administration sensitized AML12 mouse liver cells to ionizing radiation, but the inhibition of miR-466e counteracted this radio-sensitization, suggesting that the modulation of radiation responses by diet-induced obesity might involve miR-466e expression. All together, our results suggested the existence of dietary effects on radiation responses (especially epigenetic regulations) in mice, possibly in relationship with obesity-induced chronic oxidative stress."
+      }
+    ],
+    "files": [
+      {
+        "path": "pone.0106277.s001.pdf",
+        "size": 124983,
+        "type": "file"
+      },
+      {
+        "path": "pone.0106277.s002.pdf",
+        "size": 78236,
+        "type": "file"
+      },
+      {
+        "path": "pone.0106277.s003.pdf",
+        "size": 43450,
+        "type": "file"
+      }
+    ],
+    "links": [
+      [
+        {
+          "url": "GSE47956",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "geo"
+            }
+          ]
+        }
+      ]
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "PloS one"
+          },
+          {
+            "name": "Volume",
+            "value": "9(8)"
+          },
+          {
+            "name": "Pages",
+            "value": "e106277"
+          },
+          {
+            "name": "Publication date",
+            "value": "2014"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1371/journal.pone.0106277",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC4149562",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "25171162",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Vares G"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-6191-9032"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Wang B"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Ishii-Ohba H"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Nenoi M"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Nakajima T"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0001-6455-0122"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Research Center for Radiation Protection, National Institute of Radiological Sciences, Inage-ku, Chiba, Japan."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

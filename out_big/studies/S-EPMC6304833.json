@@ -1,0 +1,298 @@
+{
+  "accno": "S-EPMC6304833",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Radiation Therapy for Retroperitoneal Sarcomas: Influences of Histology, Grade, and Size."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2018-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Radiation Therapy for Retroperitoneal Sarcomas: Influences of Histology, Grade, and Size."
+      },
+      {
+        "name": "Abstract",
+        "value": "Perioperative radiation therapy (RT) has been associated with reduced local recurrence in patients with retroperitoneal sarcomas (RPS); however, selection criteria remain unclear. We hypothesized that perioperative RT would improve survival in patients with RPS and would be associated with pathological factors. The National Cancer Database (NCDB) from 2004 to 2012 was reviewed for patients with nonmetastatic RPS undergoing curative intent resection. Tumor size was dichotomized at 15 cm based on 8th edition American Joint Committee on Cancer (AJCC) staging. Patients with the highest comorbidity score were excluded. Unadjusted Kaplan-Meier and adjusted Cox proportional hazards modeling analyzed overall survival (OS). Multivariable logistic regression modeled margin positivity. A total of 2,264 patients were included; 727 patients (32.1%) had perioperative radiation in whom 203 (9.0%) had radiation preoperatively. Median (IQR) RPS size was 17.5 [11.0-27.0] cm. Histopathology was high grade in 1048 patients (43.7%). Multivariable analysis revealed that perioperative radiation was independently associated with decreased mortality (HR 0.72, 95% confidence intervals (CIs) 0.62-0.84, <i>p</i> < 0.001), and preoperative RT was associated with reduced margin positivity (HR 0.72, 95% CI 0.53-0.97, <i>p</i>=0.032). Stratified survival analysis showed that radiation was associated with prolonged median OS for RPS that were high-grade (64.3 vs. 43.6 months, <i>p</i> < 0.001), less than 15 cm (104.1 vs. 84.2 months, <i>p</i>=0.007), and leiomyosarcomatous (104.8 vs. 61.8 months, <i>p</i> < 0.001). Perioperative radiation is independently associated with decreased mortality in patients with high-grade, less than 15 cm, and leiomyosarcomatous tumors. Preoperative radiation is independently associated with margin-negative resection. These data support the selective use of perioperative radiation in the multidisciplinary management of RPS."
+      }
+    ],
+    "links": [
+      [
+        {
+          "url": "NCT01344018",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        }
+      ]
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Department of Surgery"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Sarcoma"
+          },
+          {
+            "name": "Volume",
+            "value": "2018"
+          },
+          {
+            "name": "Pages",
+            "value": "7972389"
+          },
+          {
+            "name": "Publication date",
+            "value": "2018"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1155/2018/7972389",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC6304833",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "30631245",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Leiting JL"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-5784-7937"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Bergquist JR"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-4142-4905"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Hernandez MC"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Merrell KW"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Folpe AL"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Robinson SI"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Nagorney DM"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Truty MJ"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a9",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Grotz TE"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-7753-097X"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Medical Oncology, Mayo Clinic, Rochester, MN 55901, USA."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Pathology, Mayo Clinic, Rochester, MN 55901, USA."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Mayo Clinic, Rochester, MN 55901, USA."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Surgery, Mayo Clinic, Rochester, MN 55901, USA."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

@@ -1,0 +1,223 @@
+{
+  "accno": "S-EPMC4462983",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Evaluation of a performance appraisal framework for radiation therapists in planning and simulation."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2015-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Evaluation of a performance appraisal framework for radiation therapists in planning and simulation."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Introduction</h4>Constantly evolving technology and techniques within radiation therapy require practitioners to maintain a continuous approach to professional development and training. Systems of performance appraisal and adoption of regular feedback mechanisms are vital to support this development yet frequently lack structure and rely on informal peer support.<h4>Methods</h4>A Radiation Therapy Performance Appraisal Framework (RT-PAF) for radiation therapists in planning and simulation was developed to define expectations of practice and promote a supportive and objective culture of performance and skills appraisal. Evaluation of the framework was conducted via an anonymous online survey tool. Nine peer reviewers and fourteen recipients provided feedback on its effectiveness and the challenges and limitations of the approach.<h4>Results</h4>Findings from the evaluation were positive and suggested that both groups gained benefit from and expressed a strong interest in embedding the approach more routinely. Respondents identified common challenges related to the limited ability to implement suggested development strategies; this was strongly associated with time and rostering issues.<h4>Conclusions</h4>This framework successfully defined expectations for practice and provided a fair and objective feedback process that focussed on skills development. It empowered staff to maintain their skills and reach their professional potential. Management support, particularly in regard to provision of protected time was highlighted as critical to the framework's ongoing success. The demonstrated benefits arising in terms of staff satisfaction and development highlight the importance of this commitment to the modern radiation therapy workforce."
+      }
+    ],
+    "files": [
+      {
+        "path": "jmrs0062-0114-sd1.doc",
+        "size": 86528,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Medical Radiation Technologists Board of Queensland"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Allied Health Training and Development Scheme of Queensland"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Journal of medical radiation sciences"
+          },
+          {
+            "name": "Volume",
+            "value": "62(2)"
+          },
+          {
+            "name": "Pages",
+            "value": "114-21"
+          },
+          {
+            "name": "Publication date",
+            "value": "2015 Jun"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1002/jmrs.106",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC4462983",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "26229676",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Becker J"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Bridge P"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0001-7704-9812"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Brown E"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Lusk R"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Ferrari-Anderson J"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Radiation Oncology Mater Centre South Brisbane, Queensland, Australia."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Radiation Oncology, Princess Alexandra Hospital Brisbane, Queensland, Australia."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "School of Clinical Sciences, Queensland University of Technology Brisbane, Queensland, Australia."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

@@ -1,0 +1,153 @@
+{
+  "accno": "S-EPMC5387081",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "A Century of Radiation Therapy and Adaptive Immunity."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2017-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "A Century of Radiation Therapy and Adaptive Immunity."
+      },
+      {
+        "name": "Abstract",
+        "value": "The coming of age for immunotherapy (IT) as a genuine treatment option for cancer patients through the development of new and effective agents, in particular immune checkpoint inhibitors, has led to a huge renaissance of an old idea, namely to harness the power of the immune system to that of radiation therapy (RT). It is not an overstatement to say that the combination of RT with IT has provided a new conceptual platform that has re-energized the field of radiation oncology as a whole. One only has to look at the immense rise in sessions at professional conferences and in grant applications dealing with this topic to see its emergence as a force, while the number of published reviews on the topic is staggering. At the time of writing, over 97 clinical trials have been registered using checkpoint inhibitors with RT to treat almost 7,000 patients, driven in part by strong competition between pharmaceutical products eager to find their market niche. Yet, for the most part, this enthusiasm is based on relatively limited recent data, and on the clinical success of immune checkpoint inhibitors as single agents. A few preclinical studies on RT-IT combinations have added real value to our understanding of these complex interactions, but many assumptions remain. It seems therefore appropriate to go back in time and pull together what actually has been a long history of investigations into radiation and the immune system (Figure 1) in an effort to provide context for this interesting combination of cancer therapies."
+      }
+    ],
+    "links": [
+      [
+        {
+          "url": "NCT02535364",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        }
+      ]
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "National Institutes of Health"
+          },
+          {
+            "name": "grant_id",
+            "value": "1R01CA191234-01"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "R01 CA191234"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Frontiers in immunology"
+          },
+          {
+            "name": "Volume",
+            "value": "8"
+          },
+          {
+            "name": "Pages",
+            "value": "431"
+          },
+          {
+            "name": "Publication date",
+            "value": "2017"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.3389/fimmu.2017.00431",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC5387081",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "28443099",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Schaue D"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, David Geffen School of Medicine, University of California at Los Angeles, Los Angeles, CA, USA."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

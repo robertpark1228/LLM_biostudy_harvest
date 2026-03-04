@@ -1,0 +1,311 @@
+{
+  "accno": "S-EPMC4421808",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Damage-tolerant nanotwinned metals with nanovoids under radiation environments."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2015-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Damage-tolerant nanotwinned metals with nanovoids under radiation environments."
+      },
+      {
+        "name": "Abstract",
+        "value": "Material performance in extreme radiation environments is central to the design of future nuclear reactors. Radiation induces significant damage in the form of dislocation loops and voids in irradiated materials, and continuous radiation often leads to void growth and subsequent void swelling in metals with low stacking fault energy. Here we show that by using in situ heavy ion irradiation in a transmission electron microscope, pre-introduced nanovoids in nanotwinned Cu efficiently absorb radiation-induced defects accompanied by gradual elimination of nanovoids, enhancing radiation tolerance of Cu. In situ studies and atomistic simulations reveal that such remarkable self-healing capability stems from high density of coherent and incoherent twin boundaries that rapidly capture and transport point defects and dislocation loops to nanovoids, which act as storage bins for interstitial loops. This study describes a counterintuitive yet significant concept: deliberate introduction of nanovoids in conjunction with nanotwins enables unprecedented damage tolerance in metallic materials."
+      }
+    ],
+    "files": [
+      {
+        "path": "ncomms8036-s1.pdf",
+        "size": 1613329,
+        "type": "file"
+      },
+      {
+        "path": "ncomms8036-s2.mov",
+        "size": 12400596,
+        "type": "file"
+      },
+      {
+        "path": "ncomms8036-s3.mov",
+        "size": 30711716,
+        "type": "file"
+      },
+      {
+        "path": "ncomms8036-s4.mov",
+        "size": 29632282,
+        "type": "file"
+      },
+      {
+        "path": "ncomms8036-s5.mov",
+        "size": 17525467,
+        "type": "file"
+      },
+      {
+        "path": "ncomms8036-s6.mov",
+        "size": 18884948,
+        "type": "file"
+      },
+      {
+        "path": "ncomms8036-s7.mov",
+        "size": 18983106,
+        "type": "file"
+      },
+      {
+        "path": "ncomms8036-s8.mov",
+        "size": 11948564,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Nature communications"
+          },
+          {
+            "name": "Volume",
+            "value": "6"
+          },
+          {
+            "name": "Pages",
+            "value": "7036"
+          },
+          {
+            "name": "Publication date",
+            "value": "2015 Apr"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1038/ncomms8036",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC4421808",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "25906997",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Chen Y"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0003-1111-4495"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Yu KY"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-5442-2992"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Liu Y"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0001-8518-5734"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Shao S"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-4718-2783"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Wang H"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kirk MA"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Wang J"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Zhang X"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-8380-8667"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Materials Science and Engineering, China University of Petroleum-Beijing, Beijing 102246, China."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Materials Science and Engineering, Texas A&M University, College Station, Texas 77843, USA."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "MST-8, Los Alamos National Laboratory, Los Alamos, New Mexico 87545, USA."
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Nuclear Engineering Division, Argonne National Laboratory, Argonne, Illinois 60439, USA."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

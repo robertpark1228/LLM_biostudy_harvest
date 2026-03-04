@@ -1,0 +1,521 @@
+{
+  "accno": "S-EPMC10535030",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Ionising radiation and cardiovascular disease: systematic review and meta-analysis."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2023-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Ionising radiation and cardiovascular disease: systematic review and meta-analysis."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Objective</h4>To systematically review and perform a meta-analysis of radiation associated risks of cardiovascular disease in all groups exposed to radiation with individual radiation dose estimates.<h4>Design</h4>Systematic review and meta-analysis.<h4>Main outcome measures</h4>Excess relative risk per unit dose (Gy), estimated by restricted maximum likelihood methods.<h4>Data sources</h4>PubMed and Medline, Embase, Scopus, Web of Science Core collection databases.<h4>Eligibility criteria for selecting studies</h4>Databases were searched on 6 October 2022, with no limits on date of publication or language. Animal studies and studies without an abstract were excluded.<h4>Results</h4>The meta-analysis yielded 93 relevant studies. Relative risk per Gy increased for all cardiovascular disease (excess relative risk per Gy of 0.11 (95% confidence interval 0.08 to 0.14)) and for the four major subtypes of cardiovascular disease (ischaemic heart disease, other heart disease, cerebrovascular disease, all other cardiovascular disease). However, interstudy heterogeneity was noted (P<0.05 for all endpoints except for other heart disease), possibly resulting from interstudy variation in unmeasured confounders or effect modifiers, which is markedly reduced if attention is restricted to higher quality studies or those at moderate doses (<0.5 Gy) or low dose rates (<5 mGy/h). For ischaemic heart disease and all cardiovascular disease, risks were larger per unit dose for lower dose (inverse dose effect) and for fractionated exposures (inverse dose fractionation effect). Population based excess absolute risks are estimated for a number of national populations (Canada, England and Wales, France, Germany, Japan, USA) and range from 2.33% per Gy (95% confidence interval 1.69% to 2.98%) for England and Wales to 3.66% per Gy (2.65% to 4.68%) for Germany, largely reflecting the underlying rates of cardiovascular disease mortality in these populations. Estimated risk of mortality from cardiovascular disease are generally dominated by cerebrovascular disease (around 0.94-1.26% per Gy), with the next largest contribution from ischaemic heart disease (around 0.30-1.20% per Gy).<h4>Conclusions</h4>Results provide evidence supporting a causal association between radiation exposure and cardiovascular disease at high dose, and to a lesser extent at low dose, with some indications of differences in risk between acute and chronic exposures, which require further investigation. The observed heterogeneity complicates a causal interpretation of these findings, although this heterogeneity is much reduced if only higher quality studies or those at moderate doses or low dose rates are considered. Studies are needed to assess in more detail modifications of radiation effect by lifestyle and medical risk factors.<h4>Systematic review registration</h4>PROSPERO CRD42020202036."
+      }
+    ],
+    "files": [
+      {
+        "path": "litm072924.ww1.pdf",
+        "size": 946273,
+        "type": "file"
+      },
+      {
+        "path": "litm072924.ww2.xlsx",
+        "size": 1696174,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "R01 CA197422"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "National Cancer Institute"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "BMJ (Clinical research ed.)"
+          },
+          {
+            "name": "Volume",
+            "value": "380"
+          },
+          {
+            "name": "Pages",
+            "value": "e072924"
+          },
+          {
+            "name": "Publication date",
+            "value": "2023 Mar"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1136/bmj-2022-072924",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC10535030",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "36889791",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Little MP"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0003-0980-7567"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Azizova TV"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Richardson DB"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Tapio S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Bernier MO"
+          },
+          {
+            "name": "affiliation",
+            "value": "o5",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kreuzer M"
+          },
+          {
+            "name": "ORCID",
+            "value": "0009-0002-3835-3197"
+          },
+          {
+            "name": "affiliation",
+            "value": "o6",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Cucinotta FA"
+          },
+          {
+            "name": "affiliation",
+            "value": "o7",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Bazyka D"
+          },
+          {
+            "name": "affiliation",
+            "value": "o8",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a9",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Chumak V"
+          },
+          {
+            "name": "affiliation",
+            "value": "o8",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a10",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Ivanov VK"
+          },
+          {
+            "name": "affiliation",
+            "value": "o9",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a11",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Veiga LHS"
+          },
+          {
+            "name": "affiliation",
+            "value": "o10",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a12",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Livinski A"
+          },
+          {
+            "name": "affiliation",
+            "value": "o11",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a13",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Abalo K"
+          },
+          {
+            "name": "affiliation",
+            "value": "o12",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a14",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Zablotska LB"
+          },
+          {
+            "name": "affiliation",
+            "value": "o13",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a15",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Einstein AJ"
+          },
+          {
+            "name": "affiliation",
+            "value": "o14",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a16",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Hamada N"
+          },
+          {
+            "name": "affiliation",
+            "value": "o15",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o15",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Biology and Environmental Chemistry Division, Sustainable System Research Laboratory, Central Research Institute of Electric Power Industry (CRIEPI), Komae, Tokyo, Japan."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Clinical Department, Southern Urals Biophysics Institute, Ozyorsk, Chelyabinsk Region, Russia."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Environmental and Occupational Health, Irvine Program in Public Health, University of California Irvine, Irvine, CA, USA."
+          }
+        ]
+      },
+      {
+        "accno": "o13",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Epidemiology and Biostatistics, School of Medicine, University of California, San Francisco, San Francisco, CA, USA."
+          }
+        ]
+      },
+      {
+        "accno": "o7",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Health Physics and Diagnostic Sciences, University of Nevada Las Vegas, Las Vegas, NV, USA."
+          }
+        ]
+      },
+      {
+        "accno": "o12",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Medicine Solna, Clinical Epidemiology Division, Karolinska Institutet, Stockholm, Sweden."
+          }
+        ]
+      },
+      {
+        "accno": "o6",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Federal Office for Radiation Protection, Neuherberg, Germany."
+          }
+        ]
+      },
+      {
+        "accno": "o5",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Institut de Radioprotection et de Sureté Nucléaire, Fontenay aux Roses, France."
+          }
+        ]
+      },
+      {
+        "accno": "o9",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Medical Radiological Research Center of Russian Academy of Medical Sciences, Obninsk, Russia."
+          }
+        ]
+      },
+      {
+        "accno": "o11",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "National Institutes of Health Library, National Institutes of Health, Bethesda, MD, USA."
+          }
+        ]
+      },
+      {
+        "accno": "o8",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "National Research Center for Radiation Medicine, National Academy of Medical Sciences of Ukraine, Kyiv, Ukraine."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Radiation Epidemiology Branch, National Cancer Institute, Bethesda, MD, USA mark.little@nih.gov."
+          }
+        ]
+      },
+      {
+        "accno": "o10",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Radiation Epidemiology Branch, National Cancer Institute, Bethesda, MD, USA."
+          }
+        ]
+      },
+      {
+        "accno": "o14",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Seymour, Paul, and Gloria Milstein Division of Cardiology, Department of Medicine, and Department of Radiology, Columbia University Irving Medical Center/New York-Presbyterian Hospital, New York, NY, USA."
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Technische Universität München, Munich, Germany."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

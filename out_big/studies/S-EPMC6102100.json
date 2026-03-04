@@ -1,0 +1,378 @@
+{
+  "accno": "S-EPMC6102100",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Local Control After Stereotactic Body Radiation Therapy for Liver Tumors."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2021-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Local Control After Stereotactic Body Radiation Therapy for Liver Tumors."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Purpose</h4>To quantitatively evaluate published experiences with hepatic stereotactic body radiation therapy (SBRT), to determine local control rates after treatment of primary and metastatic liver tumors and to examine whether outcomes are affected by SBRT dosing regimen.<h4>Methods and materials</h4>We identified published articles that reported local control rates after SBRT for primary or metastatic liver tumors. Biologically effective doses (BEDs) were calculated for each dosing regimen using the linear-quadratic equation. We excluded series in which a wide range of BEDs was used. Individual lesion data for local control were extracted from actuarial survival curves, and data were aggregated to form a single dataset. Actuarial local control curves were generated using the Kaplan-Meier method after grouping lesions by disease type and BED (<100 Gy<sub>10</sub> vs >100 Gy<sub>10</sub>). Comparisons were made using log-rank testing.<h4>Results</h4>Thirteen articles met all inclusion criteria and formed the dataset for this analysis. The 1-, 2-, and 3-year actuarial local control rates after SBRT for primary liver tumors (n = 431) were 93%, 89%, and 86%, respectively. Lower 1- (90%), 2- (79%), and 3-year (76%) actuarial local control rates were observed for liver metastases (n = 290, log-rank P = .011). Among patients treated with SBRT for primary liver tumors, there was no evidence that local control is influenced by BED within the range of schedules used. For liver metastases, on the other hand, outcomes were significantly better for lesions treated with BEDs exceeding 100 Gy<sub>10</sub> (3-year local control 93%) than for those treated with BEDs of ≤100 Gy<sub>10</sub> (3-year local control 65%, P < .001).<h4>Conclusions</h4>Stereotactic body radiation therapy for primary liver tumors provides high rates of durable local control, with no clear evidence for a dose-response relationship among commonly utilized schedules. Excellent local control rates are also seen after SBRT for liver metastases when BEDs of >100 Gy<sub>10</sub> are utilized."
+      }
+    ],
+    "links": [
+      [
+        {
+          "url": "NCT01730937",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        }
+      ]
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "P30 CA008748"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "P01 CA059827"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "R01 CA129182"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "National Cancer Institute"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "International journal of radiation oncology, biology, physics"
+          },
+          {
+            "name": "Volume",
+            "value": "110(1)"
+          },
+          {
+            "name": "Pages",
+            "value": "188-195"
+          },
+          {
+            "name": "Publication date",
+            "value": "2021 May"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1016/j.ijrobp.2017.12.288",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "10.1016/j.ijrobp.2017.12.288",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC6102100",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "29395629",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Ohri N"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Tome WA"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Mendez Romero A"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Miften M"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Ten Haken RK"
+          },
+          {
+            "name": "affiliation",
+            "value": "o5",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Dawson LA"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-9068-6872"
+          },
+          {
+            "name": "affiliation",
+            "value": "o6",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Grimm J"
+          },
+          {
+            "name": "affiliation",
+            "value": "o7",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Yorke E"
+          },
+          {
+            "name": "affiliation",
+            "value": "o8",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a9",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Jackson A"
+          },
+          {
+            "name": "affiliation",
+            "value": "o8",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o7",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology and Molecular Radiation Sciences, Johns Hopkins University, Baltimore, Maryland."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Erasmus MC Cancer Institute, Rotterdam, The Netherlands."
+          }
+        ]
+      },
+      {
+        "accno": "o8",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Memorial Sloan-Kettering Cancer Center, New York, New York."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Montefiore Medical Center and Albert Einstein College of Medicine, Bronx, New York."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Montefiore Medical Center and Albert Einstein College of Medicine, Bronx, New York. Electronic address: wtome@montefiore.org."
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, University of Colorado School of Medicine, Aurora, Colorado."
+          }
+        ]
+      },
+      {
+        "accno": "o5",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, University of Michigan, Ann Arbor, Michigan."
+          }
+        ]
+      },
+      {
+        "accno": "o6",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Radiation Medicine Program, Princess Margaret Cancer Centre and Department of Radiation Oncology, University of Toronto, Ontario, Canada."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

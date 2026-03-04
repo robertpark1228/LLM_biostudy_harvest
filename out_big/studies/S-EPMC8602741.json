@@ -1,0 +1,408 @@
+{
+  "accno": "S-EPMC8602741",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Quantitative Bioluminescence Tomography-Guided Conformal Irradiation for Preclinical Radiation Research."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2021-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Quantitative Bioluminescence Tomography-Guided Conformal Irradiation for Preclinical Radiation Research."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Purpose</h4>Widely used cone beam computed tomography (CBCT)-guided irradiators in preclinical radiation research are limited to localize soft tissue target because of low imaging contrast. Knowledge of target volume is a fundamental need for radiation therapy (RT). Without such information to guide radiation, normal tissue can be overirradiated, introducing experimental uncertainties. This led us to develop high-contrast quantitative bioluminescence tomography (QBLT) for guidance. The use of a 3-dimensional bioluminescence signal, related to cell viability, for preclinical radiation research is one step toward biology-guided RT.<h4>Methods and materials</h4>Our QBLT system enables multiprojection and multispectral bioluminescence imaging to maximize input data for the tomographic reconstruction. Accurate quantification of spectrum and dynamic change of in vivo signal were also accounted for the QBLT. A spectral-derivative method was implemented to eliminate the modeling of the light propagation from animal surface to detector. We demonstrated the QBLT capability of guiding conformal RT using a bioluminescent glioblastoma (GBM) model in vivo. A threshold was determined to delineate QBLT reconstructed gross target volume (GTV<sub>QBLT</sub>), which provides the best overlap between the GTV<sub>QBLT</sub> and CBCT contrast labeled GBM (GTV), used as the ground truth for GBM volume. To account for the uncertainty of GTV<sub>QBLT</sub> in target positioning and volume delineation, a margin was determined and added to the GTV<sub>QBLT</sub> to form a QBLT planning target volume (PTV<sub>QBLT</sub>) for guidance.<h4>Results</h4>The QBLT can reconstruct in vivo GBM with localization accuracy within 1 mm. A 0.5-mm margin was determined and added to GTV<sub>QBLT</sub> to form PTV<sub>QBLT</sub>, largely improving tumor coverage from 75.0% (0 mm margin) to 97.9% in average, while minimizing normal tissue toxicity. With the goal of prescribed dose 5 Gy covering 95% of PTV<sub>QBLT</sub>, QBLT-guided 7-field conformal RT can effectively irradiate 99.4 ± 1.0% of GTV.<h4>Conclusions</h4>The QBLT provides a unique opportunity for investigators to use biologic information for target delineation, guiding conformal irradiation, and reducing normal tissue involvement, which is expected to increase reproducibility of scientific discovery."
+      }
+    ],
+    "files": [
+      {
+        "path": "NIHMS1745340-supplement-2.docx",
+        "size": 4343717,
+        "type": "file"
+      }
+    ],
+    "links": [
+      [
+        {
+          "url": "1MHz",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "null"
+            }
+          ]
+        }
+      ]
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "National Cancer Institute"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "R01 CA240811"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "National Institutes of Health"
+          },
+          {
+            "name": "grant_id",
+            "value": "R01CA240811"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Cancer Prevention and Research Institute of Texas"
+          },
+          {
+            "name": "grant_id",
+            "value": "RR200042"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "National Institutes of Health"
+          },
+          {
+            "name": "grant_id",
+            "value": "R37CA230341"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "P30 CA006973"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "R21 CA223403"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "National Institutes of Health"
+          },
+          {
+            "name": "grant_id",
+            "value": "P30 CA006973"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "National Institutes of Health"
+          },
+          {
+            "name": "grant_id",
+            "value": "R21CA223403"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "R37 CA230341"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "International journal of radiation oncology, biology, physics"
+          },
+          {
+            "name": "Volume",
+            "value": "111(5)"
+          },
+          {
+            "name": "Pages",
+            "value": "1310-1321"
+          },
+          {
+            "name": "Publication date",
+            "value": "2021 Dec"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1016/j.ijrobp.2021.08.010",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC8602741",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "34411639",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Xu X"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Deng Z"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Dehghani H"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0003-4117-0412"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Iordachita I"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Lim M"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0003-0523-3076"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Wong JW"
+          },
+          {
+            "name": "affiliation",
+            "value": "o5",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Wang KK"
+          },
+          {
+            "name": "affiliation",
+            "value": "o6",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o5",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology and Molecular Radiation Sciences, Johns Hopkins University, Baltimore, Maryland."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology and Molecular Radiation Sciences, Johns Hopkins University, Baltimore, Maryland; Biomedical Imaging and Radiation Technology Laboratory, Department of Radiation Oncology, University of Texas Southwestern Medical Center, Dallas, Texas."
+          }
+        ]
+      },
+      {
+        "accno": "o6",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology and Molecular Radiation Sciences, Johns Hopkins University, Baltimore, Maryland; Biomedical Imaging and Radiation Technology Laboratory, Department of Radiation Oncology, University of Texas Southwestern Medical Center, Dallas, Texas. Electronic address: kang-hsin.wang@utsouthwestern.edu."
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology and Molecular Radiation Sciences, Johns Hopkins University, Baltimore, Maryland; Department of Neurosurgery, Stanford University, Stanford, California."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Laboratory for Computational Sensing and Robotics, Johns Hopkins University, Baltimore, Maryland."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "School of Computer Science, University of Birmingham, Birmingham, West Midlands, United Kingdom."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

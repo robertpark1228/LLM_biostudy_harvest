@@ -1,0 +1,299 @@
+{
+  "accno": "S-EPMC11334988",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Activation of STING in Response to Partial-Tumor Radiation Exposure."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2023-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Activation of STING in Response to Partial-Tumor Radiation Exposure."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Purpose</h4>To determine the mechanisms involved in partial volume radiation therapy (RT)-induced tumor response.<h4>Methods and materials</h4>We investigated 67NR murine orthotopic breast tumors in Balb/c mice and Lewis lung carcinoma (LLC cells; WT, Crispr/Cas9 Sting KO, and Atm KO) injected in the flank of C57Bl/6, cGAS, or STING KO mice. RT was delivered to 50% or 100% of the tumor volume using a 2 × 2 cm collimator on a microirradiator allowing precise irradiation. Tumors and blood were collected at 6, 24, and 48 hours post-RT and assessed for cytokine measurements.<h4>Results</h4>There is a significant activation of the cGAS/STING pathway in the hemi-irradiated tumors compared with control and to 100% exposed 67NR tumors. In the LLC model, we determined that an ATM-mediated noncanonical activation of STING is involved. We demonstrated that the partial exposure RT-mediated immune response is dependent on ATM activation in the tumor cells and on the STING activation in the host, and cGAS is dispensable. Our results also indicate that partial volume RT stimulates a proinflammatory cytokine response compared with the anti-inflammatory profile induced by 100% tumor volume exposure.<h4>Conclusions</h4>Partial volume RT induces an antitumor response by activating STING, which stimulates a specific cytokine signature as part of the immune response. However, the mechanism of this STING activation, via the canonical cGAS/STING pathway or a noncanonical ATM-driven pathway, depends on the tumor type. Identifying the upstream pathways responsible for STING activation in the partial RT-mediated immune response in different tumor types would improve this therapy and its potential combination with immune checkpoint blockade and other antitumor therapies."
+      }
+    ],
+    "files": [
+      {
+        "path": "NIHMS2005736-supplement-1.docx",
+        "size": 6261016,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Memorial Sloan-Kettering Cancer Center"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "P30 CA008748"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "International journal of radiation oncology, biology, physics"
+          },
+          {
+            "name": "Volume",
+            "value": "117(4)"
+          },
+          {
+            "name": "Pages",
+            "value": "955-965"
+          },
+          {
+            "name": "Publication date",
+            "value": "2023 Nov"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1016/j.ijrobp.2023.05.032",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "10.1016/j.ijrobp.2023.05.032",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC11334988",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "37244631",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Mathieu M"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0003-3719-813X"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Budhu S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Nepali PR"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-7472-1041"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Russell J"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Powell SN"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Humm J"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Deasy JO"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-9437-266X"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Haimovitz-Friedman A"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Medical Physics, New York City, New York."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology."
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology. Electronic address: haimovia@mskcc.org."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Parker Institute for Cancer Immunotherapy at Memorial Sloan Kettering Cancer Center."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

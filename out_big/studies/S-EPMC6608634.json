@@ -1,0 +1,370 @@
+{
+  "accno": "S-EPMC6608634",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Specific radiation damage is a lesser concern at room temperature."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2019-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Specific radiation damage is a lesser concern at room temperature."
+      },
+      {
+        "name": "Abstract",
+        "value": "Carrying out macromolecular crystallography (MX) experiments at cryogenic temperatures significantly slows the rate of global radiation damage, thus facilitating the solution of high-resolution crystal structures of macromolecules. However, cryo-MX experiments suffer from the early onset of so-called specific radiation damage that affects certain amino-acid residues and, in particular, the active sites of many proteins. Here, a series of MX experiments are described which suggest that specific and global radiation damage are much less decoupled at room temperature than they are at cryogenic temperatures. The results reported here demonstrate the interest in reviving the practice of collecting MX diffraction data at room temperature and allow structural biologists to favourably envisage the development of time-resolved MX experiments at synchrotron sources."
+      }
+    ],
+    "links": [
+      [
+        {
+          "url": "6qqf",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "pdb"
+            }
+          ]
+        },
+        {
+          "url": "6qqi",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "pdb"
+            }
+          ]
+        },
+        {
+          "url": "6qqh",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "pdb"
+            }
+          ]
+        },
+        {
+          "url": "6qqk",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "pdb"
+            }
+          ]
+        },
+        {
+          "url": "6qqj",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "pdb"
+            }
+          ]
+        },
+        {
+          "url": "6qsa",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "pdb"
+            }
+          ]
+        },
+        {
+          "url": "6qqa",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "pdb"
+            }
+          ]
+        },
+        {
+          "url": "6qqc",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "pdb"
+            }
+          ]
+        },
+        {
+          "url": "6qqb",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "pdb"
+            }
+          ]
+        },
+        {
+          "url": "6qqe",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "pdb"
+            }
+          ]
+        },
+        {
+          "url": "6qqd",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "pdb"
+            }
+          ]
+        },
+        {
+          "url": "6qq9",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "pdb"
+            }
+          ]
+        },
+        {
+          "url": "6qq8",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "pdb"
+            }
+          ]
+        },
+        {
+          "url": "4eep",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "pdb"
+            }
+          ]
+        },
+        {
+          "url": "5ebh",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "pdb"
+            }
+          ]
+        },
+        {
+          "url": "2wso",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "pdb"
+            }
+          ]
+        }
+      ]
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "European Synchrotron Radiation Facility"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "IUCrJ"
+          },
+          {
+            "name": "Volume",
+            "value": "6(Pt 4)"
+          },
+          {
+            "name": "Pages",
+            "value": "665-680"
+          },
+          {
+            "name": "Publication date",
+            "value": "2019 Jul"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1107/S205225251900616X",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC6608634",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "31316810",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Gotthard G"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0003-2830-0286"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Aumonier S"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-1568-2150"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "De Sanctis D"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0003-0391-8290"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Leonard G"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0001-5030-0122"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "von Stetten D"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0001-7906-9788"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Royant A"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-1919-8649"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "European Synchrotron Radiation Facility, F-38043 Grenoble, France."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

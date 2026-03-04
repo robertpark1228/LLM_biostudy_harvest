@@ -1,0 +1,257 @@
+{
+  "accno": "S-EPMC6950809",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Impact of genetic variant of HIPK2 on the risk of severe radiation pneumonitis in lung cancer patients treated with radiation therapy."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2020-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Impact of genetic variant of HIPK2 on the risk of severe radiation pneumonitis in lung cancer patients treated with radiation therapy."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Background</h4>Homeodomain-interacting protein kinase 2 (HIPK2) has increasingly drawn attention as recent researches demonstrated its unique role in the regulation of multiple fundamental processes such as apoptosis, proliferation and DNA damage repair. Most importantly, HIPK2 was shown to play regulatory role in inflammation and influence the phenotype and activity of fibroblasts. In this study, we aimed to evaluate the impact of HIPK2 gene variant on risk of radiation pneumonitis for patients with pulmonary malignancies.<h4>Methods</h4>169 lung cancer patients with radiotherapy were included in our prospective study and genotyped by Sanger Sequence method. Multivariable Cox hazard analysis and multiple testing were applied to estimate the hazard ratio (HR) and 95% confidence intervals (CIs) of all factors possibly related to the risk of radiation pneumonitis (RP).<h4>Results</h4>Patients with Mean Lung Dose (MLD) ≥ 15Gy, Lung V<sub>20</sub> ≥ 24% had higher risk of RP ≥ grade 2 compared with those counterparts (HR = 1.888, 95% CI: 1.186-3.004, P = 0.007; HR = 2.126, 95% CI: 1.338-3.378, P = 0.001, respectively). Importantly, CC genotype of HIPK2: rs2030712 were strongly related to an increased occurrence of RP ≥ grade 2 (HR = 2.146, 95% CI: 1.215-3.791, P = 0.009).<h4>Conclusion</h4>HIPK2: rs2030712 was found to be significantly related to RP of grade ≥ 2 in our cohort, and may thus be one of the important predictors of severe RP before radiotherapy, if further validated in larger population.<h4>Trial registration</h4>Our study was prospective and observational. The research was registered in ClinicalTrials.gov database as NCT02490319."
+      }
+    ],
+    "links": [
+      [
+        {
+          "url": "rs2030712",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refsnp"
+            }
+          ]
+        },
+        {
+          "url": "NCT02490319",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        }
+      ]
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "National Natural Science Foundation of China"
+          },
+          {
+            "name": "grant_id",
+            "value": "81773360"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "National Natural Science Foundation of China"
+          },
+          {
+            "name": "grant_id",
+            "value": "81700145"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Radiation oncology (London, England)"
+          },
+          {
+            "name": "Volume",
+            "value": "15(1)"
+          },
+          {
+            "name": "Pages",
+            "value": "9"
+          },
+          {
+            "name": "Publication date",
+            "value": "2020 Jan"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1186/s13014-019-1456-0",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC6950809",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "31915028",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Tang Y"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Yang L"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Qin W"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Yi MX"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Liu B"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Yuan X"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Hematology, Tongji Hospital, Huazhong University of Science and Technology, Wuhan, Hubei Province, China."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Oncology, Tongji Hospital, Huazhong University of Science and Technology, Wuhan, Hubei Province, China."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Oncology, Tongji Hospital, Huazhong University of Science and Technology, Wuhan, Hubei Province, China. xianglinyuantjmu@126.com."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

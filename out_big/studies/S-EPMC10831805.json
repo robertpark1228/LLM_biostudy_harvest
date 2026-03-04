@@ -1,0 +1,366 @@
+{
+  "accno": "S-EPMC10831805",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Effects of Wildfire Events on California Radiation Oncology Clinics and Patients."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2024-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Effects of Wildfire Events on California Radiation Oncology Clinics and Patients."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Purpose</h4>The effect of climate-driven events, such as wildfires, on health care delivery and cancer care is a growing concern. Patients with cancer undergoing radiation therapy are particularly vulnerable to treatment interruptions, which have a direct effect on survival. We report the results of a study characterizing the effect of wildfires on radiation oncology clinics and their patients.<h4>Methods and materials</h4>A survey of California radiation oncologists was used to evaluate emergency preparedness and the effect of wildfires on the delivery of radiation therapy services between 2017 and 2022. Descriptive statistics and Pearson's χ<sup>2</sup> tests were performed to investigate potential relationships between provider characteristics, practice settings, and perceptions of the effect of wildfire events. California Department of Forestry and Fire Protection data were employed to map the geographic distribution of wildfires to clinic locations.<h4>Results</h4>Response rate was 12.3% (51/415 radiation oncologists), representing 25% of clinics (43/176) in 41% (24/58) of California counties. Sixty-one percent (31/51) of respondents reported being affected by a wildfire, 2 of which are rural clinics (100%, 2/2) and 29 are (59%, 29/49) metropolitan practices. Of these, 18% (9/51) reported a clinic closure, and 29% (15/51) reported staffing shortages. Respondents reported effects on patients, including having to evacuate (55%, 28/51), cancel/reschedule treatments (53%, 27/51), and experiencing physical, mental, or financial hardship due to wildfires (45%, 23/51). Respondents described effects on clinical operations, including being forced to transfer patients (24%, 12/51), transportation interruptions (37%, 19/51), regional/community evacuations (35%, 18/51), and physical/mental health effects (27%, 14/51) on clinic personnel. Less than half of the respondents (47%, 24/51) reported their workplace had a wildfire emergency preparedness plan. Additionally, geographic analysis revealed that 100% (176/176) of clinics were located within 25 miles of a wildfire.<h4>Conclusions</h4>This study highlights the effects of wildfires on radiation oncology clinics and patients and underscores the need for emergency preparedness planning to minimize the consequences of such disasters."
+      }
+    ],
+    "files": [
+      {
+        "path": "mmc1.docx",
+        "size": 126504,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Advances in radiation oncology"
+          },
+          {
+            "name": "Volume",
+            "value": "9(3)"
+          },
+          {
+            "name": "Pages",
+            "value": "101395"
+          },
+          {
+            "name": "Publication date",
+            "value": "2024 Mar"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1016/j.adro.2023.101395",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC10831805",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "38304108",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Lichter KE"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Baniel CC"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Do I"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Medhat Y"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Avula V"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Nogueira LM"
+          },
+          {
+            "name": "affiliation",
+            "value": "o5",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Bates JE"
+          },
+          {
+            "name": "affiliation",
+            "value": "o6",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Paulsson A"
+          },
+          {
+            "name": "affiliation",
+            "value": "o7",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a9",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Malik N"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a10",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Hiatt RA"
+          },
+          {
+            "name": "affiliation",
+            "value": "o8",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a11",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Yom SS"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a12",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Mohamad O"
+          },
+          {
+            "name": "affiliation",
+            "value": "o9",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o5",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "American Cancer Society, Kennesaw, Georgia."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Stanford University, Stanford, California."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, University of California San Francisco, San Francisco, California."
+          }
+        ]
+      },
+      {
+        "accno": "o6",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Winship Cancer Institute, Emory University, Atlanta, Georgia."
+          }
+        ]
+      },
+      {
+        "accno": "o9",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Division of Radiation Oncology, The University of Texas MD Anderson Cancer Center, Houston, Texas."
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Johns Hopkins School of Medicine, Baltimore, Maryland."
+          }
+        ]
+      },
+      {
+        "accno": "o7",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Providence Medical Group, Dayton, Ohio."
+          }
+        ]
+      },
+      {
+        "accno": "o8",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "The Helen Diller Family Comprehensive Cancer Center, University of California San Francisco, San Francisco, California."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "University of California, Berkeley, Berkeley, California."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

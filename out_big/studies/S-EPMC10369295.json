@@ -1,0 +1,493 @@
+{
+  "accno": "S-EPMC10369295",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Bulk-Plasmon-Mediated Free-Electron Radiation Beyond the Conventional Formation Time."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2023-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Bulk-Plasmon-Mediated Free-Electron Radiation Beyond the Conventional Formation Time."
+      },
+      {
+        "name": "Abstract",
+        "value": "Free-electron radiation is a fundamental photon emission process that is induced by fast-moving electrons interacting with optical media. Historically, it has been understood that, just like any other photon emission process, free-electron radiation must be constrained within a finite time interval known as the \"formation time,\" whose concept is applicable to both Cherenkov radiation and transition radiation, the two basic mechanisms describing radiation from a bulk medium and from an interface, respectively. Here, this work reveals an alternative mechanism of free-electron radiation far beyond the previously defined formation time. It occurs when a fast electron crosses the interface between vacuum and a plasmonic medium supporting bulk plasmons. While emitted continuously from the crossing point on the interface-thus consistent with the features of transition radiation-the extra radiation beyond the conventional formation time is supported by a long tail of bulk plasmons following the electron's trajectory deep into the plasmonic medium. Such a plasmonic tail mixes surface and bulk effects, and provides a sustained channel for electron-interface interaction. These results also settle the historical debate in Ferrell radiation, regarding whether it is a surface or bulk effect, from transition radiation or plasmonic oscillation."
+      }
+    ],
+    "files": [
+      {
+        "path": "ADVS-10-2300760-s001.mp4",
+        "size": 353027,
+        "type": "file"
+      },
+      {
+        "path": "ADVS-10-2300760-s002.mp4",
+        "size": 3033539,
+        "type": "file"
+      },
+      {
+        "path": "ADVS-10-2300760-s003.mp4",
+        "size": 1554274,
+        "type": "file"
+      },
+      {
+        "path": "ADVS-10-2300760-s004.mp4",
+        "size": 2373133,
+        "type": "file"
+      },
+      {
+        "path": "ADVS-10-2300760-s005.pdf",
+        "size": 704061,
+        "type": "file"
+      },
+      {
+        "path": "ADVS-10-2300760-s006.mp4",
+        "size": 1750588,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Key Research and Development Program of the Ministry of Science and Technology"
+          },
+          {
+            "name": "grant_id",
+            "value": "2022YFA1404704"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Ministry of Education - Singapore"
+          },
+          {
+            "name": "grant_id",
+            "value": "MOE2019‐T2‐2‐085"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Fundamental Research Funds for the Central Universities"
+          },
+          {
+            "name": "grant_id",
+            "value": "2021FZZX001‐19"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Singapore Ministry of Education Academic Research Fund Tier 3"
+          },
+          {
+            "name": "grant_id",
+            "value": "MOE2016-T3-1-006"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Tier 2"
+          },
+          {
+            "name": "grant_id",
+            "value": "MOE2019-T2-2-085"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Israel Council for Higher Education"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Technion's Helen Diller Quantum Center"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "National Natural Science Foundation of China"
+          },
+          {
+            "name": "grant_id",
+            "value": "11961141010"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "National Natural Science Foundation of China"
+          },
+          {
+            "name": "grant_id",
+            "value": "61975176"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Ministry of Education - Singapore"
+          },
+          {
+            "name": "grant_id",
+            "value": "MOE2019-T2-2-085"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "National Research Foundation Singapore Competitive Research Program"
+          },
+          {
+            "name": "grant_id",
+            "value": "NRF-CRP23-2019-0007"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Key Research and Development Program of the Ministry of Science and Technology"
+          },
+          {
+            "name": "grant_id",
+            "value": "2022YFA1404902"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Key Research and Development Program of the Ministry of Science and Technology"
+          },
+          {
+            "name": "grant_id",
+            "value": "2022YFA1405200"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Zhejiang Provincial Natural Science Fund Key Project"
+          },
+          {
+            "name": "grant_id",
+            "value": "LZ23F050003"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Fundamental Research Funds for the Central Universities"
+          },
+          {
+            "name": "grant_id",
+            "value": "2021FZZX001-19"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "National Research Foundation Singapore"
+          },
+          {
+            "name": "grant_id",
+            "value": "NRF-CRP23-2019-0007"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "National Natural Science Foundation of China"
+          },
+          {
+            "name": "grant_id",
+            "value": "62175212"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "National Research Foundation Singapore"
+          },
+          {
+            "name": "grant_id",
+            "value": "NRF‐CRP23‐2019‐0007"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)"
+          },
+          {
+            "name": "Volume",
+            "value": "10(20)"
+          },
+          {
+            "name": "Pages",
+            "value": "e2300760"
+          },
+          {
+            "name": "Publication date",
+            "value": "2023 Jul"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1002/advs.202300760",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC10369295",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "37127889",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Tay F"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0003-0264-5104"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Lin X"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-1833-1065"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Shi X"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0001-5054-9438"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Chen H"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kaminer I"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0003-2691-1892"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Zhang B"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Electrical Engineering, Technion-Israel Institute of Technology, Haifa, 32000, Israel."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Electrical and Computer Engineering, Rice University, Houston, TX, 77005, USA."
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Division of Physics and Applied Physics, School of Physical and Mathematical Sciences, Nanyang Technological University, Singapore, 637371, Singapore."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Interdisciplinary Center for Quantum Information, State Key Laboratory of Modern Optical Instrumentation, ZJU-Hangzhou Global Science and Technology Innovation Center, College of Information Science and Electronic Engineering, Zhejiang University, Hangzhou, 310027, China."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

@@ -1,0 +1,240 @@
+{
+  "accno": "S-EPMC9486416",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Trajectory of Anxiety Related to Radiation Therapy Mask Immobilization and Treatment Delivery in Head and Neck Cancer and Radiation Therapists' Ability to Detect This Anxiety."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2022-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Trajectory of Anxiety Related to Radiation Therapy Mask Immobilization and Treatment Delivery in Head and Neck Cancer and Radiation Therapists' Ability to Detect This Anxiety."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Purpose</h4>Receiving radiation therapy treatment with an immobilization mask is a source of anxiety in people with head and neck cancer (HNC). This study aimed to document the trajectory of situational anxiety during HNC treatment delivery and explore radiation therapists' (RTs') ability to identify it.<h4>Methods and materials</h4>Participants with HNC commencing radiation therapy completed the state-trait anxiety inventory at their mask-making session, and once each week immediately before and after their radiation treatment. Treating RTs independently rated their perception of participant's anxiety at the same time points. Participant- and RT-rated anxiety scores were calculated at each time point together with the proportion of participants reporting clinically significant anxiety (state-trait anxiety inventory ≥ 40). Intraclass correlations were calculated to assess concordance between participant- and RT-ratings.<h4>Results</h4>Sixty-five participants and 16 RTs took part in this study. Participants were classified into 1 of 5 trajectory groups: stable high (16%), increasing (19%), decreasing (27%), fluctuating (19%), and no anxiety (19%). Nearly half (43%) of participants reported clinically significant anxiety before their mask-making session, and between 30% and 43% across trajectories reported significant anxiety immediately before treatments. Intraclass correlation values indicated poor agreement between participant- and RT-ratings.<h4>Conclusions</h4>Situational anxiety is prevalent in people receiving HNC radiation therapy with mask immobilization. RTs did not reliably capture patients' situational anxiety. There is no single best time point to provide intervention, suggesting people should be screened for anxiety regularly throughout their treatment. Resources and education should also be available to improve RT skills in providing psychosocial support."
+      }
+    ],
+    "files": [
+      {
+        "path": "mmc1.docx",
+        "size": 21582,
+        "type": "file"
+      },
+      {
+        "path": "mmc2.docx",
+        "size": 25408,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Advances in radiation oncology"
+          },
+          {
+            "name": "Volume",
+            "value": "7(5)"
+          },
+          {
+            "name": "Pages",
+            "value": "100967"
+          },
+          {
+            "name": "Publication date",
+            "value": "2022 Sep-Oct"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1016/j.adro.2022.100967",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC9486416",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "36148368",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Burns M"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Campbell R"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-5013-8361"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "French S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Dhillon HM"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Butow PN"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Pritchard A"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Sundaresan P"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Centre for Medical Psychology & Evidence-Based Decision-Making, School of Psychology, University of Sydney, Sydney, New South Wales, Australia."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Radiation Oncology Network, Western Sydney Local Health District, Sydney, New South Wales, Australia."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Sydney Quality of Life Office, School of Psychology, Faculty of Science, University of Sydney, Sydney, New South Wales, Australia."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

@@ -1,0 +1,225 @@
+{
+  "accno": "S-EPMC10947598",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Combined radiation injury and its impacts on radiation countermeasures and biodosimetry."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2023-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Combined radiation injury and its impacts on radiation countermeasures and biodosimetry."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Purpose</h4>Preparedness for medical responses to major radiation accidents and the increasing threat of nuclear warfare worldwide necessitates an understanding of the complexity of combined radiation injury (CI) and identifying drugs to treat CI is inevitably critical. The vital sign and survival after CI were presented. The molecular mechanisms, such as microRNA pathways, NF-κB-iNOS-IL-18 pathway, C3 production, the AKT-MAPK cross-talk, and TLR/MMP increases, underlying CI in relation to organ injury and mortality were analyzed. At present, no FDA-approved drug to protect, mitigate, or treat CI is available. The development of CI-specific medical countermeasures was reviewed. Because of the worsened acute radiation syndrome resulting from CI, diagnostic triage can be problematic. Therefore, biodosimetry and CI are bundled together with the need to establish effective triage methods with CI.<h4>Conclusions</h4>CI mouse model studies at AFRRI are reviewed addressing molecular responses, findings from medical countermeasures, and a proposed plasma proteomic biodosimetry approach based on a panel of radiation-responsive biomarkers (i.e., CD27, Flt-3L, GM-CSF, CD45, IL-12, TPO) negligibly influenced by wounding in an algorithm used for dose predictions is described."
+      }
+    ],
+    "files": [
+      {
+        "path": "NIHMS1973684-supplement-Supplementary_Table_1.docx",
+        "size": 40943,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NIAID NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "R33 AI080553"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NIAID NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "U19 AI067773"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Biomedical Advanced Research and Development Authority"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "National Institute of Allergy and Infectious Diseases"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "National Institute of Allergy and Infectious Diseases, and U.S. Department of Defense"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NIAID NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "R21 AI080553"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NIAID NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "Y01 AI005045"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "International journal of radiation biology"
+          },
+          {
+            "name": "Volume",
+            "value": "99(7)"
+          },
+          {
+            "name": "Pages",
+            "value": "1055-1065"
+          },
+          {
+            "name": "Publication date",
+            "value": "2023"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1080/09553002.2023.2188933",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC10947598",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "36947602",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kiang JG"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Blakely WF"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Biodosimetry Program, Scientific Research Department, Armed Forces Radiobiology Research Institute, Uniformed Services University of the Health Sciences, Bethesda, MD, USA."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Radiation Combined Injury Program, Scientific Research Department, Armed Forces Radiobiology Research Institute, Uniformed Services University of the Health Sciences, Bethesda, MD, USA."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

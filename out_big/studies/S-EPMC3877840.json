@@ -1,0 +1,211 @@
+{
+  "accno": "S-EPMC3877840",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Third generation gold nanoplatform optimized for radiation therapy."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2013-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Third generation gold nanoplatform optimized for radiation therapy."
+      },
+      {
+        "name": "Abstract",
+        "value": "We report the design and fabrication of third generation ultrasmall PEGylated gold nanoparticles based platform (AuRad™) optimized for applications in radiation therapy. The AuRad™ nanoplatform has the following key features: (I) surface coating of hetero-bifunctional-PEG with amine, carboxyl, methoxy functional groups, which make this a versatile nanoplatform to conjugate various moieties like fluorophores, peptides, drugs, radiolabels; (II) size that is optimized for longer circulation, higher tumor uptake and modulated clearance; (III) high radiation enhancement. We have synthesized ultrasmall 2-3 nm gold nanoparticles, followed by attachment of hetero-bifunctional PEG and further conjugation of fluorophore AlexaFlour 647 for optical imaging, with a stability of more than 6 months. Confocal bioimaging with HeLa cells showed robust uptake of biocompatible nanoparticles in cells. Irradiation experiments X-rays showed greater than 2.8-fold cell kill enhancement as demonstrated by clonogenic survival assays. The results indicate that AuRad nanoplatform can act as potential theranostic agent in radiation therapy."
+      }
+    ],
+    "files": [
+      {
+        "path": "NIHMS531618-supplement-figure_S1.pdf",
+        "size": 83690,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Translational cancer research"
+          },
+          {
+            "name": "Volume",
+            "value": "2(4)"
+          },
+          {
+            "name": "Publication date",
+            "value": "2013 Aug"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.3978/j.issn.2218-676X.2013.07.02",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "10.3978/j.issn.2218-676x.2013.07.02",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC3877840",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "24392307",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kumar R"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Korideck H"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Ngwa W"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Berbeco RI"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Makrigiorgos GM"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Sridhar S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Dana Farber Cancer Institute, Brigham and Women's Hospital, Harvard Medical School, Boston, MA, USA."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Electronic Materials Research Institute and Department of Physics, Northeastern University, Boston, MA, USA ; Department of Radiation Oncology, Dana Farber Cancer Institute, Brigham and Women's Hospital, Harvard Medical School, Boston, MA, USA."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

@@ -1,0 +1,190 @@
+{
+  "accno": "S-EPMC4399027",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Radiation signatures in childhood thyroid cancers after the Chernobyl accident: possible roles of radiation in carcinogenesis."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2015-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Radiation signatures in childhood thyroid cancers after the Chernobyl accident: possible roles of radiation in carcinogenesis."
+      },
+      {
+        "name": "Abstract",
+        "value": "After the Tokyo Electric Power Company Fukushima Daiichi nuclear power plant accident, cancer risk from low-dose radiation exposure has been deeply concerning. The linear no-threshold model is applied for the purpose of radiation protection, but it is a model based on the concept that ionizing radiation induces stochastic oncogenic alterations in the target cells. As the elucidation of the mechanism of radiation-induced carcinogenesis is indispensable to justify the concept, studies aimed at the determination of molecular changes associated with thyroid cancers among children who suffered effects from the Chernobyl nuclear accident will be overviewed. We intend to discuss whether any radiation signatures are associated with radiation-induced childhood thyroid cancers."
+      }
+    ],
+    "links": [
+      [
+        {
+          "url": "rs965513",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refsnp"
+            }
+          ]
+        }
+      ]
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Cancer science"
+          },
+          {
+            "name": "Volume",
+            "value": "106(2)"
+          },
+          {
+            "name": "Pages",
+            "value": "127-33"
+          },
+          {
+            "name": "Publication date",
+            "value": "2015 Feb"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1111/cas.12583",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC4399027",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "25483826",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Suzuki K"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Mitsutake N"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-2744-8046"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Saenko V"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Yamashita S"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0001-6399-6261"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Medical Sciences, Atomic Bomb Disease Institute, Nagasaki University Nagasaki, Japan"
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Medical Sciences, Atomic Bomb Disease Institute, Nagasaki University, Nagasaki, Japan."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

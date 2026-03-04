@@ -1,0 +1,278 @@
+{
+  "accno": "S-EPMC3552079",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Radiation survivors: understanding and exploiting the phenotype following fractionated radiation therapy."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2013-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Radiation survivors: understanding and exploiting the phenotype following fractionated radiation therapy."
+      },
+      {
+        "name": "Abstract",
+        "value": "Radiation oncology modalities such as intensity-modulated and image-guided radiation therapy can reduce the high dose to normal tissue and deliver a heterogeneous dose to tumors, focusing on areas deemed at highest risk for tumor persistence. Clinical radiation oncology produces daily doses ranging from 1 to 20 Gy, with tissues being exposed to 30 or more daily fractions. Hypothesizing the cells that survive fractionated radiation therapy have a substantially different phenotype than the untreated cells, which might be exploitable for targeting with molecular therapeutics or immunotherapy, three prostate cancer cell lines (PC3, DU145, and LNCaP) and normal endothelial cells were studied to understand the biology of differential effects of multifraction (MF) radiation of 0.5, 1, and/or 2 Gy fraction to 10 Gy total dose, and a single dose of 5 and 10 Gy. The resulting changes in mRNA, miRNA, and phosphoproteome were analyzed. Significant differences were observed in the MF radiation exposures including those from the 0.5 Gy MF that produces little cell killing. As expected, p53 function played a major role in response. Pathways modified by MF include immune response, DNA damage, cell-cycle arrest, TGF-β, survival, and apoptotic signal transduction. The radiation-induced stress response will set forth a unique platform for exploiting the effects of radiation therapy as \"focused biology\" for cancer treatment in conjunction with molecular targeted or immunologically directed therapy. Given that more normal tissue is treated, albeit to lower doses with these newer techniques, the response of the normal tissue may also influence long-term treatment outcome."
+      }
+    ],
+    "files": [
+      {
+        "path": "NIHMS423291-supplement-1.jpg",
+        "size": 951508,
+        "type": "file"
+      },
+      {
+        "path": "NIHMS423291-supplement-2.docx",
+        "size": 16853,
+        "type": "file"
+      },
+      {
+        "path": "NIHMS423291-supplement-3.docx",
+        "size": 16541,
+        "type": "file"
+      }
+    ],
+    "links": [
+      [
+        {
+          "url": "NCT01449279",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT00861614",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        }
+      ]
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Intramural NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "Z99 CA999999"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "Y99 CA999999"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Molecular cancer research : MCR"
+          },
+          {
+            "name": "Volume",
+            "value": "11(1)"
+          },
+          {
+            "name": "Pages",
+            "value": "5-12"
+          },
+          {
+            "name": "Publication date",
+            "value": "2013 Jan"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1158/1541-7786.MCR-12-0492",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "10.1158/1541-7786.mcr-12-0492",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC3552079",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "23175523",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Makinde AY"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "John-Aryankalayil M"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Palayoor ST"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Cerna D"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Coleman CN"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "National Institutes of Health/National Cancer Institute, 9000 Rockville Pike, Bldg 10, B3B406, Bethesda, MD 20892, USA. adeola.makinde@nih.gov"
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Radiation Oncology Branch, Center for Cancer Research, National Cancer Institute, National Institutes of Health, Bethesda, Maryland"
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Radiation Research Program, Division of Cancer Treatment and Diagnosis, National Cancer Institute, National Institutes of Health, Bethesda, Maryland"
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

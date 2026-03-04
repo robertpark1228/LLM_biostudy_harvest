@@ -1,0 +1,271 @@
+{
+  "accno": "S-EPMC4524899",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Application of radiation technology in vaccines development."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2015-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Application of radiation technology in vaccines development."
+      },
+      {
+        "name": "Abstract",
+        "value": "One of the earliest methods used in the manufacture of stable and safe vaccines is the use of chemical and physical treatments to produce inactivated forms of pathogens. Although these types of vaccines have been successful in eliciting specific humoral immune responses to pathogen-associated immunogens, there is a large demand for the development of fast, safe, and effective vaccine manufacturing strategies. Radiation sterilization has been used to develop a variety of vaccine types, because it can eradicate chemical contaminants and penetrate pathogens to destroy nucleic acids without damaging the pathogen surface antigens. Nevertheless, irradiated vaccines have not widely been used at an industrial level because of difficulties obtaining the necessary equipment. Recent successful clinical trials of irradiated vaccines against pathogens and tumors have led to a reevaluation of radiation technology as an alternative method to produce vaccines. In the present article, we review the challenges associated with creating irradiated vaccines and discuss potential strategies for developing vaccines using radiation technology."
+      }
+    ],
+    "links": [
+      [
+        {
+          "url": "NCT01510288",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT00836407",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT02215707",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT00133224",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT01546818",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT00866619",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT01001650",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT00140400",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT01537185",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT02063555",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT02132299",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT02418962",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT00116441",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT00656123",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT00084383",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT00116467",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT00089726",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        }
+      ]
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Clinical and experimental vaccine research"
+          },
+          {
+            "name": "Volume",
+            "value": "4(2)"
+          },
+          {
+            "name": "Pages",
+            "value": "145-58"
+          },
+          {
+            "name": "Publication date",
+            "value": "2015 Jul"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.7774/cevr.2015.4.2.145",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC4524899",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "26273573",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Seo HS"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Radiation Biotechnology Research Division, Advanced Radiation Technology Institute, Korea Atomic Energy Research Institute, Jeongeup, Korea."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

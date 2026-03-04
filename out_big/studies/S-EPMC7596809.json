@@ -1,0 +1,404 @@
+{
+  "accno": "S-EPMC7596809",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Radiation treatment of hemato-oncological patients in times of the COVID-19 pandemic : Expert recommendations from the radiation oncology panels of the German Hodgkin Study Group and the German Lymphoma Alliance."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2020-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Radiation treatment of hemato-oncological patients in times of the COVID-19 pandemic : Expert recommendations from the radiation oncology panels of the German Hodgkin Study Group and the German Lymphoma Alliance."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Purpose</h4>The coronavirus pandemic is affecting global health systems, endangering daily patient care. Hemato-oncological patients are particularly vulnerable to infection, requiring decisive recommendations on treatment and triage. The aim of this survey amongst experts on radiation therapy (RT) for lymphoma and leukemia is to delineate typical clinical scenarios and to provide counsel for high-quality care.<h4>Methods</h4>A multi-item questionnaire containing multiple-choice and free-text questions was developed in a peer-reviewed process and sent to members of the radiation oncology panels of the German Hodgkin Study Group and the German Lymphoma Alliance. Answers were assessed online and analyzed centrally.<h4>Results</h4>Omission of RT was only considered in a minority of cases if alternative treatment options were available. Hypofractionated regimens and reduced dosages may be used for indolent lymphoma and fractures due to multiple myeloma. Overall, there was a tendency to shorten RT rather than to postpone or omit it. Even in case of critical resource shortage, panelists agreed to start emergency RT for typical indications (intracranial pressure, spinal compression, superior vena cava syndrome) within 24 h. Possible criteria to consider for patient triage are the availability of (systemic) options, the underlying disease dynamic, and the treatment rationale (curative/palliative).<h4>Conclusion</h4>RT for hemato-oncological patients receives high-priority and should be maintained even in later stages of the pandemic. Hypofractionation and shortened treatment schedules are feasible options for well-defined constellations, but have to be discussed in the clinical context."
+      }
+    ],
+    "files": [
+      {
+        "path": "66_2020_1705_MOESM1_ESM.docx",
+        "size": 27064,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Universitätsklinikum Münster"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Strahlentherapie und Onkologie : Organ der Deutschen Rontgengesellschaft ... [et al]"
+          },
+          {
+            "name": "Volume",
+            "value": "196(12)"
+          },
+          {
+            "name": "Pages",
+            "value": "1096-1102"
+          },
+          {
+            "name": "Publication date",
+            "value": "2020 Dec"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1007/s00066-020-01705-w",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC7596809",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "33125504",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Oertel M"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-2786-7013"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Elsayad K"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Engenhart-Cabillic R"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Reinartz G"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Baues C"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Schmidberger H"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Vordermark D"
+          },
+          {
+            "name": "affiliation",
+            "value": "o5",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Marnitz S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a9",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Lukas P"
+          },
+          {
+            "name": "affiliation",
+            "value": "o6",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a10",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Ruebe C"
+          },
+          {
+            "name": "affiliation",
+            "value": "o7",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a11",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Engert A"
+          },
+          {
+            "name": "affiliation",
+            "value": "o8",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a12",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Lenz G"
+          },
+          {
+            "name": "affiliation",
+            "value": "o9",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a13",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Eich HT"
+          },
+          {
+            "name": "affiliation",
+            "value": "o10",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o8",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department I of Internal Medicine, Center for Integrated Oncology Aachen Bonn Cologne Düsseldorf, University Hospital of Cologne, Cologne, Germany."
+          }
+        ]
+      },
+      {
+        "accno": "o9",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Medicine A, Hematology, Oncology, University Hospital Muenster, Muenster, Germany."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology and Cyberknife Center, University Hospital of Cologne, Cologne, Germany."
+          }
+        ]
+      },
+      {
+        "accno": "o7",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Saarland University Hospital, Homburg, Germany."
+          }
+        ]
+      },
+      {
+        "accno": "o5",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, University Hospital Halle (Saale), Halle (Saale), Germany."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, University Hospital Muenster, Albert-Schweitzer-Campus 1 building A1, 48149, Muenster, Germany."
+          }
+        ]
+      },
+      {
+        "accno": "o10",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, University Hospital Muenster, Albert-Schweitzer-Campus 1 building A1, 48149, Muenster, Germany. hans.eich@ukmuenster.de."
+          }
+        ]
+      },
+      {
+        "accno": "o6",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiooncology, Medical University Innsbruck, Innsbruck, Austria."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiotherapy and Radiation Oncology, University Hospital Giessen-Marburg, Marburg, Germany."
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiotherapy and Radiation Oncology, University Hospital Mainz, Mainz, Germany."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

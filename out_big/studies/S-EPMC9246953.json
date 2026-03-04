@@ -1,0 +1,288 @@
+{
+  "accno": "S-EPMC9246953",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Second malignancy probabilities in patients with prostate cancer treated with whole pelvis radiation therapy versus prostate only radiation therapy."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2022-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Second malignancy probabilities in patients with prostate cancer treated with whole pelvis radiation therapy versus prostate only radiation therapy."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Background</h4>Whole pelvic radiation therapy (WPRT) may improve outcomes compared with prostate only radiation therapy (PORT) in some subsets of men with prostate cancer, as in the POP-RT trial. However, there is concern about increased risk of adverse effects with WPRT, including the development of radiation-induced second malignancies (SM). Given the rarity of SM, little is known about relative rates of SM between WPRT and PORT.<h4>Methods</h4>A retrospective cohort analysis was performed of men with nonmetastatic, node-negative prostate cancer with at least 60 months of follow-up using a national database. SM probabilities were compared in men receiving either WPRT or PORT using multivariable logistic models adjusting for clinical and sociodemographic factors. Temporal sensitivity analyses stratified by year of diagnosis and length of follow-up were also conducted.<h4>Results</h4>Of 50,237 patients in the study, 39,338 (78.4%) received PORT, and 10,899 (21.7%) received WPRT. Median follow-up was 106.2 months (interquartile range 82.32-132.25). Crude probabilities of SM were 9.16% for WPRT and 8.88% for PORT. The adjusted odds ratio (AOR) for development of SM with PORT versus WPRT was 1.046 (95% confidence interval 0.968-1.130). Temporal sensitivity analyses by stratifying by year of diagnosis and follow-up length also did not demonstrate any significant difference in rates of SM between WPRT and PORT using AORs with WPRT as the referent.<h4>Conclusions</h4>Retrospective analysis of over 50,000 patients did not demonstrate an association between WPRT and an increased probability of SM compared to PORT. Given the findings of POP-RT, the use of WPRT may become widespread for certain subsets of men. Thus, our findings could help guide how we counsel patients deciding between WPRT and PORT and suggest the need for prospective assessment of SM risk with WPRT and PORT."
+      }
+    ],
+    "files": [
+      {
+        "path": "NIHMS1800953-supplement-supinfo.docx",
+        "size": 47542,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "R01-CA240582"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "P30 CA008748"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "The Prostate"
+          },
+          {
+            "name": "Volume",
+            "value": "82(11)"
+          },
+          {
+            "name": "Pages",
+            "value": "1098-1106"
+          },
+          {
+            "name": "Publication date",
+            "value": "2022 Aug"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1002/pros.24362",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "10.1002/pros.24362",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC9246953",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "35652585",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Cho HL"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Murthy V"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0001-6011-9319"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Mouw KW"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0001-7939-7343"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "D'Amico AV"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Nguyen PL"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Leeman JE"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Dee EC"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0001-6119-0889"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Brigham and Women's Hospital and Dana Farber Cancer Institute, Boston, Massachusetts, USA."
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Memorial Sloan Kettering Cancer Center, New York, New York, USA."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Tata Memorial Hospital and Advanced Centre for Treatment Research and Education in Cancer (ACTREC), Homi Bhabha National Institute (HBNI), Mumbai, India."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Harvard Medical School, Boston, Massachusetts, USA."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

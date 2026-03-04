@@ -1,0 +1,309 @@
+{
+  "accno": "S-EPMC7213060",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Time-Dependent Measurement of Nrf2-Regulated Antioxidant Response to Ionizing Radiation Toward Identifying Potential Protein Biomarkers for Acute Radiation Injury."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2019-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Time-Dependent Measurement of Nrf2-Regulated Antioxidant Response to Ionizing Radiation Toward Identifying Potential Protein Biomarkers for Acute Radiation Injury."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Purpose</h4>Potential acute exposure to ionizing radiation in nuclear or radiological accidents presents complex mass casualty scenarios that demand prompt triage and treatment decisions. Due to delayed symptoms and varied response of radiation victims, there is an urgent need to develop robust biomarkers to assess the extent of injuries in individuals.<h4>Experimental design</h4>The transcription factor Nrf2 is the master of redox homeostasis and there is transcriptional evidence of Nrf2-dependent antioxidant response activation upon radiation. The biomarker potential of Nrf2-dependent downstream target enzymes is investigated by measuring their response in bone marrow extracted from C57Bl/6 and C3H mice of both genders for up to 4 days following 6 Gy total body irradiation using targeted MS.<h4>Results</h4>Overall, C57Bl/6 mice have a stronger proteomic response than C3H mice. In both strains, male mice have more occurrences of upregulation in antioxidant enzymes than female mice. For C57Bl/6 male mice, three proteins show elevated abundances after radiation exposure: catalase, superoxide dismutase 1, and heme oxygenase 1. Across both strains and genders, glutathione S-transferase Mu 1 is consistently decreased.<h4>Conclusions and clinical relevance</h4>This study provides the basis for future development of organ-specific protein biomarkers used in diagnostic blood test for radiation injury."
+      }
+    ],
+    "files": [
+      {
+        "path": "NIHMS1049232-supplement-Figure_S1.docx",
+        "size": 80145,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NIAID NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "R01AI101888"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NIAID NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "R01 AI101888"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "National Institute of Allergy and Infectious Diseases"
+          },
+          {
+            "name": "grant_id",
+            "value": "R01AI101888"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Natural Sciences and Engineering Research Council of Canada"
+          },
+          {
+            "name": "grant_id",
+            "value": "NSERC PGS‐D"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NIAID NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "U19 AI067769"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Proteomics. Clinical applications"
+          },
+          {
+            "name": "Volume",
+            "value": "13(6)"
+          },
+          {
+            "name": "Pages",
+            "value": "e1900035"
+          },
+          {
+            "name": "Publication date",
+            "value": "2019 Nov"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1002/prca.201900035",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "10.1002/prca.201900035",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC7213060",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "31419066",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Liu K"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-0865-9518"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Singer E"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Cohn W"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Micewicz ED"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "McBride WH"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Whitelegge JP"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Loo JA"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Chemistry and Biochemistry, University of California, Los Angeles, Los Angeles, CA, 90095, USA."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, David Geffen School of Medicine, University of California, Los Angeles, Los Angeles, CA, 90095, USA."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Pasarow Mass Spectrometry Laboratory, Jane and Terry Semel Institute for Neuroscience and Human Behavior, David Geffen School of Medicine, University of California, Los Angeles, Los Angeles, CA, 90095, USA."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

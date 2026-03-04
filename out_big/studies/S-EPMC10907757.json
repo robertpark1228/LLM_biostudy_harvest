@@ -1,0 +1,287 @@
+{
+  "accno": "S-EPMC10907757",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "SOX2 and OCT4 mediate radiation and drug resistance in pancreatic tumor organoids."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2024-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "SOX2 and OCT4 mediate radiation and drug resistance in pancreatic tumor organoids."
+      },
+      {
+        "name": "Abstract",
+        "value": "Pancreatic cancer has a five-year survival rate of only 10%, mostly due to late diagnosis and limited treatment options. In patients with unresectable disease, either FOLFIRINOX, a combination of 5-fluorouracil (5-FU), oxaliplatin and irinotecan, or gemcitabine plus nab-paclitaxel combined with radiation are frontline standard regimens. However, chemo-radiation therapy has shown limited success because patients develop resistance to chemotherapy and/or radiation. In this study, we evaluated the role of pancreatic cancer stem cells (CSC) using OCT4 and SOX2, CSC markers in mouse pancreatic tumor organoids. We treated pancreatic tumor organoids with 4 or 8 Gy of radiation, 10 μM of 5-FU (5-Fluorouracil), and 100 μM 3-Bromopyruvate (3BP), a promising anti-cancer drug, as a single treatment modalities, and in combination with RT. Our results showed significant upregulation of, OCT4, and SOX2 expression in pancreatic tumor organoids treated with 4 and 8 Gy of radiation, and downregulation following 5-FU treatment. The expression of CSC markers with increasing treatment dose exhibited elevated upregulation levels to radiation and downregulation to 5-FU chemotherapy drug. Conversely, when tumor organoids were treated with a combination of 5-FU and radiation, there was a significant inhibition in SOX2 and OCT4 expression, indicating CSC self-renewal inhibition. Noticeably, we also observed that human pancreatic tumor tissues exhibited heterogeneous and aberrant OCT4 and SOX2 expression as compared to normal pancreas, indicating their potential role in pancreatic cancer growth and therapy resistance. In addition, the combination of 5-FU and radiation treatment exhibited significant inhibition of the β-catenin pathway in pancreatic tumor organoids, resulting in sensitization to treatment and organoid death. In conclusion, our study emphasizes the crucial role of CSCs in therapeutic resistance in PC treatment. We recommend using tumor organoids as a model system to explore the impact of CSCs in PC and identify new therapeutic targets."
+      }
+    ],
+    "files": [
+      {
+        "path": "41420_2024_1871_MOESM1_ESM.jpg",
+        "size": 55153,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "American Cancer Society"
+          },
+          {
+            "name": "grant_id",
+            "value": "10023110"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "American Cancer Society (American Cancer Society, Inc.)"
+          },
+          {
+            "name": "grant_id",
+            "value": "10023110"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Cell death discovery"
+          },
+          {
+            "name": "Volume",
+            "value": "10(1)"
+          },
+          {
+            "name": "Pages",
+            "value": "106"
+          },
+          {
+            "name": "Publication date",
+            "value": "2024 Mar"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1038/s41420-024-01871-1",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC10907757",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "38429272",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Roy S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Dukic T"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Keepers Z"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Bhandary B"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Lamichhane N"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Molitoris J"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Ko YH"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Banerjee A"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a9",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Shukla HD"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Pediatrics, University of Maryland School of Medicine, Baltimore, MD, USA."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Division of Translational Radiation Sciences, Department of Radiation Oncology, University of Maryland School of Medicine, Baltimore, MD, USA."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Division of Translational Radiation Sciences, Department of Radiation Oncology, University of Maryland School of Medicine, Baltimore, MD, USA. hdshukla@som.umaryland.edu."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

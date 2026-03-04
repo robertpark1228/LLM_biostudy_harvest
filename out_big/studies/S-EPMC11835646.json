@@ -1,0 +1,196 @@
+{
+  "accno": "S-EPMC11835646",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Pan-Canadian assessment of image guided adaptive radiation therapy and the role of the radiation therapist."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2025-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Pan-Canadian assessment of image guided adaptive radiation therapy and the role of the radiation therapist."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Purpose</h4>Adaptive radiation therapy (ART) is a close-looped process where anatomic changes observed during treatment are identified, leading to plan modification prior to treatment delivery. The aim of this study was to explore the status of ART across Canada and review the impact of adaptive technologies on the roles and responsibilities of Radiation Therapists (RTTs).<h4>Materials and methods</h4>Study information and a link to a 30-question survey was sent via email to the RTT manager of all cancer centres across Canada (n = 48). The survey questions included centre demographics, presence of offline and/or online ART activities as standard of care, corresponding roles and responsibilities of the multidisciplinary team, and training activities. The survey was administered electronically and closed after a 3-week accrual period. Responses were analyzed using descriptive statistics.<h4>Results</h4>Thirty-two out of 48 centres responded across all ten provinces (67 % response rate). Twenty-five centres (78 %) currently perform ART, all of which practiced offline ART while 5 practiced online ART. Most common responses for lack of ART were 'technical limitations' and 'lack of resources'. RTTs are responsible for 50 % (offline) versus 58 % (online) ART respectively, with the most notable change being the addition of target delineation to their daily practice.<h4>Conclusions</h4>The status of ART varies across Canada. Offline ART is commonly practiced, but online ART remains an infrequent process due to technical limitations and lack of resources. As centres move towards implementing online ART, the role of the RTT will need to be redefined with corresponding upskilling to support the emergent treatment paradigm."
+      }
+    ],
+    "files": [
+      {
+        "path": "mmc1.pdf",
+        "size": 162409,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Technical innovations & patient support in radiation oncology"
+          },
+          {
+            "name": "Volume",
+            "value": "33"
+          },
+          {
+            "name": "Pages",
+            "value": "100303"
+          },
+          {
+            "name": "Publication date",
+            "value": "2025 Mar"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1016/j.tipsro.2025.100303",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC11835646",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "39973910",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Moreira A"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Rosewall T"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Tsang Y"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Lindsay P"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Chung P"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Li W"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Radiation Medicine Program, Princess Margaret Cancer Centre, University Health Network, Toronto, Canada."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

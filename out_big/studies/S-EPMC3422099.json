@@ -1,0 +1,233 @@
+{
+  "accno": "S-EPMC3422099",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Exposing exposure: automated anatomy-specific CT radiation exposure extraction for quality assurance and radiation monitoring."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2012-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Exposing exposure: automated anatomy-specific CT radiation exposure extraction for quality assurance and radiation monitoring."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Purpose</h4>To develop and validate an informatics toolkit that extracts anatomy-specific computed tomography (CT) radiation exposure metrics (volume CT dose index and dose-length product) from existing digital image archives through optical character recognition of CT dose report screen captures (dose screens) combined with Digital Imaging and Communications in Medicine attributes.<h4>Materials and methods</h4>This institutional review board-approved HIPAA-compliant study was performed in a large urban health care delivery network. Data were drawn from a random sample of CT encounters that occurred between 2000 and 2010; images from these encounters were contained within the enterprise image archive, which encompassed images obtained at an adult academic tertiary referral hospital and its affiliated sites, including a cancer center, a community hospital, and outpatient imaging centers, as well as images imported from other facilities. Software was validated by using 150 randomly selected encounters for each major CT scanner manufacturer, with outcome measures of dose screen retrieval rate (proportion of correctly located dose screens) and anatomic assignment precision (proportion of extracted exposure data with correctly assigned anatomic region, such as head, chest, or abdomen and pelvis). The 95% binomial confidence intervals (CIs) were calculated for discrete proportions, and CIs were derived from the standard error of the mean for continuous variables. After validation, the informatics toolkit was used to populate an exposure repository from a cohort of 54 549 CT encounters; of which 29 948 had available dose screens.<h4>Results</h4>Validation yielded a dose screen retrieval rate of 99% (597 of 605 CT encounters; 95% CI: 98%, 100%) and an anatomic assignment precision of 94% (summed DLP fraction correct 563 in 600 CT encounters; 95% CI: 92%, 96%). Patient safety applications of the resulting data repository include benchmarking between institutions, CT protocol quality control and optimization, and cumulative patient- and anatomy-specific radiation exposure monitoring.<h4>Conclusion</h4>Large-scale anatomy-specific radiation exposure data repositories can be created with high fidelity from existing digital image archives by using open-source informatics tools."
+      }
+    ],
+    "files": [
+      {
+        "path": "supp_264_2_397__index.html",
+        "size": 754,
+        "type": "file"
+      },
+      {
+        "path": "supp_radiol.12111822_appendixE1.pdf",
+        "size": 557304,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NLM NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "R01 LM010679"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NLM NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "T15 LM007092"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Radiology"
+          },
+          {
+            "name": "Volume",
+            "value": "264(2)"
+          },
+          {
+            "name": "Pages",
+            "value": "397-405"
+          },
+          {
+            "name": "Publication date",
+            "value": "2012 Aug"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1148/radiol.12111822",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "10.1148/radiol.12111822",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC3422099",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "22668563",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Sodickson A"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0003-1275-681X"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Warden GI"
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Farkas CE"
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Ikuta I"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-7145-833X"
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Prevedello LM"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-6768-6452"
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Andriole KP"
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Khorasani R"
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiology, Harvard Medical School, Boston, MA 02115, USA. asodickson@partners.org"
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

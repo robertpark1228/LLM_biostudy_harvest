@@ -1,0 +1,342 @@
+{
+  "accno": "S-EPMC11496547",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Radiation dermatitis in the hairless mouse model mimics human radiation dermatitis."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2024-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Radiation dermatitis in the hairless mouse model mimics human radiation dermatitis."
+      },
+      {
+        "name": "Abstract",
+        "value": "Over half of all people diagnosed with cancer receive radiation therapy. Moderate to severe radiation dermatitis occurs in most human radiation patients, causing pain, aesthetic distress, and a negative impact on tumor control. No effective prevention or treatment for radiation dermatitis exists. The lack of well-characterized, clinically relevant animal models of human radiation dermatitis contributes to the absence of strategies to mitigate radiation dermatitis. Here, we establish and characterize a hairless SKH-1 mouse model of human radiation dermatitis by correlating temporal stages of clinical and pathological skin injury. We demonstrate that a single ionizing radiation treatment of 30 Gy using 6 MeV electrons induces severe clinical grade 3 peak toxicity at 12 days, defined by marked erythema, desquamation and partial ulceration, with resolution occurring by 25 days. Histopathology reveals that radiation-induced skin injury features temporally unique inflammatory changes. Upregulation of epidermal and dermal TGF-ß1 and COX-2 protein expression occurs at peak dermatitis, with sustained epidermal TGF-ß1 expression beyond resolution. Specific histopathological variables that remain substantially high at peak toxicity and early clinical resolution, including epidermal thickening, hyperkeratosis and dermal fibroplasia/fibrosis, serve as specific measurable parameters for in vivo interventional preclinical studies that seek to mitigate radiation-induced skin injury."
+      }
+    ],
+    "files": [
+      {
+        "path": "41598_2024_76021_MOESM1_ESM.docx",
+        "size": 223053,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Veterinary Clinical Sciences Department, College of Veterinary Medicine, University of Minnesota"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "American Cancer Society"
+          },
+          {
+            "name": "grant_id",
+            "value": "RSG-21-034-01-TBG"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "The Hormel Foundation, a &quot;Paint the Town Pink&quot; award"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Scientific reports"
+          },
+          {
+            "name": "Volume",
+            "value": "14(1)"
+          },
+          {
+            "name": "Pages",
+            "value": "24819"
+          },
+          {
+            "name": "Publication date",
+            "value": "2024 Oct"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1038/s41598-024-76021-9",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC11496547",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "39438583",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Lawrence J"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Seelig D"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Demos-Davies K"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Ferreira C"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Ren Y"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Wang L"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Alam SK"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Yang R"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a9",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Guedes A"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a10",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Craig A"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a11",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Hoeppner LH"
+          },
+          {
+            "name": "affiliation",
+            "value": "o5",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Medical School, University of Minnesota, 516 Delaware St SE, Minneapolis, MN, 55455, USA."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Veterinary Clinical Sciences, College of Veterinary Medicine, University of Minnesota, 1365 Gortner Ave, St Paul, MN, 55108, USA."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Veterinary Clinical Sciences, College of Veterinary Medicine, University of Minnesota, 1365 Gortner Ave, St Paul, MN, 55108, USA. jlawrence@ucdavis.edu."
+          }
+        ]
+      },
+      {
+        "accno": "o5",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Masonic Cancer Center, University of Minnesota, 425 East River Parkway, Minneapolis, MN, 55455, USA. hoepp005@umn.edu."
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "The Hormel Institute, University of Minnesota, 801 16th Ave NE, Austin, MN, 55912, USA."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

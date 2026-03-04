@@ -1,0 +1,245 @@
+{
+  "accno": "S-EPMC6435089",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "HPV, hypoxia and radiation response in head and neck cancer."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2019-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "HPV, hypoxia and radiation response in head and neck cancer."
+      },
+      {
+        "name": "Abstract",
+        "value": "Over the last decades, the incidence of human papilloma virus (HPV) positive head and neck squamous-cell carcinoma (HNSCC) has significantly increased. Infection with high-risk HPV types drives tumourigenesis through expression of the oncoproteins E6 and E7. Currently, the primary treatment of HNSCC consists of radiotherapy, often combined with platinum-based chemotherapeutics. One of the common features of HNSCC is the occurrence of tumour hypoxia, which impairs the efficacy of radiotherapy and is a negative prognostic factor. Therefore, it is important to detect and quantify the severity of hypoxia, as well as develop strategies to specifically target hypoxic tumours. HPV-positive tumours are remarkably radiosensitive compared to HPV-negative tumours and consequently the HPV-positive patients have a better prognosis. This provides an opportunity to elucidate mechanisms of radiation sensitivity, which may reveal targets for improved therapy for HPV-negative head and neck cancers. In this review, we will discuss the differences between HPV-positive and HPV-negative head and neck tumours and methods of hypoxia detection and targeting in these disease types. Particular emphasis will be placed on the mechanisms by which HPV infection impacts radiosensitivity."
+      }
+    ],
+    "links": [
+      [
+        {
+          "url": "NCT01950689",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        }
+      ]
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Cancer Research UK"
+          },
+          {
+            "name": "grant_id",
+            "value": "19276"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "The British journal of radiology"
+          },
+          {
+            "name": "Volume",
+            "value": "92(1093)"
+          },
+          {
+            "name": "Pages",
+            "value": "20180047"
+          },
+          {
+            "name": "Publication date",
+            "value": "2019 Jan"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1259/bjr.20180047",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "10.1259/bjr.20180047",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC6435089",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "29493265",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Gottgens EL"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0003-0450-0830"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Ostheimer C"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Span PN"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-1930-6638"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Bussink J"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-5751-4796"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Hammond EM"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-2335-3146"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Oncology, CRUK/MRC Oxford Institute for Radiation Oncology, University of Oxford, Oxford, UK."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Martin Luther University Halle-Wittenberg, Halle, Germany."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Radiotherapy & OncoImmunology laboratory, Radboud University Medical Center, Nijmegen, Netherlands."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

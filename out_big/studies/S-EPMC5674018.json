@@ -1,0 +1,275 @@
+{
+  "accno": "S-EPMC5674018",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Mutation accumulation under UV radiation in Escherichia coli."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2017-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Mutation accumulation under UV radiation in Escherichia coli."
+      },
+      {
+        "name": "Abstract",
+        "value": "Mutations are induced by not only intrinsic factors such as inherent molecular errors but also by extrinsic mutagenic factors such as UV radiation. Therefore, identifying the mutational properties for both factors is necessary to achieve a comprehensive understanding of evolutionary processes both in nature and in artificial situations. Although there have been extensive studies on intrinsic factors, the mutational profiles of extrinsic factors are poorly understood on a genomic scale. Here, we explored the mutation profiles of UV radiation, a ubiquitous mutagen, in Escherichia coli on the genomic scale. We performed an evolution experiment under periodic UV radiation for 28 days. The accumulation speed of the mutations was found to increase so that it exceeded that of a typical mutator strain with deficient mismatch repair processes. The huge contribution of the extrinsic factors to all mutations consequently increased the risk of the destruction of inherent error correction systems. The spectrum of the UV-induced mutations was broader than that of the spontaneous mutations in the mutator. The broad spectrum and high upper limit of the frequency of occurrence suggested ubiquitous roles for UV radiation in accelerating the evolutionary process."
+      }
+    ],
+    "files": [
+      {
+        "path": "41598_2017_15008_MOESM1_ESM.xlsx",
+        "size": 130976,
+        "type": "file"
+      }
+    ],
+    "links": [
+      [
+        {
+          "url": "AP012306",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "ENA"
+            }
+          ]
+        },
+        {
+          "url": "NC_020518",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refseq"
+            }
+          ]
+        }
+      ]
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Scientific reports"
+          },
+          {
+            "name": "Volume",
+            "value": "7(1)"
+          },
+          {
+            "name": "Pages",
+            "value": "14531"
+          },
+          {
+            "name": "Publication date",
+            "value": "2017 Nov"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1038/s41598-017-15008-1",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC5674018",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "29109412",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Shibai A"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-4675-1884"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Takahashi Y"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Ishizawa Y"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Motooka D"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Nakamura S"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0003-2058-5942"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Ying BW"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0003-2517-5686"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Tsuru S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Infection Metagenomics, Genome Information Research Center, Research Institute for Microbial Diseases, Osaka University, 3-1 Yamadaoka, Suita, Osaka, 565-0871, Japan."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Graduate School of Information Science and Technology, Osaka University, 1-5 Yamadaoka, Suita, Osaka, 565-0871, Japan."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Graduate School of Life and Environmental Sciences, University of Tsukuba, 1-1-1 Tennoudai, Tsukuba, Ibaraki, 305-8572, Japan."
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Universal Biology Institute, School of Science, The University of Tokyo, 7-3-1 Hongo, Bunkyo-ku, Tokyo, 113-0033, Japan. saburotsuru@gmail.com."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

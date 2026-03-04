@@ -1,0 +1,179 @@
+{
+  "accno": "S-EPMC8512519",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Tuning the 3D Printability and Thermomechanical Properties of Radiation Shields."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2021-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Tuning the 3D Printability and Thermomechanical Properties of Radiation Shields."
+      },
+      {
+        "name": "Abstract",
+        "value": "Additive manufacturing, with its rapid advances in materials science, allows for researchers and companies to have the ability to create novel formulations and final parts that would have been difficult or near impossible to fabricate with traditional manufacturing methods. One such 3D printing technology, direct ink writing, is especially advantageous in fields requiring customizable parts with high amounts of functional fillers. Nuclear technology is a prime example of a field that necessitates new material design with regard to unique parts that also provide radiation shielding. Indeed, much effort has been focused on developing new rigid radiation shielding components, but DIW remains a less explored technology with a lot of potential for nuclear applications. In this study, DIW formulations that can behave as radiation shields were developed and were printed with varying amounts of porosity to tune the thermomechanical performance."
+      }
+    ],
+    "files": [
+      {
+        "path": "polymers-13-03284-s001.zip",
+        "size": 274967,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Department of Energy"
+          },
+          {
+            "name": "grant_id",
+            "value": "DE-AC52-06NA25396"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Polymers"
+          },
+          {
+            "name": "Volume",
+            "value": "13(19)"
+          },
+          {
+            "name": "Pages",
+            "value": "3284"
+          },
+          {
+            "name": "Publication date",
+            "value": "2021 Sep"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.3390/polym13193284",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC8512519",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "34641099",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Brounstein Z"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Zhao J"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Wheat J"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Labouriau A"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Los Alamos National Laboratory, Los Alamos, NM 87545, USA."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

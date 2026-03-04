@@ -1,0 +1,259 @@
+{
+  "accno": "S-EPMC8898088",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "General Anesthesia for Pediatric Radiation Therapy in the Era of COVID-19."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2022-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "General Anesthesia for Pediatric Radiation Therapy in the Era of COVID-19."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Purpose</h4>Managing pediatric patients requiring daily general anesthesia (GA) for radiation therapy (RT) in the setting of COVID-19 is complex, owing to the aerosolizing nature of GA procedures, the risk of cardiopulmonary complications for infected patients, and the treatment of immunocompromised oncology patients in a busy, densely populated radiation oncology clinic.<h4>Methods and materials</h4>We developed an institutional protocol to define procedures for COVID-19 testing and protection of patients, caregivers, and staff, hypothesizing that this protocol would allow patients requiring GA to be safely treated, minimizing COVID-19 transmission risk to both patients and staff, and at the same time maintaining pre-COVID-19 patient volumes. All patients underwent COVID-19 testing before their first treatment and thrice weekly during treatment. For patients who tested positive for COVID-19, RT was delivered in the last end-of-day treatment appointment. A negative pressure room was used for GA induction and recovery, and separate physician/nurse teams were designated for in-room versus out-of-room patient management.<h4>Results</h4>Seventy-eight pediatric patients received RT under GA, versus 69 over the same prior year timeframe, and 2 patients received 2 courses of RT under GA, for a total of 80 courses. The mean age was 4.9 years (range, 0.5-19.0 years) and 41 of 78 (52.6%) were male. Two patients (2.6%) received 2 courses of RT under GA, establishing a total of 80 courses. The mean number of treatment fractions was 22.2 (range, 1-40). Two of 78 patients (2.6%) tested positive for COVID-19; both were asymptomatic. Both patients completed treatment as prescribed. Neither patient developed cardiopulmonary symptoms complicating anesthesia, and neither patient experienced grade 3+ acute radiation toxicity.<h4>Conclusions</h4>With careful multidisciplinary planning to mitigate COVID-19 risk, pediatric RT with GA was carried out for a large patient volume without widespread infection and without increased toxic effects from either GA or RT."
+      }
+    ],
+    "files": [
+      {
+        "path": "mmc1.docx",
+        "size": 23614,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Advances in radiation oncology"
+          },
+          {
+            "name": "Volume",
+            "value": "7(4)"
+          },
+          {
+            "name": "Pages",
+            "value": "100929"
+          },
+          {
+            "name": "Publication date",
+            "value": "2022 Jul-Aug"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1016/j.adro.2022.100929",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC8898088",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "35280349",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "LaRiviere MJ"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-1662-5086"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Shah YB"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0003-1551-7611"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Cummings ER"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Clegg K"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Doucette A"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Struyk BP"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Lustig RA"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kurtz G"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a9",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Hill-Kayser CE"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Anesthesiology and Critical Care, University of Pennsylvania, Philadelphia, Pennsylvania."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, University of Pennsylvania, Philadelphia, Pennsylvania."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

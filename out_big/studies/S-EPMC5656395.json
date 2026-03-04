@@ -1,0 +1,233 @@
+{
+  "accno": "S-EPMC5656395",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Inversed-Planned Respiratory Phase Gating in Lung Conformal Radiation Therapy."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2017-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Inversed-Planned Respiratory Phase Gating in Lung Conformal Radiation Therapy."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Purpose</h4>To assess whether the optimal gating window for each beam during lung radiation therapy with respiratory gating will be dependent on a variety of patient-specific factors, such as tumor size and location and the extent of relative tumor and organ motion.<h4>Methods and materials</h4>To create optimal gating treatment plans, we started from an optimized clinical plan, created a plan per respiratory phase using the same beam arrangements, and used an inverse planning optimization approach to determine the optimal gating window for each beam and optimal beam weights (ie, monitor units). Two pieces of information were used for optimization: (1) the state of the anatomy at each phase, extracted from 4-dimensional computed tomography scans; and (2) the time spent in each state, estimated from a 2-minute monitoring of the patient's breathing motion. We retrospectively studied 15 lung cancer patients clinically treated by hypofractionated conformal radiation therapy, for whom 45 to 60 Gy was administered over 3 to 15 fractions using 7 to 13 beams. Mean gross tumor volume and respiratory-induced tumor motion were 82.5 cm<sup>3</sup> and 1.0 cm, respectively.<h4>Results</h4>Although patients spent most of their respiratory cycle in end-exhalation (EE), our optimal gating plans used EE for only 34% of the beams. Using optimal gating, maximum and mean doses to the esophagus, heart, and spinal cord were reduced by an average of 15% to 26%, and the beam-on times were reduced by an average of 23% compared with equivalent single-phase EE gated plans (P<.034, paired 2-tailed t test).<h4>Conclusions</h4>We introduce a personalized respiratory-gating technique in which inverse planning optimization is used to determine patient- and beam-specific gating phases toward enhancing dosimetric quality of radiation therapy treatment plans."
+      }
+    ],
+    "files": [
+      {
+        "path": "NIHMS881432-supplement-1.docx",
+        "size": 23707,
+        "type": "file"
+      },
+      {
+        "path": "NIHMS881432-supplement-2.docx",
+        "size": 423906,
+        "type": "file"
+      },
+      {
+        "path": "NIHMS881432-supplement-3.docx",
+        "size": 31524,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "R01 CA169102"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "International journal of radiation oncology, biology, physics"
+          },
+          {
+            "name": "Volume",
+            "value": "99(2)"
+          },
+          {
+            "name": "Pages",
+            "value": "317-324"
+          },
+          {
+            "name": "Publication date",
+            "value": "2017 Oct"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1016/j.ijrobp.2017.05.039",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "10.1016/j.ijrobp.2017.05.039",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC5656395",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "28871981",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Modiri A"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Sabouri P"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Gu X"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Timmerman R"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Sawant A"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, School of Medicine, University of Maryland, Baltimore, Maryland."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, School of Medicine, University of Maryland, Baltimore, Maryland. Electronic address: amodiri@som.umaryland.edu."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, University of Texas Southwestern Medical Center, Houston, Texas."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

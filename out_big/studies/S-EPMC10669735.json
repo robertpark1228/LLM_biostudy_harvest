@@ -1,0 +1,351 @@
+{
+  "accno": "S-EPMC10669735",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Moving the Needle Forward in Genomically-Guided Precision Radiation Treatment."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2023-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Moving the Needle Forward in Genomically-Guided Precision Radiation Treatment."
+      },
+      {
+        "name": "Abstract",
+        "value": "Radiation treatment (RT) is a mainstay treatment for many types of cancer. Recommendations for RT and the radiation plan are individualized to each patient, taking into consideration the patient's tumor pathology, staging, anatomy, and other clinical characteristics. Information on germline mutations and somatic tumor mutations is at present rarely used to guide specific clinical decisions in RT. Many genes, such as <i>ATM,</i> and <i>BRCA1</i>/<i>2</i>, have been identified in the laboratory to confer radiation sensitivity. However, our understanding of the clinical significance of mutations in these genes remains limited and, as individual mutations in such genes can be rare, their impact on tumor response and toxicity remains unclear. Current guidelines, including those from the National Comprehensive Cancer Network (NCCN), provide limited guidance on how genetic results should be integrated into RT recommendations. With an increasing understanding of the molecular underpinning of radiation response, genomically-guided RT can inform decisions surrounding RT dose, volume, concurrent therapies, and even omission to further improve oncologic outcomes and reduce risks of toxicities. Here, we review existing evidence from laboratory, pre-clinical, and clinical studies with regard to how genetic alterations may affect radiosensitivity. We also summarize recent data from clinical trials and explore potential future directions to utilize genetic data to support clinical decision-making in developing a pathway toward personalized RT."
+      }
+    ],
+    "links": [
+      [
+        {
+          "url": "rs2682585",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refsnp"
+            }
+          ]
+        },
+        {
+          "url": "rs147121532",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refsnp"
+            }
+          ]
+        },
+        {
+          "url": "rs11122573",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refsnp"
+            }
+          ]
+        },
+        {
+          "url": "rs17055178",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refsnp"
+            }
+          ]
+        },
+        {
+          "url": "rs10969913",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refsnp"
+            }
+          ]
+        },
+        {
+          "url": "NCT04852887",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        }
+      ]
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Cancers"
+          },
+          {
+            "name": "Volume",
+            "value": "15(22)"
+          },
+          {
+            "name": "Pages",
+            "value": "5314"
+          },
+          {
+            "name": "Publication date",
+            "value": "2023 Nov"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.3390/cancers15225314",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC10669735",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "38001574",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Tam A"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Mercier BD"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Thomas RM"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Tizpa E"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Wong IG"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Shi J"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Garg R"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Hampel H"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a9",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Gray SW"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a10",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Williams T"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-1020-0845"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a11",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Bazan JG"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a12",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Li YR"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Medical Oncology & Therapeutics Research, City of Hope Comprehensive Cancer Center, 1500 E Duarte Rd., Duarte, CA 91010, USA."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, City of Hope Comprehensive Cancer Center, 1500 E Duarte Rd., Duarte, CA 91010, USA."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

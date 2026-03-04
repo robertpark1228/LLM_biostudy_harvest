@@ -1,0 +1,316 @@
+{
+  "accno": "S-EPMC10041441",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Fact-finding survey on the competencies and literacy of radiological technologists regarding radiation disasters."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2023-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Fact-finding survey on the competencies and literacy of radiological technologists regarding radiation disasters."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Background</h4>Radiological technologists serve as risk communicators who aim to lessen patients' anxiety about radiation exposure, in addition to performing radiological examinations.<h4>Objective</h4>We conducted a fact-finding survey on knowledge and awareness of radiation disasters among the radiological technologists to reveal their literacy and competencies regarding radiation disasters.<h4>Methods</h4>A paper questionnaire was distributed to 1,835 radiological technologists at 166 National Hospital Organization facilities in Japan. The 28-item questionnaire covered knowledge and awareness of radiation protection and radiation disasters. Radiological technologists were divided into 2 groups by regionality: areas where a nuclear power station was present/nearby (NPS areas) and non-NPS areas.<h4>Results</h4>Completed questionnaires were returned from 148 facilities with a facility response rate of 89.2% and from 1,391 radiological technologists with a response rate of 75.8%. There were 1,290 valid responses with a valid response rate of 70.3%. The correct answer rate for knowledge of radiation protection and radiation disasters was high in the 24 NPS areas. There were no differences in awareness of radiation disasters between NPS and non-NPS areas.<h4>Conclusions</h4>Establishing a nationwide, region-independent training system can be expected to improve literacy regarding radiation disasters among radiological technologists. Willingness to assist during disasters was high among radiological technologists irrespective of area, indicating that the competencies of radiological technologists represent a competency model for radiation disaster assistance."
+      }
+    ],
+    "files": [
+      {
+        "path": "xst-31-xst221341-s001.docx",
+        "size": 62582,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Journal of X-ray science and technology"
+          },
+          {
+            "name": "Volume",
+            "value": "31(2)"
+          },
+          {
+            "name": "Pages",
+            "value": "237-245"
+          },
+          {
+            "name": "Publication date",
+            "value": "2023"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.3233/XST-221341",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC10041441",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "36591695",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Arai T"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Murata S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Watanabe Y"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Ishihara T"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Fukamizu Y"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Takeda S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Ebata K"
+          },
+          {
+            "name": "affiliation",
+            "value": "o5",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Watanabe Y"
+          },
+          {
+            "name": "affiliation",
+            "value": "o6",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a9",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Takashima Y"
+          },
+          {
+            "name": "affiliation",
+            "value": "o7",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a10",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kaneko J"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiological Technology, National Cancer Center Hospital, Tokyo, Japan."
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiology, National Hospital Organization, Sagamihara National Hospital, Sagamihara, Japan."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiology, National Hospital Organization, Tokyo Medical Center, Tokyo, Japan."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Faculty of Health Sciences, Komazawa University, Tokyo, Japan."
+          }
+        ]
+      },
+      {
+        "accno": "o7",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "National Institute of Radiological Sciences, National Institutes for Quantum Science and Technology, Chiba, Japan."
+          }
+        ]
+      },
+      {
+        "accno": "o6",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Nuclear Fuel Cycle Engineering Laboratories, Japan Atomic Energy Agency, Ibaraki, Japan."
+          }
+        ]
+      },
+      {
+        "accno": "o5",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "The Japan Association of Radiological Technologists, Tokyo, Japan."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

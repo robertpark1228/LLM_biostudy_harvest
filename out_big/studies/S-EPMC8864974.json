@@ -1,0 +1,193 @@
+{
+  "accno": "S-EPMC8864974",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Coronavirus disease 2019 and radiation oncology-survey on the impact of the severe acute respiratory syndrome coronavirus 2 pandemic on health care professionals in radiation oncology."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2022-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Coronavirus disease 2019 and radiation oncology-survey on the impact of the severe acute respiratory syndrome coronavirus 2 pandemic on health care professionals in radiation oncology."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Background</h4>The severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) pandemic has changed the lives of most humans worldwide. The aim of this study was to evaluate the impact of the SARS-CoV‑2 pandemic on health care professionals (HCPs) in radiation oncology facilities.<h4>Methods</h4>We distributed an online survey to HCPs in radiation oncology (physicians, medical physics experts, radiology assistants/radiation therapists, nurses, and administrative personnel). The survey was completed by 334 participants between May 23 and June 9, 2020.<h4>Results</h4>In 66.2% of the cases, HCPs reported a shortage of protective clothing. The protective measures were regarded as very reasonable by 47.4%, while 0.8% regarded them as not reasonable (rather reasonable: 44.0%; less reasonable 7.8%). 29.0% of the participants had children who needed care. The most frequently used care options were public emergency childcare (36.1%) and private childcare (e.g. relatives/friends). HCPs reported about additional work burden (fully agreed: 27.2%, rather agreed: 34.4%, less agreed: 28.2%, not agreed: 10.2%), and reduced work satisfaction (fully agreed: 11.7%, rather agreed: 29.6%, less agreed: 39.8%, not agreed: 18.9%). 12.9% and 29.0% of the participants were fully or rather mentally strained (less mentally strained: 44.0%, not mentally strained: 14.1%).<h4>Conclusion</h4>We must learn from this pandemic how to prepare for further outbreaks and similar conditions. This includes the vast availability of protective clothing and efficient tracing of infection chains among the HCPs, but also secured childcare programs and experienced mental health support are crucial. Further, work satisfaction and appreciation by employers is essential."
+      }
+    ],
+    "files": [
+      {
+        "path": "66_2022_1903_MOESM1_ESM.pdf",
+        "size": 94024,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Technische Universität München"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Strahlentherapie und Onkologie : Organ der Deutschen Rontgengesellschaft ... [et al]"
+          },
+          {
+            "name": "Volume",
+            "value": "198(4)"
+          },
+          {
+            "name": "Pages",
+            "value": "346-353"
+          },
+          {
+            "name": "Publication date",
+            "value": "2022 Apr"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1007/s00066-022-01903-8",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC8864974",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "35195733",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Vogel MME"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0003-2942-6761"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kessel C"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Eitz KA"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-6544-8151"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Combs SE"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, University Hospital Klinikum rechts der Isar, Technical University of Munich (TUM), Ismaninger Straße 22, 81675, Munich, Germany."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, University Hospital Klinikum rechts der Isar, Technical University of Munich (TUM), Ismaninger Straße 22, 81675, Munich, Germany. marco.vogel@tum.de."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

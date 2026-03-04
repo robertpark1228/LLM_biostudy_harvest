@@ -1,0 +1,179 @@
+{
+  "accno": "S-EPMC6024299",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "The Lowest Radiation Dose Having Molecular Changes in the Living Body."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2018-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "The Lowest Radiation Dose Having Molecular Changes in the Living Body."
+      },
+      {
+        "name": "Abstract",
+        "value": "We herein attempted to identify the lowest radiation dose causing molecular changes in the living body. We investigated the effects of radiation in human cells, animals, and humans. DNA double-strand breaks (DSBs) formed in cells at γ- or X-ray irradiation doses between 1 mGy and 0.5 Gy; however, the extent of DSB formation differed depending on the cell species. The formation of micronuclei (MNs) and nucleoplasmic bridges (NPBs) was noted at radiation doses between 0.1 and 0.2 Gy. Stress-responsive genes were upregulated by lower radiation doses than those that induced DNA DSBs or MN and NPBs. These γ- or X-ray radiation doses ranged between approximately 10 and 50 mGy. In animals, chromosomal aberrations were detected between 50 mGy and 0.1 Gy of low linear energy transfer radiation, 0.1 Gy of metal ion beams, and 9 mGy of fast neutrons. In humans, DNA damage has been observed in children who underwent computed tomography scans with an estimated blood radiation dose as low as 0.15 mGy shortly after examination. The frequencies of chromosomal translocations were lower in residents of high background areas than in those of control areas. In humans, systemic adaptive responses may have been prominently expressed at these radiation doses."
+      }
+    ],
+    "links": [
+      [
+        {
+          "url": "GM15510",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "igsr"
+            }
+          ]
+        },
+        {
+          "url": "GM15268",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "igsr"
+            }
+          ]
+        },
+        {
+          "url": "GM15036",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "igsr"
+            }
+          ]
+        },
+        {
+          "url": "GM15526",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "igsr"
+            }
+          ]
+        }
+      ]
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Dose-response : a publication of International Hormesis Society"
+          },
+          {
+            "name": "Volume",
+            "value": "16(2)"
+          },
+          {
+            "name": "Pages",
+            "value": "1559325818777326"
+          },
+          {
+            "name": "Publication date",
+            "value": "2018 Apr-Jun"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1177/1559325818777326",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC6024299",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "29977175",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Shimura N"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kojima S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Faculty of Pharmaceutical Sciences, Department of Radiation Biosciences, Tokyo University of Science (TUS), Chiba, Japan."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Faculty of Pharmaceutical Sciences, Ohu University, Tomita-machi, Koriyama, Fukushima, Japan."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

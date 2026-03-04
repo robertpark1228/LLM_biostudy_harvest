@@ -1,0 +1,241 @@
+{
+  "accno": "S-EPMC9244944",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Protective Effects of Polydatin on Reproductive Injury Induced by Ionizing Radiation."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2022-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Protective Effects of Polydatin on Reproductive Injury Induced by Ionizing Radiation."
+      },
+      {
+        "name": "Abstract",
+        "value": "The reproductive system is vulnerable to ionizing radiation, which is a hot research topic at present. We tested the effect of polydatin on spermatocytes(GC-1 cells) after X-ray irradiation. The reproductive damage model of C.elegans was established by 60Coγ-ray, and the protective effect of polydatin on reproductive damage caused by ionizing radiation was evaluated. We quantified the ROS levels of GC-1 cells and C.elegans after irradiation with polydatin and evaluated the anti-apoptosis effect of polydatin at proper concentration. Differential genes of C.elegans reproductive damage were screened out from transcriptome sequencing results and comparable GEO datasets. It was proved that 100μM polydatin significantly reduced the apoptosis of GC-1 cells induced by 2 Gy X-ray. In addition, the longevity, reproductive capacity, germ cell apoptosis and spawning and hatching capacity of polydatin were tested. The results showed that 100 μM polydatin content significantly increased the influence of 50 Gy 60Coγ-ray on reproductive capacity of C.elegans. Quantitative analysis of mRNA and protein levels of apoptosis-related genes and reproductive-related genes by qRT-PCR and Western blotcon firmed that polydatin with appropriate dosage had good protective effects on reproductive damage caused by radiation, which laid a foundation for the application research of polydatin in radiation protection."
+      }
+    ],
+    "files": [
+      {
+        "path": "sj-xlsx-1-dos-10.1177_15593258221107511.xlsx",
+        "size": 9691,
+        "type": "file"
+      },
+      {
+        "path": "sj-xlsx-2-dos-10.1177_15593258221107511.xlsx",
+        "size": 15315,
+        "type": "file"
+      },
+      {
+        "path": "sj-xlsx-3-dos-10.1177_15593258221107511.xlsx",
+        "size": 13149,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Dose-response : a publication of International Hormesis Society"
+          },
+          {
+            "name": "Volume",
+            "value": "20(2)"
+          },
+          {
+            "name": "Pages",
+            "value": "15593258221107511"
+          },
+          {
+            "name": "Publication date",
+            "value": "2022 Apr-Jun"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1177/15593258221107511",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC9244944",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "35783236",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Gao J"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Qian J"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Ma N"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Han J"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Cui F"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Chen N"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Tu Y"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Nuclear Medicine, First Affiliated Hospital of Soochow University, Suzhou, China."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "State Key Laboratory of Radiation Medicine and Protection, School of Radiation Medicine and Protection, Soochow University, Suzhou, China."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "The Second Affiliated Hospital of Soochow University, Suzhou, China."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

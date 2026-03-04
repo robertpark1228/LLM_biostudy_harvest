@@ -1,0 +1,279 @@
+{
+  "accno": "S-EPMC4026238",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Proteomic analysis of Trypanosoma cruzi response to ionizing radiation stress."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2014-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Proteomic analysis of Trypanosoma cruzi response to ionizing radiation stress."
+      },
+      {
+        "name": "Abstract",
+        "value": "Trypanosoma cruzi, the causative agent of Chagas disease, is extremely resistant to ionizing radiation, enduring up to 1.5 kGy of gamma rays. Ionizing radiation can damage the DNA molecule both directly, resulting in double-strand breaks, and indirectly, as a consequence of reactive oxygen species production. After a dose of 500 Gy of gamma rays, the parasite genome is fragmented, but the chromosomal bands are restored within 48 hours. Under such conditions, cell growth arrests for up to 120 hours and the parasites resume normal growth after this period. To better understand the parasite response to ionizing radiation, we analyzed the proteome of irradiated (4, 24, and 96 hours after irradiation) and non-irradiated T. cruzi using two-dimensional differential gel electrophoresis followed by mass spectrometry for protein identification. A total of 543 spots were found to be differentially expressed, from which 215 were identified. These identified protein spots represent different isoforms of only 53 proteins. We observed a tendency for overexpression of proteins with molecular weights below predicted, indicating that these may be processed, yielding shorter polypeptides. The presence of shorter protein isoforms after irradiation suggests the occurrence of post-translational modifications and/or processing in response to gamma radiation stress. Our results also indicate that active translation is essential for the recovery of parasites from ionizing radiation damage. This study therefore reveals the peculiar response of T. cruzi to ionizing radiation, raising questions about how this organism can change its protein expression to survive such a harmful stress."
+      }
+    ],
+    "files": [
+      {
+        "path": "pone.0097526.s001.tif",
+        "size": 1730020,
+        "type": "file"
+      },
+      {
+        "path": "pone.0097526.s002.tif",
+        "size": 152885,
+        "type": "file"
+      },
+      {
+        "path": "pone.0097526.s003.pdf",
+        "size": 94309,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "PloS one"
+          },
+          {
+            "name": "Volume",
+            "value": "9(5)"
+          },
+          {
+            "name": "Pages",
+            "value": "e97526"
+          },
+          {
+            "name": "Publication date",
+            "value": "2014"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1371/journal.pone.0097526",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC4026238",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "24842666",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Vieira HG"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Grynberg P"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Bitar M"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Pires Sda F"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Hilario HO"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-2548-1053"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Macedo AM"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Machado CR"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-8724-3165"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "de Andrade HM"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a9",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Franco GR"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Departamento de Bioquímica e Imunologia, Universidade Federal de Minas Gerais, Belo Horizonte, Minas Gerais, Brazil."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Departamento de Bioquímica e Imunologia, Universidade Federal de Minas Gerais, Belo Horizonte, Minas Gerais, Brazil; Embrapa Recursos Genéticos e Biotecnologia, Brasília, Distrito Federal, Brazil."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Departamento de Parasitologia, Universidade Federal de Minas Gerais, Belo Horizonte, Minas Gerais, Brazil."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

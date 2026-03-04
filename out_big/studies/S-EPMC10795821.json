@@ -1,0 +1,554 @@
+{
+  "accno": "S-EPMC10795821",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Transformative Technology for FLASH Radiation Therapy."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2023-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Transformative Technology for FLASH Radiation Therapy."
+      },
+      {
+        "name": "Abstract",
+        "value": "The general concept of radiation therapy used in conventional cancer treatment is to increase the therapeutic index by creating a physical dose differential between tumors and normal tissues through precision dose targeting, image guidance, and radiation beams that deliver a radiation dose with high conformality, e.g., protons and ions. However, the treatment and cure are still limited by normal tissue radiation toxicity, with the corresponding side effects. A fundamentally different paradigm for increasing the therapeutic index of radiation therapy has emerged recently, supported by preclinical research, and based on the FLASH radiation effect. FLASH radiation therapy (FLASH-RT) is an ultra-high-dose-rate delivery of a therapeutic radiation dose within a fraction of a second. Experimental studies have shown that normal tissues seem to be universally spared at these high dose rates, whereas tumors are not. While dose delivery conditions to achieve a FLASH effect are not yet fully characterized, it is currently estimated that doses delivered in less than 200 ms produce normal-tissue-sparing effects, yet effectively kill tumor cells. Despite a great opportunity, there are many technical challenges for the accelerator community to create the required dose rates with novel compact accelerators to ensure the safe delivery of FLASH radiation beams."
+      }
+    ],
+    "links": [
+      [
+        {
+          "url": "NCT04986696",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT05524064",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT04592887",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        }
+      ]
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "R01 CA255432"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "R44 CA217607"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Applied sciences (Basel, Switzerland)"
+          },
+          {
+            "name": "Volume",
+            "value": "13(8)"
+          },
+          {
+            "name": "Pages",
+            "value": "5021"
+          },
+          {
+            "name": "Publication date",
+            "value": "2023 Apr"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.3390/app13085021",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC10795821",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "38240007",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Schulte R"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-7892-2756"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Johnstone C"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Boucher S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Esarey E"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Geddes CGR"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kravchenko M"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kutsaev S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Loo BW"
+          },
+          {
+            "name": "affiliation",
+            "value": "o5",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a9",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Meot F"
+          },
+          {
+            "name": "affiliation",
+            "value": "o6",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a10",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Mustapha B"
+          },
+          {
+            "name": "affiliation",
+            "value": "o7",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a11",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Nakamura K"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a12",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Nanni EA"
+          },
+          {
+            "name": "affiliation",
+            "value": "o8",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a13",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Obst-Huebl L"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0001-9236-8037"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a14",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Sampayan SE"
+          },
+          {
+            "name": "affiliation",
+            "value": "o9",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a15",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Schroeder CB"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a16",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Sheng K"
+          },
+          {
+            "name": "affiliation",
+            "value": "o10",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a17",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Snijders AM"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a18",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Snively E"
+          },
+          {
+            "name": "affiliation",
+            "value": "o8",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a19",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Tantawi SG"
+          },
+          {
+            "name": "affiliation",
+            "value": "o8",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a20",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Van Tilborg J"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o7",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Argonne National Laboratory, Lemont, IL 60439, USA."
+          }
+        ]
+      },
+      {
+        "accno": "o6",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Brookhaven National Laboratory, Upton, NY 11973, USA."
+          }
+        ]
+      },
+      {
+        "accno": "o5",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Stanford University School of Medicine, Stanford, CA 94305, USA."
+          }
+        ]
+      },
+      {
+        "accno": "o10",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, University of California, San Francisco, CA 94115, USA."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Division of Biomedical Engineering Sciences, Loma Linda University, Loma Linda, CA 92350, USA."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Fermi National Accelerator Laboratory, Batavia, IL 60510, USA."
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Lawrence Berkeley National Laboratory, Berkeley, CA 94720, USA."
+          }
+        ]
+      },
+      {
+        "accno": "o9",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Lawrence Livermore National Laboratory, Livermore, CA 94551, USA."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "RadiaBeam Technologies, LLC, Santa Monica, CA 90404, USA."
+          }
+        ]
+      },
+      {
+        "accno": "o8",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "SLAC National Accelerator Laboratory, Menlo Park, CA 94025, USA."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

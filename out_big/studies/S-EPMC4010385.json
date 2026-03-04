@@ -1,0 +1,245 @@
+{
+  "accno": "S-EPMC4010385",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Nonisocentric treatment strategy for breast radiation therapy: a proof of concept study."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2014-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Nonisocentric treatment strategy for breast radiation therapy: a proof of concept study."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Purpose</h4>To propose a nonisocentric treatment strategy as a special form of station parameter optimized radiation therapy, to improve sparing of critical structures while preserving target coverage in breast radiation therapy.<h4>Methods and materials</h4>To minimize the volume of exposed lung and heart in breast irradiation, we propose a novel nonisocentric treatment scheme by strategically placing nonconverging beams with multiple isocenters. As its name suggests, the central axes of these beams do not intersect at a single isocenter as in conventional breast treatment planning. Rather, the isocenter locations and beam directions are carefully selected, in that each beam is only responsible for a certain subvolume of the target, so as to minimize the volume of irradiated normal tissue. When put together, the beams will provide an adequate coverage of the target and expose only a minimal amount of normal tissue to radiation. We apply the nonisocentric planning technique to 2 previously treated clinical cases (breast and chest wall).<h4>Results</h4>The proposed nonisocentric technique substantially improved sparing of the ipsilateral lung. Compared with conventional isocentric plans using 2 tangential beams, the mean lung dose was reduced by 38% and 50% using the proposed technique, and the volume of the ipsilateral lung receiving ≥ 20 Gy was reduced by a factor of approximately 2 and 3 for the breast and chest wall cases, respectively. The improvement in lung sparing is even greater compared with volumetric modulated arc therapy.<h4>Conclusions</h4>A nonisocentric implementation of station parameter optimized radiation therapy has been proposed for breast radiation therapy. The new treatment scheme overcomes the limitations of existing approaches and affords a useful tool for conformal breast radiation therapy, especially in cases with extreme chest wall curvature."
+      }
+    ],
+    "files": [
+      {
+        "path": "NIHMS552407-supplement-01.mp4",
+        "size": 22653642,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "1R01 CA133474"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "K99 CA166186"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "1K99 CA166186"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "1R21 CA153587"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "International journal of radiation oncology, biology, physics"
+          },
+          {
+            "name": "Volume",
+            "value": "88(4)"
+          },
+          {
+            "name": "Pages",
+            "value": "920-6"
+          },
+          {
+            "name": "Publication date",
+            "value": "2014 Mar"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1016/j.ijrobp.2013.12.029",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "10.1016/j.ijrobp.2013.12.029",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC4010385",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "24606852",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Li R"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-0232-5998"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Xing L"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0003-2536-5359"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Horst KC"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Bush K"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Stanford University School of Medicine, Stanford, California."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Stanford University School of Medicine, Stanford, California. Electronic address: rli2@stanford.edu."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

@@ -1,0 +1,177 @@
+{
+  "accno": "S-EPMC8715712",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Clinical application of advances and innovation in radiation treatment of hepatocellular carcinoma."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2021-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Clinical application of advances and innovation in radiation treatment of hepatocellular carcinoma."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Background</h4>Hepatocellular carcinoma (HCC) management has evolved over the past two decades, with the development of newer treatment modalities. While various options are available, unmet needs are reflected through the mixed treatment outcome for intermediate-stage HCC. As HCC is radiosensitive, radiation therapies have a significant role in management. Radiation therapies offer local control for unresectable lesions and for patients who are not surgical candidates. Radiotherapy also provides palliation in metastatic disease, and acts as a bridge to resection and transplantation in selected patients. Advancements in radiotherapy modalities offer improved dose planning and targeted delivery, allowing for better tumor response and safer dose escalations while minimizing the risks of radiation-induced liver damage. Radiotherapy modalities are broadly classified into external beam radiation therapy and selective internal radiation therapy. With emerging modalities, radiotherapy plays a complementary role in the multidisciplinary care of HCC patients.<h4>Aim</h4>We aim to provide an overview of the role and clinical application of radiation therapies in HCC management.<h4>Relevance for patients</h4>The continuous evolution of radiotherapy techniques allows for improved therapeutic outcomes while mitigating unwanted adverse effects, making it an attractive modality in HCC management. Rigorous clinical studies, quality research and comprehensive datasets will further its application in the present era of evidence-based practice in Medicine."
+      }
+    ],
+    "links": [
+      [
+        {
+          "url": "NCT03316872",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT03535259",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        }
+      ]
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Journal of clinical and translational research"
+          },
+          {
+            "name": "Volume",
+            "value": "7(6)"
+          },
+          {
+            "name": "Pages",
+            "value": "811-833"
+          },
+          {
+            "name": "Publication date",
+            "value": "2021 Dec"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "PMC8715712",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "34988334",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Tong VJW"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Shelat VG"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Chao YK"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Gastroenterology and Hepatology, Tan Tock Seng Hospital, 308433, Singapore."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of General Surgery, Tan Tock Seng Hospital, 308433, Singapore."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Yong Loo Lin School of Medicine, National University of Singapore, Singapore."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

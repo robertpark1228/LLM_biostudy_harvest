@@ -1,0 +1,330 @@
+{
+  "accno": "S-EPMC11324046",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Second-generation piperazine derivatives as promising radiation countermeasures."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2024-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Second-generation piperazine derivatives as promising radiation countermeasures."
+      },
+      {
+        "name": "Abstract",
+        "value": "The increasing threat of nuclear incidents and the widespread use of ionizing radiation (IR) in medical treatments underscore the urgent need for effective radiation countermeasures. Despite the availability of compounds such as amifostine, their clinical utility is significantly limited by adverse side effects and logistical challenges in administration. This study focuses on the synthesis and evaluation of novel piperazine derivatives as potential radioprotective agents, with the aim of overcoming the limitations associated with current countermeasures. We designed, synthesized, and evaluated a series of 1-(2-hydroxyethyl)piperazine derivatives. The compounds were assessed for cytotoxicity across a panel of human cell lines, and for their radioprotective effects in the MOLT-4 lymphoblastic leukemia cell line and in peripheral blood mononuclear cells (PBMCs) exposed to gamma radiation. The radioprotective efficacy was further quantified using the dicentric chromosome assay (DCA) to measure DNA damage mitigation. Among the synthesized derivatives, compound 6 demonstrated the most significant radioprotective effects <i>in vitro</i>, with minimal cytotoxicity across the tested cell lines. Compound 3 also showed notable efficacy, particularly in reducing dicentric chromosomes, thus indicating its potential to mitigate DNA damage from IR. Both compounds exhibited superior safety profiles and effectiveness compared to amifostine, suggesting their potential as more viable radioprotective agents. This study highlights the development of novel piperazine derivatives with promising radioprotective properties. Compound 6 emerged as the leading candidate, offering an optimal balance between efficacy and safety, with compound 3 also displaying significant potential. These findings support the further development and clinical evaluation of these compounds as safer, and more effective radiation countermeasures."
+      }
+    ],
+    "files": [
+      {
+        "path": "MD-015-D4MD00311J-s001.pdf",
+        "size": 925648,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "RSC medicinal chemistry"
+          },
+          {
+            "name": "Volume",
+            "value": "15(8)"
+          },
+          {
+            "name": "Pages",
+            "value": "2855-2866"
+          },
+          {
+            "name": "Publication date",
+            "value": "2024 Aug"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1039/d4md00311j",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC11324046",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "39149108",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Chmil V"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-3542-9080"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Zivna N"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Milanova M"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Filipova A"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Pejchal J"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Prchal L"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Muthna D"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Rehacek V"
+          },
+          {
+            "name": "affiliation",
+            "value": "o5",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a9",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Rezacova M"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a10",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Marek J"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a11",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Tichy A"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a12",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Havelek R"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Biomedical Research Centre, University Hospital Hradec Kralove Sokolska 581 500 05 Hradec Kralove Czech Republic."
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Medical Biochemistry, Faculty of Medicine in Hradec Kralove, Charles University Simkova 870 500 03 Hradec Kralove Czech Republic havelekr@lfhk.cuni.cz."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiobiology, Military Faculty of Medicine, University of Defence in Brno Trebesska 1575 500 05 Hradec Kralove Czech Republic."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Toxicology and Military Pharmacy, Military Faculty of Medicine, University of Defence in Brno Trebesska 1575 500 05 Hradec Kralove Czech Republic."
+          }
+        ]
+      },
+      {
+        "accno": "o5",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Transfusion Department, University Hospital Hradec Kralove Sokolska 581 500 05 Hradec Kralove - Novy Hradec Kralove Czech Republic."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

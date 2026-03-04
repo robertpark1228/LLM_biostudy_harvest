@@ -1,0 +1,249 @@
+{
+  "accno": "S-EPMC7446508",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Applying Precision Oncology Principles in Radiation Oncology."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2018-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Applying Precision Oncology Principles in Radiation Oncology."
+      },
+      {
+        "name": "Abstract",
+        "value": "Radiation therapy is a critical component in the curative management of many solid tumor types, and advances in radiation delivery techniques during the past decade have led to improved disease control and quality of life for patients. During the same period, remarkable advances have also been made in understanding the genomic landscape of tumors; however, treatment decisions in radiation oncology continue to depend primarily on clinical and histopathologic characteristics rather than on the genetic features of the tumor or the patient. With the development of novel genomic techniques and their increasing use in clinical practice, radiation oncology is uniquely positioned to leverage these advances to identify novel biomarkers that could inform radiation dose, field, and the use of concurrent systemic agents. Here, we summarize efforts to use genomic techniques to guide radiation decisions, and we highlight some of the current opportunities and challenges that exist in attempting to apply precision oncology principles in radiation oncology."
+      }
+    ],
+    "links": [
+      [
+        {
+          "url": "NCT02653755",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT02724579",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT00370890",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT02254278",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT03371719",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT02363400",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT01878617",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT03070886",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT01507428",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT01302834",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT02135042",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        }
+      ]
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "JCO precision oncology"
+          },
+          {
+            "name": "Volume",
+            "value": "2"
+          },
+          {
+            "name": "Pages",
+            "value": "PO.18.00034"
+          },
+          {
+            "name": "Publication date",
+            "value": "2018"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1200/PO.18.00034",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "10.1200/po.18.00034",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC7446508",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "32914000",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kamran SC"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0001-9283-6515"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Mouw KW"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0001-7939-7343"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "and , Dana-Farber Cancer Institute and Brigham and Women's Hospital, Harvard Medical School; and , Harvard Radiation Oncology Program, Boston, MA."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

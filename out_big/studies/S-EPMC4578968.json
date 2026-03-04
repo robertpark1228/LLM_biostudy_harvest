@@ -1,0 +1,252 @@
+{
+  "accno": "S-EPMC4578968",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Radiation takes its Toll."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2015-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Radiation takes its Toll."
+      },
+      {
+        "name": "Abstract",
+        "value": "The ability to recognize and respond to universal molecular patterns on invading microorganisms allows our immune system to stay on high alert, sensing danger to our self-integrity. Our own damaged cells and tissues in pathological situations activate similar warning systems as microbes. In this way, the body is able to mount a response that is appropriate to the danger. Toll-like receptors are at the heart of this pattern recognition system that initiates innate pro-oxidant, pro-inflammatory signaling cascades and ultimately bridges recognition of danger to adaptive immunity. The acute inflammatory lesions that are formed segue into resolution of inflammation, repair and healing or, more dysfunctionally, into chronic inflammation, autoimmunity, excessive tissue damage and carcinogenesis. Redox is at the nexus of this decision making process and is the point at which ionizing radiation initially intercepts to trigger similar responses to self-damage. In this review we discuss our current understanding of how radiation-damaged cells interact with Toll-like receptors and how the immune systems interprets these radiation-induced danger signals in the context of whole-body exposures and during local tumor irradiation."
+      }
+    ],
+    "links": [
+      [
+        {
+          "url": "NCT01400672",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT01421017",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        }
+      ]
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NIAID NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "U19 AI067769"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NIAID NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "2U19 AI067769"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NIAID"
+          },
+          {
+            "name": "grant_id",
+            "value": "2U19 AI067769"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "MTA"
+          },
+          {
+            "name": "grant_id",
+            "value": "W81XWH-11-1-0531"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Cancer letters"
+          },
+          {
+            "name": "Volume",
+            "value": "368(2)"
+          },
+          {
+            "name": "Pages",
+            "value": "238-45"
+          },
+          {
+            "name": "Publication date",
+            "value": "2015 Nov"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1016/j.canlet.2015.03.031",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "10.1016/j.canlet.2015.03.031",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC4578968",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "25819030",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Ratikan JA"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Micewicz ED"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Xie MW"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Schaue D"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, David Geffen School of Medicine, University of California at Los Angeles, CA, USA."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, David Geffen School of Medicine, University of California at Los Angeles, CA, USA. Electronic address: dschaue@mednet.ucla.edu."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

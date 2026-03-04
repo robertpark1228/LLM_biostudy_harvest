@@ -1,0 +1,208 @@
+{
+  "accno": "S-EPMC8462521",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Evolving Concepts Regarding Radiation Therapy for Pancreatic Cancer."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2021-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Evolving Concepts Regarding Radiation Therapy for Pancreatic Cancer."
+      },
+      {
+        "name": "Abstract",
+        "value": "In todays practice most institutions individualize the use of adjuvant, neoadjuvant, and definitive RT based on their interpretation of the available data. This review highlights novel concepts and approaches to the use of RT that should be considered by the surgical oncologist."
+      }
+    ],
+    "links": [
+      [
+        {
+          "url": "NCT02791503",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        }
+      ]
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "National Institutes of Health"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "P30 CA008748"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Surgical oncology clinics of North America"
+          },
+          {
+            "name": "Volume",
+            "value": "30(4)"
+          },
+          {
+            "name": "Pages",
+            "value": "719-730"
+          },
+          {
+            "name": "Publication date",
+            "value": "2021 Oct"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1016/j.soc.2021.06.009",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "10.1016/j.soc.2021.06.009",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC8462521",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "34511192",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Hall WA"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Erickson B"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Crane CH"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Froedtert and the Medical College of Wisconsin, 8701 West Watertown Plank Road, Milwaukee, WI 53226, USA; Department of Surgery, Froedtert and the Medical College of Wisconsin."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Froedtert and the Medical College of Wisconsin, 8701 West Watertown Plank Road, Milwaukee, WI 53226, USA; Graduate School of Biomedical Sciences, Medical College of Wisconsin; Department of Surgery, Froedtert and the Medical College of Wisconsin. Electronic address: whall@mcw.edu."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Memorial Sloan Kettering Cancer Center."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

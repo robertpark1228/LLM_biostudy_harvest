@@ -1,0 +1,281 @@
+{
+  "accno": "S-EPMC3078932",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "On the origin and trigger of the notothenioid adaptive radiation."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2011-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "On the origin and trigger of the notothenioid adaptive radiation."
+      },
+      {
+        "name": "Abstract",
+        "value": "Adaptive radiation is usually triggered by ecological opportunity, arising through (i) the colonization of a new habitat by its progenitor; (ii) the extinction of competitors; or (iii) the emergence of an evolutionary key innovation in the ancestral lineage. Support for the key innovation hypothesis is scarce, however, even in textbook examples of adaptive radiation. Antifreeze glycoproteins (AFGPs) have been proposed as putative key innovation for the adaptive radiation of notothenioid fishes in the ice-cold waters of Antarctica. A crucial prerequisite for this assumption is the concurrence of the notothenioid radiation with the onset of Antarctic sea ice conditions. Here, we use a fossil-calibrated multi-marker phylogeny of nothothenioid and related acanthomorph fishes to date AFGP emergence and the notothenioid radiation. All time-constraints are cross-validated to assess their reliability resulting in six powerful calibration points. We find that the notothenioid radiation began near the Oligocene-Miocene transition, which coincides with the increasing presence of Antarctic sea ice. Divergence dates of notothenioids are thus consistent with the key innovation hypothesis of AFGP. Early notothenioid divergences are furthermore congruent with vicariant speciation and the breakup of Gondwana."
+      }
+    ],
+    "files": [
+      {
+        "path": "pone.0018911.s001.eps",
+        "size": 593752,
+        "type": "file"
+      },
+      {
+        "path": "pone.0018911.s002.eps",
+        "size": 442833,
+        "type": "file"
+      },
+      {
+        "path": "pone.0018911.s003.eps",
+        "size": 323031,
+        "type": "file"
+      },
+      {
+        "path": "pone.0018911.s004.eps",
+        "size": 396400,
+        "type": "file"
+      },
+      {
+        "path": "pone.0018911.s005.doc",
+        "size": 120832,
+        "type": "file"
+      },
+      {
+        "path": "pone.0018911.s006.doc",
+        "size": 117248,
+        "type": "file"
+      },
+      {
+        "path": "pone.0018911.s007.doc",
+        "size": 22528,
+        "type": "file"
+      },
+      {
+        "path": "pone.0018911.s008.doc",
+        "size": 147456,
+        "type": "file"
+      },
+      {
+        "path": "pone.0018911.s009.doc",
+        "size": 17408,
+        "type": "file"
+      },
+      {
+        "path": "pone.0018911.s010.doc",
+        "size": 17408,
+        "type": "file"
+      },
+      {
+        "path": "pone.0018911.s011.doc",
+        "size": 16896,
+        "type": "file"
+      },
+      {
+        "path": "pone.0018911.s012.doc",
+        "size": 18432,
+        "type": "file"
+      },
+      {
+        "path": "pone.0018911.s013.doc",
+        "size": 20992,
+        "type": "file"
+      },
+      {
+        "path": "pone.0018911.s014.doc",
+        "size": 17920,
+        "type": "file"
+      },
+      {
+        "path": "pone.0018911.s015.doc",
+        "size": 21504,
+        "type": "file"
+      },
+      {
+        "path": "pone.0018911.s016.doc",
+        "size": 31232,
+        "type": "file"
+      },
+      {
+        "path": "pone.0018911.s017.doc",
+        "size": 35328,
+        "type": "file"
+      }
+    ],
+    "links": [
+      [
+        {
+          "url": "HM050270",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "ENA"
+            }
+          ]
+        },
+        {
+          "url": "HM049934",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "ENA"
+            }
+          ]
+        }
+      ]
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "PloS one"
+          },
+          {
+            "name": "Volume",
+            "value": "6(4)"
+          },
+          {
+            "name": "Pages",
+            "value": "e18911"
+          },
+          {
+            "name": "Publication date",
+            "value": "2011 Apr"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1371/journal.pone.0018911",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC3078932",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "21533117",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Matschiner M"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0003-4741-3884"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Hanel R"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Salzburger W"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-9988-1674"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Institute of Fisheries Ecology, Johann Heinrich vonThünen-Institute, Federal Research Institute for Rural Areas, Forestry andFisheries, Hamburg, Germany"
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Zoological Institute, University of Basel, Basel, Switzerland"
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Zoological Institute, University of Basel, Basel, Switzerland."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

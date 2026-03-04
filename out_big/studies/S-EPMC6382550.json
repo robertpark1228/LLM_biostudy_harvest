@@ -1,0 +1,375 @@
+{
+  "accno": "S-EPMC6382550",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Induction Radiation Therapy for Esophageal Cancer: Does Dose Affect Outcomes?"
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2019-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Induction Radiation Therapy for Esophageal Cancer: Does Dose Affect Outcomes?"
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Background</h4>Wide variation is seen in the dosage of preoperative induction radiation therapy for esophageal cancer. We investigated associations between outcomes after esophagectomy and dosage of induction radiation therapy.<h4>Methods</h4>Patients undergoing induction radiation therapy (30 to 70 Gy), followed by esophagectomy, were identified from the National Cancer Database and classified as low (<40 Gy), standard (40 to 50.4 Gy), and high dose (>50.4 Gy). Perioperative outcomes and overall survival were compared. Subgroup analysis compared two common dosages: 45 Gy and 50.4 Gy.<h4>Results</h4>From 2004 to 2014, 10,738 patients (84.7%) received standard-dose radiation, increasing from 69.7% in 2004 to 93.6% in 2014 (p < 0.001), 1,329 (10.5%) received low-dose radiation, and 608 (4.8%) received high-dose radiation. Higher rates of pathologic complete response (pCR; low: 11.7%, standard: 16.2%, high: 21.0%; p < 0.001) and downstaging (low: 52.0%, standard: 56.4%, high: 63.1%, p = 0.001) were observed as the dosage increased. On multivariable analysis, compared with standard-dose, high-dose radiation was associated with higher 30-day mortality (odds ratio [OR], 2.11; p < 0.001) without a higher likelihood of downstaging or pCR. Low-dose radiation was associated with lower likelihood of downstaging (OR, 0.85; p = 0.04) and pCR (OR, 0.67; p < 0.001) without lowering the risk of 30-day mortality. The dose of 50.4 Gy was associated with higher likelihood of pCR (OR, 1.12; p = 0.04), without affecting 30-day mortality, compared with 45 Gy.<h4>Conclusions</h4>High-dose induction radiation (>50.4 Gy) is associated with increased perioperative death after esophagectomy, without a significant improvement in tumor response. Low-dose radiation (<30 Gy) is associated with worse tumor response without a lower risk of perioperative death. Within standard dosages, 50.4 Gy is associated with higher likelihood of pCR without adversely affecting perioperative mortality compared with 45 Gy."
+      }
+    ],
+    "files": [
+      {
+        "path": "NIHMS1512371-supplement-1.tif",
+        "size": 1317358,
+        "type": "file"
+      },
+      {
+        "path": "NIHMS1512371-supplement-2.tif",
+        "size": 1734424,
+        "type": "file"
+      },
+      {
+        "path": "NIHMS1512371-supplement-3.docx",
+        "size": 20092,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "National Institutes of Health"
+          },
+          {
+            "name": "grant_id",
+            "value": "5T32-CA-009621-27"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Barnes-Jewish Hospital Foundation"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "K07 CA178120"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "National Institutes of Health"
+          },
+          {
+            "name": "grant_id",
+            "value": "K07-CA-178120"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "National Institutes of Health"
+          },
+          {
+            "name": "grant_id",
+            "value": "2T32-HL-7776-21"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "The Annals of thoracic surgery"
+          },
+          {
+            "name": "Volume",
+            "value": "107(3)"
+          },
+          {
+            "name": "Pages",
+            "value": "903-911"
+          },
+          {
+            "name": "Publication date",
+            "value": "2019 Mar"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1016/j.athoracsur.2018.09.064",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "10.1016/j.athoracsur.2018.09.064",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC6382550",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "30444988",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Semenkovich TR"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Samson PP"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Hudson JL"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Subramanian M"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Meyers BF"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kozower BD"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kreisel D"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Patterson GA"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a9",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Robinson CG"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-1399-9904"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a10",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Bradley JD"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a11",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Puri V"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Washington University in St. Louis, St. Louis, Missouri."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Division of Cardiothoracic Surgery, Department of Surgery, Washington University in St. Louis, St. Louis, Missouri."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Division of Cardiothoracic Surgery, Department of Surgery, Washington University in St. Louis, St. Louis, Missouri. Electronic address: varunpuri@wustl.edu."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

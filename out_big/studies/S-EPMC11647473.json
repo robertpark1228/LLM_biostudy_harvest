@@ -1,0 +1,271 @@
+{
+  "accno": "S-EPMC11647473",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Patient Perceptions of Radiation Therapy Prior to Initial Consultation With a Radiation Oncologist."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2025-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Patient Perceptions of Radiation Therapy Prior to Initial Consultation With a Radiation Oncologist."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Purpose</h4>There are currently limited data regarding patient perceptions and fears related to radiation therapy (RT). This study sought to identify and quantify patient concerns regarding RT and to determine the potential value of assessing these expectations prior to initial consultation.<h4>Methods and materials</h4>Patients with no prior history of RT were invited to complete an investigator-developed anonymous electronic survey prior to consultation. Patients were queried about their perceptions of RT and potential fears/concerns. The content validity index for survey items were scored with adequate construct validity. Survey items were scored descriptively through summary statistics. Relationships between respondent variables and responses to survey questions were analyzed by univariate and multivariate logistic regression.<h4>Results</h4>From September 2020 through June 2022, 214 patients completed the survey and were included in the analysis. Fifty percent of respondents reported a complete lack of knowledge regarding RT. Twenty-seven percent of patients reported that RT is their most worrisome cancer treatment, compared to chemotherapy or surgery. The most common self-reported fears of RT included general side effects, skin burns, not knowing what to expect regarding RT, pain, and organ damage. The most frequently reported concerns of physical side effects of RT included pain (67%), memory loss (62%), nausea/vomiting (60%), and skin reactions (58%). Sixty-two percent of respondents reported being either moderately or very concerned about their ability to perform daily activities. Thirty-six percent of respondents reported at least moderate concern over the financial cost of RT. Twenty-six percent of respondents reported at least moderate concern regarding transportation to RT. Forty-eight percent of respondents reported concern about emitting radiation to others.<h4>Conclusions</h4>Patient concerns related to RT toxicities and impact on daily life were common, as were misconceptions of RT. Pre-consultation assessment of patient expectations regarding RT is feasible and may be helpful in addressing patients concerns early and in real-time."
+      }
+    ],
+    "files": [
+      {
+        "path": "mmc1.docx",
+        "size": 10366623,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Advances in radiation oncology"
+          },
+          {
+            "name": "Volume",
+            "value": "10(1)"
+          },
+          {
+            "name": "Pages",
+            "value": "101676"
+          },
+          {
+            "name": "Publication date",
+            "value": "2025 Jan"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1016/j.adro.2024.101676",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC11647473",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "39687473",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Novak J"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Ladbury C"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Abuali T"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Tam A"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Brower J"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Evans B"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Sun V"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Loscalzo MJ"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a9",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Amini A"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Human Oncology, University of Wisconsin, Madison, Wisconsin."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, City of Hope National Medical Center, Duarte, California."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Departments of Supportive Care Medicine."
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Population Sciences, City of Hope National Medical Center, Duarte, California."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

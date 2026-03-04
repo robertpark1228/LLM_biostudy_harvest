@@ -1,0 +1,307 @@
+{
+  "accno": "S-EPMC4338148",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Radiation therapy after radical prostatectomy for prostate cancer: evaluation of complications and influence of radiation timing on outcomes in a large, population-based cohort."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2015-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Radiation therapy after radical prostatectomy for prostate cancer: evaluation of complications and influence of radiation timing on outcomes in a large, population-based cohort."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Purpose</h4>To evaluate the influence of timing of salvage and adjuvant radiation therapy on outcomes after prostatectomy for prostate cancer.<h4>Methods</h4>Using the Surveillance, Epidemiology, and End Results-Medicare linked database, we identified prostate cancer patients diagnosed during 1995-2007 who had one or more adverse pathological features after prostatectomy. The final cohort of 6,137 eligible patients included men who received prostatectomy alone (n = 4,509) or with adjuvant (n = 894) or salvage (n = 734) radiation therapy. Primary outcomes were genitourinary, gastrointestinal, and erectile dysfunction events and survival after treatment(s).<h4>Results</h4>Radiation therapy after prostatectomy was associated with higher rates of gastrointestinal and genitourinary events, but not erectile dysfunction. In adjusted models, earlier treatment with adjuvant radiation therapy was not associated with increased rates of genitourinary or erectile dysfunction events compared to delayed salvage radiation therapy. Early adjuvant radiation therapy was associated with lower rates of gastrointestinal events that salvage radiation therapy, with hazard ratios of 0.80 (95% CI, 0.67-0.95) for procedure-defined and 0.70 (95% CI, 0.59, 0.83) for diagnosis-defined events. There was no significant difference between ART and non-ART groups (SRT or RP alone) for overall survival (HR = 1.13 95% CI = (0.96, 1.34) p = 0.148).<h4>Conclusions</h4>Radiation therapy after prostatectomy is associated with increased rates of gastrointestinal and genitourinary events. However, earlier radiation therapy is not associated with higher rates of gastrointestinal, genitourinary or sexual events. These findings oppose the conventional belief that delaying radiation therapy reduces the risk of radiation-related complications."
+      }
+    ],
+    "files": [
+      {
+        "path": "pone.0118430.s001.docx",
+        "size": 44659,
+        "type": "file"
+      },
+      {
+        "path": "pone.0118430.s002.docx",
+        "size": 98943,
+        "type": "file"
+      },
+      {
+        "path": "pone.0118430.s003.docx",
+        "size": 134279,
+        "type": "file"
+      },
+      {
+        "path": "pone.0118430.s004.docx",
+        "size": 133619,
+        "type": "file"
+      },
+      {
+        "path": "pone.0118430.s005.docx",
+        "size": 135161,
+        "type": "file"
+      },
+      {
+        "path": "pone.0118430.s006.docx",
+        "size": 139806,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "N02 PC015105"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "N01-PC-35136"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "N01PC35136"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "PHS HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "U55/CCR921930-02"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "N01PC35139"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "N01-PC-35139"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "PloS one"
+          },
+          {
+            "name": "Volume",
+            "value": "10(2)"
+          },
+          {
+            "name": "Pages",
+            "value": "e0118430"
+          },
+          {
+            "name": "Publication date",
+            "value": "2015"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1371/journal.pone.0118430",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC4338148",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "25706657",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Hegarty SE"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Hyslop T"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Dicker AP"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0003-0733-3337"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Showalter TN"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0003-1373-8496"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Biostatistics & Bioinformatics, Duke University School of Medicine, Durham, North Carolina, United States of America."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Jefferson Medical College and Kimmel Cancer Center, Thomas Jefferson University, Philadelphia, Pennsylvania, United States of America."
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, University of Virginia School of Medicine, Charlottesville, Virginia, United States of America."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Division of Biostatistics, Kimmel Cancer Center & Jefferson Medical College, Thomas Jefferson University, Philadelphia, Pennsylvania, United States of America."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

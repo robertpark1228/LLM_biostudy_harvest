@@ -1,0 +1,227 @@
+{
+  "accno": "S-EPMC6937389",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Estimating radiation exposure during paediatric cardiac catheterisation: a potential for radiation reduction with air gap technique."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2019-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Estimating radiation exposure during paediatric cardiac catheterisation: a potential for radiation reduction with air gap technique."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Introduction</h4>The air gap technique (AGT) is an approach to radiation dose optimisation during fluoroscopy where an \"air gap\" is used in place of an anti-scatter grid to reduce scatter irradiation. The AGT is effective in adults but remains largely untested in children. Effects are expected to vary depending on patient size and the amount of scatter irradiation produced.<h4>Methods</h4>Fluoroscopy and cineangiography were performed using a Phillips Allura Fluoroscope on tissue simulation anthropomorphic phantoms representing a neonate, 5-year-old, and teenager. Monte Carlo simulations were then used to estimate effective radiation dose first using a standard recommended imaging approach and then repeated using the AGT. Objective image quality assessments were performed using an image quality phantom.<h4>Results</h4>Effective radiation doses for the neonate and 5-year-old phantom increased consistently (2-92%) when the AGT was used compared to the standard recommended imaging approaches in which the anti-scatter grid is removed at baseline. In the teenage phantom, the AGT reduced effective doses by 5-59%, with greater dose reductions for imaging across the greater thoracic dimension of lateral projection. The AGT increased geometric magnification but with no detectable change in image blur or contrast differentiation.<h4>Conclusions</h4>The AGT is an effective approach for dose reduction in larger patients, particularly for lateral imaging. Compared to the current dose optimisation guidelines, the technique may be harmful in smaller children where scatter irradiation is minimal."
+      }
+    ],
+    "files": [
+      {
+        "path": "NIHMS1540605-supplement-1.docx",
+        "size": 16411,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NIGMS NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "T32 GM086330"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Cardiology in the young"
+          },
+          {
+            "name": "Volume",
+            "value": "29(12)"
+          },
+          {
+            "name": "Pages",
+            "value": "1474-1480"
+          },
+          {
+            "name": "Publication date",
+            "value": "2019 Dec"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1017/S1047951119002506",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "10.1017/s1047951119002506",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC6937389",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "31679554",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Chamberlain RC"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Shindhelm AC"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Wang C"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-0021-1727"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Fleming GA"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Hill KD"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Bioengineering, Duke University Pratt School of Engineering, Durham, NC, USA."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Pediatrics, Duke University Medical Center, Durham, NC, USA."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "University of Pittsburgh, Radiation Safety Office, Pittsburgh, PA, USA."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

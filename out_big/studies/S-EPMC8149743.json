@@ -1,0 +1,266 @@
+{
+  "accno": "S-EPMC8149743",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Case Report: Occupation Radiation Disease, Skin Injury, and Leukemia After Accidental Radiation Exposure."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2021-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Case Report: Occupation Radiation Disease, Skin Injury, and Leukemia After Accidental Radiation Exposure."
+      },
+      {
+        "name": "Abstract",
+        "value": "<b>Objective:</b> Follow-up observation of radiation accident in which a worker developed acute radiation disease and eventually died of leukemia. The case provided key practical information for the study on clinical effects of radiation on the health of workers. <b>Case Presentation:</b> We observed and followed-up the progression and effect of radiation exposure at various stages in a 28-year-old male patient. We examined the chromosomal morphology, white blood cell count, and sperm count. Laboratory tests for leukemia diagnosis and other clinical parameters were performed. <b>Results:</b> After the patient was irradiated, the white blood cell level decreased, the sperm count dropped to 0, and the libido completely disappeared. The patient's chromosome aberration cell rate and total chromosome aberration cell rate were 7.33 and 7.66%, respectively. Examination of leukemia diagnostic experiments revealed that abnormal cells accounted for 60%; bone marrow examination showed that prolymphocytes abnormally proliferated, accounting for 89%, and had positive extracellular iron staining. After the initial treatment, the patient's white blood cell level increased and was finally maintained at a normal level, the sperm count returned to normal levels, and libido was restored. The patient died of acute lymphoblastic leukemia 34 years after the exposure. <b>Conclusion:</b> More attention has been paid to the long-term effects of ionizing radiation-induced malignant tumors. The occupational protection of radiographic inspection workers should be strengthened to reduce and avoid occupational injuries to protect the health and safety of workers."
+      }
+    ],
+    "files": [
+      {
+        "path": "Table_1.DOCX",
+        "size": 1949514,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Frontiers in public health"
+          },
+          {
+            "name": "Volume",
+            "value": "9"
+          },
+          {
+            "name": "Pages",
+            "value": "657564"
+          },
+          {
+            "name": "Publication date",
+            "value": "2021"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.3389/fpubh.2021.657564",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC8149743",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "34055721",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Hao X"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Ye A"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Yu S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Ni Q"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Guo J"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Wang X"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Gao S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Lai Z"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a9",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Zhao Y"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a10",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Xuan Z"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Occupational Health and Radiation Protection, Zhejiang Provincial Center for Disease Control and Prevention, Hangzhou, China."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Occupational Medicine, The First Affiliated Hospital, Zhejiang University School of Medicine, Hangzhou, China."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

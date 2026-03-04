@@ -1,0 +1,331 @@
+{
+  "accno": "S-EPMC7557145",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Survey of Radiation Oncologists to Assess Interest and Potential Use of a Genetic Test Predicting Susceptibility for the Development of Toxicities After Prostate Cancer Radiation Therapy."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2020-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Survey of Radiation Oncologists to Assess Interest and Potential Use of a Genetic Test Predicting Susceptibility for the Development of Toxicities After Prostate Cancer Radiation Therapy."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Purpose</h4>A genetic test predicting susceptibility for the development of toxicities after prostate cancer radiation therapy is in development. This test intends to help physicians with treatment decision making.<h4>Methods and materials</h4>Radiation oncologists were surveyed using a web-based questionnaire to gauge their interest in using a genetic test predictive of increased risk of radiation therapy toxicities as an aid in determining therapy for men with prostate cancer. Responses were summarized using frequencies, and a χ<sup>2</sup> test compared responses among participants. Multivariable ordinal regression identified factors associated with anticipated adoption or nonadoption of such a genetic test by radiation oncologists.<h4>Results</h4>Among 204 radiation oncologists (64% from the United States, 36% from other countries), 86.3% would order a genetic test and 80.2% said the test would be useful for treatment discussions. There was wide acceptance (76.7%) to offer a genetic test to all patients considering radiation therapy for prostate cancer. Additionally, 98.1% indicated that patients would be receptive to the test information. There were no significant differences in the likelihood of ordering a genetic test based on practice setting, familiarity with scientific literature, time spent on research, or geographic location (all <i>P</i> > .05).<h4>Conclusions</h4>Radiation oncologists who treat prostate cancer are interested in and willing to order a genetic test predictive of susceptibility to radiation therapy toxicity to aid their treatment decision making."
+      }
+    ],
+    "files": [
+      {
+        "path": "mmc1.docx",
+        "size": 74777,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "HHSN261201700033C"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Department of Health and Human Services"
+          },
+          {
+            "name": "grant_id",
+            "value": "HHSN261201700033C"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "National Cancer Institute, National Institutes of Health"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Advances in radiation oncology"
+          },
+          {
+            "name": "Volume",
+            "value": "5(5)"
+          },
+          {
+            "name": "Pages",
+            "value": "897-904"
+          },
+          {
+            "name": "Publication date",
+            "value": "2020 Sep-Oct"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1016/j.adro.2020.03.019",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC7557145",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "33083651",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Collado K"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kerns SL"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Diefenbach MA"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Peterson-Roth E"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Koski R"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Ostrer H"
+          },
+          {
+            "name": "affiliation",
+            "value": "o5",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Stock RG"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Mattessich M"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a9",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kaplan P"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a10",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Rosenstein BS"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o5",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Albert Einstein College of Medicine, New York, New York."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Icahn School of Medicine at Mount Sinai, New York, New York."
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "L2 Diagnostics, LLC, New Haven, Connecticut."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Northwell Health, Manhasset, New York."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "University of Rochester Medical Center, Rochester, New York."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

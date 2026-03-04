@@ -1,0 +1,229 @@
+{
+  "accno": "S-EPMC6128035",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Adjuvant treatment of meningioma with stereotactic radiation surgery and hypofractionated stereotactic radiation surgery: Patterns of care and survival in a large, hospital database."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2018-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Adjuvant treatment of meningioma with stereotactic radiation surgery and hypofractionated stereotactic radiation surgery: Patterns of care and survival in a large, hospital database."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Objectives</h4>Stereotactic radiation surgery (SRS) and hypofractionated stereotactic radiation surgery (HF-SRS) have become an alternative to external beam radiation therapy (EBRT) in the adjuvant treatment of meningiomas. The purpose of this study was to identify national treatment patterns and survival outcomes for meningiomas on the basis of radiation treatment modality in the adjuvant setting.<h4>Methods and materials</h4>The National Cancer Database was queried for patients with meningioma diagnosed between 2010 and 2012. World Health Organization grade I disease with subtotal resection and all cases of grade II disease regardless of the extent of the resection were included. Logistic regression was used to determine factors that were associated with receipt of SRS/HF-SRS compared with EBRT. Cox regression was used to determine covariables associated with differences in overall survival (OS).<h4>Results</h4>A total of 802 patients met the inclusion criteria of which 173 patients received SRS/HF-SRS (22%) and 629 patients (78%) received EBRT. The 3-year OS rate was 97.3% for the SRS/HF-SRS group and 93.4% for the EBRT group (<i>P</i> = .018). On subgroup analysis by grade, for grade I the 3-year OS rate was 98.3% for the SRS/HF-SRS group versus 96.7% for the EBRT group (<i>P</i> = .117). For grade II disease, the 3-year OS rate was 94.4% in the SRS/HF-SRS group versus 92.4% in the EBRT group (<i>P</i> = .199). On multivariable analysis, World Health Organization grade II histology (odds ratio [OR]: 0.34; 95% confidence interval [CI], 0.21-0.56; <i>P</i> < .001) and gross total resection (OR: 0.29; 95% CI, 0.15-0.57; <i>P</i> < .001) were associated with a decreased likelihood of receiving SRS/HF-SRS but private insurance (OR: 8.89; 95% CI, 1.15-68.47; <i>P</i> = .036) and Medicare (OR: 10.03; 95% CI, 1.28-78.69; <i>P</i> = .028) were associated with an increased likelihood of receiving SRS/HF-SRS. Year of diagnosis was not associated with receipt of SRS/HF-SRS. The multivariable Cox regression demonstrated a trend toward improved OS for treatment with SRS/HF-SRS (hazard ratio: 0.24; 95% CI, 0.06-1.03; <i>P</i> = .055).<h4>Conclusions</h4>SRS and HF-SRS are associated with similar survival as EBRT; however, SRS/HF-SRS is used infrequently and usage has not increased over time."
+      }
+    ],
+    "links": [
+      [
+        {
+          "url": "NCT03180268",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT00895622",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        }
+      ]
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Advances in radiation oncology"
+          },
+          {
+            "name": "Volume",
+            "value": "3(3)"
+          },
+          {
+            "name": "Pages",
+            "value": "280-287"
+          },
+          {
+            "name": "Publication date",
+            "value": "2018 Jul-Sep"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1016/j.adro.2018.04.004",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC6128035",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "30202797",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Albert A"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-7598-4142"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Lee A"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-9114-1815"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Vijayakumar S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kanakamedala M"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Allbright R"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Schreiber D"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, SUNY Downstate Medical Center, Brooklyn, New York."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, University of Mississippi Medical Center, Jackson, Mississippi."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

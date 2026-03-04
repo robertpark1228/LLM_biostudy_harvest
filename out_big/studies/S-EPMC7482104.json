@@ -1,0 +1,282 @@
+{
+  "accno": "S-EPMC7482104",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "The Roles of Autophagy and Senescence in the Tumor Cell Response to Radiation."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2020-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "The Roles of Autophagy and Senescence in the Tumor Cell Response to Radiation."
+      },
+      {
+        "name": "Abstract",
+        "value": "Radiation is a critical pillar in cancer therapeutics, exerting its anti-tumor DNA-damaging effects through various direct and indirect mechanisms. Radiation has served as an effective mode of treatment for a number of cancer types, providing both curative and palliative treatment; however, resistance to therapy persists as a fundamental limitation. While cancer cell death is the ideal outcome of any anti-tumor treatment, radiation induces several responses, including apoptotic cell death, mitotic catastrophe, autophagy and senescence, where autophagy and senescence may promote cell survival. In most cases, autophagy, a conventionally cytoprotective mechanism, is a \"first\" responder to damage incurred from chemotherapy and radiation treatment. The paradigm developed on the premise that autophagy is cytoprotective in nature has provided the rationale for current clinical trials designed with the goal of radiosensitizing cancer cells through the use of autophagy inhibitors; however, these have failed to produce consistent results. Delving further into pre-clinical studies, autophagy has actually been shown to take diverse, sometimes opposing, forms, such as acting in a cytotoxic or nonprotective fashion, which may be partially responsible for the inconsistency of clinical outcomes. Furthermore, autophagy can have both pro- and anti-tumorigenic effects, while also having an important immune modulatory function. Senescence often occurs in tandem with autophagy, which is also the case with radiation. Radiation-induced senescence is frequently followed by a phase of proliferative recovery in a subset of cells and has been proposed as a tumor dormancy model, which can contribute to resistance to therapy and possibly also disease recurrence. Senescence induction is often accompanied by a unique secretory phenotype that can either promote or suppress immune functions, depending on the expression profile of cytokines and chemokines. Novel therapeutics selectively cytotoxic to senescent cells (senolytics) may prove to prolong remission by delaying disease recurrence in patients. Accurate assessment of primary responses to radiation may provide potential targets that can be manipulated for therapeutic benefit to sensitize cancer cells to radiotherapy, while sparing normal tissue."
+      }
+    ],
+    "links": [
+      [
+        {
+          "url": "NCT00786682",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT01506973",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT00568880",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT01206530",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        }
+      ]
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NIDA NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "T32 DA007027"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "P30 CA016059"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "R01 CA239706"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Radiation research"
+          },
+          {
+            "name": "Volume",
+            "value": "194(2)"
+          },
+          {
+            "name": "Pages",
+            "value": "103-115"
+          },
+          {
+            "name": "Publication date",
+            "value": "2020 Aug"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1667/RADE-20-00009",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "10.1667/rade-20-00009",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC7482104",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "32845995",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Patel NH"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Sohal SS"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Manjili MH"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Harrell JC"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Gewirtz DA"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Departments of Microbiology and Immunology, Massey Cancer Center."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Departments of Pathology, Virginia Commonwealth University, Richmond, Virginia 23298."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Departments of a Pharmacology and Toxicology."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

@@ -1,0 +1,406 @@
+{
+  "accno": "S-EPMC8396780",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Effects of captopril against radiation injuries in the Gottingen minipig model of hematopoietic-acute radiation syndrome."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2021-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Effects of captopril against radiation injuries in the Gottingen minipig model of hematopoietic-acute radiation syndrome."
+      },
+      {
+        "name": "Abstract",
+        "value": "Our laboratory has demonstrated that captopril, an angiotensin converting enzyme inhibitor, mitigates hematopoietic injury following total body irradiation in mice. Improved survival in mice is correlated with improved recovery of mature blood cells and bone marrow, reduction of radiation-induced inflammation, and suppression of radiation coagulopathy. Here we investigated the effects of captopril treatment against radiation injuries in the Göttingen mini pig model of Hematopoietic-Acute Radiation Syndrome (H-ARS). Minipigs were given captopril orally (0.96 mg/kg) twice daily for 12 days following total body irradiation (60Co 1.79 Gy, 0.42-0.48 Gy/min). Blood was drawn over a time course following irradiation, and tissue samples were collected at euthanasia (32-35 days post-irradiation). We observed improved survival with captopril treatment, with survival rates of 62.5% in vehicle treated and 87.5% in captopril treated group. Additionally, captopril significantly improved recovery of peripheral blood mononuclear cells, and a trend toward improvement in recovery of red blood cells and platelets. Captopril significantly reduced radiation-induced expression of cytokines erythropoietin and granulocyte-macrophage colony-stimulating factor and suppressed radiation-induced acute-phase inflammatory response cytokine serum amyloid protein A. Using quantitative-RT-PCR to monitor bone marrow recovery, we observed significant suppression of radiation-induced expression of redox stress genes and improved hematopoietic cytokine expression. Our findings suggest that captopril activities in the Göttingen minipig model of hematopoietic-acute radiation syndrome reflect findings in the murine model."
+      }
+    ],
+    "files": [
+      {
+        "path": "pone.0256208.s001.pdf",
+        "size": 101760,
+        "type": "file"
+      },
+      {
+        "path": "pone.0256208.s002.pdf",
+        "size": 139133,
+        "type": "file"
+      },
+      {
+        "path": "pone.0256208.s003.pdf",
+        "size": 53729,
+        "type": "file"
+      },
+      {
+        "path": "pone.0256208.s004.pdf",
+        "size": 168362,
+        "type": "file"
+      },
+      {
+        "path": "pone.0256208.s005.pdf",
+        "size": 209175,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Defense Medical Research and Development Program"
+          },
+          {
+            "name": "grant_id",
+            "value": "DM178018"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Defense Medical Research and Development Program"
+          },
+          {
+            "name": "grant_id",
+            "value": "D_ 14_ I_14_J7_729"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "PloS one"
+          },
+          {
+            "name": "Volume",
+            "value": "16(8)"
+          },
+          {
+            "name": "Pages",
+            "value": "e0256208"
+          },
+          {
+            "name": "Publication date",
+            "value": "2021"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1371/journal.pone.0256208",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC8396780",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "34449797",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Rittase WB"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "McCart EA"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0001-8368-2753"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Muir JM"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Bouten RM"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Slaven JE"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Mungunsukh O"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Bylicky MA"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Wilkins WL"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a9",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Lee SH"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a10",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Gudmundsson KO"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a11",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Di Pucchio T"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a12",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Olsen CH"
+          },
+          {
+            "name": "affiliation",
+            "value": "o5",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a13",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Du Y"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a14",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Day RM"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Pathology, Uniformed Services University of the Health Sciences, Bethesda, MD, United States of America."
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Pediatrics, Uniformed Services University of the Health Sciences, Bethesda, MD, United States of America."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Pharmacology and Molecular Therapeutics, Uniformed Services University of the Health Sciences, Bethesda, MD, United States of America."
+          }
+        ]
+      },
+      {
+        "accno": "o5",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Preventive Medicine and Biostatistics, Uniformed Services University of the Health Sciences, Bethesda, MD, United States of America."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Division of Comparative Pathology, The Armed Forces Radiobiology Research Institute/Uniformed Services University of Health Sciences, Bethesda, MD, United States of America."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

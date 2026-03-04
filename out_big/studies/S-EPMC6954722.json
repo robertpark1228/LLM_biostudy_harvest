@@ -1,0 +1,418 @@
+{
+  "accno": "S-EPMC6954722",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Radiation mitigation of the intestinal acute radiation injury in mice by 1-[(4-nitrophenyl)sulfonyl]-4-phenylpiperazine."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2020-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Radiation mitigation of the intestinal acute radiation injury in mice by 1-[(4-nitrophenyl)sulfonyl]-4-phenylpiperazine."
+      },
+      {
+        "name": "Abstract",
+        "value": "The objective of the study was to identify the mechanism of action for a radiation mitigator of the gastrointestinal (GI) acute radiation syndrome (ARS), identified in an unbiased high-throughput screen. We used mice irradiated with a lethal dose of radiation and treated with daily injections of the radiation mitigator 1-[(4-nitrophenyl)sulfonyl]-4-phenylpiperazine to study its effects on key pathways involved in intestinal stem cell (ISC) maintenance. RNASeq, quantitative reverse transcriptase-polymerase chain reaction, and immunohistochemistry were performed to identify pathways engaged after drug treatment. Target validation was performed with competition assays, reporter cells, and in silico docking. 1-[(4-Nitrophenyl)sulfonyl]-4-phenylpiperazine activates Hedgehog signaling by binding to the transmembrane domain of Smoothened, thereby expanding the ISC pool, increasing the number of regenerating crypts and preventing the GI-ARS. We conclude that Smoothened is a target for radiation mitigation in the small intestine that could be explored for use in radiation accidents as well as to mitigate normal tissue toxicity during and after radiotherapy of the abdomen."
+      }
+    ],
+    "files": [
+      {
+        "path": "SCT3-9-106-s001.docx",
+        "size": 22286,
+        "type": "file"
+      }
+    ],
+    "links": [
+      [
+        {
+          "url": "5V57",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "pdb"
+            }
+          ]
+        }
+      ]
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "National Institute of Allergy and Infectious Diseases"
+          },
+          {
+            "name": "grant_id",
+            "value": "AI067769"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "P50 CA211015"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "National Cancer Institute"
+          },
+          {
+            "name": "grant_id",
+            "value": "CA211015"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "National Cancer Institute"
+          },
+          {
+            "name": "grant_id",
+            "value": "CA200234"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "R01 CA200234"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NIAID NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "U19 AI067769"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "P30 CA016042"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Stem cells translational medicine"
+          },
+          {
+            "name": "Volume",
+            "value": "9(1)"
+          },
+          {
+            "name": "Pages",
+            "value": "106-119"
+          },
+          {
+            "name": "Publication date",
+            "value": "2020 Jan"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1002/sctm.19-0136",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC6954722",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "31464098",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Duhachek-Muggy S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Bhat K"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Medina P"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Cheng F"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "He L"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-8692-7530"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Alli C"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Saki M"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Muthukrishnan SD"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a9",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Ruffenach G"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0001-6419-4332"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a10",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Eghbali M"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a11",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Vlashi E"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a12",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Pajonk F"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Anesthesiology, Division of Molecular Medicine, Cardiovascular Research Laboratory, David Geffen School of Medicine, University of California Los Angeles, Los Angeles, California."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Psychiatry, Semel Institute of Neuroscience and Human Behavior, UCLA, Los Angeles, California."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, David Geffen School of Medicine, University of California Los Angeles, Los Angeles, California."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

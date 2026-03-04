@@ -1,0 +1,417 @@
+{
+  "accno": "S-EPMC6713455",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Synthetic Lethality of PARP Inhibition and Ionizing Radiation is p53-dependent."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2018-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Synthetic Lethality of PARP Inhibition and Ionizing Radiation is p53-dependent."
+      },
+      {
+        "name": "Abstract",
+        "value": "PARP inhibitors (PARPi) are potentially effective therapeutic agents capable of inducing synthetic lethality in tumors with deficiencies in homologous recombination (HR)-mediated DNA repair such as those carrying BRCA1 mutations. However, BRCA mutations are rare, the majority of tumors are proficient in HR repair, and thus most tumors are resistant to PARPi. Previously, we observed that ionizing radiation (IR) initiates cytoplasmic translocation of BRCA1 leading to suppression of HR-mediated DNA repair and induction of synthetic PARPi lethality in wild-type BRCA1 and HR-proficient tumor cells. The tumor suppressor p53 was identified as a key factor that regulates DNA damage-induced BRCA1 cytoplasmic sequestration following IR. However, the role of p53 in IR-induced PARPi sensitization remains unclear. This study elucidates the role of p53 in IR-induced PARPi cytotoxicity in HR-proficient cancer cells and suggests p53 status may help define a patient population that might benefit from this treatment strategy. Sensitization to PARPi following IR was determined <i>in vitro</i> and <i>in vivo</i> utilizing human breast and glioma tumor cells carrying wild-type BRCA1 and p53, and in associated cells in which p53 function was modified by knockdown or mutation. In breast and glioma cells with proficient HR repair, IR-induced BRCA1 cytoplasmic sequestration, HR repair inhibition, and subsequent PARPi sensitization <i>in vitro</i> and <i>in vivo</i> was dependent upon functional p53.<b>Implications:</b> Implications: p53 status determines PARP inhibitor sensitization by ionizing radiation in multiple BRCA1 and HR-proficient tumor types and may predict which patients are most likely to benefit from combination therapy. <i>Mol Cancer Res; 16(7); 1092-102. ©2018 AACR</i>."
+      }
+    ],
+    "files": [
+      {
+        "path": "NIHMS953568-supplement-1.docx",
+        "size": 14373,
+        "type": "file"
+      },
+      {
+        "path": "NIHMS953568-supplement-2.png",
+        "size": 713170,
+        "type": "file"
+      },
+      {
+        "path": "NIHMS953568-supplement-3.png",
+        "size": 1041807,
+        "type": "file"
+      },
+      {
+        "path": "NIHMS953568-supplement-4.png",
+        "size": 225859,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "P01 CA097189"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NIH"
+          },
+          {
+            "name": "grant_id",
+            "value": "R01 CA163838"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "P30 CA016058"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Department of Defense"
+          },
+          {
+            "name": "grant_id",
+            "value": "81XWH-08-1-0571"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NIH"
+          },
+          {
+            "name": "grant_id",
+            "value": "R01 CA188500"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "R01 CA163838"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "R01 CA188500"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "K22 CA218459"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "R01 CA118158"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Molecular cancer research : MCR"
+          },
+          {
+            "name": "Volume",
+            "value": "16(7)"
+          },
+          {
+            "name": "Pages",
+            "value": "1092-1102"
+          },
+          {
+            "name": "Publication date",
+            "value": "2018 Jul"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1158/1541-7786.MCR-18-0106",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "10.1158/1541-7786.mcr-18-0106",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC6713455",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "29592899",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Sizemore ST"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Mohammad R"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Sizemore GM"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Nowsheen S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Yu H"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Ostrowski MC"
+          },
+          {
+            "name": "affiliation",
+            "value": "o5",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Chakravarti A"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Xia F"
+          },
+          {
+            "name": "affiliation",
+            "value": "o6",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o5",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Biochemistry and Molecular Biology, Medical University of South Carolina, Charleston, South Carolina."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Internal Medicine, Virginia Commonwealth University, Richmond, Virginia."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, The Ohio State University College of Medicine, Columbus, Ohio."
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, University of Arkansas for Medical Sciences, Little Rock, Arkansas."
+          }
+        ]
+      },
+      {
+        "accno": "o6",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, University of Arkansas for Medical Sciences, Little Rock, Arkansas. f.xia@uams.edu."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Medical Scientist Training Program, Mayo Clinic, Rochester, Minnesota."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

@@ -1,0 +1,230 @@
+{
+  "accno": "S-EPMC7888179",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Single-shot bevacizumab for cerebral radiation injury."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2021-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Single-shot bevacizumab for cerebral radiation injury."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Background</h4>Cerebral radiation injury, including subacute radiation reactions and later stage radiation necrosis, is a severe side effect of brain tumor radiotherapy. A protocol of four infusions of the monoclonal antibody bevacizumab has been shown to be a highly effective treatment. However, bevacizumab is costly and can cause severe complications including thrombosis, bleeding and gastrointestinal perforations.<h4>Methods</h4>We performed a retrospective analysis of patients treated in our clinic for cerebral radiation injury who received only a singular treatment with bevacizumab. Single-shot was defined as a singular administration of bevacizumab without a second administration during an interval of at least 6 weeks.<h4>Results</h4>We identified 11 patients who had received a singular administration of bevacizumab to treat cerebral radiation injury. Prior radiation had been administered to treat gliomas (ten patients) or breast cancer brain metastases (one patient). 9 of 10 patients with available MRIs showed a marked reduction of edema at first follow-up. Discontinuation of Dexamethasone was possible in 6 patients and a significant dose reduction could be achieved in all other patients. One patient developed pulmonary artery embolism 2 months after bevacizumab administration. The median time to treatment failure of any cause was 3 months.<h4>Conclusions</h4>Single-shot bevacizumab therefore has meaningful activity in cerebral radiation injury, but durable control is rarely achieved. In patients where a complete protocol of four infusions with bevacizumab is not feasible due to medical contraindications or lack of reimbursement, single-shot bevacizumab treatment may be considered."
+      }
+    ],
+    "links": [
+      [
+        {
+          "url": "NCT02819479",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        }
+      ]
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "BMC neurology"
+          },
+          {
+            "name": "Volume",
+            "value": "21(1)"
+          },
+          {
+            "name": "Pages",
+            "value": "77"
+          },
+          {
+            "name": "Publication date",
+            "value": "2021 Feb"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1186/s12883-021-02103-0",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC7888179",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "33596839",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Voss M"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0001-8469-8204"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Wenger KJ"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Fokas E"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Forster MT"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Steinbach JP"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Ronellenfitsch MW"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-1402-6290"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Dr. Senckenberg Institute of Neurooncology, University Hospital Frankfurt, Goethe University, Frankfurt/Main, Germany."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Dr. Senckenberg Institute of Neurooncology, University Hospital Frankfurt, Goethe University, Frankfurt/Main, Germany. martin.voss@kgu.de."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "University Cancer Center Frankfurt (UCT), University Hospital Frankfurt, Goethe University, Frankfurt/Main, Germany."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

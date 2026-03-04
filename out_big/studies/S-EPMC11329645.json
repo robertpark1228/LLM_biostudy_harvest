@@ -1,0 +1,298 @@
+{
+  "accno": "S-EPMC11329645",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Graphene-based nanocomposites as gamma- and X-ray radiation shield."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2024-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Graphene-based nanocomposites as gamma- and X-ray radiation shield."
+      },
+      {
+        "name": "Abstract",
+        "value": "Commonly used materials for protection against ionizing radiation (gamma and X-ray energy range) primarily rely on high-density materials, like lead, steel, or tungsten. However, these materials are heavy and often impractical for various applications, especially where weight is a key parameter, like in avionics or space technology. Here, we study the shielding properties of an alternative light material-a graphene-based composite with a relatively low density ~ 1 g/cm<sup>3</sup>. We demonstrate that the linear attenuation coefficient is energy of radiation dependent, and it is validated by the XCOM model, showing relatively good agreement. We also show that the mass attenuation coefficient for selected radiation energies is at least comparable with other known materials, exceeding the value of 0.2 cm<sup>2</sup>/g for higher energies. This study proves the usefulness of a commonly used model for predicting the attenuation of gamma and X-ray radiation for new materials. It shows a new potential candidate for shielding application."
+      }
+    ],
+    "files": [
+      {
+        "path": "41598_2024_69628_MOESM1_ESM.docx",
+        "size": 2106223,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Fundacja na rzecz Nauki Polskiej"
+          },
+          {
+            "name": "grant_id",
+            "value": "POIR.04.04.00-00-3C25/16"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Scientific reports"
+          },
+          {
+            "name": "Volume",
+            "value": "14(1)"
+          },
+          {
+            "name": "Pages",
+            "value": "18998"
+          },
+          {
+            "name": "Publication date",
+            "value": "2024 Aug"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1038/s41598-024-69628-5",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC11329645",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "39152207",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Filak-Medon K"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Fornalski KW"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0001-7452-0189"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Bonczyk M"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Jakubowska A"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kempny K"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Woloszczuk K"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Filipczak K"
+          },
+          {
+            "name": "affiliation",
+            "value": "o5",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Zeranska K"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a9",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Zdrojek M"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Central Laboratory for Radiological Protection (CLOR), Konwaliowa 7, 03-194, Warszawa, Poland."
+          }
+        ]
+      },
+      {
+        "accno": "o5",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Quality Control and Radiation Protection, Medical University of Łódź, 92-216, Łódź, Poland."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Faculty of Physics, Warsaw University of Technology, Koszykowa 75, 00-662, Warszawa, Poland."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Faculty of Physics, Warsaw University of Technology, Koszykowa 75, 00-662, Warszawa, Poland. karolina.filak.dokt@pw.edu.pl."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Silesian Centre for Environmental Radioactivity, Central Mining Institute - National Research Institute (GIG-PIB), Plac Gwarków 1, 40-166, Katowice, Poland."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

@@ -1,0 +1,204 @@
+{
+  "accno": "S-EPMC5477302",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Radiation therapy for older patients with brain tumors."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2017-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Radiation therapy for older patients with brain tumors."
+      },
+      {
+        "name": "Abstract",
+        "value": "The incidence of brain tumors in the elderly population has increased over the last few decades. Current treatment includes surgery, radiotherapy and chemotherapy, but the optimal management of older patients with brain tumors remains a matter of debate, since aggressive radiation treatments in this population may be associated with high risks of neurological toxicity and deterioration of quality of life. For such patients, a careful clinical status assessment is mandatory both for clinical decision making and for designing randomized trials to adequately evaluate the optimal combination of radiotherapy and chemotherapy.Several randomized studies have demonstrated the efficacy and safety of chemotherapy for patients with glioblastoma or lymphoma; however, the use of radiotherapy given in association with chemotherapy or as salvage therapy remains an effective treatment option associated with survival benefit. Stereotactic techniques are increasingly used for the treatment of patients with brain metastases and benign tumors, including pituitary adenomas, meningiomas and acoustic neuromas. Although no randomized trials have proven the superiority of SRS over other radiation techniques in older patients with brain metastases or benign brain tumors, data extracted from recent randomized studies and large retrospective series suggest that SRS is an effective approach in such patients associated with survival advantages and toxicity profile similar to those observed in young adults. Future trials need to investigate the optimal radiation techniques and dose/fractionation schedules in older patients with brain tumors with regard to clinical outcomes, neurocognitive function, and quality of life."
+      }
+    ],
+    "links": [
+      [
+        {
+          "url": "NCT02360215",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        }
+      ]
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Radiation oncology (London, England)"
+          },
+          {
+            "name": "Volume",
+            "value": "12(1)"
+          },
+          {
+            "name": "Pages",
+            "value": "101"
+          },
+          {
+            "name": "Publication date",
+            "value": "2017 Jun"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1186/s13014-017-0841-9",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC5477302",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "28629376",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Minniti G"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0003-1239-1603"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Filippi AR"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0001-7159-7869"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Osti MF"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-8996-5559"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Ricardi U"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Neurological Sciences, IRCCS Neuromed, Via Atinense, Pozzilli, (IS), Italy. giuseppeminniti@libero.it."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Oncology, University of Torino, Torino, Italy."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Radiation Oncology Unit, S Andrea Hospital, University Sapienza, Rome, Italy."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

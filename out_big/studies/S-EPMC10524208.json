@@ -1,0 +1,238 @@
+{
+  "accno": "S-EPMC10524208",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Ultraviolet radiation exposure in cannabis-growing facilities."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2023-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Ultraviolet radiation exposure in cannabis-growing facilities."
+      },
+      {
+        "name": "Abstract",
+        "value": "Cannabis cultivation and processing is becoming an important industry in the United States and Canada. The industry employs over 400,000 workers in the United States and is growing rapidly. Both natural sunlight and artificial lamp-generated radiation are commonly used to grow cannabis plants. These optical sources can contain both visible and ultraviolet radiation (UVR) wavelengths, and overexposure to UVR is associated with negative health effects. The severity of these adverse health effects is governed by the specific wavelengths and exposed dose of UVR, yet worker exposure to UVR within cannabis-growing facilities has not been studied. In this study, worker exposure to UVR was assessed at five cannabis production facilities in Washington State, including indoor, outdoor, and shade house facilities. Lamp emission testing was performed at each facility and worker UVR exposures were measured for 87 work shifts. Observations of worker activities and use of personal protective equipment in association with UVR exposure measurements were recorded. For lamp emission measurements, at 3 feet from the center of the lamp, the average irradiances were 4.09 × 10<sup>-4</sup>, 6.95 × 10<sup>-8</sup>, 6.76 × 10<sup>-9</sup>, 3.96 × 10<sup>-9</sup>, and 1.98 × 10<sup>-9</sup> effective W/cm<sup>2</sup> for germicidal lamps, metal halide lamps, high-pressure sodium lamps, fluorescent lamps, and light emitting diodes, respectively. The average measured UVR exposure was 2.91 × 10<sup>-3</sup> effective J/cm<sup>2</sup> (range: 1.54 × 10<sup>-6</sup>, 1.57 × 10<sup>-2</sup> effective J/cm<sup>2</sup>). Thirty percent of the work shifts monitored exceeded the American Conference for Governmental Industrial Hygienists (ACGIH<sup>®</sup>) threshold limit value (TLV<sup>®</sup>) of 0.003 effective J/cm<sup>2</sup>. Exposures were highest for workers who spent all or part of the work shift outdoors, and solar radiation was the primary source of worker UVR exposure for most of the work shifts that exceeded the TLVs. Outdoor workers can reduce UVR exposure by applying sunscreen and wearing appropriate personal protective equipment. Although the artificial lighting used in the cannabis production facilities included in this study did not contribute substantially to the measured UV exposures, in many cases the lamp emissions would generate theoretical exposures at 3 feet from the center of the lamp that would exceed the TLV. Therefore, employers should choose low UVR emitting lamps for indoor grow operations and should use engineering controls (e.g., door-interlocks to de-energize lamps) to prevent worker exposure to UVR from germicidal lamps."
+      }
+    ],
+    "files": [
+      {
+        "path": "NIHMS1897217-supplement-Supp_1.docx",
+        "size": 17701,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Washington State Department of Labor and Industries"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NIEHS NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "P30 ES007033"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NIOSH CDC HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "T42 OH008433"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "National Institute of Environmental Health Sciences"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Journal of occupational and environmental hygiene"
+          },
+          {
+            "name": "Volume",
+            "value": "20(7)"
+          },
+          {
+            "name": "Pages",
+            "value": "268-278"
+          },
+          {
+            "name": "Publication date",
+            "value": "2023 Jul"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1080/15459624.2023.2207616",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "10.1080/15459624.2023.2207616",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC10524208",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "37146269",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Chmielinski MJ"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Ehrlich PO"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Cohen M"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Isaksen TMB"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Simpson CD"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0001-7122-371X"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Environmental and Occupational Health Sciences, University of Washington, Seattle, Washington."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

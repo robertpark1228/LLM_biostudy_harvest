@@ -1,0 +1,287 @@
+{
+  "accno": "S-EPMC8785213",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Cutaneous and local radiation injuries."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2022-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Cutaneous and local radiation injuries."
+      },
+      {
+        "name": "Abstract",
+        "value": "The threat of a large-scale radiological or nuclear (R/N) incident looms in the present-day climate, as noted most recently in an editorial in Scientific American (March 2021). These large-scale incidents are infrequent but affect large numbers of people. Smaller-scale R/N incidents occur more often, affecting smaller numbers of people. There is more awareness of acute radiation syndrome (ARS) in the medical community; however, ionising radiation-induced injuries to the skin are much less understood. This article will provide an overview of radiation-induced injuries to the skin, deeper tissues, and organs. The history and nomenclature; types and causes of injuries; pathophysiology; evaluation and diagnosis; current medical management; and current research of the evaluation and management are presented. Cutaneous radiation injuries (CRI) or local radiation injuries (LRI) may lead to cutaneous radiation syndrome, a sub-syndrome of ARS. These injuries may occur from exposure to radioactive particles suspended in the environment (air, soil, water) after a nuclear detonation or an improvised nuclear detonation (IND), a nuclear power plant incident, or an encounter with a radioactive dispersal or exposure device. These incidents may also result in a radiation-combined injury; a chemical, thermal, or traumatic injury, with radiation exposure. Skin injuries from medical diagnostic and therapeutic imaging, medical misadministration of nuclear medicine or radiotherapy, occupational exposures (including research) to radioactive sources are more common but are not the focus of this manuscript. Diagnosis and evaluation of injuries are based on the scenario, clinical picture, and dosimetry, and may be assisted through advanced imaging techniques. Research-based multidisciplinary therapies, both in the laboratory and clinical trial environments, hold promise for future medical management. Great progress is being made in recognising the extent of injuries, understanding their pathophysiology, as well as diagnosis and management; however, research gaps still exist."
+      }
+    ],
+    "links": [
+      [
+        {
+          "url": "NCT03559218",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        }
+      ]
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NIAID"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "ORISE"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "US Department of Energy"
+          },
+          {
+            "name": "grant_id",
+            "value": "DE-AC05-06OR23100"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Institute for Science and Education"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "program of the Oak Ridge"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Intramural NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "Z99 AI999999"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "ORAU"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "DOE"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Journal of radiological protection : official journal of the Society for Radiological Protection"
+          },
+          {
+            "name": "Volume",
+            "value": "42(1)"
+          },
+          {
+            "name": "Publication date",
+            "value": "2022 Jan"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1088/1361-6498/ac241a",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC8785213",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "34488201",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Iddins CJ"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "DiCarlo AL"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Ervin MD"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Herrera-Reyes E"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-8028-4319"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Goans RE"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Institut de Radioprotection et de Sûreté Nucléaire, Fontenay-aux-Roses, France."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Radiation Emergency Assistance Center/Training Site (REAC/TS), Oak Ridge Institute for Science and Education (ORISE), Oak Ridge, TN, United States of America."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Radiation and Nuclear Countermeasures Program (RNCP), National Institute of Allergy and Infectious Diseases (NIAID), National Institutes of Health (NIH), Bethesda, MD, United States of America."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

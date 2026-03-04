@@ -1,0 +1,299 @@
+{
+  "accno": "S-EPMC6349627",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Big Data Readiness in Radiation Oncology: An Efficient Approach for Relabeling Radiation Therapy Structures With Their TG-263 Standard Name in Real-World Data Sets."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2019-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Big Data Readiness in Radiation Oncology: An Efficient Approach for Relabeling Radiation Therapy Structures With Their TG-263 Standard Name in Real-World Data Sets."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Purpose</h4>To prepare for big data analyses on radiation therapy data, we developed <i>Stature,</i> a tool-supported approach for standardization of structure names in existing radiation therapy plans. We applied the widely endorsed nomenclature standard TG-263 as the mapping target and quantified the structure name inconsistency in 2 real-world data sets.<h4>Methods and materials</h4>The clinically relevant structures in the radiation therapy plans were identified by reference to randomized controlled trials. The Stature approach was used by clinicians to identify the synonyms for each relevant structure, which was then mapped to the corresponding TG-263 name. We applied Stature to standardize the structure names for 654 patients with prostate cancer (PCa) and 224 patients with head and neck squamous cell carcinoma (HNSCC) who received curative radiation therapy at our institution between 2007 and 2017. The accuracy of the Stature process was manually validated in a random sample from each cohort. For the HNSCC cohort we measured the resource requirements for Stature, and for the PCa cohort we demonstrated its impact on an example clinical analytics scenario.<h4>Results</h4>All but 1 synonym group (\"Hydrogel\") was mapped to the corresponding TG-263 name, resulting in a TG-263 relabel rate of 99% (8837 of 8925 structures). For the PCa cohort, Stature matched a total of 5969 structures. Of these, 5682 structures were exact matches (ie, following local naming convention), 284 were matched via a synonym, and 3 required manual matching. This original radiation therapy structure names therefore had a naming inconsistency rate of 4.81%. For the HNSCC cohort, Stature mapped a total of 2956 structures (2638 exact, 304 synonym, 14 manual; 10.76% inconsistency rate) and required 7.5 clinician hours. The clinician hours required were one-fifth of those that would be required for manual relabeling. The accuracy of Stature was 99.97% (PCa) and 99.61% (HNSCC).<h4>Conclusions</h4>The Stature approach was highly accurate and had significant resource efficiencies compared with manual curation."
+      }
+    ],
+    "files": [
+      {
+        "path": "mmc1.docx",
+        "size": 39331,
+        "type": "file"
+      },
+      {
+        "path": "mmc2.docx",
+        "size": 131053,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Department of Radiation Oncology at Northern Sydney Cancer Centre"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Advances in radiation oncology"
+          },
+          {
+            "name": "Volume",
+            "value": "4(1)"
+          },
+          {
+            "name": "Pages",
+            "value": "191-200"
+          },
+          {
+            "name": "Publication date",
+            "value": "2019 Jan-Mar"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1016/j.adro.2018.09.013",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC6349627",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "30706028",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Schuler T"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kipritidis J"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Eade T"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Hruby G"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0003-4193-9682"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kneebone A"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Perez M"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Grimberg K"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Richardson K"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a9",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Evill S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a10",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Evans B"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a11",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Gallego B"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Australian Institute of Health Innovation, Macquarie University, Sydney, Australia."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Northern Sydney Cancer Centre, Royal North Shore Hospital, Sydney, Australia."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

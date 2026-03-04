@@ -1,0 +1,279 @@
+{
+  "accno": "S-EPMC5108093",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Early Cellular Response to Radiation in Human Vocal Fold Fibroblasts."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2016-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Early Cellular Response to Radiation in Human Vocal Fold Fibroblasts."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Objectives</h4>Radiation therapy is a common treatment strategy for laryngeal carcinoma. However, radiation is not without adverse side effects, especially toward healthy vocal fold tissue, which can lead to long-term impairments in vocal function. The objective of this preliminary study was to investigate early responses of healthy human vocal fold fibroblasts (VFF) to radiation.<h4>Methods</h4>VFF were exposed to a single or fractionated dose radiation scheme. Nonradiated VFF served as controls. Morphology of radiated and control VFF was subjectively examined. Quantitative polymerase chain reaction was used to evaluate the effect of radiation on extracellular matrix and inflammatory-related genes. VFF viability was investigated using a LIVE/DEAD and clonogenic assay.<h4>Results</h4>Single or fractioned dose radiated VFF were morphologically indistinguishable from control VFF. No significant differences in gene expression were observed following either radiation scheme and as compared to controls. Clonogenic assay revealed reduced VFF viability following the fractionated but not single dose scheme. No changes in viability were detected using the LIVE/DEAD assay.<h4>Conclusions</h4>We present one of the first investigations to evaluate early responses of healthy VFF to radiation. Findings will contribute to a growing body of literature seeking to elucidate the biological mechanisms underlying voice changes following radiation therapy for laryngeal carcinoma."
+      }
+    ],
+    "links": [
+      [
+        {
+          "url": "NM_000501",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refseq"
+            }
+          ]
+        },
+        {
+          "url": "NM_000600",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refseq"
+            }
+          ]
+        },
+        {
+          "url": "NM_000089",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refseq"
+            }
+          ]
+        },
+        {
+          "url": "NM_000660",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refseq"
+            }
+          ]
+        },
+        {
+          "url": "NM_002421",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refseq"
+            }
+          ]
+        },
+        {
+          "url": "NM_001101",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refseq"
+            }
+          ]
+        },
+        {
+          "url": "NM_002026",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refseq"
+            }
+          ]
+        },
+        {
+          "url": "NM_000963",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refseq"
+            }
+          ]
+        }
+      ]
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NIDCD NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "T32 DC009401"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NIDCD NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "R01 DC012773"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "The Annals of otology, rhinology, and laryngology"
+          },
+          {
+            "name": "Volume",
+            "value": "125(5)"
+          },
+          {
+            "name": "Pages",
+            "value": "425-32"
+          },
+          {
+            "name": "Publication date",
+            "value": "2016 May"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1177/0003489415615140",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "10.1177/0003489415615140",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC5108093",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "26553661",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Erickson-DiRenzo E"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-9841-0184"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Enos G"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Thibeault SL"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Otolaryngology- Head & Neck Surgery, Stanford University School of Medicine, Stanford, California, USA."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Surgery, Division of Otolaryngology-Head & Neck Surgery, University of Wisconsin-Madison, Wisconsin, USA thibeault@surgery.wisc.edu."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Surgery, Division of Otolaryngology-Head & Neck Surgery, University of Wisconsin-Madison, Wisconsin, USA."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

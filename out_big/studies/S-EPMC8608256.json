@@ -1,0 +1,575 @@
+{
+  "accno": "S-EPMC8608256",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Value of Neoadjuvant Radiation Therapy in the Management of Pancreatic Adenocarcinoma."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2021-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Value of Neoadjuvant Radiation Therapy in the Management of Pancreatic Adenocarcinoma."
+      },
+      {
+        "name": "Abstract"
+      }
+    ],
+    "links": [
+      [
+        {
+          "url": "NCT04340141",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT03704662",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT04617821",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT04089150",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT03941093",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        }
+      ]
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCATS NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "KL2 TR001438"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "P30 CA008748"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology"
+          },
+          {
+            "name": "Volume",
+            "value": "39(34)"
+          },
+          {
+            "name": "Pages",
+            "value": "3773-3777"
+          },
+          {
+            "name": "Publication date",
+            "value": "2021 Dec"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1200/JCO.21.01220",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "10.1200/jco.21.01220",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC8608256",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "34623894",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Hall WA"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Dawson LA"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Hong TS"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Palta M"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-9085-9075"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Herman JM"
+          },
+          {
+            "name": "affiliation",
+            "value": "o5",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Evans DB"
+          },
+          {
+            "name": "affiliation",
+            "value": "o6",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Tsai S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o6",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Ferrone CR"
+          },
+          {
+            "name": "affiliation",
+            "value": "o7",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a9",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "B Fleming J"
+          },
+          {
+            "name": "affiliation",
+            "value": "o8",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a10",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Chang DT"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0003-2760-1554"
+          },
+          {
+            "name": "affiliation",
+            "value": "o9",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a11",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Crane C"
+          },
+          {
+            "name": "affiliation",
+            "value": "o10",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a12",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Koong AC"
+          },
+          {
+            "name": "affiliation",
+            "value": "o11",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a13",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Oar A"
+          },
+          {
+            "name": "affiliation",
+            "value": "o12",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a14",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Parikh P"
+          },
+          {
+            "name": "affiliation",
+            "value": "o13",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a15",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Erickson B"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a16",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Hoffe S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o8",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a17",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Goodman KA"
+          },
+          {
+            "name": "affiliation",
+            "value": "o14",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Duke University, Department of Radiation Oncology, Durham, NC."
+          }
+        ]
+      },
+      {
+        "accno": "o12",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Gold Coast University Hospital, Gold Coast, Queensland, Australia."
+          }
+        ]
+      },
+      {
+        "accno": "o13",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Henry Ford Health System, Department of Radiation Oncology, Detroit, MI."
+          }
+        ]
+      },
+      {
+        "accno": "o11",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "MD Anderson Cancer Center, Department of Radiation Oncology, Houston, TX."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Massachusetts General Hospital, Department of Radiation Oncology, Boston, MA."
+          }
+        ]
+      },
+      {
+        "accno": "o7",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Massachusetts General Hospital, Department of Surgery, Boston, MA."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Medical College of Wisconsin, Department of Radiation Oncology and the LaBahn Pancreatic Cancer Program, Milwaukee, WI."
+          }
+        ]
+      },
+      {
+        "accno": "o6",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Medical College of Wisconsin, Department of Surgery and the LaBahn Pancreatic Cancer Program, Milwaukee, WI."
+          }
+        ]
+      },
+      {
+        "accno": "o10",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Memorial Sloan-Kettering Cancer Center, Department of Radiation Oncology, New York, NY."
+          }
+        ]
+      },
+      {
+        "accno": "o8",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Moffitt Cancer Center, Department of Surgery, Tampa, FL."
+          }
+        ]
+      },
+      {
+        "accno": "o14",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Mount Sinai Hospital, Department of Radiation Oncology, New York, NY."
+          }
+        ]
+      },
+      {
+        "accno": "o5",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Northwell Health, Department of Radiation Oncology, New Hyde Park, NY."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Radiation Medicine Program, Princess Margaret Cancer Centre; Department of Radiation Oncology, University of Toronto, Toronto, Canada."
+          }
+        ]
+      },
+      {
+        "accno": "o9",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Stanford Health Care, Department of Radiation Oncology, Stanford, CA."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

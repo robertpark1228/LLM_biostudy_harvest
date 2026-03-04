@@ -1,0 +1,242 @@
+{
+  "accno": "S-EPMC6465931",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "A Novel Mechanism of High Dose Radiation Sensitization by Metformin."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2019-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "A Novel Mechanism of High Dose Radiation Sensitization by Metformin."
+      },
+      {
+        "name": "Abstract",
+        "value": "<b>Introduction:</b> Metformin, the most widely used treatment for diabetes, is lethal to cancer cells and increases in toxicity when used in combination with radiation. In addition to various molecular and metabolic mechanisms that have been previously proposed, the studies presented provide evidence of an additional, novel mechanism of sensitization following high dose radiotherapy; the magnitude of sensitization depends on the microenvironmental levels of glucose and oxygen which are in turn affected by high dose radiation. <b>Methods:</b> Cancer cells (A549 and MCF7) were studied <i>in vitro</i> under various controlled conditions. Endpoints included clonogenic cell survival and ROS expression measured by DHE and DCFDA. CD1 nu/nu athymic mice implanted with A549 cells received metformin alone (200 mg/kg, i.p.), radiation alone (15 Gy) or a combination of metformin and radiation; the effect of treatment sequence on efficacy was assessed by tumor growth delay and histology. In a separate set of experiments, tumor blood flow was measured using a tracer clearance technique using SPECT after the administration of metformin alone, radiation alone and the combined treatment. <b>Results:</b> <i>In vivo</i>, metformin provided equally effective tumor growth delay when given 24 h after radiation as when given 1 h or 4 h before radiation, an observation not previously reported and, in fact, unexpected based on published scientific literature. When drug followed radiation, the tumors were histologically characterized by massive cellular necrosis. <i>In vitro</i>, cancer cells when glucose depleted and/or hypoxic were preferentially killed by metformin, in a drug dose dependent manner. A549 cells exposed to 5.0 mM of metformin was reduced seven fold in survival when in a glucose deprived as compared to a low-glucose medium (0 vs. 1.0 g/L). Finally, using a SPECT detector to follow the washout of a radioactive tracer, it was shown that a high single dose of radiosurgery (15 Gy) could dramatically inhibit blood flow and presumably diminish glucose and oxygen. <b>Discussion:</b> Insight into the best timing of drug and radiation administration is gained through an understanding of the mechanisms of interaction. A new mechanism of metformin sensitization by high dose radiation is proposed based on the blood flow, glucose and oxygen."
+      }
+    ],
+    "files": [
+      {
+        "path": "Image_1.TIF",
+        "size": 5576356,
+        "type": "file"
+      },
+      {
+        "path": "Image_2.TIF",
+        "size": 1039128,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "R21 CA205660"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "R01 CA218596"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Frontiers in oncology"
+          },
+          {
+            "name": "Volume",
+            "value": "9"
+          },
+          {
+            "name": "Pages",
+            "value": "247"
+          },
+          {
+            "name": "Publication date",
+            "value": "2019"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.3389/fonc.2019.00247",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC6465931",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "31024849",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Brown SL"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kolozsvary A"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Isrow DM"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Al Feghali K"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Lapanowski K"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Jenrow KA"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kim JH"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Henry Ford Hospital, Detroit, MI, United States."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

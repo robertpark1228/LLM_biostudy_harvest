@@ -1,0 +1,192 @@
+{
+  "accno": "S-EPMC7312565",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Stage-Specific Effects of Ionizing Radiation during Early Development."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2020-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Stage-Specific Effects of Ionizing Radiation during Early Development."
+      },
+      {
+        "name": "Abstract",
+        "value": "Early embryonic cells are sensitive to genotoxic stressors such as ionizing radiation. However, sensitivity to these stressors varies depending on the embryonic stage. Recently, the sensitivity and response to ionizing radiation were found to differ during the preimplantation period. The cellular and molecular mechanisms underlying the change during this period are beginning to be elucidated. In this review, we focus on the changes in radio-sensitivity and responses to ionizing radiation during the early developmental stages of the preimplantation (before gastrulation) period in mammals, Xenopus, and fish. Furthermore, we discuss the underlying cellular and molecular mechanisms and the similarities and differences between species."
+      }
+    ],
+    "files": [
+      {
+        "path": "ijms-21-03975-s001.pdf",
+        "size": 277923,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Ministry of Education, Culture, Sports, Science and Technology"
+          },
+          {
+            "name": "grant_id",
+            "value": "#15K09453 and #26293277 to T.I., #18K116440 to Y.H"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Hiroshima University"
+          },
+          {
+            "name": "grant_id",
+            "value": "the Program of the network-type joint Usage/Research Disaster Medical Science of Hiroshima University, Nagasaki University, and Fukushima Medical University"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Hiroshima University"
+          },
+          {
+            "name": "grant_id",
+            "value": "Low-Dose Radiation Effects Advanced Research Program of the Research Institute for Radiation Biology and Medicine"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Hiroshima University"
+          },
+          {
+            "name": "grant_id",
+            "value": "Research Promotion Award for Women Scientists"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "International journal of molecular sciences"
+          },
+          {
+            "name": "Volume",
+            "value": "21(11)"
+          },
+          {
+            "name": "Pages",
+            "value": "E3975"
+          },
+          {
+            "name": "Publication date",
+            "value": "2020 Jun"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.3390/ijms21113975",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC7312565",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "32492918",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Honjo Y"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Ichinohe T"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-0393-4066"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Hematology and Oncology, Research Institute for Radiation Biology and Medicine (RIRBM), Hiroshima University, Hiroshima 734-8553, Japan."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

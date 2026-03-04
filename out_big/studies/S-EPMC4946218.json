@@ -1,0 +1,166 @@
+{
+  "accno": "S-EPMC4946218",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Efficiency of lead aprons in blocking radiation - how protective are they?"
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2016-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Efficiency of lead aprons in blocking radiation - how protective are they?"
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Background</h4>Despite the firmly established occupational risk of exposure to X-rays, they are used extensively in spine surgeries. Shielding by lead aprons is the most common protective practice. We quantified the level of their radiation blocking ability in a real-life setting.<h4>Methods</h4>Single-center, prospective, randomized study of adult patients with degenerative lumbar disorders, scheduled to undergo posterior lumbar interbody fusion. Instrumentation was performed in either a robot-assisted, minimally invasive approach (RO) or a conventional, fluoroscopically-assisted, open approach (FA). Outcome measures included the quantitative measurement of the surgeon's actual exposure to radiation, as recorded by thermo-luminescent dosimeters (TLD) worn both above and under the 0.5 mm thyroid and trunk lead protectors.<h4>Findings</h4>Sixty four patients were included in this study, 34 in the RO cohort and 30 in the FA cohort. The radiation blocked by the aprons, represented as the ratio of the under-apron to above-apron TLDs, averaged 37.1% (range 25.4-48.3%, 95% confidence interval between 30.6-43.6%). In the RO cohort, the average per-screw radiation dose and time were 51.9% and 73.7% lower, respectively, than the per screw exposure in the FA cohort.<h4>Interpretation</h4>The 0.5 mm lead aprons blocked just over one third of the radiation scattered towards the surgeon. Use of robotic-guidance in a minimally invasive approach provided for a reduction of 62.5% of the overall radiation the surgeon was exposed to during open conventional approach. We conclude that reduced radiation use (e.g. by using robotic guidance) is a more effective strategy for minimizing exposure to radiation than reliance on protection by lead aprons, and recommend utilization of practices and technologies that reduce the surgical team's routine exposure to X-rays."
+      }
+    ],
+    "files": [
+      {
+        "path": "mmc1.pdf",
+        "size": 801533,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Heliyon"
+          },
+          {
+            "name": "Volume",
+            "value": "2(5)"
+          },
+          {
+            "name": "Pages",
+            "value": "e00117"
+          },
+          {
+            "name": "Publication date",
+            "value": "2016 May"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1016/j.heliyon.2016.e00117",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC4946218",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "27441288",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Hyun SJ"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kim KJ"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Jahng TA"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kim HJ"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Neurosurgery, Spine Center, Seoul National University Bundang Hospital, Seoul National University College of Medicine, Seongnam, South Korea."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

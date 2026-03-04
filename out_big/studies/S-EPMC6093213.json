@@ -1,0 +1,201 @@
+{
+  "accno": "S-EPMC6093213",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "The Role of Nrf2 in the Response to Normal Tissue Radiation Injury."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2018-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "The Role of Nrf2 in the Response to Normal Tissue Radiation Injury."
+      },
+      {
+        "name": "Abstract",
+        "value": "The transcription factor Nrf2 is an important modulator of antioxidant and drug metabolism, carbohydrate and lipid metabolism, as well as heme and iron metabolism. Regulation of Nrf2 expression occurs transcriptionally and post-transcriptionally. Post-transcriptional regulation entails ubiquitination followed by proteasome-dependent degradation. Additionally, Nrf2-mediated gene expression is subject to negative regulation by ATF3, Bach1 and cMyc. Nrf2-mediated gene expression is an important regulator of a cell's response to radiation. Although a majority of studies have shown that Nrf2 deficient cells are radiosensitized and Nrf2 over expression confers radioresistance, Nrf2's role in mediating the radiation response of crypt cells is controversial. The Nrf2 activator CDDO attenuates radiation-mediated crypt injury, whereas intestinal crypts in Nrf2 null mice are radiation resistant. Further investigation is needed in order to define the relationship between Nrf2 and radiation sensitivity in Lgr5+ and Bmi1+ cells that regulate regeneration of crypt stem cells. In hematopoietic compartments Nrf2 promotes the survival of irradiated osteoblasts that support long-term hematopoietic stem cell (LT-HSC) niches. Loss of Nrf2 in LT-HSCs increases stem cell intrinsic radiosensitivity, with the consequence of lowering the LD50<sub>30</sub>. An Nrf2 deficiency drives LT-HSCs from a quiescent to a proliferative state. This results in hematopoietic exhaustion and reduced engraftment after myoablative irradiation. The question of whether induction of Nrf2 in LT-HSC enhances hematopoietic reconstitution after bone marrow transplantation is not yet resolved. Irradiation of the lung induces pulmonary pneumonitis and fibrosis. Loss of Nrf2 promotes TGF-β/Smad signaling that induces ATF3 suppression of Nrf2-mediated target gene expression. This, in turn, results in elevated reactive oxygen species (ROS) and isolevuglandin adduction of protein that impairs collagen degradation, and may contribute to radiation-induced chronic cell injury. Loss of Nrf2 impairs ΔNp63 stem/progenitor cell mobilization after irradiation, while promoting alveolar type 2 cell epithelial-mesenchymal transitions into myofibroblasts. These studies identify Nrf2 as an important factor in the radiation response of normal tissue."
+      }
+    ],
+    "files": [
+      {
+        "path": "NIHMS983601-supplement-Suppemententary_file.pdf",
+        "size": 387698,
+        "type": "file"
+      }
+    ],
+    "links": [
+      [
+        {
+          "url": "HGNC:7782",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "hgnc"
+            }
+          ]
+        }
+      ]
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NHLBI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "R01 HL112286"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Radiation research"
+          },
+          {
+            "name": "Volume",
+            "value": "190(2)"
+          },
+          {
+            "name": "Pages",
+            "value": "99-106"
+          },
+          {
+            "name": "Publication date",
+            "value": "2018 Aug"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1667/RR15059.1",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "10.1667/rr15059.1",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC6093213",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "29799319",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Cameron BD"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Sekhar KR"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Ofori M"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Freeman ML"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Vanderbilt University School of Medicine, Nashville, Tennessee 37232."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

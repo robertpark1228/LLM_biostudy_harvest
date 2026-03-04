@@ -1,0 +1,226 @@
+{
+  "accno": "S-EPMC4507479",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "A Josephson radiation comb generator."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2015-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "A Josephson radiation comb generator."
+      },
+      {
+        "name": "Abstract",
+        "value": "We propose the implementation of a Josephson Radiation Comb Generator (JRCG) based on a dc superconducting quantum interference device (SQUID) driven by an external magnetic field. When the magnetic flux crosses a diffraction node of the critical current interference pattern, the superconducting phase undergoes a jump of π and a voltage pulse is generated at the extremes of the SQUID. Under periodic drive this allows one to generate a sequence of sharp, evenly spaced voltage pulses. In the frequency domain, this corresponds to a comb-like structure similar to the one exploited in optics and metrology. With this device it is possible to generate up to several hundreds of harmonics of the driving frequency. For example, a chain of 50 identical high-critical-temperature SQUIDs driven at 1 GHz can deliver up to a 0.5 nW at 200 GHz. The availability of a fully solid-state radiation comb generator such as the JRCG, easily integrable on chip, may pave the way to a number of technological applications, from metrology to sub-millimeter wave generation."
+      }
+    ],
+    "files": [
+      {
+        "path": "srep12260-s1.pdf",
+        "size": 571105,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "European Research Council"
+          },
+          {
+            "name": "grant_id",
+            "value": "615187"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Swiss National Science Foundation"
+          },
+          {
+            "name": "grant_id",
+            "value": "150046"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Scientific reports"
+          },
+          {
+            "name": "Volume",
+            "value": "5"
+          },
+          {
+            "name": "Pages",
+            "value": "12260"
+          },
+          {
+            "name": "Publication date",
+            "value": "2015 Jul"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1038/srep12260",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC4507479",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "26193628",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Solinas P"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Gasparinetti S"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-7238-693X"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Golubev D"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Giazotto F"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "1] Department of Physics, ETH Zürich, CH-8093 Zürich, Switzerland [2] Low Temperature Laboratory (OVLL), Aalto University School of Science, P.O. Box 13500, 00076 Aalto, Finland."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "1] Low Temperature Laboratory (OVLL), Aalto University School of Science, P.O. Box 13500, 00076 Aalto, Finland [2] Institute of Nanotechnology, Karlsruhe Institute of Technology, D-76021 Karlsruhe, Germany."
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "NEST, Instituto Nanoscienze-CNR and Scuola Normale Superiore, I-56127 Pisa, Italy."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "SPIN-CNR, Via Dodecaneso 33, 16146 Genova, Italy."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

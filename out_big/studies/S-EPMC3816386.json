@@ -1,0 +1,279 @@
+{
+  "accno": "S-EPMC3816386",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Second solid cancers after radiation therapy: a systematic review of the epidemiologic studies of the radiation dose-response relationship."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2013-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Second solid cancers after radiation therapy: a systematic review of the epidemiologic studies of the radiation dose-response relationship."
+      },
+      {
+        "name": "Abstract",
+        "value": "Rapid innovations in radiation therapy techniques have resulted in an urgent need for risk projection models for second cancer risks from high-dose radiation exposure, because direct observation of the late effects of newer treatments will require patient follow-up for a decade or more. However, the patterns of cancer risk after fractionated high-dose radiation are much less well understood than those after lower-dose exposures (0.1-5 Gy). In particular, there is uncertainty about the shape of the dose-response curve at high doses and about the magnitude of the second cancer risk per unit dose. We reviewed the available evidence from epidemiologic studies of second solid cancers in organs that received high-dose exposure (>5 Gy) from radiation therapy where dose-response curves were estimated from individual organ-specific doses. We included 28 eligible studies with 3434 second cancer patients across 11 second solid cancers. Overall, there was little evidence that the dose-response curve was nonlinear in the direction of a downturn in risk, even at organ doses of ≥60 Gy. Thyroid cancer was the only exception, with evidence of a downturn after 20 Gy. Generally the excess relative risk per Gray, taking account of age and sex, was 5 to 10 times lower than the risk from acute exposures of <2 Gy among the Japanese atomic bomb survivors. However, the magnitude of the reduction in risk varied according to the second cancer. The results of our review provide insights into radiation carcinogenesis from fractionated high-dose exposures and are generally consistent with current theoretical models. The results can be used to refine the development of second solid cancer risk projection models for novel radiation therapy techniques."
+      }
+    ],
+    "files": [
+      {
+        "path": "NIHMS418669-supplement-supplement_1.pdf",
+        "size": 330759,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Intramural NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "ZIA CP010131-14"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Intramural NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "ZIA CP010131-18"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "International journal of radiation oncology, biology, physics"
+          },
+          {
+            "name": "Volume",
+            "value": "86(2)"
+          },
+          {
+            "name": "Pages",
+            "value": "224-33"
+          },
+          {
+            "name": "Publication date",
+            "value": "2013 Jun"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1016/j.ijrobp.2012.09.001",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "10.1016/j.ijrobp.2012.09.001",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC3816386",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "23102695",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Berrington de Gonzalez A"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Gilbert E"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Curtis R"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Inskip P"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kleinerman R"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0001-7415-2478"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Morton L"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Rajaraman P"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Little MP"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0003-0980-7567"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Radiation Epidemiology Branch, Division of Cancer Epidemiology & Genetics, NCI, NIH, Bethesda, MD, USA"
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Radiation Epidemiology Branch, Division of Cancer Epidemiology & Genetics, National Cancer Institute, National Institutes of Health, Bethesda, Maryland, USA. berringtona@mail.nih.gov"
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

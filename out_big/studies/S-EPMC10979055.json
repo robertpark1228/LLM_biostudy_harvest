@@ -1,0 +1,311 @@
+{
+  "accno": "S-EPMC10979055",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Risk of Secondary Malignancies After Pelvic Radiation: A Population-based Analysis."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2024-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Risk of Secondary Malignancies After Pelvic Radiation: A Population-based Analysis."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Background and objective</h4>Radiation therapy has increasingly been used in the management of pelvic malignancies. However, the use of radiation continues to pose a risk of a secondary malignancy to its recipients. This study investigates the risk of secondary malignancy development following radiation for primary pelvic malignancies.<h4>Methods</h4>A retrospective cohort review of the Surveillance, Epidemiology, and End Results database from 1975 to 2016 was performed. Primary pelvic malignancies were subdivided based on the receipt of radiation, and secondary malignancies were stratified as pelvic or nonpelvic to investigate the local effect of radiation.<h4>Key findings and limitations</h4>A total of 2 102 192 patients were analyzed (1 189 108 with prostate, 315 026 with bladder, 88 809 with cervical, 249 535 with uterine, and 259 714 with rectal/anal cancer). The incidence rate (defined as cases per 1000 person years) of any secondary malignancies (including but not limited to secondary pelvic malignancies) was higher in radiation patients than in nonradiation patients (incidence rate ratio [IRR] 1.04, confidence interval [CI] 1.03-1.05), with significantly greater rates noted in radiation patients with prostate (IRR 1.22, CI 1.21-1.24), uterine (IRR 1.34), and cervical (IRR 1.80, CI 1.72-1.88) cancer. While the overall incidence rate of any secondary pelvic malignancy was lower in radiation patients (IRR 0.79, CI 0.78-0.81), a greater incidence was still noted in the same cohorts including radiation patients with prostate (IRR 1.42, CI 1.39-1.45), uterine (IRR 1.15, CI 1.08-1.21), and cervical (IRR 1.72, CI 1.59-1.86) cancer.<h4>Conclusions and clinical implications</h4>Except for localized cervical cancer, when put in the context of median overall survival, the impact of radiation likely does not carry enough weight to change practice patterns. Radiation for pelvic malignancies increases the risk for several secondary malignancies, and more specifically, secondary pelvic malignancies, but with a relatively low absolute risk of secondary malignancies, the benefits of radiation warrant continued use for most pelvic malignancies. Practice changes should be considered for radiation utilization in malignancies with excellent cancer-specific survival such as cervical cancer.<h4>Patient summary</h4>The use of radiation for the management of pelvic malignancies induces a risk of secondary malignancies to its recipients. However, the absolute risk being low, the benefits of radiation warrant its continued use, and a change in practice patterns is unlikely."
+      }
+    ],
+    "files": [
+      {
+        "path": "mmc1.docx",
+        "size": 887757,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "European urology open science"
+          },
+          {
+            "name": "Volume",
+            "value": "63"
+          },
+          {
+            "name": "Pages",
+            "value": "52-61"
+          },
+          {
+            "name": "Publication date",
+            "value": "2024 May"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1016/j.euros.2024.02.013",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC10979055",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "38558762",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "McPartland C"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Salib A"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Banks J"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Mark JR"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Lallas CD"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Trabulsi EJ"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Gomella LG"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Goldberg H"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a9",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Leiby B"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a10",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Den R"
+          },
+          {
+            "name": "affiliation",
+            "value": "o5",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a11",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Chandrasekar T"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o5",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Sidney Kimmel Medical College, Thomas Jefferson University, Philadelphia, PA, USA."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Urology, Einstein Healthcare Network, Philadelphia, PA, USA."
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Urology, SUNY Upstate Medical University, Syracuse, New York, NY, USA."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Urology, Sidney Kimmel Medical College, Thomas Jefferson University, Philadelphia, PA, USA."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Division of Biostatistics, Sidney Kimmel Medical College, Thomas Jefferson University, Philadelphia, PA, USA."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

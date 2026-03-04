@@ -1,0 +1,233 @@
+{
+  "accno": "S-EPMC6806015",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Validation of the dicentric chromosome assay for radiation biological dosimetry in South Korea."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2019-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Validation of the dicentric chromosome assay for radiation biological dosimetry in South Korea."
+      },
+      {
+        "name": "Abstract",
+        "value": "The dicentric chromosome assay (DCA) is a well-established biodosimetry test to estimate exposure to ionizing radiation. The Korea Institute of Radiological and Medical Sciences (KIRAMS) established a DCA protocol as a medical response to radiation emergencies in South Korea. To maintain its accuracy and performance, intercomparison exercises with Health Canada (HC) have been conducted; herein, we aimed to validate our capacity of DCA analysis based on those results. Blood samples irradiated at HC were shipped to KIRAMS to assess the irradiation dose to blinded samples using conventional DCA full scoring and triage-based techniques (conventional DCA scoring in triage mode and DCA QuickScan method). Actual doses fell within the 95% confidence intervals of dose estimates for 70-100% of the blinded samples in 2015-2018. All methods discriminated binary dose categories, reflecting clinical significance. This DCA can be used as a reliable radiation biodosimetry tool in preparation for radiation accidents in South Korea."
+      }
+    ],
+    "files": [
+      {
+        "path": "rrz039_supplementary_tables.xlsx",
+        "size": 23607,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Nuclear Safety and Security Commission"
+          },
+          {
+            "name": "grant_id",
+            "value": "50614-2019"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Ministry of Science and ICT"
+          },
+          {
+            "name": "grant_id",
+            "value": "50445-2019"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Korea Institute of Radiological and Medical Sciences"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Journal of radiation research"
+          },
+          {
+            "name": "Volume",
+            "value": "60(5)"
+          },
+          {
+            "name": "Pages",
+            "value": "555-563"
+          },
+          {
+            "name": "Publication date",
+            "value": "2019 Oct"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1093/jrr/rrz039",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC6806015",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "31165147",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Lee Y"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0003-0633-7248"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Jin YW"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Wilkins RC"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-9621-477X"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Jang S"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0001-8116-2279"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Consumer and Clinical Radiation Protection Bureau, Health Canada, Ottawa, Ontario, Canada."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Laboratory of Biological Dosimetry, National Radiation Emergency Medical Center, Korea Institute of Radiological and Medical Sciences, Seoul, Republic of Korea."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "National Radiation Emergency Medical Center, Korea Institute of Radiological and Medical Sciences, Seoul, Republic of Korea."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

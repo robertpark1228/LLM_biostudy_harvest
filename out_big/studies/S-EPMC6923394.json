@@ -1,0 +1,263 @@
+{
+  "accno": "S-EPMC6923394",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Discordant gene responses to radiation in humans and mice and the role of hematopoietically humanized mice in the search for radiation biomarkers."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2019-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Discordant gene responses to radiation in humans and mice and the role of hematopoietically humanized mice in the search for radiation biomarkers."
+      },
+      {
+        "name": "Abstract",
+        "value": "The mouse (Mus musculus) is an extensively used model of human disease and responses to stresses such as ionizing radiation. As part of our work developing gene expression biomarkers of radiation exposure, dose, and injury, we have found many genes are either up-regulated (e.g. CDKN1A, MDM2, BBC3, and CCNG1) or down-regulated (e.g. TCF4 and MYC) in both species after irradiation at ~4 and 8 Gy. However, we have also found genes that are consistently up-regulated in humans and down-regulated in mice (e.g. DDB2, PCNA, GADD45A, SESN1, RRM2B, KCNN4, IFI30, and PTPRO). Here we test a hematopoietically humanized mouse as a potential in vivo model for biodosimetry studies, measuring the response of these 14 genes one day after irradiation at 2 and 4 Gy, and comparing it with that of human blood irradiated ex vivo, and blood from whole body irradiated mice. We found that human blood cells in the hematopoietically humanized mouse in vivo environment recapitulated the gene expression pattern expected from human cells, not the pattern seen from in vivo irradiated normal mice. The results of this study support the use of hematopoietically humanized mice as an in vivo model for screening of radiation response genes relevant to humans."
+      }
+    ],
+    "files": [
+      {
+        "path": "41598_2019_55982_MOESM1_ESM.xlsx",
+        "size": 38146,
+        "type": "file"
+      },
+      {
+        "path": "41598_2019_55982_MOESM2_ESM.xlsx",
+        "size": 11684,
+        "type": "file"
+      },
+      {
+        "path": "41598_2019_55982_MOESM3_ESM.pdf",
+        "size": 670565,
+        "type": "file"
+      },
+      {
+        "path": "41598_2019_55982_MOESM4_ESM.xlsx",
+        "size": 11135,
+        "type": "file"
+      }
+    ],
+    "links": [
+      [
+        {
+          "url": "GSE8917",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "geo"
+            }
+          ]
+        },
+        {
+          "url": "GSE99176",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "geo"
+            }
+          ]
+        },
+        {
+          "url": "GSE20162",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "geo"
+            }
+          ]
+        },
+        {
+          "url": "GSE85323",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "geo"
+            }
+          ]
+        }
+      ]
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NIAID NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "U19 AI067773"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Scientific reports"
+          },
+          {
+            "name": "Volume",
+            "value": "9(1)"
+          },
+          {
+            "name": "Pages",
+            "value": "19434"
+          },
+          {
+            "name": "Publication date",
+            "value": "2019 Dec"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1038/s41598-019-55982-2",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC6923394",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "31857640",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Ghandhi SA"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Smilenov L"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Shuryak I"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Pujol-Canadell M"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-7403-9683"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Amundson SA"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Columbia University Irving Medical Center, 630 W 168th street, VC11-237, New York, NY, 10032, USA."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Columbia University Irving Medical Center, 630 W 168th street, VC11-237, New York, NY, 10032, USA. sg2423@cumc.columbia.edu."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

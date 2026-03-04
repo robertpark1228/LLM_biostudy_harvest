@@ -1,0 +1,382 @@
+{
+  "accno": "S-EPMC6457649",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Mebendazole Potentiates Radiation Therapy in Triple-Negative Breast Cancer."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2019-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Mebendazole Potentiates Radiation Therapy in Triple-Negative Breast Cancer."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Purpose</h4>The lack of a molecular target in triple-negative breast cancer (TNBC) makes it one of the most challenging breast cancers to treat. Radiation therapy (RT) is an important treatment modality for managing breast cancer; however, we previously showed that RT can also reprogram a fraction of the surviving breast cancer cells into breast cancer-initiating cells (BCICs), which are thought to contribute to disease recurrence. In this study, we characterize mebendazole (MBZ) as a drug with potential to prevent the occurrence of radiation-induced reprogramming and improve the effect of RT in patients with TNBC.<h4>Methods and materials</h4>A high-throughput screen was used to identify drugs that prevented radiation-induced conversion of TNBC cells into cells with a cancer-initiating phenotype and exhibited significant toxicity toward TNBC cells. MBZ was one of the drug hits that fulfilled these criteria. In additional studies, we used BCIC markers and mammosphere-forming assays to investigate the effect of MBZ on the BCIC population. Staining with propidium iodide, annexin-V, and γ-H2AX was used to determine the effect of MBZ on cell cycle, apoptosis, and double-strand breaks. Finally, the potential for MBZ to enhance the effect of RT in TNBC was evaluated in vitro and in vivo.<h4>Results</h4>MBZ efficiently depletes the BCIC pool and prevents the ionizing radiation-induced conversion of breast cancer cells into therapy-resistant BCICs. In addition, MBZ arrests cells in the G2/M phase of the cell cycle and causes double-strand breaks and apoptosis. MBZ sensitizes TNBC cells to ionizing radiation in vitro and in vivo, resulting in improved tumor control in a human xenograft model of TNBC.<h4>Conclusions</h4>The data presented in this study support the repurposing of MBZ as a combination treatment with RT in patients with TNBC."
+      }
+    ],
+    "files": [
+      {
+        "path": "NIHMS1009876-supplement-SF.pdf",
+        "size": 624100,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "P50 CA211015"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "National Cancer Institute"
+          },
+          {
+            "name": "grant_id",
+            "value": "1R01CA161294"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "R01 CA161294"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "R01 CA200234"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "International journal of radiation oncology, biology, physics"
+          },
+          {
+            "name": "Volume",
+            "value": "103(1)"
+          },
+          {
+            "name": "Pages",
+            "value": "195-207"
+          },
+          {
+            "name": "Publication date",
+            "value": "2019 Jan"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1016/j.ijrobp.2018.08.046",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "10.1016/j.ijrobp.2018.08.046",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC6457649",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "30196056",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Zhang L"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Bochkur Dratver M"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Yazal T"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Dong K"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Nguyen A"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Yu G"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Dao A"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Bochkur Dratver M"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a9",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Duhachek-Muggy S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a10",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Bhat K"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a11",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Alli C"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a12",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Pajonk F"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a13",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Vlashi E"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, David Geffen School of Medicine, University of California, Los Angeles, Los Angeles, California."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, David Geffen School of Medicine, University of California, Los Angeles, Los Angeles, California; Jonsson Comprehensive Cancer Center, University of California, Los Angeles, Los Angeles, California."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, David Geffen School of Medicine, University of California, Los Angeles, Los Angeles, California; Jonsson Comprehensive Cancer Center, University of California, Los Angeles, Los Angeles, California. Electronic address: evlashi@mednet.ucla.edu."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

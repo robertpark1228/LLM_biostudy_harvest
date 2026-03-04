@@ -1,0 +1,435 @@
+{
+  "accno": "S-EPMC5874526",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Post-Irradiation Treatment with a Superoxide Dismutase Mimic, MnTnHex-2-PyP5+, Mitigates Radiation Injury in the Lungs of Non-Human Primates after Whole-Thorax Exposure to Ionizing Radiation."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2018-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Post-Irradiation Treatment with a Superoxide Dismutase Mimic, MnTnHex-2-PyP5+, Mitigates Radiation Injury in the Lungs of Non-Human Primates after Whole-Thorax Exposure to Ionizing Radiation."
+      },
+      {
+        "name": "Abstract",
+        "value": "Radiation injury to the lung is the result of acute and chronic free radical formation, and there are currently few effective means of mitigating such injury. Studies in rodents indicate that superoxide dismutase mimetics may be effective in this regard; however, studies in humans or large animals are lacking. We hypothesized that post-exposure treatment with the lipophilic mitochondrial superoxide dismutase mimetic, MnTnHex-2-PyP5+ (hexyl), would reduce radiation-induced pneumonitis and fibrosis in the lungs of nonhuman primates. Rhesus monkeys (Macaca mulatta) received 10 Gy whole thorax irradiation, 10 Gy + hexyl treatment, sham irradiation, or sham irradiation + hexyl. Hexyl was given twice daily, subcutaneously, at 0.05 mg/kg, for 2 months. Animals were monitored daily, and respiratory rates, pulse oximetry, hematology and serum chemistry panels were performed weekly. Computed tomography scans were performed at 0, 2, and 4 months after irradiation. Supportive fluid therapy, corticosteroids, analgesics, and antibiotics were given as needed. All animals were humanely euthanized 4.5 months after irradiation, and pathologic assessments were made. Multifocal, progressive lung lesions were seen at 2 and 4 months in both irradiated groups. Hexyl treatment delayed the onset of radiation-induced lung lesions, reduced elevations of respiratory rate, and reduced pathologic increases in lung weight. No adverse effects of hexyl treatment were found. These results demonstrate (1) development of a nonhuman primate model of radiation-induced lung injury, (2) a significant mitigating effect of hexyl treatment on lung pathology in this model, and (3) no evidence for toxicity of hexyl at the dose studied."
+      }
+    ],
+    "files": [
+      {
+        "path": "antioxidants-07-00040-s001.pdf",
+        "size": 118164,
+        "type": "file"
+      }
+    ],
+    "links": [
+      [
+        {
+          "url": "NCT03386500",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT02655601",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT02990468",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        }
+      ]
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Antioxidants (Basel, Switzerland)"
+          },
+          {
+            "name": "Volume",
+            "value": "7(3)"
+          },
+          {
+            "name": "Pages",
+            "value": "E40"
+          },
+          {
+            "name": "Publication date",
+            "value": "2018 Mar"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.3390/antiox7030040",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC5874526",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "29518913",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Cline JM"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Dugan G"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-0558-0919"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Bourland JD"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Perry DL"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Stitzel JD"
+          },
+          {
+            "name": "affiliation",
+            "value": "o5",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Weaver AA"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-4383-0106"
+          },
+          {
+            "name": "affiliation",
+            "value": "o6",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Jiang C"
+          },
+          {
+            "name": "affiliation",
+            "value": "o7",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Tovmasyan A"
+          },
+          {
+            "name": "affiliation",
+            "value": "o8",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a9",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Owzar K"
+          },
+          {
+            "name": "affiliation",
+            "value": "o9",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a10",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Spasojevic I"
+          },
+          {
+            "name": "affiliation",
+            "value": "o10",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a11",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Batinic-Haberle I"
+          },
+          {
+            "name": "affiliation",
+            "value": "o11",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a12",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Vujaskovic Z"
+          },
+          {
+            "name": "affiliation",
+            "value": "o12",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o6",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Biomedical Engineering, Wake Forest University School of Medicine, Biotech Place, 575 N. Patterson Ave., Winston-Salem, NC 21701, USA. asweaver@wakehealth.edu."
+          }
+        ]
+      },
+      {
+        "accno": "o5",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Biomedical Engineering, Wake Forest University School of Medicine, Biotech Place, 575 N. Patterson Ave., Winston-Salem, NC 21701, USA. jstitzel@wakehealth.edu."
+          }
+        ]
+      },
+      {
+        "accno": "o7",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Biostatistics and Bioinformatics, Duke University Medical Center, Durham, NC 27708, USA. chen.jiang@duke.edu."
+          }
+        ]
+      },
+      {
+        "accno": "o9",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Biostatistics and Bioinformatics, Duke University Medical Center, Durham, NC 27708, USA. kouros.owzar@duke.edu."
+          }
+        ]
+      },
+      {
+        "accno": "o10",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Medicine Duke University Medical Center, Durham, NC 27708, USA. ivan.spasojevic@duke.edu."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Pathology, Section on Comparative Medicine, Wake Forest University School of Medicine, Medical Center Boulevard, Winston-Salem, NC 27157-1040, USA. gdugan@wakehealth.edu."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Pathology, Section on Comparative Medicine, Wake Forest University School of Medicine, Medical Center Boulevard, Winston-Salem, NC 27157-1040, USA. jmcline@wakehealth.edu."
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Pathology, Section on Comparative Medicine, Wake Forest University School of Medicine, Medical Center Boulevard, Winston-Salem, NC 27157-1040, USA. perrydl@niaid.nih.gov."
+          }
+        ]
+      },
+      {
+        "accno": "o8",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Duke University Medical Center, Durham, NC 27708, USA. artak.tovmasyan@duke.edu."
+          }
+        ]
+      },
+      {
+        "accno": "o11",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Duke University Medical Center, Durham, NC 27708, USA. ibatinic@duke.edu."
+          }
+        ]
+      },
+      {
+        "accno": "o12",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Duke University Medical Center, Durham, NC 27708, USA. zvujaskovic@som.umaryland.edu."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Wake Forest University School of Medicine, Medical Center Boulevard, Winston-Salem, NC 27157-1040, USA. bourland@wakehealth.edu."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

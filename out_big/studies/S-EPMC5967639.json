@@ -1,0 +1,266 @@
+{
+  "accno": "S-EPMC5967639",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "A Metabolomic Serum Signature from Nonhuman Primates Treated with a Radiation Countermeasure, Gamma-tocotrienol, and Exposed to Ionizing Radiation."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2018-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "A Metabolomic Serum Signature from Nonhuman Primates Treated with a Radiation Countermeasure, Gamma-tocotrienol, and Exposed to Ionizing Radiation."
+      },
+      {
+        "name": "Abstract",
+        "value": "The search for and development of radiation countermeasures to treat acute lethal radiation injury has been underway for the past six decades, resulting in the identification of multiple classes of radiation countermeasures. However, to date only granulocyte colony-stimulating factor (Neupogen) and PEGylated granulocyte colony-stimulating factor (Neulasta) have been approved by the U.S. Food and Drug Administration for the treatment of hematopoietic acute radiation syndrome. Gamma-tocotrienol has demonstrated radioprotective efficacy in murine and nonhuman primate models. Currently, this agent is under advanced development as a radioprotector, and the authors are trying to identify its efficacy biomarkers. In this study, global metabolomic changes were analyzed using ultraperformance liquid chromatography quadrupole time-of-flight mass spectrometry. The pilot study using 16 nonhuman primates (8 nonhuman primates each in gamma-tocotrienol- and vehicle-treated groups), with samples obtained from gamma-tocotrienol-treated and irradiated nonhuman primates, demonstrates several metabolites that are altered after irradiation, including compounds involved in fatty acid beta-oxidation, purine catabolism, and amino acid metabolism. The machine-learning algorithm, Random Forest, separated control, irradiated gamma-tocotrienol-treated, and irradiated vehicle-treated nonhuman primates at 12 h and 24 h as evident in a multidimensional scaling plot. Primary metabolites validated included carnitine/acylcarnitines, amino acids, creatine, and xanthine. Overall, gamma-tocotrienol administration reduced high fluctuations in serum metabolite levels, suggesting an overall beneficial effect on animals exposed to radiation. This initial assessment also highlights the utility of metabolomics in determining underlying physiological mechanisms responsible for the radioprotective efficacy of gamma-tocotrienol."
+      }
+    ],
+    "files": [
+      {
+        "path": "NIHMS909895-supplement-Supplementary_figure_1.pptx",
+        "size": 738110,
+        "type": "file"
+      },
+      {
+        "path": "NIHMS909895-supplement-Supplementary_table_1.docx",
+        "size": 23013,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NIAID NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "R01 AI101798"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "T32 CA009686"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "P30 CA051008"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Health physics"
+          },
+          {
+            "name": "Volume",
+            "value": "115(1)"
+          },
+          {
+            "name": "Pages",
+            "value": "3-11"
+          },
+          {
+            "name": "Publication date",
+            "value": "2018 Jul"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1097/HP.0000000000000776",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "10.1097/hp.0000000000000776",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC5967639",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "29787425",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Pannkuk EL"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-4953-9715"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Laiakis EC"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Fornace AJ"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Fatanmi OO"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-7942-2497"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Singh VK"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-6631-3849"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Biochemistry and Molecular & Cellular Biology, Georgetown University Medical Center, Washington, DC 20057."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Pharmacology and Molecular Therapeutics, F. Edward Hébert School of Medicine, Uniformed Services University of the Health Sciences, Bethesda, MD 20814."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Tumor Biology Program, Lombardi Comprehensive Cancer Center, Georgetown University, Washington, DC 20057."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

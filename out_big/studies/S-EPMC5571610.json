@@ -1,0 +1,183 @@
+{
+  "accno": "S-EPMC5571610",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Evaluation of the prevalence of burnout and psychological morbidity among radiation oncologist members of the Kyoto Radiation Oncology Study Group (KROSG)."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2017-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Evaluation of the prevalence of burnout and psychological morbidity among radiation oncologist members of the Kyoto Radiation Oncology Study Group (KROSG)."
+      },
+      {
+        "name": "Abstract",
+        "value": "This study aimed to evaluate the self-reported prevalence of burnout and psychological morbidity among radiation oncologists members of the Kyoto Radiation Oncology Study Group (KROSG) and to identify factors contributing to burnout. We mailed an anonymous survey to 125 radiation oncologists members of the KROSG. The survey included; the demographic data, the Maslach Burnout Inventory - Human Services Survey (MBI-HSS) and the 12-item General Health Questionnaire (GHQ-12). There were 87 responses out of 125 eligible respondents (69.6% response rate). In terms of burnout, three participants (3.4%) fulfilled the MBI-HSS criteria of having simultaneously high emotional exhaustion (EE), high depersonalization (DP) and low sense of personal accomplishment (PA). Eighteen (20.6%) reported a high score for either EE or DP meeting the alternative criteria for burnout with three of these simultaneously having high EE and high DP. The prevalence of psychological morbidity estimated using GHQ-12 was 32%. A high level of EE and low level of PA significantly correlated with high level of psychological morbidity with P < 0.001 and <0.01 respectively. Having palliative care activities other than radiotherapy and number of patients treated per year were the only factors associated with burnout. This is the first study investigating the prevalence of burnout and psychological morbidity among radiation oncologists in Japan. Compared with other studies involving radiation oncologists, the prevalence of low personal accomplishment was particularly high in the present study. The prevalence of psychological morbidity was almost the double that of the Japanese general population and was significantly associated with low PA and high EE."
+      }
+    ],
+    "files": [
+      {
+        "path": "supplement_material.docx",
+        "size": 17095,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Japan Society for the Promotion of Science"
+          },
+          {
+            "name": "grant_id",
+            "value": "15K09992"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Journal of radiation research"
+          },
+          {
+            "name": "Volume",
+            "value": "58(2)"
+          },
+          {
+            "name": "Pages",
+            "value": "217-224"
+          },
+          {
+            "name": "Publication date",
+            "value": "2017 Mar"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1093/jrr/rrw094",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC5571610",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "28399575",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Mampuya WA"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Matsuo Y"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-4372-8259"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Nakamura A"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Hiraoka M"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology and Image-applied Therapy, Graduate School of Medicine, Kyoto University, 54 Kawahara-cho, Shogoin, Sakyo-ku, Kyoto 606-8507, Japan."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

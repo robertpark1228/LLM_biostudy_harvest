@@ -1,0 +1,379 @@
+{
+  "accno": "S-EPMC3517426",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Localized intestinal radiation and liquid diet enhance survival and permit evaluation of long-term intestinal responses to high dose radiation in mice."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2012-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Localized intestinal radiation and liquid diet enhance survival and permit evaluation of long-term intestinal responses to high dose radiation in mice."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Background</h4>In vivo studies of high dose radiation-induced crypt and intestinal stem cell (ISC) loss and subsequent regeneration are typically restricted to 5-8 days after radiation due to high mortality and immune failure. This study aimed to develop murine radiation models of complete crypt loss that permit longer-term studies of ISC and crypt regeneration, repair and normalization of the intestinal epithelium.<h4>Methods</h4>In C57Bl/6J mice, a predetermined small intestinal segment was exteriorized and exposed to 14 Gy-radiation, while a lead shield protected the rest of the body from radiation. Sham controls had segment exteriorization but no radiation. Results were compared to C57Bl/6J mice given 14 Gy-abdominal radiation. Effects of elemental liquid diet feeding from the day prior to radiation until day 7 post-radiation were assessed in both models. Body weight and a custom-developed health score was assessed every day until day 21 post-radiation. Intestine was assessed histologically.<h4>Results</h4>At day 3 after segment radiation, complete loss of crypts occurred in the targeted segment, while adjacent and remaining intestine in segment-radiated mice, and entire intestine of sham controls, showed no detectable epithelial damage. Liquid diet feeding was required for survival of mice after segment radiation. Liquid diet significantly improved survival, body weight recovery and normalization of intestinal epithelium after abdominal radiation. Mice given segment radiation combined with liquid diet feeding showed minimal body weight loss, increased food intake and enhanced health score.<h4>Conclusions</h4>The segment radiation method provides a useful model to study ISC/crypt loss and long-term crypt regeneration and epithelial repair, and may be valuable for future application to ISC transplantation or to genetic mutants that would not otherwise survive radiation doses that lead to complete crypt loss. Liquid diet is a simple intervention that improves survival and facilitates long-term studies of intestine in mice after high dose abdominal or segment radiation."
+      }
+    ],
+    "files": [
+      {
+        "path": "pone.0051310.s001.tif",
+        "size": 4477312,
+        "type": "file"
+      },
+      {
+        "path": "pone.0051310.s002.tif",
+        "size": 4471308,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NIDDK NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "P30 DK034987"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NIDDK NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "R01 DK083325"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NIDDK NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "R01 DK040247"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NIDDK NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "R01-DK040247-20"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NIDDK NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "U01 DK085532"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NIDDK NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "U01 DK085547"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NIDDK NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "U01-DK085547"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NIDDK NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "U24 DK085532"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NIDDK NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "P30-DK034987"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NIEHS NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "P30 ES010126"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "PloS one"
+          },
+          {
+            "name": "Volume",
+            "value": "7(12)"
+          },
+          {
+            "name": "Pages",
+            "value": "e51310"
+          },
+          {
+            "name": "Publication date",
+            "value": "2012"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1371/journal.pone.0051310",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC3517426",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "23236468",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Van Landeghem L"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0001-7408-3521"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Blue RE"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-9774-6778"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Dehmer JJ"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Henning SJ"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Helmrath MA"
+          },
+          {
+            "name": "affiliation",
+            "value": "o5",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Lund PK"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Cell Biology and Physiology, University of North Carolina, Chapel Hill, North Carolina, United States of America"
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Cell Biology and Physiology, University of North Carolina, Chapel Hill, North Carolina, United States of America."
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Medicine, University of North Carolina, Chapel Hill, North Carolina, United States of America"
+          }
+        ]
+      },
+      {
+        "accno": "o5",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Surgery, University of Cincinnati, Cincinnati, Ohio, United States of America"
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Surgery, University of North Carolina, Chapel Hill, North Carolina, United States of America"
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

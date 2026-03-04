@@ -1,0 +1,363 @@
+{
+  "accno": "S-EPMC10993299",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Acquired Radiation Resistance Induces Thiol-dependent Cisplatin Cross-resistance."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2024-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Acquired Radiation Resistance Induces Thiol-dependent Cisplatin Cross-resistance."
+      },
+      {
+        "name": "Abstract",
+        "value": "Resistance to radiation remains a significant clinical challenge in non-small cell lung carcinoma (NSCLC). It is therefore important to identify the underlying molecular and cellular features that drive acquired resistance. We generated genetically matched NSCLC cell lines to investigate characteristics of acquired resistance. Murine Lewis lung carcinoma (LLC) and human A549 cells acquired an approximate 1.5-2.5-fold increase in radiation resistance as compared to their parental match, which each had unique intrinsic radio-sensitivities. The radiation resistance (RR) was reflected in higher levels of DNA damage and repair marker γH2AX and reduced apoptosis induction after radiation. Morphologically, we found that radiation resistance A549 (A549-RR) cells exhibited a greater nucleus-to-cytosol (N/C) ratio as compared to its parental counterpart. Since the N/C ratio is linked to the differentiation state, we next investigated the epithelial-to-mesenchymal transition (EMT) phenotype and cellular plasticity. We found that A549 cells had a greater radiation-induced plasticity, as measured by E-cadherin, vimentin and double-positive (DP) modulation, as compared to LLC. Additionally, migration was suppressed in A549-RR cells, as compared to A549 cells. Subsequently, we confirmed in vivo that the LLC-RR and A549-RR cells are also more resistance to radiation than their isogenic-matched counterpart. Moreover, we found that the acquired radiation resistance also induced resistance to cisplatin, but not carboplatin or oxaliplatin. This cross-resistance was attributed to induced elevation of thiol levels. Gamma-glutamylcysteine synthetase inhibitor buthionine sulfoximine (BSO) sensitized the resistant cells to cisplatin by decreasing the amount of thiols to levels prior to obtaining acquired radiation resistance. By generating radiation-resistance genetically matched NSCLC we were able to identify and overcome cisplatin cross-resistance. This is an important finding arguing for combinatorial treatment regimens including glutathione pathway disruptors in patients with the potential of improving clinical outcomes in the future."
+      }
+    ],
+    "files": [
+      {
+        "path": "NIHMS1973344-supplement-Supplementary_date_1.pdf",
+        "size": 640416,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NIGMS NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "P30 GM145393"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "R01 CA245083"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NIGMS NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "P20 GM103429"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NIGMS NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "P20 GM109005"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NIGMS NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "P20 GM103625"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "R01 CA238025"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Radiation research"
+          },
+          {
+            "name": "Volume",
+            "value": "201(2)"
+          },
+          {
+            "name": "Pages",
+            "value": "174-187"
+          },
+          {
+            "name": "Publication date",
+            "value": "2024 Feb"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1667/RADE-23-00005.1",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "10.1667/rade-23-00005.1",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC10993299",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "38329819",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Jenkins SV"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Shah S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Jamshidi-Parsian A"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Mortazavi A"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kristian H"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Boysen G"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Vang KB"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Griffin RJ"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a9",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Rajaram N"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a10",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Dings RPM"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department for Biomedical Engineering, University of Arkansas, University of Arkansas at Fayetteville, Fayetteville, Arkansas 72701."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, University of Arkansas for Medical Sciences, Little Rock, Arkansas 72205."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Environment Health Sciences, University of Arkansas for Medical Sciences, Little Rock, Arkansas 72205."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

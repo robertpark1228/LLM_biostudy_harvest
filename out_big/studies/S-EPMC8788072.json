@@ -1,0 +1,279 @@
+{
+  "accno": "S-EPMC8788072",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Differential effects of radiation fractionation regimens on glioblastoma."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2022-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Differential effects of radiation fractionation regimens on glioblastoma."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Background</h4>Radiotherapy (RT) is a mainstay of treatment for patients with glioblastoma (GB). Early clinical trials show that short course hypofractionation showed no survival benefit compared to conventional regimens with or without temozolomide chemotherapy (TMZ) but reduces the number of doses required. Concerns around delayed neurological deficits and reduced cognition from short course hypofractionated RT remain a concern. The aim of this study was to evaluate the effect of increased interfractional time using two different radiation fractionation regimens on GB.<h4>Methods</h4>The radiobiological effect of increasing doses 0-20 Gy x-ray photon RT on Gl261 and CT2A GB cell lines was compared by colony forming assay, DNA damage by alkaline comet assay, oxidative stress, DNA damage, cell cycle, and caspase-3/7 by MUSE® flow cytometric analyses, and protein expression by western blot analyses. Conventional (20 Gy/10 fractions) and hypofractionated (20 Gy/4 fractions spaced 72 h apart) RT regimens with and without TMZ (200 mg/kg/day) were performed in syngeneic Gl261 and CT2A intracranial mouse models using the Small Animal Radiation Research Platform (Xstrahl Inc.).<h4>Results</h4>X-ray photon radiation dose-dependently increased reactive oxygen species, DNA damage, autophagy, and caspase 3/7-mediated apoptotic cell death. While the conventional fractionated dose regimen of 20 Gy/10 f was effective at inducing cell death via the above mechanism, this was exceeded by a 20 Gy/4 f regimen which improved median survival and histopathology in Gl261-tumor bearing mice, and eradicated tumors in CT2A tumors with no additional toxicity.<h4>Conclusions</h4>Spacing of hypofractionated RT doses 72 h apart showed increased median survival and tumor control via increased activation of RT-mediated cell death, with no observed increased in radiotoxicity. This supports further exploration of differential RT fractionated regimens in GB clinical trials to reduce delayed neurological radiotoxicity."
+      }
+    ],
+    "files": [
+      {
+        "path": "13014_2022_1990_MOESM1_ESM.docx",
+        "size": 13825,
+        "type": "file"
+      },
+      {
+        "path": "13014_2022_1990_MOESM2_ESM.xlsx",
+        "size": 24797,
+        "type": "file"
+      },
+      {
+        "path": "13014_2022_1990_MOESM3_ESM.pdf",
+        "size": 625280,
+        "type": "file"
+      },
+      {
+        "path": "13014_2022_1990_MOESM4_ESM.pdf",
+        "size": 1186764,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Hunter Medical Research Institute"
+          },
+          {
+            "name": "grant_id",
+            "value": "HMRI 1357"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Hunter Medical Research Institute"
+          },
+          {
+            "name": "grant_id",
+            "value": "HMRI 780"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Hunter Medical Research Institute"
+          },
+          {
+            "name": "grant_id",
+            "value": "HMRI 1096"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Radiation oncology (London, England)"
+          },
+          {
+            "name": "Volume",
+            "value": "17(1)"
+          },
+          {
+            "name": "Pages",
+            "value": "17"
+          },
+          {
+            "name": "Publication date",
+            "value": "2022 Jan"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1186/s13014-022-01990-y",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC8788072",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "35073960",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "McKelvey KJ"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-4923-791X"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Hudson AL"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Donaghy H"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Stoner SP"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Wheeler HR"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Diakos CI"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Howell VM"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Bill Walsh Translational Cancer Research Laboratory, Faculty of Medicine and Health, The University of Sydney, St Leonards, NSW, 2065, Australia."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Bill Walsh Translational Cancer Research Laboratory, Faculty of Medicine and Health, The University of Sydney, St Leonards, NSW, 2065, Australia. kelly.mckelvey@sydney.edu.au."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

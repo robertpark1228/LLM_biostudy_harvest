@@ -1,0 +1,246 @@
+{
+  "accno": "S-EPMC11387223",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Hippocampal-Sparing Radiation Therapy in Primary Sinonasal and Cutaneous Tumors of the Head and Neck."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2024-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Hippocampal-Sparing Radiation Therapy in Primary Sinonasal and Cutaneous Tumors of the Head and Neck."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Purpose</h4>Patients with primary sinonasal and cutaneous head and neck (H&N) malignancies often receive meaningful radiation dose to their hippocampi, but this not a classic avoidance structure in radiation planning. We aimed to characterize the feasibility and tradeoffs of hippocampal-sparing radiation therapy (HSRT) for patients with primary sinonasal and cutaneous H&N malignancies.<h4>Methods and materials</h4>We retrospectively selected patients who were treated definitively for primary sinonasal or cutaneous malignancies of the H&N at an academic medical center. All received (chemo)radiation alone or adjuvantly and substantial radiation dose to 1 or both hippocampi. We created new HSRT plans for each patient with intensity modulated radiation therapy using the original target and organ-at-risk (OAR) volumes. Hippocampi were contoured based on Radiation Therapy Oncology Group guidelines and reviewed by a neuroradiologist. Absolute and relative differences in radiation dose to the hippocampi, planning target volumes (PTVs), and OARs were recorded and compared.<h4>Results</h4>There were 18 sinonasal and 12 cutaneous H&N primary tumors (30 patients in total). Median prescription dose was 6600 cGy (range, 5000-7440 cGy), and 14 of the 30 patients received 120 cGy/fraction twice daily, 13 of the 30 patients received 200 cGy/fraction once daily, whereas others received 180-275 cGy/fraction once daily. The relative decrease in ipsilateral hippocampal D<sub>max</sub> and D100% using HSRT was 44% (median, 2009 cGy from 3586 cGy) and 65% (median 434 cGy from 1257 cGy), respectively. There were no statistically significant or clinically meaningful differences in PTV V100%, PTV D1%, or radiation dose to other OARs between HSRT and non-HSRT plans.<h4>Conclusions</h4>HSRT is feasible and results in meaningful dose reduction to the hippocampi without reducing PTV coverage or increasing dose to other OARs. We suggest target hippocampal constraints of D<sub>max</sub> < 1600 cGy and D100% < 500 cGy when feasible (without compromising PTV coverage or impacting other critical OARs). The clinical significance of HSRT in patients with primary H&N tumors should be investigated prospectively."
+      }
+    ],
+    "files": [
+      {
+        "path": "mmc1.jpg",
+        "size": 8516611,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Advances in radiation oncology"
+          },
+          {
+            "name": "Volume",
+            "value": "9(10)"
+          },
+          {
+            "name": "Pages",
+            "value": "101588"
+          },
+          {
+            "name": "Publication date",
+            "value": "2024 Oct"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1016/j.adro.2024.101588",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC11387223",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "39263446",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Hall J"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Dance M"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Huang B"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Steele E"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Nguyen L"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Repka M"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Chen X"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Shen C"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, University of North Carolina, Chapel Hill, North Carolina."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiology, University of North Carolina, Chapel Hill, North Carolina."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "University of North Carolina, Chapel Hill, North Carolina."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

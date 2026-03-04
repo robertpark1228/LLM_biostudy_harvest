@@ -1,0 +1,414 @@
+{
+  "accno": "S-EPMC10204497",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Applying a Radiation Therapy Volume Analysis Pipeline to Determine the Utility of Spectroscopic MRI-Guided Adaptive Radiation Therapy for Glioblastoma."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2023-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Applying a Radiation Therapy Volume Analysis Pipeline to Determine the Utility of Spectroscopic MRI-Guided Adaptive Radiation Therapy for Glioblastoma."
+      },
+      {
+        "name": "Abstract",
+        "value": "Accurate radiation therapy (RT) targeting is crucial for glioblastoma treatment but may be challenging using clinical imaging alone due to the infiltrative nature of glioblastomas. Precise targeting by whole-brain spectroscopic MRI, which maps tumor metabolites including choline (Cho) and N-acetylaspartate (NAA), can quantify early treatment-induced molecular changes that other traditional modalities cannot measure. We developed a pipeline to determine how spectroscopic MRI changes during early RT are associated with patient outcomes to provide insight into the utility of adaptive RT planning. Data were obtained from a study (NCT03137888) where glioblastoma patients received high-dose RT guided by the pre-RT Cho/NAA twice normal (Cho/NAA ≥ 2x) volume, and received spectroscopic MRI scans pre- and mid-RT. Overlap statistics between pre- and mid-RT scans were used to quantify metabolic activity changes after two weeks of RT. Log-rank tests were used to quantify the relationship between imaging metrics and patient overall and progression-free survival (OS/PFS). Patients with lower Jaccard/Dice coefficients had longer PFS (<i>p</i> = 0.045 for both), and patients with lower Jaccard/Dice coefficients had higher OS trending towards significance (<i>p</i> = 0.060 for both). Cho/NAA ≥ 2x volumes changed significantly during early RT, putting healthy tissue at risk of irradiation, and warranting further study into using adaptive RT planning."
+      }
+    ],
+    "files": [
+      {
+        "path": "tomography-09-00086-s001.zip",
+        "size": 41931714,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NIH"
+          },
+          {
+            "name": "grant_id",
+            "value": "F31 CA247564"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NIH"
+          },
+          {
+            "name": "grant_id",
+            "value": "U01 CA264039"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "U01 CA264039"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "R01 NS121544"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NIH"
+          },
+          {
+            "name": "grant_id",
+            "value": "R01 NS121544"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "F31 CA247564"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Tomography (Ann Arbor, Mich.)"
+          },
+          {
+            "name": "Volume",
+            "value": "9(3)"
+          },
+          {
+            "name": "Pages",
+            "value": "1052-1061"
+          },
+          {
+            "name": "Publication date",
+            "value": "2023 May"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.3390/tomography9030086",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC10204497",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "37218946",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Trivedi AG"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kim SH"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Ramesh KK"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Giuffrida AS"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Weinberg BD"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Mellon EA"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kleinberg LR"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Barker PB"
+          },
+          {
+            "name": "affiliation",
+            "value": "o5",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a9",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Han H"
+          },
+          {
+            "name": "affiliation",
+            "value": "o6",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a10",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Shu HG"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a11",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Shim H"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a12",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Schreibmann E"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o6",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Biomedical Imaging Research Institute, Cedars-Sinai Medical Center, Los Angeles, CA 90048, USA."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Emory University School of Medicine, Atlanta, GA 30322, USA."
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Johns Hopkins University, Baltimore, MD 21218, USA."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Sylvester Comprehensive Cancer Center, Miller School of Medicine, University of Miami, Miami, FL 45056, USA."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiology and Imaging Sciences, Emory University School of Medicine, Atlanta, GA 30322, USA."
+          }
+        ]
+      },
+      {
+        "accno": "o5",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiology and Radiological Science, Johns Hopkins University, Baltimore, MD 21218, USA."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

@@ -1,0 +1,649 @@
+{
+  "accno": "S-EPMC6744874",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Neutrophils promote tumor resistance to radiation therapy."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2019-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Neutrophils promote tumor resistance to radiation therapy."
+      },
+      {
+        "name": "Abstract",
+        "value": "Nearly two-thirds of cancer patients are treated with radiation therapy (RT), often with the intent to achieve complete and permanent tumor regression (local control). RT is the primary treatment modality used to achieve local control for many malignancies, including locally advanced cervical cancer, head and neck cancer, and lung cancer. The addition of concurrent platinum-based radiosensitizing chemotherapy improves local control and patient survival. Enhanced outcomes with concurrent chemoradiotherapy may result from increased direct killing of tumor cells and effects on nontumor cell populations. Many patients treated with concurrent chemoradiotherapy exhibit a decline in neutrophil count, but the effects of neutrophils on radiation therapy are controversial. To investigate the clinical significance of neutrophils in the response to RT, we examined patient outcomes and circulating neutrophil counts in cervical cancer patients treated with definitive chemoradiation. Although pretreatment neutrophil count did not correlate with outcome, lower absolute neutrophil count after starting concurrent chemoradiotherapy was associated with higher rates of local control, metastasis-free survival, and overall survival. To define the role of neutrophils in tumor response to RT, we used genetic and pharmacological approaches to deplete neutrophils in an autochthonous mouse model of soft tissue sarcoma. Neutrophil depletion prior to image-guided focal irradiation improved tumor response to RT. Our results indicate that neutrophils promote resistance to radiation therapy. The efficacy of chemoradiotherapy may depend on the impact of treatment on peripheral neutrophil count, which has the potential to serve as an inexpensive and widely available biomarker."
+      }
+    ],
+    "files": [
+      {
+        "path": "pnas.1901562116.sapp.pdf",
+        "size": 1018402,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "R35 CA197616"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "HHS | NIH | National Cancer Institute"
+          },
+          {
+            "name": "grant_id",
+            "value": "F30CA221268"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "HHS | NIH | National Cancer Institute"
+          },
+          {
+            "name": "grant_id",
+            "value": "K12CA167540"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "HHS | NIH | National Cancer Institute"
+          },
+          {
+            "name": "grant_id",
+            "value": "R35CA197616"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NIGMS NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "T32 GM007171"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "K12 CA167540"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "HHS | NIH | National Cancer Institute"
+          },
+          {
+            "name": "grant_id",
+            "value": "R01CA181745"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "F30 CA221268"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "K08 CA237822"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "R01 CA181745"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "HHS | NIH | National Institute of General Medical Sciences"
+          },
+          {
+            "name": "grant_id",
+            "value": "T32GM007171"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Proceedings of the National Academy of Sciences of the United States of America"
+          },
+          {
+            "name": "Volume",
+            "value": "116(37)"
+          },
+          {
+            "name": "Pages",
+            "value": "18584-18589"
+          },
+          {
+            "name": "Publication date",
+            "value": "2019 Sep"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1073/pnas.1901562116",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "10.1073/pnas.1901562116",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC6744874",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "31462499",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Wisdom AJ"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Hong CS"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Lin AJ"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Xiang Y"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Cooper DE"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Zhang J"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-9117-2793"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Xu ES"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kuo HC"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a9",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Mowery YM"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a10",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Carpenter DJ"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-9261-7168"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a11",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kadakia KT"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a12",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Himes JE"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a13",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Luo L"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a14",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Ma Y"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a15",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Williams N"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a16",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Cardona DM"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-6877-2280"
+          },
+          {
+            "name": "affiliation",
+            "value": "o5",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a17",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Haldar M"
+          },
+          {
+            "name": "affiliation",
+            "value": "o6",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a18",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Diao Y"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0001-5842-4082"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a19",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Markovina S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a20",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Schwarz JK"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a21",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kirsch DG"
+          },
+          {
+            "name": "affiliation",
+            "value": "o7",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Cell Biology, Duke University Medical Center, Durham, NC 27708."
+          }
+        ]
+      },
+      {
+        "accno": "o5",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Pathology, Duke University Medical Center, Durham, NC 27708."
+          }
+        ]
+      },
+      {
+        "accno": "o6",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Pathology, University of Pennsylvania Perelman School of Medicine, Philadelphia, PA 19104."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Pharmacology and Cancer Biology, Duke University Medical Center, Durham, NC 27708."
+          }
+        ]
+      },
+      {
+        "accno": "o7",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Pharmacology and Cancer Biology, Duke University Medical Center, Durham, NC 27708; david.kirsch@duke.edu."
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Duke University Medical Center, Durham, NC, 27708."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Washington University School of Medicine, St. Louis, MO 63110."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

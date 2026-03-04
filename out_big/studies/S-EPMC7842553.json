@@ -1,0 +1,379 @@
+{
+  "accno": "S-EPMC7842553",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Combining radiation therapy and immunotherapy for lung cancers: a narrative review."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2021-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Combining radiation therapy and immunotherapy for lung cancers: a narrative review."
+      },
+      {
+        "name": "Abstract",
+        "value": "Lung cancer remains the leading cause of cancer morbidity and mortality worldwide among both men and women. While surgical resection remains the standard of care for early stage NSCLC, chemoradiation has been a mainstay of treatment for locally advanced non-small-cell lung cancer (LA-NSCLC) patients for decades. Consolidation immunotherapy has improved survival in this subset of patients after conventional chemoradiation, and has emerged as the new standard. The synergy between immunotherapy and radiation, as well as ongoing research on the effects of radiation on the immune system, allows for the exploration of new avenues in the treatment of LA-NSCLC. In addition to the use of durvalumab as consolidative systemic therapy after concurrent chemoradiotherapy for Stage III NSCLC, other combination regimens have been shown to be effective in various disease stages in preclinical and clinical studies. These regimens include CTLA-4 and PD/PDL-1 checkpoint inhibitors combined with radiation treatment. While these combined regimens have demonstrated efficacy, they are not without toxicity, and require additional evaluation when combined with radiation. In this review, we have summarized the immunostimulatory and immunosuppressive effects of radiation therapy. We also evaluate the current evidence and ongoing research supporting the combination of radiotherapy and immunotherapy across early to LA-NSCLC."
+      }
+    ],
+    "links": [
+      [
+        {
+          "url": "NCT02581787",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT03148327",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT02599454",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT03446547",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT04214262",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT03383302",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT03924869",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT03050554",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT02904954",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT02839265",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT03110978",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT03589547",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT03833154",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        }
+      ]
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Shanghai chest"
+          },
+          {
+            "name": "Volume",
+            "value": "5"
+          },
+          {
+            "name": "Pages",
+            "value": "10"
+          },
+          {
+            "name": "Publication date",
+            "value": "2021 Jan"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.21037/shc-20-66",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC7842553",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "33521559",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Modi C"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Berim L"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Isserow L"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Malhotra J"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0001-8586-0234"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Patel M"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Langenfeld J"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Aisner J"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Almeldin D"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a9",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Jabbour SK"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Rutgers Cancer Institute of New Jersey, Rutgers Robert Wood Johnson Medical School, Rutgers University, New Brunswick, NJ, USA."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Division of Medical Oncology, Rutgers Cancer Institute of New Jersey, Rutgers Robert Wood Johnson Medical School, Rutgers University, New Brunswick, NJ, USA."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Division of Surgical Oncology, Rutgers Cancer Institute of New Jersey, Rutgers Robert Wood Johnson Medical School, Rutgers University, New Brunswick, NJ, USA."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

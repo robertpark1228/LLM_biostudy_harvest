@@ -1,0 +1,141 @@
+{
+  "accno": "S-EPMC10493623",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Radiation and free flaps: what is the optimal timing?"
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2023-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Radiation and free flaps: what is the optimal timing?"
+      },
+      {
+        "name": "Abstract",
+        "value": "The debate over when to perform flaps in patients undergoing radiation remains an ongoing dilemma without definitive resolution. Classically, reconstructive surgeons recommended avoiding exposure of autologous flaps to radiotherapy due to concerns over surgical complications and poor aesthetic outcomes. However, delayed reconstruction carries its own risk profile and aesthetic limitations, given the irreversible changes to the breast envelope. Immediate reconstruction not only confers psychosocial benefits but allows for preservation of the native breast skin and footprint. In recent years, a growing body of evidence suggests that with modern radiation techniques, long-term outcomes of immediate <i>vs.</i> delayed autologous reconstruction may be more similar than previously thought. This review examines the advantages and disadvantages of each treatment algorithm and critically evaluates the existing literature on autologous breast reconstruction in the setting of post-mastectomy radiotherapy. Importantly, radiation regimens have varied widely over time and between institutions, introducing significant heterogeneity in published outcomes of flap contracture or fat necrosis after immediate reconstruction. While delayed autologous reconstruction remains a reasonable pathway, the benefits of immediate reconstruction should not be dismissed. Our findings ultimately corroborate the view that immediate flap reconstruction is a sound treatment option that can be safely offered to patients. The decision regarding which pathway to pursue should ultimately be patient-centric and driven by multidisciplinary consensus, rather than by prior dogma."
+      }
+    ],
+    "files": [
+      {
+        "path": "gs-12-08-1122-coif.pdf",
+        "size": 445355,
+        "type": "file"
+      },
+      {
+        "path": "gs-12-08-1122-prf.pdf",
+        "size": 51926,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Gland surgery"
+          },
+          {
+            "name": "Volume",
+            "value": "12(8)"
+          },
+          {
+            "name": "Pages",
+            "value": "1122-1130"
+          },
+          {
+            "name": "Publication date",
+            "value": "2023 Aug"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.21037/gs-23-154",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC10493623",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "37701302",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Koesters EC"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Chang DW"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Division of Plastic and Reconstructive Surgery, Department of Surgery, University of Chicago Medicine, Chicago, IL, USA."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

@@ -1,0 +1,206 @@
+{
+  "accno": "S-EPMC8197250",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Anxiety during Radiation Therapy: A Prospective Randomized Controlled Trial Evaluating a Specific One-on-One Procedure Announcement Provided by a Radiation Therapist."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2021-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Anxiety during Radiation Therapy: A Prospective Randomized Controlled Trial Evaluating a Specific One-on-One Procedure Announcement Provided by a Radiation Therapist."
+      },
+      {
+        "name": "Abstract",
+        "value": "Anxiety impacts patient outcomes and quality of life in response to cancer diagnosis. A prospective phase 3 trial randomizing 126 patients was conducted to determine whether a specific one-on-one procedure announcement provided by a radiation therapist before CT scan simulation decreases anxiety for patients with breast cancer requiring radiotherapy. Anxiety was measured using the STAI form, and the QLQ-C30 and BR-23 questionnaires were used to evaluate quality of life. Mean trait or state anxiety scores before CT scan simulation, before the first and second sessions, and at the end of radiation treatment were not significantly different. We observed a decrease in the level of anxiety with time; however, no significant difference in mean state anxiety scores at any of the time intervals was detected. Factors, such as anxiety trait score, professional and marital status, age, and use of alternative therapy, did not significantly influence the evolution of anxiety status over time or the mean value. Anxiety was significantly influenced by the level of fatigue. Patients who benefited from the radiation therapists' advice felt significantly better informed. The one-on-one program announcement occurring before CT scan simulation led to patients being more informed and greater satisfaction but did not decrease anxiety."
+      }
+    ],
+    "files": [
+      {
+        "path": "cancers-13-02572-s001.zip",
+        "size": 152514,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Cancers"
+          },
+          {
+            "name": "Volume",
+            "value": "13(11)"
+          },
+          {
+            "name": "Pages",
+            "value": "2572"
+          },
+          {
+            "name": "Publication date",
+            "value": "2021 May"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.3390/cancers13112572",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC8197250",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "34073891",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Antoni D"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Vigneron C"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Clavier JB"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Guihard S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Velten M"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Noel G"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Clinical Research Department, Institut de Cancérologie Strasbourg Europe, 17 rue Albert Calmette, 67200 Strasbourg, France."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiotherapy, ICANS, Institut de Cancérologie Strasbourg Europe, Paul Strauss Comprehensive Cancer Center, 17 rue Albert Calmette, 67200 Strasbourg, France."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

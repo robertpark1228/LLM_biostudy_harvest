@@ -1,0 +1,214 @@
+{
+  "accno": "S-EPMC5774757",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Labeling for Big Data in radiation oncology: The Radiation Oncology Structures ontology."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2018-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Labeling for Big Data in radiation oncology: The Radiation Oncology Structures ontology."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Purpose</h4>Leveraging Electronic Health Records (EHR) and Oncology Information Systems (OIS) has great potential to generate hypotheses for cancer treatment, since they directly provide medical data on a large scale. In order to gather a significant amount of patients with a high level of clinical details, multicenter studies are necessary. A challenge in creating high quality Big Data studies involving several treatment centers is the lack of semantic interoperability between data sources. We present the ontology we developed to address this issue.<h4>Methods</h4>Radiation Oncology anatomical and target volumes were categorized in anatomical and treatment planning classes. International delineation guidelines specific to radiation oncology were used for lymph nodes areas and target volumes. Hierarchical classes were created to generate The Radiation Oncology Structures (ROS) Ontology. The ROS was then applied to the data from our institution.<h4>Results</h4>Four hundred and seventeen classes were created with a maximum of 14 children classes (average = 5). The ontology was then converted into a Web Ontology Language (.owl) format and made available online on Bioportal and GitHub under an Apache 2.0 License. We extracted all structures delineated in our department since the opening in 2001. 20,758 structures were exported from our \"record-and-verify\" system, demonstrating a significant heterogeneity within a single center. All structures were matched to the ROS ontology before integration into our clinical data warehouse (CDW).<h4>Conclusion</h4>In this study we describe a new ontology, specific to radiation oncology, that reports all anatomical and treatment planning structures that can be delineated. This ontology will be used to integrate dosimetric data in the Assistance Publique-Hôpitaux de Paris CDW that stores data from 6.5 million patients (as of February 2017)."
+      }
+    ],
+    "files": [
+      {
+        "path": "pone.0191263.s001.xlsx",
+        "size": 33195,
+        "type": "file"
+      },
+      {
+        "path": "pone.0191263.s002.xlsx",
+        "size": 11315,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "PloS one"
+          },
+          {
+            "name": "Volume",
+            "value": "13(1)"
+          },
+          {
+            "name": "Pages",
+            "value": "e0191263"
+          },
+          {
+            "name": "Publication date",
+            "value": "2018"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1371/journal.pone.0191263",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC5774757",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "29351341",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Bibault JE"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-1728-6776"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Zapletal E"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Rance B"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0003-4417-1197"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Giraud P"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Burgun A"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Biomedical Informatics and Public Health Department, Georges Pompidou European Hospital, Assistance Publique - Hôpitaux de Paris (AP-HP), Paris Descartes University, Paris Sorbonne Cité, Paris, France."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "INSERM UMR 1138 Team 22: Information Sciences to support Personalized Medicine, Paris Descartes University, Sorbonne Paris Cité, Paris, France."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Radiation Oncology Department, Georges Pompidou European Hospital, Assistance Publique - Hôpitaux de Paris (AP-HP), Paris Descartes University, Paris Sorbonne Cité, Paris, France."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

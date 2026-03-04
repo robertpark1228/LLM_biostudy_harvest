@@ -1,0 +1,378 @@
+{
+  "accno": "S-EPMC8122025",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Mentorship Initiatives in Radiation Oncology: A Scoping Review of the Literature."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2021-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Mentorship Initiatives in Radiation Oncology: A Scoping Review of the Literature."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Purpose</h4>Although mentorship is described extensively in academic medical literature, there are few descriptions of mentorship specific to radiation oncology. The goal of the current study was to investigate the state of mentorship in radiation oncology through a scoping review of the literature.<h4>Methods and materials</h4>A search protocol was defined according to Preferred Reporting Items for Systematic Reviews and Meta Analyses extension for scoping reviews (PRISMA-ScR) guidelines. Predefined search terms and medical subject headings were used to search PubMed for English language articles published after January 1, 1990, on mentorship in radiation oncology. Additionally, in-press articles from major radiation oncology and medical education journals were searched. Three reviewers determined article eligibility. Included articles were classified based on predefined evaluation criteria.<h4>Results</h4>Fourteen publications from 2008 to 2019 met inclusion criteria. The most commonly described form of mentorship was the dyad (64.3%), followed by team (14.3%) and peer (7.1%); 2 articles did not specify mentorship type (14.3%). The most commonly mentored participants were residents (35.7%), followed by medical students (35.7%) and attendings (21.4%); 1 study included participants of all levels (7.1%). Thirteen studies (92.9%) identified an experimental study design, most of which were cross-sectional (42.9%), followed by cohort studies (28.6%) and before/after (21.4%). Median sample size, reported in 12 of 13 experimental studies, was 132 (coefficient of variation, 1.06). Although outcomes varied widely, the majority described successful implementation of mentorship initiatives with high levels of participant satisfaction.<h4>Conclusions</h4>Although few initiatives are currently reported, the present study suggests that these initiatives are successful in promoting career development and increasing professional satisfaction. The interventions overwhelmingly described mentorship dyads; other forms of mentorship are either less common or understudied. Limitations included interventions not being evaluated in a controlled setting, and many were assessed using surveys with low response rates. This review highlights rich opportunities for future scholarship to develop, evaluate, and disseminate radiation oncology mentorship initiatives."
+      }
+    ],
+    "files": [
+      {
+        "path": "NIHMS1659574-supplement-1.docx",
+        "size": 24111,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "P30 CA008748"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "P30 CA014520"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "National Institutes of Health"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "International journal of radiation oncology, biology, physics"
+          },
+          {
+            "name": "Volume",
+            "value": "110(2)"
+          },
+          {
+            "name": "Pages",
+            "value": "292-302"
+          },
+          {
+            "name": "Publication date",
+            "value": "2021 Jun"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1016/j.ijrobp.2020.12.049",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "10.1016/j.ijrobp.2020.12.049",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC8122025",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "33412265",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Marsiglio JA"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Rosenberg DM"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Rooney MK"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Goodman CR"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0001-9083-3652"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Gillespie EF"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Hirsch AE"
+          },
+          {
+            "name": "affiliation",
+            "value": "o5",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Holliday EB"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kimple RJ"
+          },
+          {
+            "name": "affiliation",
+            "value": "o6",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a9",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Thomas CR"
+          },
+          {
+            "name": "affiliation",
+            "value": "o7",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a10",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Golden DW"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-2808-722X"
+          },
+          {
+            "name": "affiliation",
+            "value": "o8",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "College of Medicine, University of Illinois at Chicago, Chicago, Illinois."
+          }
+        ]
+      },
+      {
+        "accno": "o6",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Human Oncology, University of Wisconsin, Madison, Wisconsin."
+          }
+        ]
+      },
+      {
+        "accno": "o7",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Medicine, Oregon Health & Science University, Portland, Oregon."
+          }
+        ]
+      },
+      {
+        "accno": "o5",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Boston University School of Medicine, Boston, Massachusetts."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Memorial Sloan Kettering Cancer Center, New York, New York."
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Northwestern University Feinberg School of Medicine, Chicago, Illinois."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, The University of Texas MD Anderson Cancer Center, Houston, Texas."
+          }
+        ]
+      },
+      {
+        "accno": "o8",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation and Cellular Oncology, University of Chicago, Chicago, Illinois. Electronic address: dgolden@radonc.uchicago.edu."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

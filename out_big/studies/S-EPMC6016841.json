@@ -1,0 +1,260 @@
+{
+  "accno": "S-EPMC6016841",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "A Molecular Profile of the Endothelial Cell Response to Ionizing Radiation."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2016-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "A Molecular Profile of the Endothelial Cell Response to Ionizing Radiation."
+      },
+      {
+        "name": "Abstract",
+        "value": "Ionizing radiation exposure can cause acute radiation sickness (ARS) by damaging the hematopoietic compartment. Radiation damages quiescent hematopoietic stem cells (HSCs) and proliferating hematopoietic cells, resulting in neutropenia, thrombocytopenia and increased risk for long-term hematopoietic dysfunction and myelodysplasia. While some aspects of the hematopoietic response to radiation injury are intrinsic to hematopoietic cells, the recovery of the HSC pool and overall hematopoiesis is also dependent on signals from bone marrow endothelial cells (BM ECs) within the HSC vascular niche. The precise mechanisms through which BM ECs regulate HSC regeneration remain unclear. Characterization of the altered EC gene expression that occurs in response to radiation could provide a roadmap to the discovery of EC-derived mechanisms that regulate hematopoietic regeneration. Here, we show that 5 Gy total-body irradiation substantially alters the expression of numerous genes in BM ECs within 24 h and this molecular response largely resolves by day 14 postirradiation. Several unique and nonannotated genes, which encode secreted proteins were upregulated and downregulated in ECs in response to radiation. These results highlight the complexity of the molecular response of BM ECs to ionizing radiation and identify several candidate mechanisms that should be prioritized for functional analysis in models of hematopoietic injury and regeneration."
+      }
+    ],
+    "links": [
+      [
+        {
+          "url": "AU021001",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "ENA"
+            }
+          ]
+        },
+        {
+          "url": "C77370",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "ENA"
+            }
+          ]
+        }
+      ]
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NIAID NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "U19 AI067769"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NIAID NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "U01 AI107333"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Radiation research"
+          },
+          {
+            "name": "Volume",
+            "value": "186(2)"
+          },
+          {
+            "name": "Pages",
+            "value": "141-52"
+          },
+          {
+            "name": "Publication date",
+            "value": "2016 Aug"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1667/RR14444.1",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "10.1667/rr14444.1",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC6016841",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "27387861",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Himburg HA"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Sasine J"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0001-9866-462X"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Yan X"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kan J"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Dressman H"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Chute JP"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "a Division of Hematology/Oncology, Department of Medicine."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "d Center for Bioinformatics and Genetics, Duke University, Durham, North Carolina."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

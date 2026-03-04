@@ -1,0 +1,229 @@
+{
+  "accno": "S-EPMC5385841",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Multivariate Analysis of Radiation Responsive Proteins to Predict Radiation Exposure in Total-Body Irradiation and Partial-Body Irradiation Models."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2017-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Multivariate Analysis of Radiation Responsive Proteins to Predict Radiation Exposure in Total-Body Irradiation and Partial-Body Irradiation Models."
+      },
+      {
+        "name": "Abstract",
+        "value": "In the event of a radiological or nuclear attack, advanced clinical countermeasures are needed for screening and medical management of the exposed population. In such a scenario, minimally invasive biomarkers that can accurately quantify radiation exposure would be useful for triage management by first responders. In this murine study, we evaluated the efficacy of a novel combination of radiation responsive proteins, Flt3 ligand (FL), serum amyloid A (SAA), matrix metalloproteinase 9 (MMP9), fibrinogen beta (FGB) and pentraxin 3 (PTX3) to predict the received dose after whole- or partial-body irradiation. Ten-week-old female C57BL6 mice received a single whole-body or partial-body dose of 18 Gy from a Pantak X-ray source at a dose rate of 2.28 Gy/min. Plasma was collected by cardiac puncture at 24, 48, 72 h and 1 week postirradiation. Plasma protein levels were determined via commercially available ELISA assay. A multivariate discriminant analysis was utilized to generate best-fit dose prediction models for whole-body exposures using the selected biomarker panel and its potential application to partial-body exposures was examined. The combination of values from FL, SAA, MMP9, FGB and PTX3 between 24 h and 1 week postirradiation yielded novel dose-response relationships. For day 1 postirradiation, the best-fit model yielded a predictive accuracy of 81% utilizing FL alone. The use of additional proteins did not enhance the model accuracy whereas, at day 2 postirradiation, the addition of PTX3 and FGB to FL increased the accuracy to 100%. At day 3 the use of FL and PTX3 yielded a predictive accuracy of 93% and at day 7 use of FL and SAA had an accuracy of 90%. Dose prediction of partial-body exposures based on the TBI model had a higher predictive accuracy when the percentage of the body exposed to radiation increased. Our findings indicate that this novel combination of radiation responsive biomarker proteins are an efficient method for predicting radiation exposure and are more accurate when used in concert compared to using any single biomarker protein alone."
+      }
+    ],
+    "files": [
+      {
+        "path": "NIHMS854863-supplement-Supplementary_file.pdf",
+        "size": 85780,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCRR NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "C06 RR014558"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Intramural NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "ZIA SC010373"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Intramural NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "ZIA SC010373-08"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Radiation research"
+          },
+          {
+            "name": "Volume",
+            "value": "187(2)"
+          },
+          {
+            "name": "Pages",
+            "value": "251-258"
+          },
+          {
+            "name": "Publication date",
+            "value": "2017 Feb"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1667/RR14558.1",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "10.1667/rr14558.1",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC5385841",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "28118115",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Sproull M"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kramp T"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Tandle A"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Shankavaram U"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Camphausen K"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Radiation Oncology Branch, National Cancer Institute, Bethesda, Maryland."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

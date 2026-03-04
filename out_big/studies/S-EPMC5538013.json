@@ -1,0 +1,376 @@
+{
+  "accno": "S-EPMC5538013",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Attitudes of radiation oncologists toward palliative and supportive care in the United States: Report on national membership survey by the American Society for Radiation Oncology (ASTRO)."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2017-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Attitudes of radiation oncologists toward palliative and supportive care in the United States: Report on national membership survey by the American Society for Radiation Oncology (ASTRO)."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Purpose</h4>Radiation oncologists are frequently involved in providing palliative and supportive care (PSC) for patients with advanced cancers through delivery of palliative radiation. Whether they are confident in their ability to assess and initiate treatments for pain, nonpain, and psychosocial distress is unknown. The American Society for Radiation Oncology surveyed its practicing members in the United States on self-assessment of their primary PSC skills and access to continuing medical education on PSC.<h4>Methods</h4>We electronically surveyed 4093 practicing radiation oncologists in the United States. The survey consisted of 16-questions in 5 sections<sup>1</sup>: demographics,<sup>2</sup> PSC training,<sup>3</sup> domains of PSC,<sup>4</sup> perceived barriers as a radiation oncologist to initiate advanced care planning, and<sup>5</sup> discussion of prognosis.<h4>Results</h4>The survey was e-mailed to 4093 American Society for Radiation Oncology members, and 649 responses were received (response rate 16%). The majority (91%) of radiation oncologists surveyed believe PSC is an important competency for radiation oncologists. Most radiation oncologists reported that they are moderately confident in their ability to assess and manage pain and gastrointestinal symptoms, but less confident in their ability to manage anorexia, anxiety, and depression. Despite areas of decreased confidence, a large number (42%) of radiation oncologists do not receive any additional PSC education beyond their residency training. Lastly, a perceived fear of upsetting referring medical oncologists and lack of clinic time are concerns for radiation oncologists who may want to initiate goals of care/advance care planning discussions with patients and their families.<h4>Conclusion</h4>Radiation oncologists are more confident in their ability to assess and manage pain than in their ability to manage depression, anxiety, anorexia, and fatigue. There is a need for increasing continuing medical educational efforts in PSC for practicing radiation oncologists, and strengthening PSC training in residency programs."
+      }
+    ],
+    "files": [
+      {
+        "path": "NIHMS877505-supplement-Supplementary_Material.pdf",
+        "size": 109379,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NIGMS NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "U54 GM104942"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Practical radiation oncology"
+          },
+          {
+            "name": "Volume",
+            "value": "7(2)"
+          },
+          {
+            "name": "Pages",
+            "value": "113-119"
+          },
+          {
+            "name": "Publication date",
+            "value": "2017 Mar - Apr"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1016/j.prro.2016.08.017",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "10.1016/j.prro.2016.08.017",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC5538013",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "28274395",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Wei RL"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Mattes MD"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-1151-896X"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Yu J"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-3119-3226"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Thrasher A"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Shu HK"
+          },
+          {
+            "name": "affiliation",
+            "value": "o5",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Paganetti H"
+          },
+          {
+            "name": "affiliation",
+            "value": "o6",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "De Los Santos J"
+          },
+          {
+            "name": "affiliation",
+            "value": "o7",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Koontz B"
+          },
+          {
+            "name": "affiliation",
+            "value": "o8",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a9",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Abraham C"
+          },
+          {
+            "name": "affiliation",
+            "value": "o9",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a10",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Balboni T"
+          },
+          {
+            "name": "affiliation",
+            "value": "o10",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "American Society for Radiation Oncology, Arlington, Virginia."
+          }
+        ]
+      },
+      {
+        "accno": "o10",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Dana-Farber/Brigham and Women's Cancer Center, Boston, Massachusetts."
+          }
+        ]
+      },
+      {
+        "accno": "o8",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Duke University, Durham, North Carolina."
+          }
+        ]
+      },
+      {
+        "accno": "o5",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Emory School of Medicine, Atlanta, Georgia."
+          }
+        ]
+      },
+      {
+        "accno": "o6",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Massachusetts General Hospital & Harvard Medical School, Boston, Massachusetts."
+          }
+        ]
+      },
+      {
+        "accno": "o7",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, University of Alabama, Birmingham, Alabama."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, University of California, Irvine, California. Electronic address: rwei@uci.edu."
+          }
+        ]
+      },
+      {
+        "accno": "o9",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Washington University in St. Louis, St. Louis, Missouri."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, West Virginia University, Morgantown, West Virginia."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Yale School of Medicine, New Haven, Connecticut."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

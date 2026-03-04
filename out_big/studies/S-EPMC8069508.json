@@ -1,0 +1,317 @@
+{
+  "accno": "S-EPMC8069508",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Distinct Cerebrovascular Reactivity Patterns for Brain Radiation Necrosis."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2021-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Distinct Cerebrovascular Reactivity Patterns for Brain Radiation Necrosis."
+      },
+      {
+        "name": "Abstract",
+        "value": "Background: Current imaging-based discrimination between radiation necrosis versus recurrent glioblastoma contrast-enhancing lesions remains imprecise but is paramount for prognostic and therapeutic evaluation. We examined whether patients with radiation necrosis exhibit distinct patterns of blood oxygenation-level dependent fMRI cerebrovascular reactivity (BOLD-CVR) as the first step to better distinguishing patients with radiation necrosis from recurrent glioblastoma compared with patients with newly diagnosed glioblastoma before surgery and radiotherapy. Methods: Eight consecutive patients with primary and secondary brain tumors and a multidisciplinary clinical and radiological diagnosis of radiation necrosis, and fourteen patients with a first diagnosis of glioblastoma underwent BOLD-CVR mapping. For all these patients, the contrast-enhancing lesion was derived from high-resolution T1-weighted MRI and rendered the volume-of-interest (VOI). From this primary VOI, additional 3 mm concentric expanding VOIs up to 30 mm were created for a detailed perilesional BOLD-CVR tissue analysis between the two groups. Receiver operating characteristic curves assessed the discriminative properties of BOLD-CVR for both groups. Results: Mean intralesional BOLD-CVR values were markedly lower in radiation necrosis than in glioblastoma contrast-enhancing lesions (0.001 ± 0.06 vs. 0.057 ± 0.05; p = 0.04). Perilesionally, a characteristic BOLD-CVR pattern was observed for radiation necrosis and glioblastoma patients, with an improvement of BOLD-CVR values in the radiation necrosis group and persisting lower perilesional BOLD-CVR values in glioblastoma patients. The ROC analysis discriminated against both groups when these two parameters were analyzed together (area under the curve: 0.85, 95% CI: 0.65-1.00). Conclusions: In this preliminary analysis, distinctive intralesional and perilesional BOLD-cerebrovascular reactivity patterns are found for radiation necrosis."
+      }
+    ],
+    "files": [
+      {
+        "path": "cancers-13-01840-s001.pdf",
+        "size": 300904,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Cancers"
+          },
+          {
+            "name": "Volume",
+            "value": "13(8)"
+          },
+          {
+            "name": "Pages",
+            "value": "1840"
+          },
+          {
+            "name": "Publication date",
+            "value": "2021 Apr"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.3390/cancers13081840",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC8069508",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "33924308",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Muscas G"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-6155-2891"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "van Niftrik CHB"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0003-0930-8717"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Sebok M"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-7246-3421"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Della Puppa A"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Seystahl K"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Andratschke N"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Brown M"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Weller M"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a9",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Regli L"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a10",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Piccirelli M"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a11",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Fierstra J"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0001-6220-0727"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Clinical Neuroscience Center, University Hospital Zurich, 8091 Zurich, Switzerland."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Neurosurgery, Department of Neuroscience, Psychology, Pharmacology and Child Health (NEUROFARBA) Careggi University Hospital, 50139 Florence, Italy."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Neurosurgery, University Hospital Zurich, University of Zurich, 8091 Zurich, Switzerland."
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, University Hospital Zurich, University of Zurich, 8091 Zurich, Switzerland."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

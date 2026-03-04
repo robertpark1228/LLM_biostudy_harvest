@@ -1,0 +1,218 @@
+{
+  "accno": "S-EPMC5681641",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Ectoine protects DNA from damage by ionizing radiation."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2017-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Ectoine protects DNA from damage by ionizing radiation."
+      },
+      {
+        "name": "Abstract",
+        "value": "Ectoine plays an important role in protecting biomolecules and entire cells against environmental stressors such as salinity, freezing, drying and high temperatures. Recent studies revealed that ectoine also provides effective protection for human skin cells from damage caused by UV-A radiation. These protective properties make ectoine a valuable compound and it is applied as an active ingredient in numerous pharmaceutical devices and cosmetics. Interestingly, the underlying mechanism resulting in protecting cells from radiation is not yet fully understood. Here we present a study on ectoine and its protective influence on DNA during electron irradiation. Applying gel electrophoresis and atomic force microscopy, we demonstrate for the first time that ectoine prevents DNA strand breaks caused by ionizing electron radiation. The results presented here point to future applications of ectoine for instance in cancer radiation therapy."
+      }
+    ],
+    "files": [
+      {
+        "path": "41598_2017_15512_MOESM1_ESM.pdf",
+        "size": 103699,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Scientific reports"
+          },
+          {
+            "name": "Volume",
+            "value": "7(1)"
+          },
+          {
+            "name": "Pages",
+            "value": "15272"
+          },
+          {
+            "name": "Publication date",
+            "value": "2017 Nov"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1038/s41598-017-15512-4",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC5681641",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "29127339",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Schroter MA"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Meyer S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Hahn MB"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-5050-7083"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Solomun T"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Sturm H"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-8091-4077"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kunte HJ"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0003-1455-7822"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Federal Institute for Materials Research and Testing, D-12205, Berlin, Germany."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Federal Institute for Materials Research and Testing, D-12205, Berlin, Germany. Hans-Joerg.Kunte@bam.de."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

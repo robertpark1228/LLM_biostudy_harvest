@@ -1,0 +1,214 @@
+{
+  "accno": "S-EPMC2772731",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Regulation of protein synthesis by ionizing radiation."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2009-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Regulation of protein synthesis by ionizing radiation."
+      },
+      {
+        "name": "Abstract",
+        "value": "Ionizing radiation (IR) is a physiologically important stress to which cells respond by the activation of multiple signaling pathways. Using a panel of immortalized and transformed breast epithelial cell lines, we demonstrate that IR regulation of protein synthesis occurs in nontransformed cells and is lost with transformation. In nontransformed cells, IR rapidly activates the MAP kinases ERK1/2, resulting in an early transient increase in cap-dependent mRNA translation that involves mTOR and is radioprotective, enhancing the translation of a subset of mRNAs encoding proteins involved in DNA repair and cell survival. Following a transient increase in translation, IR-sensitive (nontransformed) cells inhibit cap-dependent protein synthesis through a mechanism that involves activation of p53, induction of Sestrin 1 and 2 genes, and stimulation of AMP kinase, inhibiting mTOR and hypophosphorylating 4E-BP1. IR is shown to block proteasome-mediated decay of 4E-BP1, increasing its abundance and the sequestration of eIF4E. The IR signal that impairs mTOR-dependent protein synthesis at late times is assembly of the DNA damage response machinery, consisting of Mre11, Rad50, and NBS1 (MRN); activation of the MRN complex kinase ATM; and p53. These results link genotoxic signaling from the DNA damage response complex to the control of protein synthesis."
+      }
+    ],
+    "files": [
+      {
+        "path": "supp_29_21_5645__MCB_711_09_supfig_legend.doc",
+        "size": 33280,
+        "type": "file"
+      },
+      {
+        "path": "supp_29_21_5645__Supplemental_Fig__1.zip",
+        "size": 3595684,
+        "type": "file"
+      },
+      {
+        "path": "supp_29_21_5645__index.html",
+        "size": 966,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Molecular and cellular biology"
+          },
+          {
+            "name": "Volume",
+            "value": "29(21)"
+          },
+          {
+            "name": "Pages",
+            "value": "5645-56"
+          },
+          {
+            "name": "Publication date",
+            "value": "2009 Nov"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1128/MCB.00711-09",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "10.1128/mcb.00711-09",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC2772731",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "19704005",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Braunstein S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Badura ML"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Xi Q"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Formenti SC"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Schneider RJ"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0001-5807-5564"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Microbiology, First Avenue, Department of Radiation Oncology, East 34th Street, New York University School of Medicine, New York, New York 10016"
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Microbiology, New York University School of Medicine, 550 First Avenue, New York, NY 10016, USA."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

@@ -1,0 +1,684 @@
+{
+  "accno": "S-EPMC11545895",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Postoperative tumor bed radiation versus T-shaped field radiation in the treatment of locally advanced thoracic esophageal squamous cell carcinoma: a phase IIb multicenter randomized controlled trial."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2024-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Postoperative tumor bed radiation versus T-shaped field radiation in the treatment of locally advanced thoracic esophageal squamous cell carcinoma: a phase IIb multicenter randomized controlled trial."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Background</h4>Postoperative radiotherapy (PORT) is crucial for patients with thoracic locally advanced esophageal squamous cell carcinoma (LA-ESCC, pT3-4aN0-3M0) following esophagectomy. However, the appropriate radiation volume has not been well established. This study aimed to determine the optimal PORT volume for LA-ESCC patients.<h4>Methods</h4>LA-ESCC patients post-esophagectomy were randomly assigned to either the large-field irradiation (LFI, primary lesion and lymph node tumor bed plus elective nodal irradiation) group or the small-field irradiation (SFI, primary lesion and lymph node tumor bed alone) group. Stratification was based on T stage and the number of lymph node metastases. The primary endpoint was disease-free survival (DFS), while the secondary endpoints included overall survival (OS), adverse events, and patterns of initial failure.<h4>Results</h4>A total of 401 patients were randomly assigned to the intention-to-treat analysis(LFI group, n = 210; SFI group, n = 191). The median DFS of patients in the LFI group was 47.9 months and 48.1 months in the SFI group (HR = 0.87, 95%CI, 0.65 to 1.16; p = 0.32). The estimated one-year and three-year OS rates were 89.2% and 63.2% for patients in the LFI group, compared to 86.6% and 60.7% for the SFI group, respectively. The difference of OS between the two groups was not significant (HR = 0.86, 95%CI, 0.63 to 1.16; p = 0.35). Fewer patients in the LFI group experienced locoregional recurrence compared to the SFI group (12.9% vs 20.4%, p = 0.013). Additionally, locoregional recurrence-free survival of the LFI group was significantly longer than that of SFI group (HR = 0.54, 95%CI, 0.34-0.87; p = 0.01). The most common toxicity was grade 2 esophagitis, observed in 22.9% of the LFI group and 16.8% of the SFI group. Grade 3 adverse events occurred in 6.7% of the LFI group and 2.6% of the SFI group. No grade 4 or 5 toxicities were observed. Adverse events did not significantly differ between the two groups.<h4>Conclusions</h4>Postoperative radiotherapy, with the specified radiation volume shows encouraging survival outcomes that are comparable to those of neoadjuvant chemoradiotherapy in patients with thoracic LA-ESCC. Both postoperative irradiation fields were found to be feasible and safe."
+      }
+    ],
+    "files": [
+      {
+        "path": "12916_2024_3727_MOESM1_ESM.pdf",
+        "size": 811062,
+        "type": "file"
+      },
+      {
+        "path": "12916_2024_3727_MOESM2_ESM.pptx",
+        "size": 2386750,
+        "type": "file"
+      },
+      {
+        "path": "12916_2024_3727_MOESM3_ESM.pdf",
+        "size": 1021940,
+        "type": "file"
+      },
+      {
+        "path": "12916_2024_3727_MOESM4_ESM.docx",
+        "size": 18955,
+        "type": "file"
+      },
+      {
+        "path": "12916_2024_3727_MOESM5_ESM.pdf",
+        "size": 1311467,
+        "type": "file"
+      },
+      {
+        "path": "12916_2024_3727_MOESM6_ESM.pdf",
+        "size": 139904,
+        "type": "file"
+      },
+      {
+        "path": "12916_2024_3727_MOESM7_ESM.pdf",
+        "size": 139904,
+        "type": "file"
+      }
+    ],
+    "links": [
+      [
+        {
+          "url": "NCT01391572",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        }
+      ]
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "BMC medicine"
+          },
+          {
+            "name": "Volume",
+            "value": "22(1)"
+          },
+          {
+            "name": "Pages",
+            "value": "522"
+          },
+          {
+            "name": "Publication date",
+            "value": "2024 Nov"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1186/s12916-024-03727-y",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC11545895",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "39511550",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Zeng Y"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Li J"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Ye J"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Han G"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Luo W"
+          },
+          {
+            "name": "affiliation",
+            "value": "o5",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Wu C"
+          },
+          {
+            "name": "affiliation",
+            "value": "o6",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Qin S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o7",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Gu W"
+          },
+          {
+            "name": "affiliation",
+            "value": "o8",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a9",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Zhao S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o9",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a10",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Zhao Y"
+          },
+          {
+            "name": "affiliation",
+            "value": "o10",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a11",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Xia B"
+          },
+          {
+            "name": "affiliation",
+            "value": "o11",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a12",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Zhu Z"
+          },
+          {
+            "name": "affiliation",
+            "value": "o12",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a13",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Du X"
+          },
+          {
+            "name": "affiliation",
+            "value": "o13",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a14",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Liu Y"
+          },
+          {
+            "name": "affiliation",
+            "value": "o14",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a15",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Liu J"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a16",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Li H"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a17",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Wang J"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a18",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Guo J"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a19",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Yu W"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a20",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Zhang Q"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a21",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Wang C"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a22",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Fang W"
+          },
+          {
+            "name": "affiliation",
+            "value": "o15",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a23",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Li Z"
+          },
+          {
+            "name": "affiliation",
+            "value": "o15",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a24",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Fu X"
+          },
+          {
+            "name": "affiliation",
+            "value": "o16",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a25",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Cai X"
+          },
+          {
+            "name": "affiliation",
+            "value": "o17",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o13",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Cancer Hospital of the University of Chinese Academy of Science/Institute of Cancer and Basic Medicine, Chinese Academy of Science, Zhejiang Key Laboratory of Radiation Oncology, Hangzhou, China."
+          }
+        ]
+      },
+      {
+        "accno": "o5",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Division of Life Sciences and Medicine, The First Affiliated Hospital of USTC, University of Science and Technology of China, Hefei, China."
+          }
+        ]
+      },
+      {
+        "accno": "o12",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Fudan University Shanghai Cancer Center, Shanghai, China."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Fujian Medical University Cancer Hospital, Fujian Cancer Hospital, Fuzhou, China."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Jiangsu Cancer Hospital, The Affiliated Cancer Hospital of Nanjing Medical University, Nanjing, China."
+          }
+        ]
+      },
+      {
+        "accno": "o11",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Key Laboratory of Clinical Cancer Pharmacology and Toxicology Research of Zhejiang Province, Hangzhou Cancer Hospital, Hangzhou, China."
+          }
+        ]
+      },
+      {
+        "accno": "o9",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Shanghai Chest Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China."
+          }
+        ]
+      },
+      {
+        "accno": "o17",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Shanghai Chest Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China. birdhome2000@163.com."
+          }
+        ]
+      },
+      {
+        "accno": "o16",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Shanghai Chest Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China. xlfu1964@hotmail.com."
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Taizhou City People's Hospital, Taizhou, China."
+          }
+        ]
+      },
+      {
+        "accno": "o7",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, The First Affiliated Hospital of Soochow University, Suzhou, China."
+          }
+        ]
+      },
+      {
+        "accno": "o10",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, The First Affiliated Hospital of USTC West District Anguish Provincial Cancer Hospital, Hefei, China."
+          }
+        ]
+      },
+      {
+        "accno": "o8",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, The Third Affiliated Hospital of Soochow University, Suzhou, China."
+          }
+        ]
+      },
+      {
+        "accno": "o6",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Zhenjiang First People's Hospital, Zhenjiang, China."
+          }
+        ]
+      },
+      {
+        "accno": "o14",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Statistics, Shanghai Chest Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China."
+          }
+        ]
+      },
+      {
+        "accno": "o15",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Thoracic Surgery, Shanghai Chest Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

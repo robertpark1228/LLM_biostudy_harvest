@@ -1,0 +1,361 @@
+{
+  "accno": "S-EPMC7500393",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "US Radiation Oncologists (Re)Defined: An American Society for Radiation Oncology Scope of Practice Study."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2021-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "US Radiation Oncologists (Re)Defined: An American Society for Radiation Oncology Scope of Practice Study."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Purpose</h4>To assess US radiation oncologists' views on practice scope and the ideal role of the radiation oncologist (RO), the American Society for Radiation Oncology (ASTRO) conducted a scope of practice survey.<h4>Methods and materials</h4>In spring 2019, ASTRO distributed an online survey to 3822 US RO members. The survey generated 984 complete responses (26% response rate) for analysis. Face validity testing confirmed respondents were representative of ASTRO's RO membership.<h4>Results</h4>Nearly all respondents agreed that \"ROs should be leaders in oncologic care.\" Respondents indicated the ideal approach to patient care was to provide \"an independent opinion on radiation therapy and other treatment options\" (82.5%) or \"an independent opinion on radiation therapy but not outside of it\" (16.1%), with only 1.4% favoring provision of \"radiation therapy at the request of the referring physician\" as the ideal approach. Actual practice fully matched the ideal approach in 18.2% of respondents. For the remaining majority, actual practice did not always match the ideal and comprised a mix of approaches that included providing radiation at the referring physician's request 24.0% of the time on average. Reasons for the mismatch included fear of alienating referring physicians and concern for offering an unwelcome opinion. One-fifth of respondents expressed a desire to expand the scope of service though interspecialty politics and insufficient training were potential barriers. Respondents interested in expanding scope of practice were on average earlier in their career (average years in practice 13.3) than those who were not interested (average years in practice 17.2, P < .001). Radiopharmaceuticals administration, medical marijuana and anticancer medications prescribing, and RO inpatient service represented areas of interest for expansion but also knowledge gaps.<h4>Conclusions</h4>These results provide insight regarding US ROs' scope of practice and attitudes on the ideal role of the RO. For most ROs, to provide an independent opinion on treatment options represented the ideal approach to care, but barriers such as concern of alienating referring physicians prevented many from fully adhering to their ideal in practice. Actual practice commonly comprised a mixed approach, including the least favored scenario of delivering radiation at the referring physician's request one-quarter of the time, highlighting the influence of interspecialty politics on practice behavior. Advocacy for open communication and meaningful interdisciplinary collaboration presents an actionable solution toward a more balanced relationship with other specialties as ROs strive to better fulfill the vision of being leaders in oncologic care and being our best for our patients. The study also identified interest in expanding into nontraditional domains that offer opportunities to address unmet needs in the cancer patient's journey and elevate radiation oncology within the increasingly value-based US health care system."
+      }
+    ],
+    "files": [
+      {
+        "path": "mmc1.docx",
+        "size": 3560241,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "International journal of radiation oncology, biology, physics"
+          },
+          {
+            "name": "Volume",
+            "value": "109(2)"
+          },
+          {
+            "name": "Pages",
+            "value": "335-343"
+          },
+          {
+            "name": "Publication date",
+            "value": "2021 Feb"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1016/j.ijrobp.2020.09.029",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC7500393",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "32956745",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Fung CY"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Vapiwala N"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Mattes MD"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Mohindra P"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Shah C"
+          },
+          {
+            "name": "affiliation",
+            "value": "o5",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Yechieli R"
+          },
+          {
+            "name": "affiliation",
+            "value": "o6",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Truong MT"
+          },
+          {
+            "name": "affiliation",
+            "value": "o7",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Sanders T"
+          },
+          {
+            "name": "affiliation",
+            "value": "o8",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a9",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Arnone A"
+          },
+          {
+            "name": "affiliation",
+            "value": "o8",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a10",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Royce TJ"
+          },
+          {
+            "name": "affiliation",
+            "value": "o9",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a11",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Ennis RD"
+          },
+          {
+            "name": "affiliation",
+            "value": "o10",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o8",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "American Society for Radiation Oncology, Arlington, Virginia."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Beth Israel Deaconess Medical Center, Boston, Massachusetts."
+          }
+        ]
+      },
+      {
+        "accno": "o7",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Boston University School of Medicine, Boston, Massachusetts."
+          }
+        ]
+      },
+      {
+        "accno": "o5",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Cleveland Clinic, Cleveland, Ohio."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Rutgers Cancer Institute of New Jersey, New Brunswick, New Jersey."
+          }
+        ]
+      },
+      {
+        "accno": "o10",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Rutgers Cancer Institute of New Jersey, New Brunswick, New Jersey. Electronic address: re230@cinj.rutgers.edu."
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "University of Maryland, Baltimore, Maryland."
+          }
+        ]
+      },
+      {
+        "accno": "o6",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "University of Miami, Miami, Florida."
+          }
+        ]
+      },
+      {
+        "accno": "o9",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "University of North Carolina at Chapel Hill School of Medicine, Chapel Hill, North Carolina."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "University of Pennsylvania, Philadelphia, Pennsylvania."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

@@ -1,0 +1,450 @@
+{
+  "accno": "S-EPMC9899626",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Nivolumab-induced radiation recall pneumonitis in non-small-cell lung cancer patients with thoracic radiation therapy."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2023-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Nivolumab-induced radiation recall pneumonitis in non-small-cell lung cancer patients with thoracic radiation therapy."
+      },
+      {
+        "name": "Abstract",
+        "value": "The role of previous thoracic radiation therapy as a risk factor of immune-related pneumonitis is unclear. Furthermore, some patients develop radiation recall pneumonitis, which is characterized by a radiation pneumonitis-like imaging pattern with consolidation progressing within a previous radiation field. In this multicenter retrospective study, we analyzed the relationship of previous thoracic radiation therapy with immune-related pneumonitis and the characteristics of radiation recall pneumonitis. The medical records of patients with non-small-cell lung cancer who had received nivolumab between December 2015 and March 2017 at five institutions were retrospectively reviewed. Incidence, imaging patterns, clinical course, and risk factors of immune-related pneumonitis and radiation recall pneumonitis were evaluated. A total of 669 patients were evaluated, and the incidences of all-grade and grade 3 or higher immune-related pneumonitis were 8.8% and 2.6%, respectively. The incidences of immune-related pneumonitis were 13.2% (34/257) and 6.1% (25/412) in patients with and those without previous thoracic radiation therapy, respectively. A history of previous thoracic radiation therapy was associated with immune-related pneumonitis (odds ratio, 2.11; 95% confidence interval, 1.21-3.69 in multivariate analysis). Among the patients with previous thoracic radiation therapy, 6.2% (16/257) showed radiation recall pattern. This study found an increased risk of nivolumab-induced immune-related pneumonitis associated with a history of thoracic radiation therapy. Radiation recall pattern was one of the major patterns of immune-related pneumonitis among the patients with previous thoracic radiation therapy. Incidence, risk factors, and clinical outcome of radiation recall pneumonitis were elucidated."
+      }
+    ],
+    "files": [
+      {
+        "path": "CAS-114-630-s001.pptx",
+        "size": 70047,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Cancer science"
+          },
+          {
+            "name": "Volume",
+            "value": "114(2)"
+          },
+          {
+            "name": "Pages",
+            "value": "630-639"
+          },
+          {
+            "name": "Publication date",
+            "value": "2023 Feb"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1111/cas.15621",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC9899626",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "36285515",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Noda-Narita S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Naito T"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Udagawa H"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Goto K"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Miyawaki T"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Mamesaya N"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Nakashima K"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kenmotsu H"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a9",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Shimokawaji T"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a10",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kato T"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a11",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Hakozaki T"
+          },
+          {
+            "name": "affiliation",
+            "value": "o5",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a12",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Okuma Y"
+          },
+          {
+            "name": "affiliation",
+            "value": "o5",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a13",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Nakamura M"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-4431-8892"
+          },
+          {
+            "name": "affiliation",
+            "value": "o6",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a14",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Nakayama Y"
+          },
+          {
+            "name": "affiliation",
+            "value": "o7",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a15",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Watanabe H"
+          },
+          {
+            "name": "affiliation",
+            "value": "o8",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a16",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kusumoto M"
+          },
+          {
+            "name": "affiliation",
+            "value": "o8",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a17",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Ohe Y"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a18",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Horinouchi H"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o8",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Diagnostic Radiology, National Cancer Center Hospital, Tokyo, Japan."
+          }
+        ]
+      },
+      {
+        "accno": "o6",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, National Cancer Center Hospital East, Kashiwa, Japan."
+          }
+        ]
+      },
+      {
+        "accno": "o7",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, National Cancer Center Hospital, Tokyo, Japan."
+          }
+        ]
+      },
+      {
+        "accno": "o5",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Thoracic Oncology and Respiratory Medicine, Tokyo Metropolitan Cancer and Infectious Diseases Center Komagome Hospital, Tokyo, Japan."
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Thoracic Oncology, Kanagawa Cancer Center, Yokohama, Japan."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Thoracic Oncology, National Cancer Center Hospital East, Kashiwa, Japan."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Thoracic Oncology, National Cancer Center Hospital, Tokyo, Japan."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Thoracic Oncology, Shizuoka Cancer Center, Shizuoka, Japan."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

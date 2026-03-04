@@ -1,0 +1,244 @@
+{
+  "accno": "S-EPMC4276525",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Low interrater reliability in grading of rectal bleeding using National Cancer Institute Common Toxicity Criteria and Radiation Therapy Oncology Group Toxicity scales: a survey of radiation oncologists."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2014-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Low interrater reliability in grading of rectal bleeding using National Cancer Institute Common Toxicity Criteria and Radiation Therapy Oncology Group Toxicity scales: a survey of radiation oncologists."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Purpose</h4>To measure concordance among genitourinary radiation oncologists in using the National Cancer Institute Common Toxicity Criteria (NCI CTC) and Radiation Therapy Oncology Group (RTOG) grading scales to grade rectal bleeding.<h4>Methods and materials</h4>From June 2013 to January 2014, a Web-based survey was sent to 250 American and Canadian academic radiation oncologists who treat prostate cancer. Participants were provided 4 case vignettes in which patients received radiation therapy and developed rectal bleeding and were asked for management plans and to rate the bleeding according to NCI CTC v.4 and RTOG late toxicity grading (scales provided). In 2 cases, participants were also asked whether they would send the patient for colonoscopy. A multilevel, random intercept modeling approach was used to assess sources of variation (case, respondent) in toxicity grading to calculate the intraclass correlation coefficient (ICC). Agreement on a dichotomous grading scale (low grades 1-2 vs high grades 3-4) was also assessed, using the κ statistic for multiple respondents.<h4>Results</h4>Seventy-two radiation oncologists (28%) completed the survey. Forty-seven (65%) reported having either written or been principal investigator on a study using these scales. Agreement between respondents was moderate (ICC 0.52, 95% confidence interval [CI] 0.47-0.58) when using NCI CTC and fair using the RTOG scale (ICC 0.28, 95% CI 0.20-0.40). Respondents who chose an invasive management were more likely to select a higher toxicity grade (P<.0001). Using the dichotomous scale, we observed moderate agreement (κ = 0.42, 95% CI 0.40-0.44) with the NCI CTC scale, but only slight agreement with the RTOG scale (κ = 0.19, 95% CI 0.17-0.21).<h4>Conclusion</h4>Low interrater reliability was observed among radiation oncologists grading rectal bleeding using 2 common scales. Clearer definitions of late rectal bleeding toxicity should be constructed to reduce this variability and avoid ambiguity in both reporting and interpretation."
+      }
+    ],
+    "files": [
+      {
+        "path": "NIHMS638988-supplement.doc",
+        "size": 34816,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "P30 CA006973"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "R01 CA166348"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "International journal of radiation oncology, biology, physics"
+          },
+          {
+            "name": "Volume",
+            "value": "90(5)"
+          },
+          {
+            "name": "Pages",
+            "value": "1076-82"
+          },
+          {
+            "name": "Publication date",
+            "value": "2014 Dec"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1016/j.ijrobp.2014.08.014",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "10.1016/j.ijrobp.2014.08.014",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC4276525",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "25442040",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Huynh-Le MP"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-5025-4709"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Zhang Z"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Tran PT"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-0147-0376"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "DeWeese TL"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Song DY"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Oncology Biostatistics, Sidney Kimmel Comprehensive Cancer Center, Johns Hopkins University School of Medicine, Baltimore, Maryland."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology and Molecular Radiation Sciences, Sidney Kimmel Comprehensive Cancer Center, Johns Hopkins University School of Medicine, Baltimore, Maryland."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology and Molecular Radiation Sciences, Sidney Kimmel Comprehensive Cancer Center, Johns Hopkins University School of Medicine, Baltimore, Maryland. Electronic address: dsong2@jhmi.edu."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

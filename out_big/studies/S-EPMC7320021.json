@@ -1,0 +1,121 @@
+{
+  "accno": "S-EPMC7320021",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Ecological opportunity and upward prey-predator radiation cascades."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2020-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Ecological opportunity and upward prey-predator radiation cascades."
+      },
+      {
+        "name": "Abstract",
+        "value": "A general goal in community ecology and evolutionary biology is to understand how diversity has arisen. In our attempts to reach such goals we become increasingly aware of interacting ecological and evolutionary processes shaping biodiversity. Ecological opportunity and adaptive radiations can, for example, drive diversification in competitive communities but little is known about how such processes propagate through trophic levels in adaptive radiation cascades. I use an eco-evolutionary model of trait-based ecological interactions and micro-evolutionary processes to investigate the macro-evolutionary aspects of predator diversification in such cascades. Prey diversification facilitates predator radiation through predator feeding opportunity and disruptive selection. Predator radiation, however, often disconnects from the prey radiation as the diversification progresses. Only when predators have an intermediate niche width, high predatory efficiency, and high evolutionary potential can radiation cascades be maintained over macro-evolutionary time scales. These results provide expectations for predator response to prey divergence and insight into eco-evolutionary feedbacks between trophic levels. Such expectations are crucial for future studies that aim for a better understanding of how diversity is generated and maintained in complex communities."
+      }
+    ],
+    "files": [
+      {
+        "path": "41598_2020_67181_MOESM1_ESM.pdf",
+        "size": 831689,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Scientific reports"
+          },
+          {
+            "name": "Volume",
+            "value": "10(1)"
+          },
+          {
+            "name": "Pages",
+            "value": "10484"
+          },
+          {
+            "name": "Publication date",
+            "value": "2020 Jun"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1038/s41598-020-67181-5",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC7320021",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "32591632",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Pontarp M"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Biology, Lund University, Sölvegatan 37, 223 62, Lund, Sweden. mikael.pontarp@biol.lu.se."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

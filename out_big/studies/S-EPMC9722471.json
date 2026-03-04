@@ -1,0 +1,261 @@
+{
+  "accno": "S-EPMC9722471",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Utilization and Outcomes of Radiation in Stage IV Esophageal Cancer."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2022-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Utilization and Outcomes of Radiation in Stage IV Esophageal Cancer."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Introduction</h4>For patients with stage IV esophageal cancer, esophageal radiation may be used selectively for local control and palliation. We aimed to understand patterns of radiation administration among patients with stage IV esophageal cancer and any potential survival associations.<h4>Methods</h4>In this retrospective cohort study, the National Cancer Database was queried for patients with metastatic stage IV esophageal cancer diagnosed between 2016 and 2019. Patterns of radiation use were identified. Survival was determined through Kaplan-Meier analysis of propensity score-matched pairs of patients who did and did not receive radiotherapy and time-to-event models.<h4>Results</h4>Overall, 12,088 patients with stage IV esophageal cancer were identified, including 32.7% who received esophageal radiation. The median age was 65 (interquartile range [IQR]: 58-73) years, and 82.6% were male. Among the irradiated patients, the median total radiation dose was 35 (IQR: 30-50) Gy administered in a median of 14 (IQR: 10-25) fractions given in 22 (IQR: 14-39) days. Overall, esophageal radiation was not associated with better survival (log-rank <i>p</i> = 0.41). When stratified by radiation dose, a survival advantage (over no radiation) was found in the 1144 patients (29% of the irradiated patients) who received 45 to 59.9 Gy (time ratio = 1.28, 95% confidence interval: 1.20-1.37, <i>p</i> < 0.001) and the 88 patients (2.2%) who received 60 to 80 Gy (time ratio = 1.37, 95% confidence interval: 1.11-1.69, <i>p</i> = 0.003).<h4>Conclusions</h4>One-third of the patients with metastatic stage IV esophageal cancer in the National Cancer Database received esophageal radiation. Most received a radiation dose that, although consistent with palliative regimens, was not associated with a survival advantage. Further study is warranted to understand the indications for radiation in stage IV esophageal cancer and potentially reevaluate the most appropriate radiation dose for palliation."
+      }
+    ],
+    "files": [
+      {
+        "path": "mmc1.docx",
+        "size": 88022,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "JTO clinical and research reports"
+          },
+          {
+            "name": "Volume",
+            "value": "3(12)"
+          },
+          {
+            "name": "Pages",
+            "value": "100429"
+          },
+          {
+            "name": "Publication date",
+            "value": "2022 Dec"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1016/j.jtocrr.2022.100429",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC9722471",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "36483656",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Zhan PL"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Canavan ME"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Ermer T"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Pichert MD"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Li AX"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Maduka RC"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kaminski MF"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Johung KL"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a9",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Boffa DJ"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Cancer Outcomes Public Policy and Effectiveness Research Center, Department of Internal Medicine, Yale University School of Medicine, New Haven, Connecticut."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Therapeutic Radiology, Yale University School of Medicine, New Haven, Connecticut."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Division of Thoracic Surgery, Department of Surgery, Yale University School of Medicine, New Haven, Connecticut."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

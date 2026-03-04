@@ -1,0 +1,155 @@
+{
+  "accno": "S-EPMC3810664",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Motion-induced radiation from electrons moving in Maxwell's fish-eye."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2013-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Motion-induced radiation from electrons moving in Maxwell's fish-eye."
+      },
+      {
+        "name": "Abstract",
+        "value": "In Čerenkov radiation and transition radiation, evanescent wave from motion of charged particles transfers into radiation coherently. However, such dissipative motion-induced radiations require particles to move faster than light in medium or to encounter velocity transition to pump energy. Inspired by a method to detect cloak by observing radiation of a fast-moving electron bunch going through it by Zhang et al., we study the generation of electron-induced radiation from electrons' interaction with Maxwell's fish-eye sphere. Our calculation shows that the radiation is due to a combination of Čerenkov radiation and transition radiation, which may pave the way to investigate new schemes of transferring evanescent wave to radiation."
+      }
+    ],
+    "files": [
+      {
+        "path": "srep03065-s1.gif",
+        "size": 2810924,
+        "type": "file"
+      },
+      {
+        "path": "srep03065-s2.pdf",
+        "size": 236213,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Scientific reports"
+          },
+          {
+            "name": "Volume",
+            "value": "3"
+          },
+          {
+            "name": "Pages",
+            "value": "3065"
+          },
+          {
+            "name": "Publication date",
+            "value": "2013 Oct"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1038/srep03065",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC3810664",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "24166002",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Liu Y"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Ang LK"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0003-2811-1194"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Computational Nano-Electronics Laboratory, Division of Micro-Electronics, School of Electrical and Electronic Engineering, 50 Nanyang Avenue, Nanyang Technological University, Singapore 639798."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Singapore University of Technology and Design , Dover Drive,"
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

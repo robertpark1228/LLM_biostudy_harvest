@@ -1,0 +1,327 @@
+{
+  "accno": "S-EPMC5463541",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Nature of Medical Malpractice Claims Against Radiation Oncologists."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2017-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Nature of Medical Malpractice Claims Against Radiation Oncologists."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Purpose</h4>To examine characteristics of medical malpractice claims involving radiation oncologists closed during a 10-year period.<h4>Methods and materials</h4>Malpractice claims filed against radiation oncologists from 2003 to 2012 collected by a nationwide liability insurance trade association were analyzed. Outcomes included the nature of claims and indemnity payments, including associated presenting diagnoses, procedures, alleged medical errors, and injury severity. We compared the likelihood of a claim resulting in payment in relation to injury severity categories (death as referent) using binomial logistic regression.<h4>Results</h4>There were 362 closed claims involving radiation oncology, 102 (28%) of which were paid, resulting in $38 million in indemnity payments. The most common alleged errors included \"improper performance\" (38% of closed claims, 18% were paid; 29% [$11 million] of total indemnity), \"errors in diagnosis\" (25% of closed claims, 46% were paid; 44% [$17 million] of total indemnity), and \"no medical misadventure\" (14% of closed claims, 8% were paid; less than 1% [$148,000] of total indemnity). Another physician was named in 32% of claims, and consent issues/breach of contract were cited in 18%. Claims for injury resulting in death represented 39% of closed claims and 25% of total indemnity. \"Improper performance\" was the primary alleged error associated with injury resulting in death. Compared with claims involving death, major temporary injury (odds ratio [OR] 2.8, 95% confidence interval [CI] 1.29-5.85, P=.009), significant permanent injury (OR 3.1, 95% CI 1.48-6.46, P=.003), and major permanent injury (OR 5.5, 95% CI 1.89-16.15, P=.002) had a higher likelihood of a claim resulting in indemnity payment.<h4>Conclusions</h4>Improper performance was the most common alleged malpractice error. Claims involving significant or major injury were more likely to be paid than those involving death. Insights into the nature of liability claims against radiation oncologists may help direct efforts to improve quality of care and minimize the risk of being sued."
+      }
+    ],
+    "files": [
+      {
+        "path": "NIHMS843632-supplement.pdf",
+        "size": 106892,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCATS NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "KL2 TR001444"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCATS NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "TL1 TR000098"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCATS NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "TL1 TR001443"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCATS NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "UL1 TR000100"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCATS NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "UL1 TR001442"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCATS NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "KL2 TR000099"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "International journal of radiation oncology, biology, physics"
+          },
+          {
+            "name": "Volume",
+            "value": "98(1)"
+          },
+          {
+            "name": "Pages",
+            "value": "21-30"
+          },
+          {
+            "name": "Publication date",
+            "value": "2017 May"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1016/j.ijrobp.2017.01.022",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "10.1016/j.ijrobp.2017.01.022",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC5463541",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "28586962",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Marshall D"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-6675-7482"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Tringale K"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Connor M"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Punglia R"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Recht A"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Hattangadi-Gluth J"
+          },
+          {
+            "name": "affiliation",
+            "value": "o5",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Medicine and Applied Sciences, University of California San Diego, La Jolla, California."
+          }
+        ]
+      },
+      {
+        "accno": "o5",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Medicine and Applied Sciences, University of California San Diego, La Jolla, California. Electronic address: jhattangadi@ucsd.edu."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Medicine and Applied Sciences, University of California San Diego, La Jolla, California; University of California Irvine School of Medicine, Irvine, California."
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Beth Israel Deaconess Medical Center, Harvard Medical School, Boston, Massachusetts."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Brigham and Women's Hospital, Harvard Medical School, Boston, Massachusetts."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

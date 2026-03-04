@@ -1,0 +1,205 @@
+{
+  "accno": "S-EPMC1312382",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Dynamic patterns of adaptive radiation."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2005-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Dynamic patterns of adaptive radiation."
+      },
+      {
+        "name": "Abstract",
+        "value": "Adaptive radiation is defined as the evolution of ecological and phenotypic diversity within a rapidly multiplying lineage. When it occurs, adaptive radiation typically follows the colonization of a new environment or the establishment of a \"key innovation,\" which opens new ecological niches and/or new paths for evolution. Here, we take advantage of recent developments in speciation theory and modern computing power to build and explore a large-scale, stochastic, spatially explicit, individual-based model of adaptive radiation driven by adaptation to multidimensional ecological niches. We are able to model evolutionary dynamics of populations with hundreds of thousands of sexual diploid individuals over a time span of 100,000 generations assuming realistic mutation rates and allowing for genetic variation in a large number of both selected and neutral loci. Our results provide theoretical support and explanation for a number of empirical patterns including \"area effect,\" \"overshooting effect,\" and \"least action effect,\" as well as for the idea of a \"porous genome.\" Our findings suggest that the genetic architecture of traits involved in the most spectacular radiations might be rather simple. We show that a great majority of speciation events are concentrated early in the phylogeny. Our results emphasize the importance of ecological opportunity and genetic constraints in controlling the dynamics of adaptive radiation."
+      }
+    ],
+    "files": [
+      {
+        "path": "pnas_0506330102_1.pdf",
+        "size": 55817,
+        "type": "file"
+      },
+      {
+        "path": "pnas_0506330102_10.pdf",
+        "size": 42703,
+        "type": "file"
+      },
+      {
+        "path": "pnas_0506330102_2.pdf",
+        "size": 91782,
+        "type": "file"
+      },
+      {
+        "path": "pnas_0506330102_3.pdf",
+        "size": 129987,
+        "type": "file"
+      },
+      {
+        "path": "pnas_0506330102_4.pdf",
+        "size": 50869,
+        "type": "file"
+      },
+      {
+        "path": "pnas_0506330102_5.pdf",
+        "size": 71800,
+        "type": "file"
+      },
+      {
+        "path": "pnas_0506330102_6.pdf",
+        "size": 108688,
+        "type": "file"
+      },
+      {
+        "path": "pnas_0506330102_7.pdf",
+        "size": 52649,
+        "type": "file"
+      },
+      {
+        "path": "pnas_0506330102_8.pdf",
+        "size": 56304,
+        "type": "file"
+      },
+      {
+        "path": "pnas_0506330102_9.pdf",
+        "size": 94991,
+        "type": "file"
+      },
+      {
+        "path": "pnas_0506330102_index.html",
+        "size": 2162,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Proceedings of the National Academy of Sciences of the United States of America"
+          },
+          {
+            "name": "Volume",
+            "value": "102(50)"
+          },
+          {
+            "name": "Pages",
+            "value": "18040-5"
+          },
+          {
+            "name": "Publication date",
+            "value": "2005 Dec"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1073/pnas.0506330102",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "10.1073/pnas.0506330102",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC1312382",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "16330783",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Gavrilets S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Vose A"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Ecology, University of Tennessee, Knoxville, TN 37996, USA. sergy@tiem.utk.edu"
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Departments of Ecology and Evolutionary Biology, Mathematics Computer Science, University of Tennessee, Knoxville, TN 37996"
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

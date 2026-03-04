@@ -1,0 +1,207 @@
+{
+  "accno": "S-EPMC5034250",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Distal airway epithelial progenitor cells are radiosensitive to High-LET radiation."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2016-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Distal airway epithelial progenitor cells are radiosensitive to High-LET radiation."
+      },
+      {
+        "name": "Abstract",
+        "value": "Exposure to high-linear energy transfer (LET) radiation occurs in a variety of situations, including charged particle radiotherapy, radiological accidents, and space travel. However, the extent of normal tissue injury in the lungs following high-LET radiation exposure is unknown. Here we show that exposure to high-LET radiation led to a prolonged loss of in vitro colony forming ability by airway epithelial progenitor cells. Furthermore, exposure to high-LET radiation induced clonal expansion of a subset of progenitor cells in the distal airway epithelium. Clonal expansion following high-LET radiation exposure was correlated with elevated progenitor cell apoptosis, persistent γ-H2AX foci, and defects in mitotic progression of distal airway progenitors. We discovered that the effects of high-LET radiation exposure on progenitor cells occur in a p53-dependent manner. These data show that high-LET radiation depletes the distal airway progenitor pool by inducing cell death and loss of progenitor function, leading to clonal expansion. Importantly, high-LET radiation induces greater long-term damage to normal lung tissue than the relative equivalent dose of low-LET γ-rays, which has implications in therapeutic development and risk assessment."
+      }
+    ],
+    "files": [
+      {
+        "path": "srep33455-s1.pdf",
+        "size": 813894,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NHLBI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "U01 HL111018"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Scientific reports"
+          },
+          {
+            "name": "Volume",
+            "value": "6"
+          },
+          {
+            "name": "Pages",
+            "value": "33455"
+          },
+          {
+            "name": "Publication date",
+            "value": "2016 Sep"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1038/srep33455",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC5034250",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "27659946",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "McConnell AM"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-0984-4045"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Konda B"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kirsch DG"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Stripp BR"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0003-4348-2137"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Cell Biology, Duke University Medical Center, Durham, NC, 27708, USA."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Departments of Radiation Oncology and Pharmacology &Cancer Biology, Duke University Medical Center, Durham, NC, 27708, USA."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Lung and Regenerative Medicine Institutes, Department of Medicine, Cedars-Sinai Medical Center, Los Angeles, CA, 90048, USA."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

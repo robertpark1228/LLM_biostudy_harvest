@@ -1,0 +1,265 @@
+{
+  "accno": "S-EPMC5884371",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Assessing the health effects associated with occupational radiation exposure in Korean radiation workers: protocol for a prospective cohort study."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2018-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Assessing the health effects associated with occupational radiation exposure in Korean radiation workers: protocol for a prospective cohort study."
+      },
+      {
+        "name": "Abstract",
+        "value": "INTRODUCTION:The cancer risk of radiation exposure in the moderate-to-high dose range has been well established. However, the risk remains unclear at low-dose ranges with protracted low-dose rate exposure, which is typical of occupational exposure. Several epidemiological studies of Korean radiation workers have been conducted, but the data were analysed retrospectively in most cases. Moreover, groups with relatively high exposure, such as industrial radiographers, have been neglected. Therefore, we have launched a prospective cohort study of all Korean radiation workers to assess the health effects associated with occupational radiation exposure. METHODS AND ANALYSIS:Approximately 42 000 Korean radiation workers registered with the Nuclear Safety and Security Commission from 2016 to 2017 are the initial target population of this study. Cohort participants are to be enrolled through a nationwide self-administered questionnaire survey between 24 May 2016 and 30 June 2017. As of 31 March 2017, 22 982 workers are enrolled in the study corresponding to a response rate of 75%. This enrolment will be continued at 5-year intervals to update information on existing study participants and recruit newly hired workers. Survey data will be linked with the national dose registry, the national cancer registry, the national vital statistics registry and national health insurance data via personal identification numbers. Age-specific and sex-specific standardised incidence and mortality ratios will be calculated for overall comparisons of cancer risk. For dose-response assessment, excess relative risk (per Gy) and excess absolute risk (per Gy) will be estimated with adjustments for birth year and potential confounders, such as lifestyle factors and socioeconomic status. ETHICS AND DISSEMINATION:This study has received ethical approval from the institutional review board of the Korea Institute of Radiological and Medical Sciences (IRB No. K-1603-002-034). All participants provided written informed consent prior to enrolment. The findings of the study will be disseminated through scientific peer-reviewed journals and be provided to the public, including radiation workers, via the study website (http://www.rhs.kr/) and onsite radiation safety education."
+      }
+    ],
+    "files": [
+      {
+        "path": "bmjopen-2017-017359.draft_revisions.pdf",
+        "size": 2165566,
+        "type": "file"
+      },
+      {
+        "path": "bmjopen-2017-017359.reviewer_comments.pdf",
+        "size": 201668,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Nuclear Safety and Security Commission"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "BMJ open"
+          },
+          {
+            "name": "Volume",
+            "value": "8(3)"
+          },
+          {
+            "name": "Pages",
+            "value": "e017359"
+          },
+          {
+            "name": "Publication date",
+            "value": "2018 Mar"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1136/bmjopen-2017-017359",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC5884371",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "29602835",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Seo S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Lim WY"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Lee DN"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kim JU"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Cha ES"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Bang YJ"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Lee WJ"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Park S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a9",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Jin YW"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Preventive Medicine, Korea University College of Medicine, Seoul, Korea."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Laboratory of Low Dose Risk Assessment, National Radiation Emergency Medical Center, Korea Institute of Radiological and Medical Sciences, Nowon-gu, Seoul, Korea."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

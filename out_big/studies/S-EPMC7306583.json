@@ -1,0 +1,258 @@
+{
+  "accno": "S-EPMC7306583",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Data from multi year and multi radiation detector measurements of different radiation sources with environmental data."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2020-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Data from multi year and multi radiation detector measurements of different radiation sources with environmental data."
+      },
+      {
+        "name": "Abstract",
+        "value": "The data described consists of radiation measurement outputs from several different detectors located in Abu Dhabi, UAE, for the duration of 30 November 2014 through 13 December 2016. This data could be useful for anyone studying radiation count rate or spectroscopic changes over a multi year period from various radiation sources and measurement systems. The outputs of the measurement systems include 1) counts per 20 min from a Geiger-Muller detector measuring <sup>90</sup>Sr, 2) counts per 20 min from a Geiger-Muller detector measuring <sup>204</sup>Tl, 3) radiation spectra per 30 min from a NaI detector measuring <sup>60</sup>Co, 4) radiation spectra per 30 min from a NaI detector measuring <sup>54</sup>Mn, 5) radiation spectra per 30 min from a liquid scintillation detector measuring <sup>226</sup>Ra, 6) counts per 30 min from a liquid scintillation detector measuring <sup>14</sup>C, and room pressure, temperature, and humidity data every 10 min. A detailed description of the setup of each of these measurement systems can be found in \"Experimental Setup and Commissioning Baseline Study in Search of Time-Variations in Beta-Decay Half-Lives\" [1]."
+      }
+    ],
+    "files": [
+      {
+        "path": "mmc1.xml",
+        "size": 256,
+        "type": "file"
+      }
+    ],
+    "links": [
+      [
+        {
+          "url": "10.17632/tfcc3jk869.1",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "doi"
+            }
+          ]
+        }
+      ]
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Khalifa University of Science, Technology and Research"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Data in brief"
+          },
+          {
+            "name": "Volume",
+            "value": "31"
+          },
+          {
+            "name": "Pages",
+            "value": "105828"
+          },
+          {
+            "name": "Publication date",
+            "value": "2020 Aug"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1016/j.dib.2020.105828",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC7306583",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "32596427",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Goddard B"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Hitt GW"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Bridi D"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Isakovic AF"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "El-Khazali R"
+          },
+          {
+            "name": "affiliation",
+            "value": "o5",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Abulail A"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o5",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Electrical Engineering and Computer Science, Khalifa University, Abu Dhabi, UAE."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Mechanical and Nuclear Engineering, Virginia Commonwealth University, 401 West Main Street, Richmond, VA 23284, United States."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Physics and Engineering Science, Costal Carolina University, 109 Chanticleer Drive East, Conway, SC 29526, United States."
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Physics, Khalifa University, Abu Dhabi, UAE."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Independent consultant, Vienna, Austria."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

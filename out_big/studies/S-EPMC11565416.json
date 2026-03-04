@@ -1,0 +1,206 @@
+{
+  "accno": "S-EPMC11565416",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Adaptive radiation strategy with V20 limitation associates with survival benefit and lower incidence of symptomatic radiation pneumonitis in stage III NSCLC patients receiving concurrent immunotherapy and thoracic radiation."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2024-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Adaptive radiation strategy with V20 limitation associates with survival benefit and lower incidence of symptomatic radiation pneumonitis in stage III NSCLC patients receiving concurrent immunotherapy and thoracic radiation."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Objectives</h4>To evaluate the efficacy and the incidence of symptomatic radiation pneumonitis (RP) of the adaptive radiation strategy with V20 limitation in stage III non-small cell lung cancer (NSCLC) patients receiving concurrent immunotherapy and radiotherapy Materials and Methods: We retrospectively reviewed stage III NSCLC patients received thoracic radiation with or without immunotherapy from January 2015 to September 2024 in the Third Xiangya Hospital. The overall survival (OS), progression free survival (PFS), objective response rate (ORR), and the incidence of symptomatic RP were compared among patients stratified by the sequential of immunotherapy and radiotherapy.<h4>Results</h4>45 patients received concurrent immunotherapy and radiotherapy with application of the adaptive radiation strategy (the CIR group). 32 patients received simultaneous integrated boost intensity-modulated radiotherapy (SIB-IMRT), 26 patients received 2 to 4 cycles neoadjuvant immuno-chemotherapy before the concurrent immunotherapy and radiotherapy, 7 patients received thoracic radiotherapy with a prescribed dosage of 50 Gy, and 10 patients received radiotherapy with CTV omission. 86.67 % (39/45) patients had a V20 ≤ 20 %. The ORR was 86.67 %. The median PFS of these patients was significantly longer than those received concurrent chemo-radiotherapy followed by immunotherapy (the PACIFIC paradigm, HR, 2.40; 95 % CI, 1.15 to 5.02; log-rank p = 0.013; median, 28.6 vs. 16.1 months p = 0.013). The median OS was not reached. 13.3 % patients in the CIR group experienced grade ≥ 2 RP and the incidence was significantly lower than that of patients received radiotherapy without immunotherapy or concurrent chemo-radiotherapy with immunotherapy consolidation.<h4>Conclusions</h4>The application of adaptive radiotherapy strategies with V20 limitation demonstrated robust antitumor activity and reduced pulmonary toxicity in stage III NSCLC patients receiving concurrent ICIs treatment and thoracic radiation. This treatment modality deserves further validation as a promising therapy in patients with treatment-naive, unresectable, stage III NSCLC."
+      }
+    ],
+    "files": [
+      {
+        "path": "mmc1.zip",
+        "size": 2314187,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Translational oncology"
+          },
+          {
+            "name": "Volume",
+            "value": "51"
+          },
+          {
+            "name": "Pages",
+            "value": "102184"
+          },
+          {
+            "name": "Publication date",
+            "value": "2024 Nov"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1016/j.tranon.2024.102184",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC11565416",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "39489090",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Song Z"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Zhang X"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Ma Y"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Ma S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Feng Z"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Liu X"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Oncology, The Third Xiangya Hospital of Central South University, Changsha, PR China."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Oncology, The Third Xiangya Hospital of Central South University, Changsha, PR China. Electronic address: aveinliu@csu.edu.cn."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

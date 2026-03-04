@@ -1,0 +1,291 @@
+{
+  "accno": "S-EPMC9678242",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Radiation therapy utilization in Medicare beneficiaries with early-stage breast cancer."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2018-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Radiation therapy utilization in Medicare beneficiaries with early-stage breast cancer."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Background</h4>There is increasing evidence that radiation therapy (RT) can be omitted for select older patients who are compliant with hormonal blockade, but there is no recent claim-based analysis for determining patterns of care and guiding possible treatment recommendations.<h4>Methods</h4>Medicare beneficiaries who were 65 years old or older and were diagnosed with breast cancer at 1 of 12 cancer centers affiliated with an academic center in the southeastern United States were analyzed. Stage 0 or I patients treated with lumpectomy from 2012 to 2014 were identified. Patient, treatment, and center characteristics were analyzed for the utilization of RT.<h4>Results</h4>Among 800 women treated with lumpectomy, 64% received adjuvant radiation. The median age was 74 years. The omission of RT was more likely in older patients, stage 0 patients, and patients with more comorbidities (P < .01). Hormonal blockade was used in 41% of the patients who did not receive RT. The utilization of hormonal blockade with the omission of RT was more likely in patients with fewer comorbidities (P < .01).<h4>Conclusions</h4>In an older cohort of patients who otherwise would have qualified for the omission of radiation, two-thirds were treated with radiation. Future guideline recommendations should address omission in the context of hormonal blockade compliance because only 41% of the patients used hormonal blockade when radiation was not delivered. Cancer 2018;124:475-81. © 2017 American Cancer Society."
+      }
+    ],
+    "files": [
+      {
+        "path": "NIHMS1847833-supplement-SM_A.docx",
+        "size": 13416,
+        "type": "file"
+      },
+      {
+        "path": "NIHMS1847833-supplement-SM_B.docx",
+        "size": 13197,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Centers for Medicare and Medicaid Services"
+          },
+          {
+            "name": "grant_id",
+            "value": "1C1CMS331023"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "AHRQ HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "T32 HS013852"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Cancer"
+          },
+          {
+            "name": "Volume",
+            "value": "124(3)"
+          },
+          {
+            "name": "Pages",
+            "value": "475-481"
+          },
+          {
+            "name": "Publication date",
+            "value": "2018 Feb"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1002/cncr.30989",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "10.1002/cncr.30989",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC9678242",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "29053170",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Wallace AS"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Keene KS"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Williams CP"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Jackson BE"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Pisu M"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Partridge EE"
+          },
+          {
+            "name": "affiliation",
+            "value": "o5",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Rocque GB"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Center for Outcomes Research, JPS Health Network, Fort Worth, Texas."
+          }
+        ]
+      },
+      {
+        "accno": "o5",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Comprehensive Cancer Center, University of Alabama at Birmingham, Birmingham, Alabama."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, University of Alabama at Birmingham, Birmingham, Alabama."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Division of Hematology and Oncology, University of Alabama at Birmingham, Birmingham, Alabama."
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Division of Preventive Medicine, University of Alabama at Birmingham, Birmingham, Alabama."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

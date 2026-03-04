@@ -1,0 +1,229 @@
+{
+  "accno": "S-EPMC3157373",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Plasma miRNA as biomarkers for assessment of total-body radiation exposure dosimetry."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2011-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Plasma miRNA as biomarkers for assessment of total-body radiation exposure dosimetry."
+      },
+      {
+        "name": "Abstract",
+        "value": "The risk of radiation exposure, due to accidental or malicious release of ionizing radiation, is a major public health concern. Biomarkers that can rapidly identify severely-irradiated individuals requiring prompt medical treatment in mass-casualty incidents are urgently needed. Stable blood or plasma-based biomarkers are attractive because of the ease for sample collection. We tested the hypothesis that plasma miRNA expression profiles can accurately reflect prior radiation exposure. We demonstrated using a murine model that plasma miRNA expression signatures could distinguish mice that received total body irradiation doses of 0.5 Gy, 2 Gy, and 10 Gy (at 6 h or 24 h post radiation) with accuracy, sensitivity, and specificity of above 90%. Taken together, these data demonstrate that plasma miRNA profiles can be highly predictive of different levels of radiation exposure. Thus, plasma-based biomarkers can be used to assess radiation exposure after mass-casualty incidents, and it may provide a valuable tool in developing and implementing effective countermeasures."
+      }
+    ],
+    "files": [
+      {
+        "path": "pone.0022988.s001.tif",
+        "size": 2157936,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NIAID NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "R33 AI080541"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NIEHS NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "ES03819"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NIEHS NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "P30 ES003819"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "PloS one"
+          },
+          {
+            "name": "Volume",
+            "value": "6(8)"
+          },
+          {
+            "name": "Pages",
+            "value": "e22988"
+          },
+          {
+            "name": "Publication date",
+            "value": "2011"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1371/journal.pone.0022988",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC3157373",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "21857976",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Cui W"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Ma J"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Wang Y"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-9057-9786"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Biswal S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Environmental Health Sciences, Bloomberg School of Public Health, Johns Hopkins University, Baltimore, Maryland, United States of America"
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Environmental Health Sciences, Bloomberg School of Public Health, Johns Hopkins University, Baltimore, Maryland, United States of America."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Genomic Assays R&D, Life Technologies, Foster City, California, United States of America"
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

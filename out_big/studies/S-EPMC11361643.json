@@ -1,0 +1,292 @@
+{
+  "accno": "S-EPMC11361643",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "A single dose of radiation elicits comparable acute salivary gland injury to fractionated radiation."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2024-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "A single dose of radiation elicits comparable acute salivary gland injury to fractionated radiation."
+      },
+      {
+        "name": "Abstract",
+        "value": "The salivary glands are often damaged during head and neck cancer radiotherapy. This results in chronic dry mouth, which adversely affects quality of life and for which there is no long-term cure. Mouse models of salivary gland injury are routinely used in regenerative research. However, there is no clear consensus on the radiation regime required to cause injury. Here, we analysed three regimes of γ-irradiation of the submandibular salivary gland. Transcriptional analysis, immunofluorescence and flow cytometry was used to profile DNA damage, gland architecture and immune cell changes 3 days after single doses of 10 or 15 Gy or three doses of 5 Gy. Irrespective of the regime, radiation induced comparable levels of DNA damage, cell cycle arrest, loss of glandular architecture, increased pro-inflammatory cytokines and a reduction in tissue-resident macrophages, relative to those observed in non-irradiated submandibular glands. Given these data, coupled with the fact that repeated anaesthetic can negatively affect animal welfare and interfere with saliva secretion, we conclude that a single dose of 10 Gy irradiation is the most refined method of inducing acute salivary gland injury in a mouse model."
+      }
+    ],
+    "files": [
+      {
+        "path": "dmm-17-050733-s1.pdf",
+        "size": 759016,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Wellcome Trust"
+          },
+          {
+            "name": "grant_id",
+            "value": "108906/Z/15/Z"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Medical Research Council"
+          },
+          {
+            "name": "grant_id",
+            "value": "MR/X018733/1"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "UK Research and Innovation"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "University of Edinburgh"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Wellcome Trust"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Medical Research Council"
+          },
+          {
+            "name": "grant_id",
+            "value": "108906/Z/15/Z"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Medical Research Council"
+          },
+          {
+            "name": "grant_id",
+            "value": "MR/S005544/1"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Medical Research Council"
+          },
+          {
+            "name": "grant_id",
+            "value": "MR/W004763/1"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Disease models & mechanisms"
+          },
+          {
+            "name": "Volume",
+            "value": "17(8)"
+          },
+          {
+            "name": "Pages",
+            "value": "dmm050733"
+          },
+          {
+            "name": "Publication date",
+            "value": "2024 Aug"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1242/dmm.050733",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC11361643",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "39086326",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Johnson AL"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Elder SS"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "McKendrick JG"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Hegarty LM"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Mercer E"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Emmerson E"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-5902-3368"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "The Centre for Regenerative Medicine, Institute for Regeneration and Repair, The University of Edinburgh, 4-5 Little France Drive, Edinburgh, EH16 4UU, UK."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

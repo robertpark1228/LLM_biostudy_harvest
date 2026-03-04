@@ -1,0 +1,597 @@
+{
+  "accno": "S-EPMC6727581",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Influence of low-dose radiation on abscopal responses in patients receiving high-dose radiation and immunotherapy."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2019-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Influence of low-dose radiation on abscopal responses in patients receiving high-dose radiation and immunotherapy."
+      },
+      {
+        "name": "Abstract",
+        "value": "BACKGROUND:Preclinical evidence suggests that low-dose radiation may overcome the inhibitory effects of the tumor stroma and improve a tumor's response to immunotherapy, when combined with high-dose radiation to another tumor. The aim of this study was to evaluate tumor responses to this combination in a clinical setting. METHODS:A post-hoc analysis of 3 ongoing immunoradiation trials was performed. Twenty-six (of 155) patients received low-dose radiation (1-20 Gy total), either as scatter from high-dose radiation or from intentional treatment of a second isocenter with low-dose radiation, were evaluated for response. The low-dose lesions were compared to lesions that received no radiation (< 1 Gy total). Response rates, both defined as complete and partial responses as defined by RECIST criteria were used to compare lesion types. RESULTS:The 26 patients had a total of 83 lesions for comparison (38 receiving low-dose, 45 receiving no-dose). The average dose given to low-dose lesions was 7.3 Gy (1.1-19.4 Gy), and the average time to response was 56 days. Twenty-two out of 38 (58%) low-dose lesions met the PR/CR criteria for RECIST compared with 8 out of 45 (18%) no-dose lesions (P = 0.0001). The median change for longest diameter size for low-dose lesions was - 38.5% compared to 8% in no-dose lesions (P < 0.0001). Among the low-dose lesions that had at least one no-dose lesion within the same patient as a control (33 and 45 lesions respectively), 12 low-dose lesions (36%) responded without a corresponding response in their no-dose lesions; Conversely, two (4%) of the no-dose lesions responded without a corresponding response in their low-dose lesion (P = 0.0004). CONCLUSIONS:Low-dose radiation may increase systemic response rates of metastatic disease treated with high-dose radiation and immunotherapy."
+      }
+    ],
+    "files": [
+      {
+        "path": "40425_2019_718_MOESM1_ESM.docx",
+        "size": 125637,
+        "type": "file"
+      },
+      {
+        "path": "40425_2019_718_MOESM2_ESM.docx",
+        "size": 15776,
+        "type": "file"
+      }
+    ],
+    "links": [
+      [
+        {
+          "url": "NCT02710253",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT02239900",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT02444741",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        }
+      ]
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Varian Medical Systems"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Merck"
+          },
+          {
+            "name": "grant_id",
+            "value": "51677"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Bristol Myers Squibb"
+          },
+          {
+            "name": "grant_id",
+            "value": "CA184-400"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "P30 CA016672"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Journal for immunotherapy of cancer"
+          },
+          {
+            "name": "Volume",
+            "value": "7(1)"
+          },
+          {
+            "name": "Pages",
+            "value": "237"
+          },
+          {
+            "name": "Publication date",
+            "value": "2019 Sep"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1186/s40425-019-0718-6",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC6727581",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "31484556",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Menon H"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0001-5684-1405"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Chen D"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Ramapriyan R"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-2945-3236"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Verma V"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Barsoumian HB"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Cushman TR"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Younes AI"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-1746-4624"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Cortez MA"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a9",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Erasmus JJ"
+          },
+          {
+            "name": "affiliation",
+            "value": "o5",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a10",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "de Groot P"
+          },
+          {
+            "name": "affiliation",
+            "value": "o5",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a11",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Carter BW"
+          },
+          {
+            "name": "affiliation",
+            "value": "o5",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a12",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Hong DS"
+          },
+          {
+            "name": "affiliation",
+            "value": "o6",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a13",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Glitza IC"
+          },
+          {
+            "name": "affiliation",
+            "value": "o7",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a14",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Ferrarotto R"
+          },
+          {
+            "name": "affiliation",
+            "value": "o8",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a15",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Altan M"
+          },
+          {
+            "name": "affiliation",
+            "value": "o8",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a16",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Diab A"
+          },
+          {
+            "name": "affiliation",
+            "value": "o7",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a17",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Chun SG"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a18",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Heymach JV"
+          },
+          {
+            "name": "affiliation",
+            "value": "o8",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a19",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Tang C"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a20",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Nguyen QN"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a21",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Welsh JW"
+          },
+          {
+            "name": "affiliation",
+            "value": "o9",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "College of Medicine Phoenix, University of Arizona, 425 N. Fifth Street, Phoenix, AZ, USA."
+          }
+        ]
+      },
+      {
+        "accno": "o5",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Diagnostic Radiology, The University of Texas MD Anderson Cancer Center, 1515 Holcombe Blvd, Houston, TX, USA."
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Experimental Radiation Oncology, The University of Texas MD Anderson Cancer Center, 1515 Holcombe Blvd, Houston, TX, USA."
+          }
+        ]
+      },
+      {
+        "accno": "o6",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Investigational Cancer Therapeutics, The University of Texas MD Anderson Cancer Center, 1515 Holcombe Blvd, Houston, TX, USA."
+          }
+        ]
+      },
+      {
+        "accno": "o7",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Melanoma Medical Oncology, The University of Texas MD Anderson Cancer Center, 1515 Holcombe Blvd, Houston, TX, USA."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Allegheny General Hospital, 320 East North Avenue, Pittsburgh, PA, USA."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, University of Texas M.D. Anderson Cancer Center, Unit 97, 1515 Holcombe Blvd, Houston, TX, 77030, USA."
+          }
+        ]
+      },
+      {
+        "accno": "o9",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, University of Texas M.D. Anderson Cancer Center, Unit 97, 1515 Holcombe Blvd, Houston, TX, 77030, USA. jwelsh@mdanderson.org."
+          }
+        ]
+      },
+      {
+        "accno": "o8",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Thoracic Head and Neck Medical Oncology, The University of Texas MD Anderson Cancer Center, 1515 Holcombe Blvd, Houston, TX, USA."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

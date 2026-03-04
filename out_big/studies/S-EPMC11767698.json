@@ -1,0 +1,320 @@
+{
+  "accno": "S-EPMC11767698",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "X-Ray Performance of SiC NPN Radiation Detector."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2024-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "X-Ray Performance of SiC NPN Radiation Detector."
+      },
+      {
+        "name": "Abstract",
+        "value": "In this paper, a silicon carbide (SiC) phototransistor based on an open-base structure was fabricated and used as a radiation detector. In contrast to the exposed and thin sensitive region of traditional photo detectors, the sensitive region of the radiation detector was much thicker (30 μm), ensuring the high energy deposition of radiation particles. The response properties of the fabricated SiC npn radiation detector were characterized by high-energy X-ray illumination with a maximum X-ray photon energy of 30 keV. The SiC npn detector featured stable and clear response to the X-ray within 0.0766 Gy∙s<sup>-1</sup> to 0.766 Gy∙s<sup>-1</sup> below 300 V. Due to to the low leakage current of less than 1 nA and the fully depleted sensitive region, the bipolar-transistor-modeled SiC npn detector exhibited a clear common-emitter current gain of 5.85 at 200 V (under 0.383 Gy∙s<sup>-1</sup>), where the gain increased with bias voltage due to the Early effect and reached 7.55 at 300 V. In addition, the transient response of the SiC npn detector revealed a longer delay time than the SiC diode of the same size, which was associated with the larger effective capacitance of the npn structure. The npn detector with internal gain showed great potential in radiation detection."
+      }
+    ],
+    "files": [
+      {
+        "path": "micromachines-16-00002-s001.zip",
+        "size": 408564,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "National Natural Science Foundation of China"
+          },
+          {
+            "name": "grant_id",
+            "value": "62204198"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "State Key Laboratory of Wide-Bandgap Semiconductor Devices and Integrated Technology"
+          },
+          {
+            "name": "grant_id",
+            "value": "2413S121"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "National Natural Science Foundation of China"
+          },
+          {
+            "name": "grant_id",
+            "value": "12305204"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Micromachines"
+          },
+          {
+            "name": "Volume",
+            "value": "16(1)"
+          },
+          {
+            "name": "Pages",
+            "value": "2"
+          },
+          {
+            "name": "Publication date",
+            "value": "2024 Dec"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.3390/mi16010002",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC11767698",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "39858657",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Wang J"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Zhou L"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Chen L"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Zhang S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Wang F"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Fan T"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Chen Z"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Bai S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o5",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a9",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Ouyang X"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Northwest Institute of Nuclear Technology, Xi'an 710024, China."
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "School of Materials Science and Engineering, Xiangtan University, Xiangtan 411105, China."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "School of Microelectronics, Xi'an Jiaotong University, Xi'an 710049, China."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "School of Microelectronics, Xidian University, Xi'an 710071, China."
+          }
+        ]
+      },
+      {
+        "accno": "o5",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "State Key Laboratory of Wide Bandgap Semiconductor Devices and Integrated Technology, Nanjing Electronic Devices Institute, Nanjing 210016, China."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

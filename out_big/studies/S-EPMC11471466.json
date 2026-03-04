@@ -1,0 +1,291 @@
+{
+  "accno": "S-EPMC11471466",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "A Qualitative Exploration of Sacred Moments in Radiation Oncology."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2024-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "A Qualitative Exploration of Sacred Moments in Radiation Oncology."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Purpose</h4>While there are many benefits to radiation oncology services, there can be emotional burdens in the care of patients with advanced cancer. Burnout is a prevalent problem in oncology. Existing literature suggests refocusing attention on providers' sense of purpose to protect against burnout. \"Sacred moments\" are moments of deep interconnection between people with accompanying spiritual emotions such as awe, joy, and gratitude. These moments naturally occur in health care settings, offering potential benefits to both patient and provider. Little is known about the prevalence and impact of sacred moments among health care workers in a radiation oncology setting.<h4>Methods and materials</h4>We conducted an exploratory qualitative study of 13 semi-structured interviews among physicians, registered nurses, and advanced practice providers of a radiation oncology consult service at a large National Cancer Institute-designated cancer center between March and May 2023. Interviews were recorded, transcribed, and analyzed to identify key themes. Data were systematically coded and analyzed in NVivo software and organized into a codebook organized by domains and themes.<h4>Results</h4>Of the 13 health care workers interviewed, 12 interviewees reported experiencing at least one sacred moment during their clinical careers. None of the interviewees were initially familiar with the term; however, all understood the concept once explained. Interview findings were organized into four domains: (1) common elements, (2) impact, (3) barriers, and (4) provider reactions. Common elements included a moment of deep interconnection between provider and patient, often involving end-of-life patients. The impact of these moments was most commonly described as an increased sense of purpose in their role. Lack of time with patients was the most common barrier.<h4>Conclusions</h4>Sacred moments are commonly experienced by health care workers in a radiation oncology consult service. They helped to humanize the patient, buffer against provider burnout, and increase a sense of purpose and job satisfaction."
+      }
+    ],
+    "files": [
+      {
+        "path": "mmc1.docx",
+        "size": 2982358,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "National Cancer Institute"
+          },
+          {
+            "name": "grant_id",
+            "value": "P30 CA008748"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "National Institutes of Health"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Conquer Cancer Foundation"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Commonwealth Fund"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Advances in radiation oncology"
+          },
+          {
+            "name": "Volume",
+            "value": "9(11)"
+          },
+          {
+            "name": "Pages",
+            "value": "101617"
+          },
+          {
+            "name": "Publication date",
+            "value": "2024 Nov"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1016/j.adro.2024.101617",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC11471466",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "39403094",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Saint K"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Ehrlinger R"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Gilliland J"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Barton MF"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Xu AJ"
+          },
+          {
+            "name": "affiliation",
+            "value": "o5",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Santos PMG"
+          },
+          {
+            "name": "affiliation",
+            "value": "o5",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Yerramilli D"
+          },
+          {
+            "name": "affiliation",
+            "value": "o5",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Emergency Medicine, University of Chicago, Chicago, Illinois."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Internal Medicine, Rush University Medical Center, Chicago, Illinois."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Internal Medicine, University of Michigan Medical School, Ann Arbor, Michigan."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Psychiatry and Behavioral Sciences, Memorial Sloan Kettering Cancer Center, New York, New York."
+          }
+        ]
+      },
+      {
+        "accno": "o5",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Memorial Sloan Kettering Cancer Center, New York, New York."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

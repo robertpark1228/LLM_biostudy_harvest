@@ -1,0 +1,420 @@
+{
+  "accno": "S-EPMC7488570",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Ultrathin gold nanowires to enhance radiation therapy."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2020-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Ultrathin gold nanowires to enhance radiation therapy."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Background</h4>Radiation therapy is a main treatment option for cancer. Due to normal tissue toxicity, radiosensitizers are commonly used to enhance RT. In particular, heavy metal or high-Z materials, such as gold nanoparticles, have been investigated as radiosensitizers. So far, however, the related studies have been focused on spherical gold nanoparticles. In this study, we assessed the potential of ultra-thin gold nanowires as a radiosensitizer, which is the first time.<h4>Methods</h4>Gold nanowires were synthesized by the reduction of HAuCl<sub>4</sub> in hexane. The as-synthesized gold nanowires were then coated with a layer of PEGylated phospholipid to be rendered soluble in water. Spherical gold nanoparticles coated with the same phospholipid were also synthesized as a comparison. Gold nanowires and gold nanospheres were first tested in solutions for their ability to enhance radical production under irradiation. They were then incubated with 4T1 cells to assess whether they could elevate cell oxidative stress under irradiation. Lastly, gold nanowires and gold nanoparticles were intratumorally injected into a 4T1 xenograft model, followed by irradiation applied to tumors (3 Gy/per day for three days). Tumor growth was monitored and compared.<h4>Results</h4>Our studies showed that gold nanowires are superior to gold nanospheres in enhancing radical production under X-ray radiation. In vitro analysis found that the presence of gold nanowires caused elevated lipid peroxidation and intracellular oxidative stress under radiation. When tested in vivo, gold nanowires plus irradiation led to better tumor suppression than gold nanospheres plus radiation. Moreover, gold nanowires were found to be gradually reduced to shorter nanowires by glutathione, which may benefit fractionated radiation.<h4>Conclusion</h4>Our studies suggest that gold nanowires are a promising type of radiosensitizer that can be safely injected into tumors to enhance radiotherapy. While the current study was conducted in a breast cancer model, the approach can be extended to the treatment of other cancer types."
+      }
+    ],
+    "files": [
+      {
+        "path": "12951_2020_678_MOESM1_ESM.pdf",
+        "size": 832756,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "National Natural Science Foundation of China"
+          },
+          {
+            "name": "grant_id",
+            "value": "81871384"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Norman Bethune Program of Jilin University"
+          },
+          {
+            "name": "grant_id",
+            "value": "2015219"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "National Natural Science Foundation of China"
+          },
+          {
+            "name": "grant_id",
+            "value": "81771869"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Hygiene Specific Subjects of Jilin Province"
+          },
+          {
+            "name": "grant_id",
+            "value": "2018SCZ039"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "National Natural Science Foundation of China"
+          },
+          {
+            "name": "grant_id",
+            "value": "81571708"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Journal of nanobiotechnology"
+          },
+          {
+            "name": "Volume",
+            "value": "18(1)"
+          },
+          {
+            "name": "Pages",
+            "value": "131"
+          },
+          {
+            "name": "Publication date",
+            "value": "2020 Sep"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1186/s12951-020-00678-3",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC7488570",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "32917209",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Bai L"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Jiang F"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Wang R"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Lee C"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Wang H"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Zhang W"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Jiang W"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Li D"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a9",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Ji B"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a10",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Li Z"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a11",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Gao S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a12",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Xie J"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-8915-6233"
+          },
+          {
+            "name": "affiliation",
+            "value": "o5",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a13",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Ma Q"
+          },
+          {
+            "name": "affiliation",
+            "value": "o6",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Chemistry, University of Georgia, Athens, GA, 30602, USA."
+          }
+        ]
+      },
+      {
+        "accno": "o5",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Chemistry, University of Georgia, Athens, GA, 30602, USA. jinxie@uga.edu."
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Gastrointestinal Medicine, Endoscopy Center, China-Japan Union Hospital of Jilin University, Changchun, 130033, Jilin, China."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Nuclear Medicine, China-Japan Union Hospital of Jilin University, Changchun, 130033, Jilin, China."
+          }
+        ]
+      },
+      {
+        "accno": "o6",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Nuclear Medicine, China-Japan Union Hospital of Jilin University, Changchun, 130033, Jilin, China. maqj@jlu.edu.cm."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiology, University of North Carolina at Chapel Hill, Chapel Hill, NC, 27599, USA."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

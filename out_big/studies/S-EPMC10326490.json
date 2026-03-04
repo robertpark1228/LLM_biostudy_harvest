@@ -1,0 +1,283 @@
+{
+  "accno": "S-EPMC10326490",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Computed tomography scan radiation and brain cancer incidence."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2023-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Computed tomography scan radiation and brain cancer incidence."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Background</h4>Computed tomography (CT) scans make substantial contributions to low-dose ionizing radiation exposures, raising concerns about excess cancers caused by diagnostic radiation.<h4>Methods</h4>Deidentified medicare records for all Australians aged 0-19 years between 1985-2005 were linked to national death and cancer registrations to 2012. The National Cancer Institute CT program was used to estimate radiation doses to the brain from CT exposures in 1985-2005, Poisson regression was used to model the dependence of brain cancer incidence on brain radiation dose, which lagged by 2 years to minimize reverse causation bias.<h4>Results</h4>Of 10 524 842 young Australians, 611 544 were CT-exposed before the age of 20 years, with a mean cumulative brain dose of 44 milligrays (mGy) at an average follow-up of 13.5 years after the 2-year lag period. 4472 were diagnosed with brain cancer, of whom only 237 had been CT-exposed. Brain cancer incidence increased with radiation dose to the brain, with an excess relative risk of 0.8 (95% CI 0.57-1.06) per 100 mGy. Approximately 6391 (95% CI 5255, 8155) persons would need to be exposed to cause 1 extra brain cancer.<h4>Conclusions</h4>For brain tumors that follow CT exposures in childhood by more than 2 years, we estimate that 40% (95% CI 29%-50%) are attributable to CT Radiation and not due to reverse causation. However, because of relatively low rates of CT exposure in Australia, only 3.7% (95% CI 2.3%-5.4%) of all brain cancers are attributable to CT scans. The population-attributable fraction will be greater in countries with higher rates of pediatric scanning."
+      }
+    ],
+    "files": [
+      {
+        "path": "noad012_suppl_supplementary_material.docx",
+        "size": 64006,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "National Health and Medical Research Council"
+          },
+          {
+            "name": "grant_id",
+            "value": "1084197"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Australian Government"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "National Health and Medical Research Council"
+          },
+          {
+            "name": "grant_id",
+            "value": "509190"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "National Health and Medical Research Council"
+          },
+          {
+            "name": "grant_id",
+            "value": "1027368"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Neuro-oncology"
+          },
+          {
+            "name": "Volume",
+            "value": "25(7)"
+          },
+          {
+            "name": "Pages",
+            "value": "1368-1376"
+          },
+          {
+            "name": "Publication date",
+            "value": "2023 Jul"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1093/neuonc/noad012",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "10.1093/neuonc/noad012",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC10326490",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "36638155",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Smoll NR"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-6923-9701"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Brady Z"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0001-9991-757X"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Scurrah KJ"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0001-5226-7370"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Lee C"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-7861-8164"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Berrington de Gonzalez A"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Mathews JD"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0001-9029-7140"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Division of Cancer Epidemiology and Genetics, National Cancer Institute, National Institutes of Health, Bethesda, Maryland 20892, USA."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Melbourne School of Population and Global Health, University of Melbourne, 207 Bouverie Street Carlton, VIC, 3053, Australia."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

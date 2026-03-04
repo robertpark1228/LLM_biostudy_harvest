@@ -1,0 +1,156 @@
+{
+  "accno": "S-EPMC10026363",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Transcriptomics for radiation biodosimetry: progress and challenges."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2023-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Transcriptomics for radiation biodosimetry: progress and challenges."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Purpose</h4>Transcriptomic-based approaches are being developed to meet the needs for large-scale radiation dose and injury assessment and provide population triage following a radiological or nuclear event. This review provides background and definition of the need for new biodosimetry approaches, and summarizes the major advances in this field. It discusses some of the major model systems used in gene signature development, and highlights some of the remaining challenges, including individual variation in gene expression, potential confounding factors, and accounting for the complexity of realistic exposure scenarios.<h4>Conclusions</h4>Transcriptomic approaches show great promise for both dose reconstruction and for prediction of individual radiological injury. However, further work will be needed to ensure that gene expression signatures will be robust and appropriate for their intended use in radiological or nuclear emergencies."
+      }
+    ],
+    "files": [
+      {
+        "path": "NIHMS1878243-supplement-Supp_1.xlsx",
+        "size": 24012,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NIAID NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "U19 AI067773"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "National Institute of Allergy and Infectious Diseases"
+          },
+          {
+            "name": "grant_id",
+            "value": "U19-AI067773"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "International journal of radiation biology"
+          },
+          {
+            "name": "Volume",
+            "value": "99(6)"
+          },
+          {
+            "name": "Pages",
+            "value": "925-933"
+          },
+          {
+            "name": "Publication date",
+            "value": "2023"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1080/09553002.2021.1928784",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "10.1080/09553002.2021.1928784",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC10026363",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "33970766",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Amundson SA"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Center for Radiological Research, Columbia University Irving Medical Center, New York, NY, USA."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

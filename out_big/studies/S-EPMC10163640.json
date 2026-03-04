@@ -1,0 +1,346 @@
+{
+  "accno": "S-EPMC10163640",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Magnetic Resonance-Guided Stereotactic Body Radiation Therapy/Hypofractionated Radiation therapy for Metastatic and Primary Central and Ultracentral Lung Lesions."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2023-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Magnetic Resonance-Guided Stereotactic Body Radiation Therapy/Hypofractionated Radiation therapy for Metastatic and Primary Central and Ultracentral Lung Lesions."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Introduction</h4>The recent results from the Nordic-HILUS study indicate stereotactic body radiation therapy (SBRT) is associated with high-grade toxicity for ultracentral (UC) tumors. We hypothesized that magnetic resonance-guided SBRT (MRgSBRT) or hypofractionated radiation therapy (MRgHRT) enables the safe delivery of high-dose radiation to central and UC lung lesions.<h4>Methods</h4>Patients with UC or central lesions were treated with MRgSBRT/MRgHRT with real-time gating or adaptation. Central lesions were defined as per the Radiation Therapy Oncology Group and UC as per the HILUS study definitions: (1) group A or tumors less than 1 cm from the trachea and/or mainstem bronchi; or (2) group B or tumors less than 1 cm from the lobar bronchi. The Kaplan-Meier estimate and log-rank test were used to estimate survival. Associations between toxicities and other patient factors were tested using the Mann-Whitney <i>U</i> test and Fisher's exact test.<h4>Results</h4>A total of 47 patients were included with a median follow-up of 22.9 months (95% confidence interval: 16.4-29.4). Most (53%) had metastatic disease. All patients had central lesions and 55.3% (n = 26) had UC group A. The median distance from the proximal bronchial tree was 6.0 mm (range: 0.0-19.0 mm). The median biologically equivalent dose (α/β = 10) was 105 Gy (range: 75-151.2). The most common radiation schedule was 60 Gy in eight fractions (40.4%). Most (55%) had previous systemic therapy, 32% had immunotherapy and 23.4% had previous thoracic radiation therapy. There were 16 patients who underwent daily adaptation. The 1-year overall survival was 82% (median = not reached), local control 87% (median = not reached), and progression-free survival 54% (median = 15.1 mo, 95% confidence interval: 5.1-25.1). Acute toxicity included grade 1 (26%) and grade 2 (21%) with only two patients experiencing grade 3 (4.3%) in the long term. No grade 4 or 5 toxicities were seen.<h4>Conclusions</h4>Previous studies noted high rates of toxicity after SBRT to central and UC lung lesions, with reports of grade 5 toxicities. In our cohort, the use of MRgSBRT/MRgHRT with high biologically effective doses was well tolerated, with two grade 3 toxicities and no grade 4/5."
+      }
+    ],
+    "files": [
+      {
+        "path": "mmc1.docx",
+        "size": 67748,
+        "type": "file"
+      }
+    ],
+    "links": [
+      [
+        {
+          "url": "NCT04917224",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        }
+      ]
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "K08 CA231454"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "ViewRay"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "JTO clinical and research reports"
+          },
+          {
+            "name": "Volume",
+            "value": "4(5)"
+          },
+          {
+            "name": "Pages",
+            "value": "100488"
+          },
+          {
+            "name": "Publication date",
+            "value": "2023 May"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1016/j.jtocrr.2023.100488",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC10163640",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "37159821",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Sandoval ML"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Sim AJ"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Bryant JM"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Bhandari M"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Wuthrick EJ"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Perez BA"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Dilling TJ"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Redler G"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a9",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Andreozzi J"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a10",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Nardella L"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a11",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Feygelman V"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a12",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Latifi K"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a13",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Rosenberg SA"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, H. Lee Moffitt Cancer Center and Research Institute, Tampa, Florida."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, James Cancer Hospital, The Ohio State University Comprehensive Cancer Center, Columbus, Ohio."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

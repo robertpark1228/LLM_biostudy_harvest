@@ -1,0 +1,209 @@
+{
+  "accno": "S-EPMC10486342",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Development of radiation countermeasure agents for acute radiation syndromes."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2023-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Development of radiation countermeasure agents for acute radiation syndromes."
+      },
+      {
+        "name": "Abstract",
+        "value": "The risk of internal and external exposure to ionizing radiation (IR) has increased alongside the development and implementation of nuclear technology. Therefore, serious security issues have emerged globally, and there has been an increase in the number of studies focusing on radiological prevention and medical countermeasures. Radioprotective drugs are particularly important components of emergency medical preparedness strategies for the clinical management of IR-induced injuries. However, a few drugs have been approved to date to treat such injuries, and the related mechanisms are not entirely understood. Thus, the aim of the present review was to provide a brief overview of the World Health Organization's updated list of essential medicines for 2023 for the proper management of national stockpiles and the treatment of radiological emergencies. This review also discusses the types of radiation-induced health injuries and the related mechanisms, as well as the development of various radioprotective agents, including Chinese herbal medicines, for which significant survival benefits have been demonstrated in animal models of acute radiation syndrome."
+      }
+    ],
+    "files": [
+      {
+        "path": "AME2-6-329-s001.docx",
+        "size": 18244,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "National Human Diseases Animal Model Resource Center"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "National Natural Science Foundation of China"
+          },
+          {
+            "name": "grant_id",
+            "value": "81972975"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "CAMS Medicine and Health Technology Innovation Project"
+          },
+          {
+            "name": "grant_id",
+            "value": "2021-I2M-1-060"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Applied Basic Research Key Program of Tianjin"
+          },
+          {
+            "name": "grant_id",
+            "value": "22JCZDJC00430"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Animal models and experimental medicine"
+          },
+          {
+            "name": "Volume",
+            "value": "6(4)"
+          },
+          {
+            "name": "Pages",
+            "value": "329-336"
+          },
+          {
+            "name": "Publication date",
+            "value": "2023 Aug"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1002/ame2.12339",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC10486342",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "37642199",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Guan B"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Li D"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Meng A"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "National Human Diseases Animal Model Resource Center, NHC Key Laboratory of Human Disease Comparative Medicine, Beijing Engineering Research Center for Experimental Animal Models of Human Critical Diseases, Institute of Laboratory Animal Sciences Chinese Academy of Medical Sciences (CAMS), Peking Union Medical College (PUMC), National Center of Technology Innovation for Animal Model, Beijing, China."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Tianjin Key Laboratory of Radiation Medicine and Molecular Nuclear Medicine, Institute of Radiation Medicine, Chinese Academy of Medical Science, Peking Union Medical College, Tianjin, China."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

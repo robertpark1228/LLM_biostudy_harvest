@@ -1,0 +1,224 @@
+{
+  "accno": "S-EPMC12272110",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Impact of Normal Lung Volume Choices on Radiation Pneumonitis Risk Prediction in Locally Non-small Cell Lung Cancer Radiation Therapy."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2025-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Impact of Normal Lung Volume Choices on Radiation Pneumonitis Risk Prediction in Locally Non-small Cell Lung Cancer Radiation Therapy."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Purpose</h4>This study aims to evaluate the impact of varying definitions of normal lung volume on the prediction of radiation pneumonitis (RP) risk in patients with locally advanced non-small cell lung cancer undergoing radiation therapy.<h4>Methods and materials</h4>Dosimetric variables V20, V5, and mean lung dose (MLD) were extracted from the treatment plans of 442 patients enrolled in the NRG Oncology Radiation Therapy Oncology Group 0617 trial. Three different definitions of lung volume were evaluated: total lung excluding gross tumor target, total lung excluding clinical target volume, and total lung excluding planning target volume (TL-PTV). Patients were grouped as \"no-RP2\" (<i>N</i> = 377, grade ≤1 RP) and \"RP2\" (<i>N</i> = 65, grade ≥2 RP). Statistical analyses were performed to assess the effect of lung volume definition on RP2 prediction. Three supervised machine learning models-logistic regression, k-nearest neighbor (kNN), and eXtreme Gradient Boosting-were used to evaluate predictive performance. Model performance was quantified using the area under the receiver operating characteristic curve, and statistical significance was tested via a bootstrap analysis. Shapley Additive Explanations (SHAP) were applied to interpret feature contributions to model predictions.<h4>Results</h4>Statistical analyses showed that V20 and MLD were significantly associated with RP2, while differences among the lung volume definitions were not statistically significant. Both k-nearest neighbor and eXtreme Gradient Boosting classifiers consistently yielded higher area under the receiver operating characteristic curve values for the TL-PTV definition compared to the other definitions, a finding supported by bootstrap analysis. SHAP analysis further indicated that V20 and MLD were the most influential predictors of RP2.<h4>Conclusions</h4>In line with previous studies, both statistical analysis and SHAP interpretation confirmed that V20 and MLD were associated with RP2. The machine learning models indicated that defining normal lung volume as TL-PTV yielded the highest predictive performance for RP2 risk. Further validation using external data sets are warranted to confirm these findings."
+      }
+    ],
+    "files": [
+      {
+        "path": "mmc1.docx",
+        "size": 975336,
+        "type": "file"
+      }
+    ],
+    "links": [
+      [
+        {
+          "url": "NCT00533949",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        }
+      ]
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Advances in radiation oncology"
+          },
+          {
+            "name": "Volume",
+            "value": "10(8)"
+          },
+          {
+            "name": "Pages",
+            "value": "101825"
+          },
+          {
+            "name": "Publication date",
+            "value": "2025 Aug"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1016/j.adro.2025.101825",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC12272110",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "40686740",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Gadsby A"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Liu T"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Samstein R"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Zhang J"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Lei Y"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Rosenzweig KE"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Chao M"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Icahn School of Medicine at Mount Sinai, New York, New York"
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

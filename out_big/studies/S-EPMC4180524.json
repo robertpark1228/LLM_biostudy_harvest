@@ -1,0 +1,229 @@
+{
+  "accno": "S-EPMC4180524",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Identifying radiation exposure biomarkers from mouse blood transcriptome."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2013-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Identifying radiation exposure biomarkers from mouse blood transcriptome."
+      },
+      {
+        "name": "Abstract",
+        "value": "Ionising radiation is a pleiotropic stress agent that may induce a variety of adverse effects. Molecular biomarker approaches possess promise to assess radiation exposure, however, the pleiotropic nature of ionising radiation induced transcriptional responses and the historically poor inter-laboratory performance of omics-derived biomarkers serve as barriers to identification of unequivocal biomarker sets. Here, we present a whole-genome survey of the murine transcriptomic response to physiologically relevant radiation doses, 2 Gy and 8 Gy. We used this dataset with the Random Forest algorithm to correctly classify independently generated data and to identify putative metabolite biomarkers for radiation exposure."
+      }
+    ],
+    "files": [
+      {
+        "path": "NIHMS629930-supplement-supplement_1.pdf",
+        "size": 185201,
+        "type": "file"
+      }
+    ],
+    "links": [
+      [
+        {
+          "url": "GSE6873",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "geo"
+            }
+          ]
+        },
+        {
+          "url": "GSE33172",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "geo"
+            }
+          ]
+        }
+      ]
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NIAID NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "5U19AI067773"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "T32 CA009078"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NIAID NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "U19 AI067773"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "International journal of bioinformatics research and applications"
+          },
+          {
+            "name": "Volume",
+            "value": "9(4)"
+          },
+          {
+            "name": "Pages",
+            "value": "365-85"
+          },
+          {
+            "name": "Publication date",
+            "value": "2013"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1504/IJBRA.2013.054701",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "10.1504/ijbra.2013.054701",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC4180524",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "23797995",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Hyduke DR"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Laiakis EC"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-4924-9013"
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Li HH"
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Fornace AJ"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0001-9695-085X"
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Biochemistry and Molecular and Cellular Biology, and Lombardi Comprehensive Cancer Center, Georgetown University Medical Center, Washington, DC 20057, USA. hyduke@ucsd.edu"
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

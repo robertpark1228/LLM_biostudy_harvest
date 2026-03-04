@@ -1,0 +1,561 @@
+{
+  "accno": "S-EPMC8802172",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Radiation Therapy for Cervical Cancer: Executive Summary of an ASTRO Clinical Practice Guideline."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2020-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Radiation Therapy for Cervical Cancer: Executive Summary of an ASTRO Clinical Practice Guideline."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Purpose</h4>This guideline reviews the evidence and provides recommendations for the indications and appropriate techniques of radiation therapy (RT) in the treatment of nonmetastatic cervical cancer.<h4>Methods</h4>The American Society for Radiation Oncology convened a task force to address 5 key questions focused on the use of RT in definitive and postoperative management of cervical cancer. These questions included the indications for postoperative and definitive RT, the use of chemotherapy in sequence or concurrent with RT, the use of intensity modulated radiation therapy (IMRT), and the indications and techniques of brachytherapy. Recommendations were based on a systematic literature review and created using a predefined consensus-building methodology and system for grading evidence quality and recommendation strength.<h4>Results</h4>The guideline recommends postoperative RT for those with intermediate risk factors, and chemoradiation for those with high-risk factors. In the definitive setting, chemoradiation is recommended for stages IB3-IVA, and RT or chemoradiation is conditionally recommended for stages IA1-IB2 if medically inoperable. IMRT is recommended for postoperative RT and conditionally recommended for definitive RT, for the purposes of reducing acute and late toxicity. Brachytherapy is strongly recommended for all women receiving definitive RT, and several recommendations are made for target dose and fractionation, the use of intraoperative imaging, volume-based planning, and recommendations for doses limits for organs at risk.<h4>Conclusions</h4>There is strong evidence supporting the use of RT with or without chemotherapy in both definitive and postoperative settings. Brachytherapy is an essential part of definitive management and volumetric planning is recommended. IMRT may be used for the reduction of acute and late toxicity. The use of radiation remains an essential component for women with cervical cancer to achieve cure."
+      }
+    ],
+    "files": [
+      {
+        "path": "NIHMS1765427-supplement-Evidence_tables.xlsx",
+        "size": 134682,
+        "type": "file"
+      },
+      {
+        "path": "NIHMS1765427-supplement-Full_text_guidelines.pdf",
+        "size": 1052720,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "American Society for Radiation Oncology"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Intramural NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "ZIA BC011584"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Practical radiation oncology"
+          },
+          {
+            "name": "Volume",
+            "value": "10(4)"
+          },
+          {
+            "name": "Pages",
+            "value": "220-234"
+          },
+          {
+            "name": "Publication date",
+            "value": "2020 Jul - Aug"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1016/j.prro.2020.04.002",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "10.1016/j.prro.2020.04.002",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC8802172",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "32473857",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Chino J"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Annunziata CM"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Beriwal S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Bradfield L"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0003-2703-0501"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Erickson BA"
+          },
+          {
+            "name": "affiliation",
+            "value": "o5",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Fields EC"
+          },
+          {
+            "name": "affiliation",
+            "value": "o6",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Fitch K"
+          },
+          {
+            "name": "affiliation",
+            "value": "o7",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Harkenrider MM"
+          },
+          {
+            "name": "affiliation",
+            "value": "o8",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a9",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Holschneider CH"
+          },
+          {
+            "name": "affiliation",
+            "value": "o9",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a10",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kamrava M"
+          },
+          {
+            "name": "affiliation",
+            "value": "o10",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a11",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Leung E"
+          },
+          {
+            "name": "affiliation",
+            "value": "o11",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a12",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Lin LL"
+          },
+          {
+            "name": "affiliation",
+            "value": "o12",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a13",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Mayadev JS"
+          },
+          {
+            "name": "affiliation",
+            "value": "o13",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a14",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Morcos M"
+          },
+          {
+            "name": "affiliation",
+            "value": "o14",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a15",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Nwachukwu C"
+          },
+          {
+            "name": "affiliation",
+            "value": "o15",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a16",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Petereit D"
+          },
+          {
+            "name": "affiliation",
+            "value": "o16",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a17",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Viswanathan AN"
+          },
+          {
+            "name": "affiliation",
+            "value": "o17",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "American Society for Radiation Oncology, Arlington, Virginia."
+          }
+        ]
+      },
+      {
+        "accno": "o9",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Obstetrics and Gynecology, Olive View/UCLA Medical Center, Sylmar, California."
+          }
+        ]
+      },
+      {
+        "accno": "o13",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Medicine and Applied Sciences, University of California, San Diego, California."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology and Guideline Vice-Chair, Duke University Cancer Center, Durham, North Carolina. Electronic address: junzo.chino@duke.edu."
+          }
+        ]
+      },
+      {
+        "accno": "o17",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology and Molecular Radiation Sciences and Guideline Chair, Johns Hopkins University, Baltimore, Maryland."
+          }
+        ]
+      },
+      {
+        "accno": "o14",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology and Molecular Radiation Sciences, Johns Hopkins Medicine, Baltimore, Maryland."
+          }
+        ]
+      },
+      {
+        "accno": "o10",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Cedars-Sinai Medical Center, Los Angeles, California."
+          }
+        ]
+      },
+      {
+        "accno": "o8",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Loyola University Chicago, Chicago, Illinois; Department of Radiation Oncology, Edward Hines Jr. VA Hospital, Hines, Illinois."
+          }
+        ]
+      },
+      {
+        "accno": "o12",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, MD Anderson Cancer Center, Houston, Texas."
+          }
+        ]
+      },
+      {
+        "accno": "o5",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Medical College of Wisconsin, Milwaukee, Wisconsin."
+          }
+        ]
+      },
+      {
+        "accno": "o16",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Rapid City Regional Health, Rapid City, South Dakota."
+          }
+        ]
+      },
+      {
+        "accno": "o11",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Sunnybrook Health Sciences Centre, Odette Cancer Centre, University of Toronto, Toronto, Ontario, Canada."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, UPMC Hillman Cancer Center, Pittsburgh, Pennsylvania."
+          }
+        ]
+      },
+      {
+        "accno": "o15",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, UT Southwestern Medical Center, Dallas, Texas."
+          }
+        ]
+      },
+      {
+        "accno": "o6",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Virginia Commonwealth University, Richmond, Virgina."
+          }
+        ]
+      },
+      {
+        "accno": "o7",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Patient Representative, Charlotte, North Carolina."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Women's Malignancies Branch, National Cancer Institute, Bethesda, Maryland."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

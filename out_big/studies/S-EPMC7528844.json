@@ -1,0 +1,370 @@
+{
+  "accno": "S-EPMC7528844",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Sterilization of polypropylene membranes of facepiece respirators by ionizing radiation."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2021-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Sterilization of polypropylene membranes of facepiece respirators by ionizing radiation."
+      },
+      {
+        "name": "Abstract",
+        "value": "Ionizing radiation has been identified as an option for sterilization of disposable filtering facepiece respirators in situations where the production of the respirators cannot keep up with demand. Gamma radiation and high energy electrons penetrate deeply into the material and can be used to sterilize large batches of masks within a short time period. In relation to reports that sterilization by ionizing radiation reduces filtration efficiency of polypropylene membrane filters on account of static charge loss, we have demonstrated that both gamma and electron beam irradiation can be used for sterilization, provided that the respirators are recharged afterwards."
+      }
+    ],
+    "files": [
+      {
+        "path": "mmc1.docx",
+        "size": 547745,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Slovenian Research Agency"
+          },
+          {
+            "name": "grant_id",
+            "value": "P2-0076"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Slovenian Research Agency"
+          },
+          {
+            "name": "grant_id",
+            "value": "P2-0082"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Slovenian Research Agency"
+          },
+          {
+            "name": "grant_id",
+            "value": "P1-0125"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Slovenian Research Agency"
+          },
+          {
+            "name": "grant_id",
+            "value": "P2-0073"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Ministry of Health"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Slovenian Research Agency"
+          },
+          {
+            "name": "grant_id",
+            "value": "P1-0099"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Slovenian Research Agency"
+          },
+          {
+            "name": "grant_id",
+            "value": "P2-0209"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Journal of membrane science"
+          },
+          {
+            "name": "Volume",
+            "value": "619"
+          },
+          {
+            "name": "Pages",
+            "value": "118756"
+          },
+          {
+            "name": "Publication date",
+            "value": "2021 Feb"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1016/j.memsci.2020.118756",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC7528844",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "33024349",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Pirker L"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0003-0741-0048"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Krajnc AP"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Malec J"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-9322-8631"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Radulovic V"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Gradisek A"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Jelen A"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Remskar M"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Mekjavic IB"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a9",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kovac J"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-4324-246X"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a10",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Mozetic M"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a11",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Snoj L"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Jožef Stefan Institute, Jamova Cesta 39, 1000, Ljubljana, Slovenia."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

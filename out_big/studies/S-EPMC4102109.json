@@ -1,0 +1,223 @@
+{
+  "accno": "S-EPMC4102109",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Unravelling the effects of radiation forces in water."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2014-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Unravelling the effects of radiation forces in water."
+      },
+      {
+        "name": "Abstract",
+        "value": "The effect of radiation forces at the interface between dielectric materials has been a long-standing debate for over a century. Yet there has been so far only limited experimental verification in complete accordance with the theory. Here we measure the surface deformation at the air-water interface induced by continuous and pulsed laser excitation and match this to rigorous theory of radiation forces. We demonstrate that the experimental results are quantitatively described by the numerical calculations of radiation forces. The Helmholtz force is used for the surface radiation pressure. The resulting surface pressure obtained is consistent with the momentum conservation using the Minkowski momentum density expression assuming that the averaged momentum per photon is given by the Minkowski momentum. Considering the total momentum as a sum of that propagating with the electromagnetic wave and that deposited locally in the material, the Abraham momentum interpretation also appears to be appropriate."
+      }
+    ],
+    "files": [
+      {
+        "path": "ncomms5363-s1.pdf",
+        "size": 122494,
+        "type": "file"
+      },
+      {
+        "path": "ncomms5363-s2.avi",
+        "size": 8461824,
+        "type": "file"
+      },
+      {
+        "path": "ncomms5363-s3.avi",
+        "size": 10164736,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Nature communications"
+          },
+          {
+            "name": "Volume",
+            "value": "5"
+          },
+          {
+            "name": "Pages",
+            "value": "4363"
+          },
+          {
+            "name": "Publication date",
+            "value": "2014 Jul"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1038/ncomms5363",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC4102109",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "24999561",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Astrath NG"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-1658-8043"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Malacarne LC"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Baesso ML"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Lukasievicz GV"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-6754-7057"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Bialkowski SE"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0003-4732-4216"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "1] Departamento de Física, Universidade Estadual de Maringá, Maringá, Paraná 87020-900, Brazil [2] Department of Chemistry and Biochemistry, Utah State University, Logan, Utah 84322-0300, USA."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Departamento de Física, Universidade Estadual de Maringá, Maringá, Paraná 87020-900, Brazil."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Chemistry and Biochemistry, Utah State University, Logan, Utah 84322-0300, USA."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

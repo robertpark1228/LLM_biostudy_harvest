@@ -1,0 +1,294 @@
+{
+  "accno": "S-EPMC5321199",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Targeted iron oxide nanoparticles for the enhancement of radiation therapy."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2016-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Targeted iron oxide nanoparticles for the enhancement of radiation therapy."
+      },
+      {
+        "name": "Abstract",
+        "value": "To increase the efficacy of radiation, iron oxide nanoparticles can be utilized for their ability to produce reactive oxygen species (ROS). Radiation therapy promotes leakage of electrons from the electron transport chain and leads to an increase in mitochondrial production of the superoxide anion which is converted to hydrogen peroxide by superoxide dismutase. Iron oxide nanoparticles can then catalyze the reaction from hydrogen peroxide to the highly reactive hydroxyl radical. Therefore, the overall aim of this project was to utilize iron oxide nanoparticles conjugated to a cell penetrating peptide, TAT, to escape lysosomal encapsulation after internalization by cancer cells and catalyze hydroxyl radical formation. It was determined that TAT functionalized iron oxide nanoparticles and uncoated iron oxide nanoparticles resulted in permeabilization of the lysosomal membranes. Additionally, mitochondrial integrity was compromised when A549 cells were treated with both TAT-functionalized nanoparticles and radiation. Pre-treatment with TAT-functionalized nanoparticles also significantly increased the ROS generation associated with radiation. A long term viability study showed that TAT-functionalized nanoparticles combined with radiation resulted in a synergistic combination treatment. This is likely due to the TAT-functionalized nanoparticles sensitizing the cells to subsequent radiation therapy, because the nanoparticles alone did not result in significant toxicities."
+      }
+    ],
+    "files": [
+      {
+        "path": "NIHMS809953-supplement.docx",
+        "size": 2206736,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "University of Kentucky Markey Cancer Center"
+          },
+          {
+            "name": "grant_id",
+            "value": "P30CA177558"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "National Science Foundation Graduate Research Fellowship Program"
+          },
+          {
+            "name": "grant_id",
+            "value": "DGE-1247392"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "R25 CA153954"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "P30 CA177558"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "National Cancer Institute"
+          },
+          {
+            "name": "grant_id",
+            "value": "R25CA153954"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Biomaterials"
+          },
+          {
+            "name": "Volume",
+            "value": "105"
+          },
+          {
+            "name": "Pages",
+            "value": "127-135"
+          },
+          {
+            "name": "Publication date",
+            "value": "2016 Oct"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1016/j.biomaterials.2016.07.032",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "10.1016/j.biomaterials.2016.07.032",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC5321199",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "27521615",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Hauser AK"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Mitov MI"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Daley EF"
+          },
+          {
+            "name": "ORCID",
+            "value": "0009-0008-2956-4156"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "McGarry RC"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Anderson KW"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Hilt JZ"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Chemical and Materials Engineering, University of Kentucky, Lexington, KY 40506, USA."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Chemical and Materials Engineering, University of Kentucky, Lexington, KY 40506, USA. Electronic address: hilt@engr.uky.edu."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Markey Cancer Center, University of Kentucky, Lexington, KY 40506, USA."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

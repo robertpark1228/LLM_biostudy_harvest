@@ -1,0 +1,364 @@
+{
+  "accno": "S-EPMC9486432",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "A National Cyberattack Affecting Radiation Therapy: The Irish Experience."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2022-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "A National Cyberattack Affecting Radiation Therapy: The Irish Experience."
+      },
+      {
+        "name": "Abstract",
+        "value": "On Friday, May 14, 2021, the Health Service Executive, the organization providing public health services in the Republic of Ireland, was the victim of a significant cyberattack on its information technology systems. All systems were subsequently shut down to prevent further damage and to allow cybersecurity experts to investigate the attack. As a result, oncology services were severely disrupted, with the cessation of radiation therapy treatments in all public radiation therapy departments. Ireland has 5 large public and 6 smaller private radiation therapy centers in total. Because of the widespread adoption of electronic medical records in radiation therapy departments, it wasn't possible to retrieve patient details of those who were undergoing radiation therapy at the time of the cyberattack. In total, 513 patients nationally had their radiation therapy interrupted. A national radiation therapy cyberattack response team was formed immediately to oversee the response to the attack. The immediate concerns were radiation therapy emergencies and category 1 patients where gaps in treatment would have an adverse effect on outcome. Communication with patients and the public was also established as a priority and agreements were reached with the private sector for the treatment of patients affected by the cyberattack. The national media was used to alert patients of the need to communicate with their radiation therapy department. Dedicated phone lines were established. Locally, radiation therapy departments held daily crisis meetings with key staff members, including information technology personnel. Individual centers employed different technologies for treatment planning and data storage, so local solutions to the cyberattack to reestablish radiation therapy for patients were developed. In addition, national documentation on prioritization of patients to resume treatment was produced and a national approach was made to compensate for gaps in treatment caused by the attack. All 5 centers had reestablished radiation therapy by May 30, although there has been a long aftermath to the cyberattack. In this article, we provide an overview of the effects of the cyberattack on our national radiation therapy service and our strategy to resume patient treatment in a timely fashion."
+      }
+    ],
+    "files": [
+      {
+        "path": "mmc1.docx",
+        "size": 1115241,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Advances in radiation oncology"
+          },
+          {
+            "name": "Volume",
+            "value": "7(5)"
+          },
+          {
+            "name": "Pages",
+            "value": "100914"
+          },
+          {
+            "name": "Publication date",
+            "value": "2022 Sep-Oct"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1016/j.adro.2022.100914",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC9486432",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "36148382",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Flavin A"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "O'Toole E"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Murphy L"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Ryan R"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "McClean B"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Faul C"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-0889-274X"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "McGibney C"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Coyne S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a9",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "O'Boyle G"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a10",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Small C"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a11",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Sims C"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a12",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kearney M"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0001-8038-3651"
+          },
+          {
+            "name": "affiliation",
+            "value": "o5",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a13",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Coffey M"
+          },
+          {
+            "name": "affiliation",
+            "value": "o5",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a14",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "O'Donovan A"
+          },
+          {
+            "name": "affiliation",
+            "value": "o5",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o5",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Applied Radiation Therapy Trinity (ARTT),Trinity College Dublin, Trinity St. James's Cancer Institute, Dublin, Ireland."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiotherapy, Cork University Hospital, Cork, Ireland."
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiotherapy, University Hospital Galway, Galway, Ireland."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "National Cancer Control Programme (NCCP), King's Inns House, Dublin, Ireland."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "St. Luke's Radiation Oncology Network (SLRON), Dublin, Ireland."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

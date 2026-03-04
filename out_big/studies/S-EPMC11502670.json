@@ -1,0 +1,410 @@
+{
+  "accno": "S-EPMC11502670",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "LLM-driven multimodal target volume contouring in radiation oncology."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2024-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "LLM-driven multimodal target volume contouring in radiation oncology."
+      },
+      {
+        "name": "Abstract",
+        "value": "Target volume contouring for radiation therapy is considered significantly more challenging than the normal organ segmentation tasks as it necessitates the utilization of both image and text-based clinical information. Inspired by the recent advancement of large language models (LLMs) that can facilitate the integration of the textural information and images, here we present an LLM-driven multimodal artificial intelligence (AI), namely LLMSeg, that utilizes the clinical information and is applicable to the challenging task of 3-dimensional context-aware target volume delineation for radiation oncology. We validate our proposed LLMSeg within the context of breast cancer radiotherapy using external validation and data-insufficient environments, which attributes highly conducive to real-world applications. We demonstrate that the proposed multimodal LLMSeg exhibits markedly improved performance compared to conventional unimodal AI models, particularly exhibiting robust generalization performance and data-efficiency."
+      }
+    ],
+    "files": [
+      {
+        "path": "41467_2024_53387_MOESM1_ESM.pdf",
+        "size": 3628642,
+        "type": "file"
+      },
+      {
+        "path": "41467_2024_53387_MOESM2_ESM.pdf",
+        "size": 4434191,
+        "type": "file"
+      },
+      {
+        "path": "41467_2024_53387_MOESM3_ESM.pdf",
+        "size": 2308295,
+        "type": "file"
+      },
+      {
+        "path": "41467_2024_53387_MOESM4_ESM.xlsx",
+        "size": 154233,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "National Research Foundation of Korea (NRF)"
+          },
+          {
+            "name": "grant_id",
+            "value": "RS-2023-00242164"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "National Research Foundation of Korea"
+          },
+          {
+            "name": "grant_id",
+            "value": "RS-2024-00336454"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "National Research Foundation of Korea"
+          },
+          {
+            "name": "grant_id",
+            "value": "RS-2023-00242164"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "National Research Foundation of Korea"
+          },
+          {
+            "name": "grant_id",
+            "value": "RS-2024-00345854"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "National Research Foundation of Korea"
+          },
+          {
+            "name": "grant_id",
+            "value": "No. 2022R1A2C2008623"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "National Research Foundation of Korea (NRF)"
+          },
+          {
+            "name": "grant_id",
+            "value": "RS-2024-00336454"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "National Research Foundation of Korea (NRF)"
+          },
+          {
+            "name": "grant_id",
+            "value": "RS-2023-00262527"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "National Research Foundation of Korea (NRF)"
+          },
+          {
+            "name": "grant_id",
+            "value": "No. 2022R1A2C2008623"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "National Research Foundation of Korea (NRF)"
+          },
+          {
+            "name": "grant_id",
+            "value": "RS-2024-00345854"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "National Research Foundation of Korea"
+          },
+          {
+            "name": "grant_id",
+            "value": "RS-2023-00262527"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Nature communications"
+          },
+          {
+            "name": "Volume",
+            "value": "15(1)"
+          },
+          {
+            "name": "Pages",
+            "value": "9186"
+          },
+          {
+            "name": "Publication date",
+            "value": "2024 Oct"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1038/s41467-024-53387-y",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC11502670",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "39448587",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Oh Y"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0003-4319-8435"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Park S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Byun HK"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Cho Y"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Lee IJ"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kim JS"
+          },
+          {
+            "name": "affiliation",
+            "value": "o5",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Ye JC"
+          },
+          {
+            "name": "affiliation",
+            "value": "o6",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Gangnam Severance Hospital, Seoul, South Korea."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Yongin Severance Hospital, Yongin, Gyeonggi-do, South Korea."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Yonsei University College of Medicine, Seoul, South Korea."
+          }
+        ]
+      },
+      {
+        "accno": "o5",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Yonsei University College of Medicine, Seoul, South Korea. jinsung@yuhs.ac."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiology, Massachusetts General Hospital (MGH) and Harvard Medical School, Boston, MA, USA."
+          }
+        ]
+      },
+      {
+        "accno": "o6",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kim Jaechul Graduate School of AI, Korea Advanced Institute of Science and Technology (KAIST), Daejeon, South Korea. jong.ye@kaist.ac.kr."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

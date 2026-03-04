@@ -1,0 +1,172 @@
+{
+  "accno": "S-EPMC4403203",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Diversity partitioning during the Cambrian radiation."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2015-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Diversity partitioning during the Cambrian radiation."
+      },
+      {
+        "name": "Abstract",
+        "value": "The fossil record offers unique insights into the environmental and geographic partitioning of biodiversity during global diversifications. We explored biodiversity patterns during the Cambrian radiation, the most dramatic radiation in Earth history. We assessed how the overall increase in global diversity was partitioned between within-community (alpha) and between-community (beta) components and how beta diversity was partitioned among environments and geographic regions. Changes in gamma diversity in the Cambrian were chiefly driven by changes in beta diversity. The combined trajectories of alpha and beta diversity during the initial diversification suggest low competition and high predation within communities. Beta diversity has similar trajectories both among environments and geographic regions, but turnover between adjacent paleocontinents was probably the main driver of diversification. Our study elucidates that global biodiversity during the Cambrian radiation was driven by niche contraction at local scales and vicariance at continental scales. The latter supports previous arguments for the importance of plate tectonics in the Cambrian radiation, namely the breakup of Pannotia."
+      }
+    ],
+    "files": [
+      {
+        "path": "pnas.201424985SI.pdf",
+        "size": 1323794,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Deutsche Forschungsgemeinschaft"
+          },
+          {
+            "name": "grant_id",
+            "value": "KI 806/9-1"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Proceedings of the National Academy of Sciences of the United States of America"
+          },
+          {
+            "name": "Volume",
+            "value": "112(15)"
+          },
+          {
+            "name": "Pages",
+            "value": "4702-6"
+          },
+          {
+            "name": "Publication date",
+            "value": "2015 Apr"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1073/pnas.1424985112",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "10.1073/pnas.1424985112",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC4403203",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "25825755",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Na L"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kiessling W"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-1088-2014"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "GeoZentrum Nordbayern, Paleobiology and Paleoenvironments, Friedrich-Alexander-Universität Erlangen-Nürnberg, 91054 Erlangen, Germany; and Museum für Naturkunde, Leibniz Institute for Research on Evolution and Biodiversity at the Humboldt University Berlin, 10115 Berlin, Germany."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "GeoZentrum Nordbayern, Paleobiology and Paleoenvironments, Friedrich-Alexander-Universität Erlangen-Nürnberg, 91054 Erlangen, Germany; and na-lin13@hotmail.com."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

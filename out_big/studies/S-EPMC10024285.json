@@ -1,0 +1,200 @@
+{
+  "accno": "S-EPMC10024285",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Effects of ionizing radiation exposure during pregnancy."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2023-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Effects of ionizing radiation exposure during pregnancy."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Purpose</h4>To review the effects of ionizing radiation to the conceptus and the relationship to the timing of the exposure during pregnancy. To consider strategies that would mitigate potential harms associated with exposure to ionizing radiation during pregnancy.<h4>Methods</h4>Data reported in the peer-reviewed literature on entrance KERMA received from specific radiological examinations were combined with published results from experiment or Monte Carlo modeling of tissue and organ doses per entrance KERMA to estimate total doses that could be received from specific procedures. Data reported in the peer-reviewed literature on dose mitigation strategies, best practices for shielding, consent, counseling and emerging technologies were reviewed.<h4>Results</h4>For procedures utilizing ionizing radiation for which the conceptus is not included in the primary radiation beam, typical doses are well below the threshold for causing tissue reactions and the risk of induction of childhood cancer is low. For procedures that include the conceptus in the primary radiation field, longer fluoroscopic interventional procedures or multiphase/multiple exposures potentially could approach or exceed thresholds for tissue reactions and the risk of cancer induction must be weighed against the expected risk/benefit of performing (or not) the imaging examination. Gonadal shielding is no longer considered best practice. Emerging technologies such as whole-body DWI/MRI, dual-energy CT and ultralow dose studies are gaining importance for overall dose reduction strategies.<h4>Conclusion</h4>The ALARA principle, considering potential benefits and risks should be followed with respect to the use of ionizing radiation. Nevertheless, as Wieseler et al. (2010) state, \"no examination should be withheld when an important clinical diagnosis is under consideration.\" Best practices require updates on current available technologies and guidelines."
+      }
+    ],
+    "files": [
+      {
+        "path": "261_2023_3861_MOESM1_ESM.docx",
+        "size": 18282,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Abdominal radiology (New York)"
+          },
+          {
+            "name": "Volume",
+            "value": "48(5)"
+          },
+          {
+            "name": "Pages",
+            "value": "1564-1578"
+          },
+          {
+            "name": "Publication date",
+            "value": "2023 May"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1007/s00261-023-03861-w",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC10024285",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "36933026",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Mainprize JG"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0001-5479-1280"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Yaffe MJ"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Chawla T"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Glanc P"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Departments Medical Imaging, Obstetrics & Gynecology, Sunnybrook Health Sciences Centre, University of Toronto, 2075 Bayview Avenue, Rm MG 160, Toronto, ON, M4N 3M5, Canada"
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Joint Department of Medical Imaging, Mount Sinai Hospital, University of Toronto, 600 University Avenue, Toronto, ON, M5G 1X5, Canada"
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Physical Sciences Platform, Sunnybrook Research Institute, 2075 Bayview Ave., Rm S632/S657, Toronto, ON, M4N 3M5, Canada"
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Physical Sciences Platform, Sunnybrook Research Institute, 2075 Bayview Ave., Rm S632/S657, Toronto, ON, M4N 3M5, Canada. james.mainprize@sri.utoronto.ca"
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

@@ -1,0 +1,127 @@
+{
+  "accno": "S-EPMC4041558",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Optimal approach in early breast cancer: Radiation therapy."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2013-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Optimal approach in early breast cancer: Radiation therapy."
+      },
+      {
+        "name": "Abstract",
+        "value": "Radiation therapy significantly reduces by at least 70% the relative risk of local and regional recurrences for breast cancer after surgery. A positive influence on overall survival has been clearly demonstrated, especially for patients with a high absolute risk for locoregional recurrences. However, this is partially counterbalanced by late toxicity (dependent upon the radiation dose) especially to cardiac structures. Apart from this toxicity, a clear influence of radiation-therapy-related factors on functional and cosmetic outcome has also been demonstrated. Over time, technical improvements have led to a marked reduction in dose to the neighbouring organs, with a consequent drop in acute and late toxicity. This has also allowed the introduction of shorter radiation schedules, lowering the burden of treatment to the patient and the hospital. Several tools, techniques and guidelines have been developed to optimise the balance between the desired reduction in recurrence rates and side effects. The multidisciplinary team should discuss all available treatment options for every individual breast cancer patient. Individualisation of the selection of the optimal combination of treatments, depending on patient and tumour-related factors, is of utmost importance. Apart from direct tumour-related outcomes, cosmesis and potential side effects have to be taken into account. Counselling should include known risk factors for survival and complications, including comorbidity."
+      }
+    ],
+    "links": [
+      [
+        {
+          "url": "NCT00212121",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        }
+      ]
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "EJC supplements : EJC : official journal of EORTC, European Organization for Research and Treatment of Cancer ... [et al.]"
+          },
+          {
+            "name": "Volume",
+            "value": "11(2)"
+          },
+          {
+            "name": "Pages",
+            "value": "27-36"
+          },
+          {
+            "name": "Publication date",
+            "value": "2013 Sep"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1016/j.ejcsup.2013.07.028",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC4041558",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "26217111",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Poortmans P"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Institute Verbeeten, Department of Radiation Oncology, Tilburg, The Netherlands."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

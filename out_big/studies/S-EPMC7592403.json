@@ -1,0 +1,181 @@
+{
+  "accno": "S-EPMC7592403",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Knowledge of radiation legislation and radiation exposure in common radiological investigations among final year medical students, foundation doctors, specialist radiology registrars and radiographers at a UK university teaching hospital."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2019-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Knowledge of radiation legislation and radiation exposure in common radiological investigations among final year medical students, foundation doctors, specialist radiology registrars and radiographers at a UK university teaching hospital."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Objective</h4>Junior doctors routinely request radiological investigations for patients. Prior studies have noted that among this group there is a lack of knowledge on radiation legislation and radiation exposure in common radiological investigations. However, no studies have compared this against radiology trainees and radiographers. We compared knowledge of radiation legislation and radiation exposure in common radiological investigations among final year medical students (FYMS), foundation year doctors (FY1, FY2) against specialist radiology trainees (SRT) and radiographers (RG).<h4>Methods</h4>A 12-question multiple choice questionnaire (MCQ) was distributed to FYMS, FY1, FY2, SRT and RG at a UK teaching hospital. Questions assessed knowledge of radiation legislation and radiation-dose estimates of common radiological investigations. Mean MCQ scores were compared using one-way ANOVA and Tukey post-test to determine statistical significance (<i>p</i>-value < 0.05).<h4>Results</h4>127 participants were included in the study. Mean scores (%) for FYMS (49.3%), FY1 (52.6%) and FY2 (51.1%) were significantly lower compared to SRT (64.4%) and RG (66.3%) (<i>p</i>-value < 0.05). Mean test scores between FYMS, FY1 and FY2 did not significantly differ (<i>p</i>-value > 0.05).<h4>Conclusion</h4>FYMS, FY1 and FY2 knowledge of radiation legislation and radiation exposure in common radiological investigations was poor compared to SRT and RG. Patients require knowledge of radiation risk to provide informed consent as per IRMER regulations, thus we propose formal teaching on the subject matter to promote radiation safety culture among medical undergraduates and postgraduates.<h4>Advances in knowledge</h4>First study to compare knowledge of radiation legislation and radiation exposure in common radiological investigations between medical students and junior doctors to radiology trainees and radiographers."
+      }
+    ],
+    "files": [
+      {
+        "path": "bjro.20180014.suppl-01.docx",
+        "size": 55713,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "BJR open"
+          },
+          {
+            "name": "Volume",
+            "value": "1(1)"
+          },
+          {
+            "name": "Pages",
+            "value": "20180014"
+          },
+          {
+            "name": "Publication date",
+            "value": "2019"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1259/bjro.20180014",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC7592403",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "33178910",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Khan MO"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Khan MS"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Janjua O"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Ali A"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Hussain S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiology, University Hospitals Birmingham NHS Foundation Trust, Birmingham, United Kingdom."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

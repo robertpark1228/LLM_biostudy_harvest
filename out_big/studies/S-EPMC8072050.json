@@ -1,0 +1,372 @@
+{
+  "accno": "S-EPMC8072050",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Dosimetric Comparison of Radiation Techniques for Comprehensive Regional Nodal Radiation Therapy for Left-Sided Breast Cancer: A Treatment Planning Study."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2021-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Dosimetric Comparison of Radiation Techniques for Comprehensive Regional Nodal Radiation Therapy for Left-Sided Breast Cancer: A Treatment Planning Study."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Purpose</h4>How modern cardiac sparing techniques and beam delivery systems using advanced x-ray and proton beam therapy (PBT) can reduce incidental radiation exposure doses to cardiac and pulmonary organs individually or in any combination is poorly investigated.<h4>Methods</h4>Among 15 patients with left-sided breast cancer, partial wide tangential 3D-conformal radiotherapy (3DCRT) delivered in conventional fractionation (CF) or hypofractionated (HF) schedules; PBT delivered in a CF schedule; and volumetric modulated arc therapy (VMAT) delivered in an HF schedule, each under continuous positive airway pressure (CPAP) and free-breathing (FB) conditions, were examined. Target volume coverage and doses to organs-at-risk (OARs) were calculated for each technique. Outcomes were compared with one-way analysis of variance and the Bonferroni test, with <i>p</i>-values <0.05 considered significant.<h4>Results</h4>Target volume coverage was within acceptable levels in all interventions, except for the internal mammary lymph node D95 (99% in PBT, 90% in VMAT-CPAP, 84% in VMAT-FB, and 74% in 3DCRT). The mean heart dose (MHD) was the lowest in PBT (<1 Gy) and VMAT-CPAP (2.2 Gy) and the highest in 3DCRT with CF/FB (7.8 Gy), respectively. The mean lung dose (MLD) was the highest in 3DCRT-CF-FB (20 Gy) and the lowest in both VMAT-HF-CPAP and PBT (approximately 5-6 Gy). VMAT-HF-CPAP and PBT delivered a comparable maximum dose to the left ascending artery (7.2 and 6.13 Gy, respectively).<h4>Conclusions</h4>Both proton and VMAT in combination with CPAP can minimize the radiation exposure to heart and lung with optimal target coverage in regional RT for left-sided breast cancer. The clinical relevance of these differences is yet to be elucidated. Continued efforts are needed to minimize radiation exposures during RT treatment to maximize its therapeutic index."
+      }
+    ],
+    "files": [
+      {
+        "path": "DataSheet_1.docx",
+        "size": 2255782,
+        "type": "file"
+      }
+    ],
+    "links": [
+      [
+        {
+          "url": "NCT03422003",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT03414970",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT02603341",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT03127995",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT02384733",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT04291378",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        }
+      ]
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "National Research Foundation of Korea"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Frontiers in oncology"
+          },
+          {
+            "name": "Volume",
+            "value": "11"
+          },
+          {
+            "name": "Pages",
+            "value": "645328"
+          },
+          {
+            "name": "Publication date",
+            "value": "2021"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.3389/fonc.2021.645328",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC8072050",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "33912459",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Ko H"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Chang JS"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0001-7685-3382"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Moon JY"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Lee WH"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Shah C"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Shim JSA"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Han MC"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Baek JG"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a9",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Park RH"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a10",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kim YB"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a11",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kim JS"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "College of Medicine, The Catholic University of Korea, Seoul, South Korea."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Taussig Cancer Institute, Cleveland Clinic, Cleveland, OH, United States."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Yonsei Cancer Center, Yonsei University College of Medicine, Seoul, South Korea."
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "New York Proton Center, New York, NY, United States."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

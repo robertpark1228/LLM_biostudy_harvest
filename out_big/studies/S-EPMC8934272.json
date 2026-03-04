@@ -1,0 +1,315 @@
+{
+  "accno": "S-EPMC8934272",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Platelet glycoprotein Ibα provides radiation protection."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2022-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Platelet glycoprotein Ibα provides radiation protection."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Background and purpose</h4>Platelet membrane glycoprotein Ibα (GPIbα), the major ligand-binding subunit of the GPIb-IX-V complex, binds to a number of ligands contributing to hemostasis, thrombosis, and inflammation. Binding to von Willebrand factor (VWF) initiates the process of hemostasis/thrombosis, while binding to the leukocyte receptor Macrophage-1 antigen (Mac-1) has been implicated in modulating the inflammatory response. Thus as GPIbα resides at the nexus of thrombosis and inflammation, we investigated the impact of GPIbα on radiation injury outcomes as this injury triggers both the thrombotic and inflammatory pathways.<h4>Materials and methods</h4>We used wild-type (WT) C57BL/6J mice and a dysfunctional GPIbα mouse model, in which endogenous GPIbα is replaced with a non-functional α-subunit (hIL-4R/Ibα), to determine whether the impairment of platelet GPIbα alters radiation response. Following exposure to 8.5 Gy total body irradiation (TBI), a series of parameters including radiation lethality, platelet-neutrophil/monocyte interactions, neutrophil/monocyte activation, serum cytokine levels and intestinal injury, were compared between the strains.<h4>Results</h4>The lack of functional GPIbα resulted in higher radiation lethality, greater monocyte activation, increased levels of serum pro-inflammatory cytokines, heightened intestinal damage, and a reduction of intestinal neutrophil recovery.<h4>Conclusion</h4>These data suggest that loss of platelet GPIbα enhances radiation toxicity and that GPIbα-mediated interactions may play a crucial role in limiting radiation damage. Thus, a mechanistic understanding of the biological impact of GPIbα following TBI could provide crucial insights for improving the safety of radiotherapy and minimizing the deleterious effects of accidental or occupational exposure to high-dose radiation."
+      }
+    ],
+    "files": [
+      {
+        "path": "NIHMS1767454-supplement-1.docx",
+        "size": 67373,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NIGMS NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "P20 GM109005"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "National Institutes of Health"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "University of Arkansas for Medical Sciences"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NIGMS NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "P20 GM103429"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "National Institute of General Medical Sciences"
+          },
+          {
+            "name": "grant_id",
+            "value": "P20 GM109005"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "National Institute of General Medical Sciences"
+          },
+          {
+            "name": "grant_id",
+            "value": "2P20GM103429-19"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Radiotherapy and oncology : journal of the European Society for Therapeutic Radiology and Oncology"
+          },
+          {
+            "name": "Volume",
+            "value": "167"
+          },
+          {
+            "name": "Pages",
+            "value": "143-148"
+          },
+          {
+            "name": "Publication date",
+            "value": "2022 Feb"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1016/j.radonc.2021.12.030",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "10.1016/j.radonc.2021.12.030",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC8934272",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "34971661",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Corken A"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Ghosh SP"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Du R"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Boerma M"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Ware J"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Pathak R"
+          },
+          {
+            "name": "affiliation",
+            "value": "o5",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Armed Forces Radiobiology Research Institute, USUHS, Bethesda, USA."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Biostatistics, College of Public Health, University of Arkansas for Medical Sciences, Little Rock, USA."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Physiology and Biophysics, College of Medicine, University of Arkansas for Medical Sciences, Little Rock, USA."
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Division of Radiation Health, Department of Pharmaceutical Sciences, College of Pharmacy, University of Arkansas for Medical Sciences, Little Rock, USA."
+          }
+        ]
+      },
+      {
+        "accno": "o5",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Division of Radiation Health, Department of Pharmaceutical Sciences, College of Pharmacy, University of Arkansas for Medical Sciences, Little Rock, USA. Electronic address: rpathak@uams.edu."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

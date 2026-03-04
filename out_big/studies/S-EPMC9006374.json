@@ -1,0 +1,276 @@
+{
+  "accno": "S-EPMC9006374",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "BPIFA2 as a Novel Early Biomarker to Identify Fatal Radiation Injury After Radiation Exposure."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2022-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "BPIFA2 as a Novel Early Biomarker to Identify Fatal Radiation Injury After Radiation Exposure."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Background</h4>Current dosimeters cannot cope with the two tasks of medical rescue in the early stage of nuclear accident, the accurate determination of radiation exposure and the identification of patients with fatal radiation injury. As radiation can cause alterations in serum components, it is feasible to develop biomarkers for radiation injury from serum. This study aims to investigate whether serum BPIFA2 could be used as a potential biomarker of predicting fatal radiation injury in the early stage after nuclear accident.<h4>Methods</h4>A rabbit anti-mouse BPIFA2 polyclonal antibody was prepared to detect the expression of BPIFA2. C57BL/6J female mice were exposed to total body radiation (TBI) at different dose and Partial body radiation (PBI) at lethal dose to detect the dynamic changes of BPIFA2 in serum at different time points after irradiation by Western blot assay.<h4>Results</h4>BPIFA2 in mice serum were significantly increased at 1-12 h post-irradiation at .5-10 Gy, and increased again significantly at 3 d after 10 Gy irradiation with associated with mortality closely. It also increased rapidly after PBI and was closely related to injury degree, regardless whether the salivary glands were irradiated.<h4>Conclusions</h4>The increase of serum BPIFA2 is a novel early biomarker not only for identifying radiation exposure, but also for fatal radiation injury playing a vital role in rational use of medical resources, and greater efficiency of medical treatment to minimize casualties."
+      }
+    ],
+    "files": [
+      {
+        "path": "sj-pdf-1-dos-10.1177_15593258221086478.pdf",
+        "size": 168098,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Dose-response : a publication of International Hormesis Society"
+          },
+          {
+            "name": "Volume",
+            "value": "20(1)"
+          },
+          {
+            "name": "Pages",
+            "value": "15593258221086478"
+          },
+          {
+            "name": "Publication date",
+            "value": "2022 Jan-Mar"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1177/15593258221086478",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC9006374",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "35431693",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "He L"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Zhou S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Li W"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Wang Q"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Qi Z"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Zhou P"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Wang Z"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Chen J"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a9",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Li Y"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a10",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Lin Z"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "College of Life Sciences, North China University of Science and Technology, Tangshan, China."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiobiology, Beijing Key Laboratory for Radiobiology, Beijing Institute of Radiation Medicine, Beijing, China."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Science Research Management Department of the Academy of Military Sciences, Beijing, China."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

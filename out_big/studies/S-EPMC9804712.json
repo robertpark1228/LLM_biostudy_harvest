@@ -1,0 +1,162 @@
+{
+  "accno": "S-EPMC9804712",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Radiation quality correction factors for improved dosimetry in preclinical minibeam radiotherapy."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2022-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Radiation quality correction factors for improved dosimetry in preclinical minibeam radiotherapy."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Background</h4>In reference dosimetry, radiation quality correction factors are used in order to account for changes in the detector's response among different radiation qualities, improving dosimetric accuracy.<h4>Purpose</h4>Reference dosimetry radiation quality corrections factors for the PTW microDiamond were calculated for preclinical X-ray and proton minibeams, and their impact in dosimetric accuracy was evaluated.<h4>Methods</h4>A formalism for the calculation of radiation quality correction factors for absolute dosimetry in minibeam fields was developed. Following our formalism, radiation quality correction factors were calculated for the PTW microDiamond detector, using the Monte Carlo method. Models of the detector, and X-ray and proton irradiation platform, were imported into the TOPAS Monte Carlo simulation toolkit. The radiation quality correction factors were calculated in the following scenarios: (i) reference dosimetry open field to minibeam center of the central peak, (ii) different positions at the minibeam profile (along the peaks and valleys direction) to the center of the central minibeam, and (iii) some representative depth positions. In addition, the radiation quality correction factors needed for the calculation of the peak-to-valley dose ratio at different depths were calculated.<h4>Results</h4>An important overestimation of the dose (about 10%) was found in the case of the open to minibeam field for both X-rays and proton beams, when the correction factors were used. Smaller differences were observed in the other cases.<h4>Conclusions</h4>The usage of the PTW microDiamond detector requires radiation quality correction factors in order to be used in minibeam reference dosimetry."
+      }
+    ],
+    "files": [
+      {
+        "path": "MP-49-6716-s001.pdf",
+        "size": 2716671,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Partnership for Advanced Computing in Europe (PRACE)"
+          },
+          {
+            "name": "grant_id",
+            "value": "2020225339"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "European Research Council"
+          },
+          {
+            "name": "grant_id",
+            "value": "817908"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Medical physics"
+          },
+          {
+            "name": "Volume",
+            "value": "49(10)"
+          },
+          {
+            "name": "Pages",
+            "value": "6716-6727"
+          },
+          {
+            "name": "Publication date",
+            "value": "2022 Oct"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1002/mp.15838",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC9804712",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "35904962",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Sotiropoulos M"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Prezado Y"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Signalisation Radiobiologie et Cancer, CNRS UMR3347, Inserm U1021, Institut Curie, Université PSL, Orsay, France."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

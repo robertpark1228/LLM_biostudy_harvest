@@ -1,0 +1,271 @@
+{
+  "accno": "S-EPMC8655408",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Comparison Between Dose-Escalated Intensity Modulated Radiation Therapy and 3-Dimensional Conformal Radiation Therapy for Salvage Radiation Therapy After Prostatectomy."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2021-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Comparison Between Dose-Escalated Intensity Modulated Radiation Therapy and 3-Dimensional Conformal Radiation Therapy for Salvage Radiation Therapy After Prostatectomy."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Purpose</h4>To compare long-term outcomes and late toxicity between patients treated with 3-dimensional conformal radiation therapy (3D-CRT) and with dose-escalated intensity modulated radiation therapy (IMRT) as salvage radiation therapy (SRT) after prostatectomy.<h4>Methods and materials</h4>A total of 110 patients who had been treated at our institution between 2010 and 2018 with SRT for biochemical recurrence after radical prostatectomy were included. The patients were treated either by 3D-CRT with 64 Gy (59 patients) or by IMRT with 70 Gy (51 patients). The irradiation target was the prostate bed only (106 patients) or the prostate bed and pelvic region (4 patients). Twelve patients (11%) received concurrent androgen deprivation therapy. The differences in clinical outcomes and late gastrointestinal (GI) and genitourinary (GU) toxicity between the 3D-CRT and IMRT groups were retrospectively assessed. Toxicities were recorded using the Common Terminology Criteria for Adverse Events, version 5.0. Prostate-specific antigen (PSA) progression after SRT was defined as an increase in the serum PSA level of 0.2 ng/mL from the PSA nadir after SRT and confirmed by a second PSA measurement that was higher than the first.<h4>Results</h4>The median follow-up time was 7.8 years for 3D-CRT (range:,0.3-9.2 years) and 3.1 years for IMRT (range, 0.4-7.2 years). There was no significant difference in the 4-year biochemical no-evidence-of-disease (bNED) rate between the 3D-CRT and IMRT groups (43.5% vs 52.1%; <i>P</i> = .20). Toxicity analysis showed no significant difference in late GI or GU toxicities of grade 2 or greater between the 3D-CRT and IMRT groups. The respective 4-year cumulative rates of toxicity in the 3D-CRT and IMRT groups were as follows: grade ≥2 GI toxicity, 8.8% and 4.4% (<i>P</i> = .42); grade ≥2 GU toxicity, 19.1% and 20.3% (<i>P</i> = .93); and grade ≥2 hematuria, 5.3% and 8.0% (<i>P</i> = .67). In the 3D-CRT group, the 8-year cumulative rates of GI toxicity, GU toxicity, and hematuria of grade 2 or greater were 8.8%, 28.4%, and 12.6%, respectively.<h4>Conclusions</h4>Dose-escalated IMRT showed no improvements in bNED or late toxicity compared with 3D-CRT. In addition, the results suggest that GU toxicity can occur after a long period (even after 6 years), whereas GI toxicity is seldom newly observed after 4 years."
+      }
+    ],
+    "files": [
+      {
+        "path": "mmc1.pdf",
+        "size": 199541,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Advances in radiation oncology"
+          },
+          {
+            "name": "Volume",
+            "value": "6(6)"
+          },
+          {
+            "name": "Pages",
+            "value": "100753"
+          },
+          {
+            "name": "Publication date",
+            "value": "2021 Nov-Dec"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1016/j.adro.2021.100753",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC8655408",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "34934854",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Shimoyachi N"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Yoshioka Y"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Sasamura K"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Yonese J"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Yamamoto S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Yuasa T"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Soyano T"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kozuka T"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a9",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Oguchi M"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiology, Japan Self-Defense Forces Central Hospital, Tokyo, Japan."
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiology, University of Tokyo Hospital, Tokyo, Japan."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Departments of Radiation Oncology and."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Urology, Cancer Institute Hospital of the Japanese Foundation for Cancer Research, Tokyo, Japan."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

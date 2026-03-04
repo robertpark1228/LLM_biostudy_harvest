@@ -1,0 +1,353 @@
+{
+  "accno": "S-EPMC4177872",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "A translatable predictor of human radiation exposure."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2014-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "A translatable predictor of human radiation exposure."
+      },
+      {
+        "name": "Abstract",
+        "value": "Terrorism using radiological dirty bombs or improvised nuclear devices is recognized as a major threat to both public health and national security. In the event of a radiological or nuclear disaster, rapid and accurate biodosimetry of thousands of potentially affected individuals will be essential for effective medical management to occur. Currently, health care providers lack an accurate, high-throughput biodosimetric assay which is suitable for the triage of large numbers of radiation injury victims. Here, we describe the development of a biodosimetric assay based on the analysis of irradiated mice, ex vivo-irradiated human peripheral blood (PB) and humans treated with total body irradiation (TBI). Interestingly, a gene expression profile developed via analysis of murine PB radiation response alone was inaccurate in predicting human radiation injury. In contrast, generation of a gene expression profile which incorporated data from ex vivo irradiated human PB and human TBI patients yielded an 18-gene radiation classifier which was highly accurate at predicting human radiation status and discriminating medically relevant radiation dose levels in human samples. Although the patient population was relatively small, the accuracy of this classifier in discriminating radiation dose levels in human TBI patients was not substantially confounded by gender, diagnosis or prior exposure to chemotherapy. We have further incorporated genes from this human radiation signature into a rapid and high-throughput chemical ligation-dependent probe amplification assay (CLPA) which was able to discriminate radiation dose levels in a pilot study of ex vivo irradiated human blood and samples from human TBI patients. Our results illustrate the potential for translation of a human genetic signature for the diagnosis of human radiation exposure and suggest the basis for further testing of CLPA as a candidate biodosimetric assay."
+      }
+    ],
+    "files": [
+      {
+        "path": "pone.0107897.s001.pdf",
+        "size": 21860,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "P30 CA014236"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "PloS one"
+          },
+          {
+            "name": "Volume",
+            "value": "9(9)"
+          },
+          {
+            "name": "Pages",
+            "value": "e107897"
+          },
+          {
+            "name": "Publication date",
+            "value": "2014"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1371/journal.pone.0107897",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC4177872",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "25255453",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Lucas J"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Dressman HK"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Suchindran S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Nakamura M"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-0180-1235"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Chao NJ"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Himburg H"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Minor K"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Phillips G"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a9",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Ross J"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a10",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Abedi M"
+          },
+          {
+            "name": "affiliation",
+            "value": "o5",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a11",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Terbrueggen R"
+          },
+          {
+            "name": "affiliation",
+            "value": "o5",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a12",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Chute JP"
+          },
+          {
+            "name": "affiliation",
+            "value": "o6",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Division of Hematologic Malignancies and Cellular Therapy, Department of Medicine, Duke University Medical Center, Durham, NC, United States of America."
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Division of Hematologic Malignancies and Cellular Therapy, Department of Medicine, Duke University Medical Center, Durham, NC, United States of America; Department of Immunology, Duke University, Durham, NC, United States of America."
+          }
+        ]
+      },
+      {
+        "accno": "o6",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Division of Hematologic Malignancies and Cellular Therapy, Department of Medicine, Duke University Medical Center, Durham, NC, United States of America; Division of Hematology/Oncology, Department of Medicine, Broad Stem Cell Research Center, Jonnson Comprehensive Cancer Center, U.C.L.A., Los Angeles, CA, United States of America."
+          }
+        ]
+      },
+      {
+        "accno": "o5",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Dxterity Diagnostics, Los Angeles, CA, United States of America."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Information Initiative at Duke, Duke University, Durham, NC, United States of America."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Institute for Genome Sciences and Policy, Duke University, Durham, NC, United States of America."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

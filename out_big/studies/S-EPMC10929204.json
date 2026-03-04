@@ -1,0 +1,296 @@
+{
+  "accno": "S-EPMC10929204",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "The scheme, and regulative mechanism of pyroptosis, ferroptosis, and necroptosis in radiation injury."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2024-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "The scheme, and regulative mechanism of pyroptosis, ferroptosis, and necroptosis in radiation injury."
+      },
+      {
+        "name": "Abstract",
+        "value": "Radiotherapy (RT) stands as the primary treatment for tumors, but it inevitably causes damage to normal cells. Consequently, radiation injury is a crucial consideration for radiation oncologists during therapy planning. Cell death including apoptosis, autophagy, pyroptosis, ferroptosis, and necroptosis play significant roles in tumor treatment. While previous studies elucidated the induction of apoptosis and autophagy by ionizing radiation (IR), recent attention has shifted to pyroptosis, ferroptosis, and necroptosis, revealing their effects induced by IR. This review aims to summarize the strategies employed by IR, either alone or in combination therapy, to induce pyroptosis, ferroptosis, and necroptosis in radiation injury. Furthermore, we explore their effects and molecular pathways, shedding light on their roles in radiation injury. Finally, we summarize the regulative agents for these three types of cell death and their mechanisms. In summary, optimizing radiation dose, dose rate, and combined treatment plans to minimize radiation damage and enhance the killing effect of RT is a key focus."
+      }
+    ],
+    "files": [
+      {
+        "path": "ijbsv20p1871s1.pdf",
+        "size": 201402,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "International journal of biological sciences"
+          },
+          {
+            "name": "Volume",
+            "value": "20(5)"
+          },
+          {
+            "name": "Pages",
+            "value": "1871-1883"
+          },
+          {
+            "name": "Publication date",
+            "value": "2024"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.7150/ijbs.91112",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC10929204",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "38481804",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Ning J"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Chen L"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Zeng Y"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Xiao G"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Tian W"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Wu Q"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Tang J"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "He S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o5",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a9",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Tanzhu G"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a10",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Zhou R"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Changsha Stomatological Hospital, Hunan University of Traditional Chinese Medicine, Changsha, China."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Oncology, Xiangya Hospital, Central South University, Changsha, 410008, China."
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Orthopedics, Shanghai Key Laboratory for Prevention and Treatment of Bone and Joint Diseases, Shanghai Institute of Traumatology and Orthopedics, Ruijin Hospital, Shanghai Jiaotong University School of Medicine, 197 Ruijin 2nd Road, Shanghai, 200025, China."
+          }
+        ]
+      },
+      {
+        "accno": "o5",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology and Department of Head and Neck Oncology, Cancer Center, West China Hospital, Sichuan University, Chengdu, Sichuan, 610041, China."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "The Third Affiliated Hospital of Guangzhou Medical University, Guangzhou, China."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

@@ -1,0 +1,142 @@
+{
+  "accno": "S-EPMC8797499",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Narrative review of immune checkpoint inhibitors and radiation therapy for brain metastases."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2021-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Narrative review of immune checkpoint inhibitors and radiation therapy for brain metastases."
+      },
+      {
+        "name": "Abstract",
+        "value": "Radiation therapy plays a key role in the management of intracranial metastatic disease. Historically, systemic therapy was able to address extracranial disease but not cross the blood-brain barrier and radiation therapy and surgery were the only mechanisms to treat intracranial metastases. There are now several examples of contemporary systemic therapies with central nervous system efficacy in some patients. With such improvements in systemic therapies, patients are living longer and the optimal management of brain metastases is becoming an increasingly important clinical priority. However, the role of radiation therapy remains critical in treating brain metastases. The concurrent use of new systemic therapies with radiation brings about novel and significant questions regarding potential synergy between these therapies in the brain in regard to both oncologic efficacy and toxicity. One important systemic therapy to consider is immune checkpoint inhibitors. These drugs are now at the forefront of management of many malignancies and have changed the landscape of treatment for many common cancers, particularly those with a predilection for brain metastases. In this review we will examine the existing data on the efficacy and toxicity of concurrent radiation therapy and immunotherapy for brain metastases and explore potential mechanisms underlying the published clinical observations."
+      }
+    ],
+    "links": [
+      [
+        {
+          "url": "NCT02460068",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        }
+      ]
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Translational cancer research"
+          },
+          {
+            "name": "Volume",
+            "value": "10(5)"
+          },
+          {
+            "name": "Pages",
+            "value": "2527-2536"
+          },
+          {
+            "name": "Publication date",
+            "value": "2021 May"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.21037/tcr-20-3027",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC8797499",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "35116569",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Moskalenko M"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Robin TP"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, University of Colorado School of Medicine, Aurora, CO, USA."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

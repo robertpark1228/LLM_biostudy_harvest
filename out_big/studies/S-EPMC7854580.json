@@ -1,0 +1,155 @@
+{
+  "accno": "S-EPMC7854580",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Implications of monsoon season and UVB radiation for COVID-19 in India."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2021-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Implications of monsoon season and UVB radiation for COVID-19 in India."
+      },
+      {
+        "name": "Abstract",
+        "value": "India has recorded 142,186 deaths over 36 administrative regions placing India third in the world after the US and Brazil for COVID-19 deaths as of 12 December 2020. Studies indicate that south-west monsoon season plays a role in the dynamics of contagious diseases, which tend to peak post-monsoon season. Recent studies show that vitamin D and its primary source Ultraviolet-B (UVB) radiation may play a protective role in mitigating COVID-19 deaths. However, the combined roles of the monsoon season and UVB radiation in COVID-19 in India remain still unclear. In this observational study, we empirically study the respective roles of monsoon season and UVB radiation, whilst further exploring, whether the monsoon season negatively impacts the protective role of UVB radiation in COVID-19 deaths in India. We use a log-linear Mundlak model to a panel dataset of 36 administrative regions in India from 14 March 2020-19 November 2020 (n = 6751). We use the cumulative COVID-19 deaths as the dependent variable. We isolate the association of monsoon season and UVB radiation as measured by Ultraviolet Index (UVI) from other confounding time-constant and time-varying region-specific factors. After controlling for various confounding factors, we observe that a unit increase in UVI and the monsoon season are separately associated with 1.2 percentage points and 7.5 percentage points decline in growth rates of COVID-19 deaths in the long run. These associations translate into substantial relative changes. For example, a permanent unit increase of UVI is associated with a decrease of growth rates of COVID-19 deaths by 33% (= - 1.2 percentage points) However, the monsoon season, mitigates the protective role of UVI by 77% (0.92 percentage points). Our results indicate a protective role of UVB radiation in mitigating COVID-19 deaths in India. Furthermore, we find evidence that the monsoon season is associated with a significant reduction in the protective role of UVB radiation. Our study outlines the roles of the monsoon season and UVB radiation in COVID-19 in India and supports health-related policy decision making in India."
+      }
+    ],
+    "files": [
+      {
+        "path": "41598_2021_82443_MOESM1_ESM.pdf",
+        "size": 383336,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Projekt DEAL"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Scientific reports"
+          },
+          {
+            "name": "Volume",
+            "value": "11(1)"
+          },
+          {
+            "name": "Pages",
+            "value": "2757"
+          },
+          {
+            "name": "Publication date",
+            "value": "2021 Feb"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1038/s41598-021-82443-6",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC7854580",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "33531606",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Moozhipurath RK"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kraft L"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Faculty of Economics and Business, Goethe University Frankfurt, Theodor-W.-Adorno-Platz 4, 60629, Frankfurt, Germany."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Faculty of Economics and Business, Goethe University Frankfurt, Theodor-W.-Adorno-Platz 4, 60629, Frankfurt, Germany. rahulkm85@gmail.com."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

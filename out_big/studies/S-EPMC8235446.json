@@ -1,0 +1,195 @@
+{
+  "accno": "S-EPMC8235446",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Cutting Staff Radiation Exposure and Improving Freedom of Motion during CT Interventions: Comparison of a Novel Workflow Utilizing a Radiation Protection Cabin versus Two Conventional Workflows."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2021-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Cutting Staff Radiation Exposure and Improving Freedom of Motion during CT Interventions: Comparison of a Novel Workflow Utilizing a Radiation Protection Cabin versus Two Conventional Workflows."
+      },
+      {
+        "name": "Abstract",
+        "value": "This study aimed to evaluate the radiation exposure to the radiologist and the procedure time of prospectively matched CT interventions implementing three different workflows-the radiologist-(I) leaving the CT room during scanning; (II) wearing a lead apron and staying in the CT room; (III) staying in the CT room in a prototype radiation protection cabin without lead apron while utilizing a wireless remote control and a tablet. We prospectively evaluated the radiologist's radiation exposure utilizing an electronic personal dosimeter, the intervention time, and success in CT interventions matched to the three different workflows. We compared the interventional success, the patient's dose of the interventional scans in each workflow (total mAs and total DLP), the radiologist's personal dose (in µSV), and interventional time. To perform workflow III, a prototype of a radiation protection cabin, with 3 mm lead equivalent walls and a foot switch to operate the doors, was built in the CT examination room. Radiation exposure during the maximum tube output at 120 kV was measured by the local admission officials inside the cabin at the same level as in the technician's control room (below 0.5 μSv/h and 1 mSv/y). Further, to utilize the full potential of this novel workflow, a sterile packed remote control (to move the CT table and to trigger the radiation) and a sterile packed tablet anchored on the CT table (to plan and navigate during the CT intervention) were operated by the radiologist. There were 18 interventions performed in workflow I, 16 in workflow II, and 27 in workflow III. There were no significant differences in the intervention time (workflow I: 23 min ± 12, workflow II: 20 min ± 8, and workflow III: 21 min ± 10, p = 0.71) and the patient's dose (total DLP, p = 0.14). However, the personal dosimeter registered 0.17 ± 0.22 µSv for workflow II, while I and III both documented 0 µSv, displaying significant difference (p < 0.001). All workflows were performed completely and successfully in all cases. The new workflow has the potential to reduce interventional CT radiologists' radiation dose to zero while relieving them from working in a lead apron all day."
+      }
+    ],
+    "files": [
+      {
+        "path": "diagnostics-11-01099-s001.zip",
+        "size": 15200091,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Diagnostics (Basel, Switzerland)"
+          },
+          {
+            "name": "Volume",
+            "value": "11(6)"
+          },
+          {
+            "name": "Pages",
+            "value": "1099"
+          },
+          {
+            "name": "Publication date",
+            "value": "2021 Jun"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.3390/diagnostics11061099",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC8235446",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "34208499",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Dankerl P"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "May MS"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-2540-850X"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Canstein C"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Uder M"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Saake M"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiology, University Hospital Erlangen, Maximiliansplatz 3, 91054 Erlangen, Germany."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Siemens Healthcare GmbH, Siemensstr. 3, 91031 Forchheim, Germany."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

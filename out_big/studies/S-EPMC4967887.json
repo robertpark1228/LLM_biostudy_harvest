@@ -1,0 +1,185 @@
+{
+  "accno": "S-EPMC4967887",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Reverse surface-polariton cherenkov radiation."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2016-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Reverse surface-polariton cherenkov radiation."
+      },
+      {
+        "name": "Abstract",
+        "value": "The existence of reverse Cherenkov radiation for surface plasmons is demonstrated analytically. It is shown that in a metal-insulator-metal (MIM) waveguide, surface plasmon polaritons (SPPs) excited by an electron moving at a speed higher than the phase velocity of SPPs can generate Cherenkov radiation, which can be switched from forward to reverse direction by tuning the core thickness of the waveguide. Calculations are performed in both frequency and time domains, demonstrating that a radiation pattern with a backward-pointing radiation cone can be achieved at small waveguide core widths, with energy flow opposite to the wave vector of SPPs. Our study suggests the feasibility of generating and steering electron radiation in simple plasmonic systems, opening the gate for various applications such as velocity-selective particle detections."
+      }
+    ],
+    "files": [
+      {
+        "path": "srep30704-s1.pdf",
+        "size": 140355,
+        "type": "file"
+      },
+      {
+        "path": "srep30704-s2.mpg",
+        "size": 1301440,
+        "type": "file"
+      },
+      {
+        "path": "srep30704-s3.mpg",
+        "size": 1301440,
+        "type": "file"
+      },
+      {
+        "path": "srep30704-s4.mpg",
+        "size": 1301440,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Scientific reports"
+          },
+          {
+            "name": "Volume",
+            "value": "6"
+          },
+          {
+            "name": "Pages",
+            "value": "30704"
+          },
+          {
+            "name": "Publication date",
+            "value": "2016 Aug"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1038/srep30704",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC4967887",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "27477061",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Tao J"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Wang QJ"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Zhang J"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Luo Y"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0003-2925-682X"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "School of Electrical and Electronic Engineering, Nanyang Technological University, 639798, Singapore."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

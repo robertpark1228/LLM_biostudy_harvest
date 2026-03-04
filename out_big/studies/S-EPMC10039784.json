@@ -1,0 +1,330 @@
+{
+  "accno": "S-EPMC10039784",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Deficient Radiation Transcription Response in COVID-19 Patients."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2023-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Deficient Radiation Transcription Response in COVID-19 Patients."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Purpose</h4>The ongoing SARS-CoV-2 pandemic has resulted in over 6.3 million deaths and 560 million COVID-19 cases worldwide. Clinical management of hospitalized patients is complex due to the heterogeneous course of COVID-19. Low-dose radiation therapy is known to dampen localized chronic inflammation and has been suggested to be used to reduce lung inflammation in patients with COVID-19. However, it is unknown whether SARS-CoV-2 alters the radiation response and associated radiation exposure related risk.<h4>Methods and materials</h4>We generated gene expression profiles from circulating leukocytes of hospitalized patients with COVID-19 and healthy donors.<h4>Results</h4>The <i>p53</i> signaling pathway was found to be dysregulated, with mRNA levels of <i>p53, ATM</i>, and <i>CHK2</i> being lower in patients with COVID-19. Several key <i>p53</i> target genes involved in cell cycle arrest, apoptosis, and <i>p53</i> feedback inhibition were upregulated in patients with COVID-19 while other <i>p53</i> target genes were downregulated. This dysregulation has functional consequences as the transcription of <i>p53</i>-dependant genes (<i>CCNG1, GADD45A, DDB2, SESN1, FDXR, APOBEC</i>) was reduced 24 hours after x-ray exposure ex vivo to both low (100 mGy) or high (2 Gy) doses.<h4>Conclusions</h4>SARS-CoV-2 infection affects a DNA damage response that may modify radiation-induced health risks in exposed patients with COVID-19."
+      }
+    ],
+    "files": [
+      {
+        "path": "mmc1.pdf",
+        "size": 1132022,
+        "type": "file"
+      },
+      {
+        "path": "mmc2.pdf",
+        "size": 3248176,
+        "type": "file"
+      },
+      {
+        "path": "mmc3.pdf",
+        "size": 1023794,
+        "type": "file"
+      },
+      {
+        "path": "mmc4.jpg",
+        "size": 2404715,
+        "type": "file"
+      },
+      {
+        "path": "mmc5.docx",
+        "size": 18011,
+        "type": "file"
+      },
+      {
+        "path": "mmc6.docx",
+        "size": 18224,
+        "type": "file"
+      },
+      {
+        "path": "mmc7.xlsx",
+        "size": 8034,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Public Health England"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "LabEx PRIMES"
+          },
+          {
+            "name": "grant_id",
+            "value": "ANR-11-LABX-0063"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Imperial College London"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "National Institute for Health and Care Research"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Advances in radiation oncology"
+          },
+          {
+            "name": "Volume",
+            "value": "8(4)"
+          },
+          {
+            "name": "Pages",
+            "value": "101215"
+          },
+          {
+            "name": "Publication date",
+            "value": "2023 Jul-Aug"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1016/j.adro.2023.101215",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC10039784",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "37152486",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Polozov S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Cruz-Garcia L"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "O'Brien G"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Goriacha V"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Nasser F"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Jeggo P"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Candeias S"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0003-2257-5529"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Badie C"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Cancer Mechanisms and Biomarkers Group, Radiation Effects Department, Radiation, Chemical & Environmental Hazards, Harwell Campus, UK Health Security Agency, Didcot, Oxfordshire, United Kingdom."
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Commissariat à l'Energie Atomique et aux Energies Renouvelables, Centre National de la Recherche Scientifique, Interdisciplinary Research Institute - Grenoble, Laboratory of Chemistry and Biology of Metals, Unité mixte de Recherche 5249, 38054, Grenoble, France."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Genome Damage and Stability Centre, University of Sussex, Falmer, Brighton, United Kingdom."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Science Limited, St. Ives, Cambridgeshire, United Kingdom."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

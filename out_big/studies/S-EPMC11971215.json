@@ -1,0 +1,150 @@
+{
+  "accno": "S-EPMC11971215",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Radiation adaptive response for constant dose-rate irradiation in high background radiation areas."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2025-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Radiation adaptive response for constant dose-rate irradiation in high background radiation areas."
+      },
+      {
+        "name": "Abstract",
+        "value": "The presented paper describes the problem of human health in regions with high level of natural ionizing radiation in various places in the world. The radiation adaptive response biophysical model was presented and calibrated for the special case of constant dose-rate irradiation. The calibration was performed for the data of residents of several high background radiation areas, like Ramsar in Iran, Kerala in India or Yangjiang in China. Studied end-points were: chromosomal aberrations, cancer incidence and cancer mortality. For the case of aberrations, among collected publications about 45% have shown the existence of adaptive response. Average reduction of chromosomal aberrations was ∼ 10%, while for the case of cancer incidence it was ∼ 15% and ∼ 17% for cancer mortality (each taking into account only results showing adaptive response). Results of the other 55% of data regarding chromosomal aberrations have been tested with the LNT (linear no-threshold) hypothesis, but results were inconsistent with the linear model. The conditions for adaptive response occurrence are still unknown, but it is postulated to correlate with the distribution of individual radiosensitivity among members of surveyed populations."
+      }
+    ],
+    "files": [
+      {
+        "path": "411_2024_1093_MOESM1_ESM.pdf",
+        "size": 188118,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Radiation and environmental biophysics"
+          },
+          {
+            "name": "Volume",
+            "value": "64(1)"
+          },
+          {
+            "name": "Pages",
+            "value": "29-44"
+          },
+          {
+            "name": "Publication date",
+            "value": "2025 Mar"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1007/s00411-024-01093-0",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC11971215",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "39470814",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Bugala E"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Fornalski KW"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0001-7452-0189"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Faculty of Physics, Warsaw University of Technology, ul. Koszykowa 75, Warszawa, 00-662, Poland"
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Faculty of Physics, Warsaw University of Technology, ul. Koszykowa 75, Warszawa, 00-662, Poland. krzysztof.fornalski@pw.edu.pl"
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

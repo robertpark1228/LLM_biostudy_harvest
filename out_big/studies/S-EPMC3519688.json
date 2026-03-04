@@ -1,0 +1,288 @@
+{
+  "accno": "S-EPMC3519688",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Dynamics of tumor hypoxia in response to patupilone and ionizing radiation."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2012-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Dynamics of tumor hypoxia in response to patupilone and ionizing radiation."
+      },
+      {
+        "name": "Abstract",
+        "value": "Tumor hypoxia is one of the most important parameters that determines treatment sensitivity and is mainly due to insufficient tumor angiogenesis. However, the local oxygen concentration in a tumor can also be shifted in response to different treatment modalities such as cytotoxic agents or ionizing radiation. Thus, combined treatment modalities including microtubule stabilizing agents could create an additional challenge for an effective treatment response due to treatment-induced shifts in tumor oxygenation. Tumor hypoxia was probed over a prolonged observation period in response to treatment with different cytotoxic agents, using a non-invasive bioluminescent ODD-Luc reporter system, in which part of the oxygen-dependent degradation (ODD) domain of HIF-1α is fused to luciferase. As demonstrated in vitro, this system not only detects hypoxia at an ambient oxygen concentration of 1% O(2), but also discriminates low oxygen concentrations in the range from 0.2 to 1% O(2). Treatment of A549 lung adenocarcinoma-derived tumor xenografts with the microtubule stabilizing agent patupilone resulted in a prolonged increase in tumor hypoxia, which could be used as marker for its antitumoral treatment response, while irradiation did not induce detectable changes in tumor hypoxia. Furthermore, despite patupilone-induced hypoxia, the potency of ionizing radiation (IR) was not reduced as part of a concomitant or adjuvant combined treatment modality."
+      }
+    ],
+    "files": [
+      {
+        "path": "pone.0051476.s001.tif",
+        "size": 127612,
+        "type": "file"
+      },
+      {
+        "path": "pone.0051476.s002.tif",
+        "size": 110108,
+        "type": "file"
+      },
+      {
+        "path": "pone.0051476.s003.tif",
+        "size": 133296,
+        "type": "file"
+      },
+      {
+        "path": "pone.0051476.s004.tif",
+        "size": 65578,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "PloS one"
+          },
+          {
+            "name": "Volume",
+            "value": "7(12)"
+          },
+          {
+            "name": "Pages",
+            "value": "e51476"
+          },
+          {
+            "name": "Publication date",
+            "value": "2012"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1371/journal.pone.0051476",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC3519688",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "23251549",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Orlowski K"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Rohrer Bley C"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-5733-2722"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Zimmermann M"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Vuong V"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Hug D"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Soltermann A"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0001-9509-6938"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Broggini-Tenzer A"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Pruschy M"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-3124-9015"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Pathology, University Hospital Zurich, Zurich, Switzerland"
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, University Hospital Zurich, Zurich, Switzerland"
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Division of Radiation Oncology, Vetsuisse Faculty, University of Zurich, Zurich, Switzerland"
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "KFSP Tumor Oxygenation, University of Zurich, Switzerland"
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

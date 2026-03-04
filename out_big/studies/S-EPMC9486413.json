@@ -1,0 +1,215 @@
+{
+  "accno": "S-EPMC9486413",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Effect of the Cyberattack Targeting the Irish Health System in May 2021 on Radiation Treatment at St. Luke's Radiation Oncology Network."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2022-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Effect of the Cyberattack Targeting the Irish Health System in May 2021 on Radiation Treatment at St. Luke's Radiation Oncology Network."
+      },
+      {
+        "name": "Abstract",
+        "value": "On May 14, 2021, the Health Service Executive (HSE) of Ireland experienced a major ransomware cyberattack. The HSE initially took down all of its information technology systems to protect its core systems. All Internet connections within the HSE were unavailable from 7 am for approximetely three weeks which had a major effect on the radiation oncology service nationally within the public service. St. Luke's Radiation Oncology Network (SLRON) is a complex, 3-center radiation oncology service, and it is the largest in the country; with 14 linear accelerators, it is one of the largest radiation centers in Europe. This article details the response of SLRON to the outage resultant from the cyberattack. Although the outage affected all patient services, including laboratory, diagnostic imaging, and inpatient care, the article primarily focuses on our response to get the radiation oncology service restarted as quickly as possible and details the steps we took to reinstate our systems safely, how we prioritized patient treatments, and how we communicated with patients, staff, and the public without having access to standard communication pathways. All decisions were risk assessed and were made with the best resources available to us at the time to maximize the outcome for our patients and mitigate significant delays. The risk remains ongoing, and the onerous task of uploading backlogs and reconciling patient records is a continuing risk."
+      }
+    ],
+    "files": [
+      {
+        "path": "mmc1.docx",
+        "size": 3060621,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Advances in radiation oncology"
+          },
+          {
+            "name": "Volume",
+            "value": "7(5)"
+          },
+          {
+            "name": "Pages",
+            "value": "100993"
+          },
+          {
+            "name": "Publication date",
+            "value": "2022 Sep-Oct"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1016/j.adro.2022.100993",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC9486413",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "36148375",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Faul C"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-0889-274X"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Robinson J"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Carey J"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "McArdle O"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Ryan L"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Woods R"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "McClean B"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "St. Luke's Radiation Oncology Network, Dublin, Ireland."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

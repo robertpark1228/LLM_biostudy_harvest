@@ -1,0 +1,285 @@
+{
+  "accno": "S-EPMC4344357",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Identifying and quantifying radiation damage at the atomic level."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2015-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Identifying and quantifying radiation damage at the atomic level."
+      },
+      {
+        "name": "Abstract",
+        "value": "Radiation damage impedes macromolecular diffraction experiments. Alongside the well known effects of global radiation damage, site-specific radiation damage affects data quality and the veracity of biological conclusions on protein mechanism and function. Site-specific radiation damage follows a relatively predetermined pattern, in that different structural motifs are affected at different dose regimes: in metal-free proteins, disulfide bonds tend to break first followed by the decarboxylation of aspartic and glutamic acids. Even within these damage motifs the decay does not progress uniformly at equal rates. Within the same protein, radiation-induced electron density decay of a particular chemical group is faster than for the same group elsewhere in the protein: an effect known as preferential specific damage. Here, BDamage, a new atomic metric, is defined and validated to recognize protein regions susceptible to specific damage and to quantify the damage at these sites. By applying BDamage to a large set of known protein structures in a statistical survey, correlations between the rates of damage and various physicochemical parameters were identified. Results indicate that specific radiation damage is independent of secondary protein structure. Different disulfide bond groups (spiral, hook, and staple) show dissimilar radiation damage susceptibility. There is a consistent positive correlation between specific damage and solvent accessibility."
+      }
+    ],
+    "files": [
+      {
+        "path": "s-22-00201-sup1.pdf",
+        "size": 1054750,
+        "type": "file"
+      }
+    ],
+    "links": [
+      [
+        {
+          "url": "2blr",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "pdb"
+            }
+          ]
+        },
+        {
+          "url": "2bn3",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "pdb"
+            }
+          ]
+        },
+        {
+          "url": "2blq",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "pdb"
+            }
+          ]
+        },
+        {
+          "url": "2blp",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "pdb"
+            }
+          ]
+        },
+        {
+          "url": "2blo",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "pdb"
+            }
+          ]
+        },
+        {
+          "url": "2bn1",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "pdb"
+            }
+          ]
+        },
+        {
+          "url": "2blz",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "pdb"
+            }
+          ]
+        },
+        {
+          "url": "2bly",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "pdb"
+            }
+          ]
+        },
+        {
+          "url": "2blx",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "pdb"
+            }
+          ]
+        },
+        {
+          "url": "2blw",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "pdb"
+            }
+          ]
+        },
+        {
+          "url": "2blv",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "pdb"
+            }
+          ]
+        },
+        {
+          "url": "2blu",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "pdb"
+            }
+          ]
+        }
+      ]
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Journal of synchrotron radiation"
+          },
+          {
+            "name": "Volume",
+            "value": "22(2)"
+          },
+          {
+            "name": "Pages",
+            "value": "201-12"
+          },
+          {
+            "name": "Publication date",
+            "value": "2015 Mar"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1107/S1600577515002131",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC4344357",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "25723922",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Gerstel M"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-4522-3326"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Deane CM"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0003-1388-2252"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Garman EF"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0001-8329-5665"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Statistics, University of Oxford, 1 South Parks Road, Oxford OX1 3TG, UK."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Laboratory of Molecular Biophysics, Department of Biochemistry, University of Oxford, South Parks Road, Oxford OX1 3QU, UK."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

@@ -1,0 +1,524 @@
+{
+  "accno": "S-EPMC10415340",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Universal radiation tolerant semiconductor."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2023-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Universal radiation tolerant semiconductor."
+      },
+      {
+        "name": "Abstract",
+        "value": "Radiation tolerance is determined as the ability of crystalline materials to withstand the accumulation of the radiation induced disorder. Nevertheless, for sufficiently high fluences, in all by far known semiconductors it ends up with either very high disorder levels or amorphization. Here we show that gamma/beta (γ/β) double polymorph Ga<sub>2</sub>O<sub>3</sub> structures exhibit remarkably high radiation tolerance. Specifically, for room temperature experiments, they tolerate a disorder equivalent to hundreds of displacements per atom, without severe degradations of crystallinity; in comparison with, e.g., Si amorphizable already with the lattice atoms displaced just once. We explain this behavior by an interesting combination of the Ga- and O- sublattice properties in γ-Ga<sub>2</sub>O<sub>3</sub>. In particular, O-sublattice exhibits a strong recrystallization trend to recover the face-centered-cubic stacking despite the stronger displacement of O atoms compared to Ga during the active periods of cascades. Notably, we also explained the origin of the β-to-γ Ga<sub>2</sub>O<sub>3</sub> transformation, as a function of the increased disorder in β-Ga<sub>2</sub>O<sub>3</sub> and studied the phenomena as a function of the chemical nature of the implanted atoms. As a result, we conclude that γ/β double polymorph Ga<sub>2</sub>O<sub>3</sub> structures, in terms of their radiation tolerance properties, benchmark a class of universal radiation tolerant semiconductors."
+      }
+    ],
+    "files": [
+      {
+        "path": "41467_2023_40588_MOESM1_ESM.pdf",
+        "size": 3240330,
+        "type": "file"
+      },
+      {
+        "path": "41467_2023_40588_MOESM2_ESM.pdf",
+        "size": 783025,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Norges Forskningsråd (Research Council of Norway)"
+          },
+          {
+            "name": "grant_id",
+            "value": "197405"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Norges Forskningsråd (Research Council of Norway)"
+          },
+          {
+            "name": "grant_id",
+            "value": "322382"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Norges Forskningsråd (Research Council of Norway)"
+          },
+          {
+            "name": "grant_id",
+            "value": "295864"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "European Cooperation in Science and Technology (COST)"
+          },
+          {
+            "name": "grant_id",
+            "value": "FIT4NANO CA19140"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Norges Forskningsråd"
+          },
+          {
+            "name": "grant_id",
+            "value": "295864"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Academy of Finland (Suomen Akatemia)"
+          },
+          {
+            "name": "grant_id",
+            "value": "352518"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Norges Forskningsråd"
+          },
+          {
+            "name": "grant_id",
+            "value": "197405"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Norges Forskningsråd (Research Council of Norway)"
+          },
+          {
+            "name": "grant_id",
+            "value": "337627"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "European Cooperation in Science and Technology"
+          },
+          {
+            "name": "grant_id",
+            "value": "FIT4NANO CA19140"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Norges Forskningsråd"
+          },
+          {
+            "name": "grant_id",
+            "value": "322382"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Academy of Finland"
+          },
+          {
+            "name": "grant_id",
+            "value": "352518"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Norges Forskningsråd"
+          },
+          {
+            "name": "grant_id",
+            "value": "337627"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Nature communications"
+          },
+          {
+            "name": "Volume",
+            "value": "14(1)"
+          },
+          {
+            "name": "Pages",
+            "value": "4855"
+          },
+          {
+            "name": "Publication date",
+            "value": "2023 Aug"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1038/s41467-023-40588-0",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC10415340",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "37563159",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Azarov A"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0003-0602-9624"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Fernandez JG"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Zhao J"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Djurabekova F"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "He H"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "He R"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Prytz O"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0001-6679-6492"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Vines L"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a9",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Bektas U"
+          },
+          {
+            "name": "ORCID",
+            "value": "0009-0008-6458-6158"
+          },
+          {
+            "name": "affiliation",
+            "value": "o5",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a10",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Chekhonin P"
+          },
+          {
+            "name": "affiliation",
+            "value": "o5",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a11",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Klingner N"
+          },
+          {
+            "name": "affiliation",
+            "value": "o5",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a12",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Hlawacek G"
+          },
+          {
+            "name": "affiliation",
+            "value": "o5",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a13",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kuznetsov A"
+          },
+          {
+            "name": "affiliation",
+            "value": "o6",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Electrical and Electronic Engineering, Southern University of Science and Technology, Shenzhen, 518055, China."
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Physics, University of Helsinki, P.O. Box 43, FI-00014, Helsinki, Finland."
+          }
+        ]
+      },
+      {
+        "accno": "o5",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Helmholtz-Zentrum Dresden-Rossendorf, D-01328, Dresden, Germany."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "University of Oslo, Centre for Materials Science and Nanotechnology, PO Box 1048 Blindern, N-0316, Oslo, Norway."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "University of Oslo, Centre for Materials Science and Nanotechnology, PO Box 1048 Blindern, N-0316, Oslo, Norway. alexander.azarov@smn.uio.no."
+          }
+        ]
+      },
+      {
+        "accno": "o6",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "University of Oslo, Centre for Materials Science and Nanotechnology, PO Box 1048 Blindern, N-0316, Oslo, Norway. andrej.kuznetsov@fys.uio.no."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

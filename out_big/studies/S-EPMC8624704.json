@@ -1,0 +1,253 @@
+{
+  "accno": "S-EPMC8624704",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Long-Term Effects of Ionizing Radiation on the Hippocampus: Linking Effects of the Sonic Hedgehog Pathway Activation with Radiation Response."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2021-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Long-Term Effects of Ionizing Radiation on the Hippocampus: Linking Effects of the Sonic Hedgehog Pathway Activation with Radiation Response."
+      },
+      {
+        "name": "Abstract",
+        "value": "Radiation therapy represents one of the primary treatment modalities for primary and metastatic brain tumors. Although recent advances in radiation techniques, that allow the delivery of higher radiation doses to the target volume, reduce the toxicity to normal tissues, long-term neurocognitive decline is still a detrimental factor significantly affecting quality of life, particularly in pediatric patients. This imposes the need for the development of prevention strategies. Based on recent evidence, showing that manipulation of the Shh pathway carries therapeutic potential for brain repair and functional recovery after injury, here we evaluate how radiation-induced hippocampal alterations are modulated by the constitutive activation of the Shh signaling pathway in Patched 1 heterozygous mice (Ptch1+/-). Our results show, for the first time, an overall protective effect of constitutive Shh pathway activation on hippocampal radiation injury. This activation, through modulation of the proneural gene network, leads to a long-term reduction of hippocampal deficits in the stem cell and new neuron compartments and to the mitigation of radio-induced astrogliosis, despite some behavioral alterations still being detected in Ptch1+/- mice. A better understanding of the pathogenic mechanisms responsible for the neural decline following irradiation is essential for identifying prevention measures to contain the harmful consequences of irradiation. Our data have important translational implications as they suggest a role for Shh pathway manipulation to provide the therapeutic possibility of improving brain repair and functional recovery after radio-induced injury."
+      }
+    ],
+    "files": [
+      {
+        "path": "ijms-22-12605-s001.zip",
+        "size": 5848497,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Local Government of the Regione Lazio"
+          },
+          {
+            "name": "grant_id",
+            "value": "TOP-IMPLART Project"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "International journal of molecular sciences"
+          },
+          {
+            "name": "Volume",
+            "value": "22(22)"
+          },
+          {
+            "name": "Pages",
+            "value": "12605"
+          },
+          {
+            "name": "Publication date",
+            "value": "2021 Nov"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.3390/ijms222212605",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC8624704",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "34830484",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Antonelli F"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Casciati A"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Belles M"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Serra N"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Linares-Vidal MV"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Marino C"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Mancuso M"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-0912-9287"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Pazzaglia S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Division of Health Protection Technologies, Italian National Agency for New Technologies, Energy and Sustainable Economic Development (ENEA), 00123 Rome, Italy."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Physiology Unit, School of Medicine, Rovira I Virgili University (URV), 43007 Reus, Spain."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

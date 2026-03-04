@@ -1,0 +1,211 @@
+{
+  "accno": "S-EPMC11262864",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Ozone enhances the efficacy of radiation therapy in esophageal cancer."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2024-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Ozone enhances the efficacy of radiation therapy in esophageal cancer."
+      },
+      {
+        "name": "Abstract",
+        "value": "Radioresistance is increasingly developed in esophageal cancer. Increasing radiation sensitivity can reduce the mortality of esophageal cancer. To investigate the effect and mechanism of ozone on the radiotherapy sensitization of esophageal carcinoma. KYSE150 cells were xenografted subcutaneously into nude mice and irradiated with 8 Gy radiation according to different subgroups (sham, radiation, ozone and radiation+ozone group (n = 10 per group)). Half of the mice were used to determine the body weight, tumor size and tumor weight. Half of the mice were used to collect peripheral blood. The serum was centrifuged to detect circulating cell-free DNA (cf-DNA), interleukin-6 (IL-6), interferon-γ (IFN-γ), myeloperoxidase (MPO)-DNA complexes, tumor necrosis factor-α (TNF-α), matrix metalloproteinase-9 (MMP-9) and hypoxia-inducible factor-1α (HIF-1α) using commercial kits. The levels of phosphorylation AMP-activated protein kinase (p-AMPK) and scavenger receptor-A (SR-A) were measured by immunocytochemistry and Western blotting in the tumor tissues of mice. Ozone alone or combined with radiation therapy significantly reduced the body weight, tumor volume and tumor weight of esophageal cancer compared to the sham group. The ELISA results showed that the levels of cf-DNA, IFN-γ, MPO-DNA complexes, TNF-α, IL-6, HIF-1α and MMP-9 in the peripheral blood of mice treated with ozone combined with radiation were significantly lower compared with the radiation group. Ozone, synergistically with radiation, significantly increased the protein expression of p-AMPK and SR-A. Ozone may increase the radiosensitivity of esophageal cancer by inhibiting neutrophil extracellular traps."
+      }
+    ],
+    "files": [
+      {
+        "path": "supplementary_figure_1_rrae041.jpeg",
+        "size": 441770,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Journal of radiation research"
+          },
+          {
+            "name": "Volume",
+            "value": "65(4)"
+          },
+          {
+            "name": "Pages",
+            "value": "467-473"
+          },
+          {
+            "name": "Publication date",
+            "value": "2024 Jul"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1093/jrr/rrae041",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC11262864",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "38842109",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Guo J"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Guo J"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Cheng B"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Gong M"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Sun X"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Zhang H"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Ma J"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Oncology, Lianyungang Oriental Hospital affiliated to Xuzhou Medical University, Lianyungang 222042, China."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

@@ -1,0 +1,630 @@
+{
+  "accno": "S-EPMC11088932",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "ReIGNITE Radiation Therapy Boost: A Prospective, International Study of Radiation Oncologists' Accuracy in Contouring Prostate Tumors for Focal Radiation Therapy Boost on Conventional Magnetic Resonance Imaging Alone or With Assistance of Restriction Spectrum Imaging."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2023-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "ReIGNITE Radiation Therapy Boost: A Prospective, International Study of Radiation Oncologists' Accuracy in Contouring Prostate Tumors for Focal Radiation Therapy Boost on Conventional Magnetic Resonance Imaging Alone or With Assistance of Restriction Spectrum Imaging."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Purpose</h4>In a phase III randomized trial, adding a radiation boost to tumor(s) visible on MRI improved prostate cancer (PCa) disease-free and metastasis-free survival without additional toxicity. Radiation oncologists' ability to identify prostate tumors is critical to widely adopting intraprostatic tumor radiotherapy boost for patients. A diffusion MRI biomarker, called the Restriction Spectrum Imaging restriction score (RSIrs), has been shown to improve radiologists' identification of clinically significant PCa. We hypothesized that (1) radiation oncologists would find accurately delineating PCa tumors on conventional MRI challenging and (2) using RSIrs maps would improve radiation oncologists' accuracy for PCa tumor delineation.<h4>Methods and materials</h4>In this multi-institutional, international, prospective study, 44 radiation oncologists (participants) and 2 expert radiologists (experts) contoured prostate tumors on 39 total patient cases using conventional MRI with or without RSIrs maps. Participant volumes were compared to the consensus expert volumes. Contouring accuracy metrics included percent overlap with expert volume, Dice coefficient, conformal number, and maximum distance beyond expert volume.<h4>Results</h4>1604 participant volumes were produced. 40 of 44 participants (91%) completely missed ≥1 expert-defined target lesion without RSIrs, compared to 13 of 44 (30%) with RSIrs maps. On conventional MRI alone, 134 of 762 contour attempts (18%) completely missed the target, compared to 18 of 842 (2%) with RSIrs maps. Use of RSIrs maps improved all contour accuracy metrics by approximately 50% or more. Mixed effects modeling confirmed that RSIrs maps were the main variable driving improvement in all metrics. System Usability Scores indicated RSIrs maps significantly improved the contouring experience (72 vs. 58, p < 0.001).<h4>Conclusions</h4>Radiation oncologists struggle with accurately delineating visible PCa tumors on conventional MRI. RSIrs maps improve radiation oncologists' ability to target MRI-visible tumors for prostate tumor boost."
+      }
+    ],
+    "files": [
+      {
+        "path": "NIHMS1984457-supplement-Supplementary_Tables.docx",
+        "size": 26731,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "American Society for Radiation Oncology"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Moores Cancer Center, UC San Diego Health"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Prostate Cancer Foundation"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Radiological Society of North America"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "National Institute of Biomedical Imaging and Bioengineering"
+          },
+          {
+            "name": "grant_id",
+            "value": "K08 EB026503"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCATS NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "UL1 TR001442"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "National Institutes of Health"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "National Cancer Institute"
+          },
+          {
+            "name": "grant_id",
+            "value": "U54CA132384"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "National Cancer Institute"
+          },
+          {
+            "name": "grant_id",
+            "value": "UL1TR001442"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "American College of Radiation Oncology"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NIBIB NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "K08 EB026503"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "GE Healthcare"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "University of California, San Diego"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "National Cancer Institute"
+          },
+          {
+            "name": "grant_id",
+            "value": "U54CA132379"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "U54 CA132379"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "U54 CA132384"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "International journal of radiation oncology, biology, physics"
+          },
+          {
+            "name": "Volume",
+            "value": "117(5)"
+          },
+          {
+            "name": "Pages",
+            "value": "1145-1152"
+          },
+          {
+            "name": "Publication date",
+            "value": "2023 Dec"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1016/j.ijrobp.2023.07.004",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "10.1016/j.ijrobp.2023.07.004",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC11088932",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "37453559",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Lui AJ"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kallis K"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Zhong AY"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0001-5732-1380"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Hussain TS"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Conlin C"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Digma LA"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Phan N"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Mathews IT"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a9",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Do DD"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a10",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Domingo MR"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a11",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Karunamuni R"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a12",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kuperman J"
+          },
+          {
+            "name": "affiliation",
+            "value": "o5",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a13",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Dale AM"
+          },
+          {
+            "name": "affiliation",
+            "value": "o6",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a14",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Shabaik A"
+          },
+          {
+            "name": "affiliation",
+            "value": "o7",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a15",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Rakow-Penner R"
+          },
+          {
+            "name": "affiliation",
+            "value": "o8",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a16",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Hahn ME"
+          },
+          {
+            "name": "affiliation",
+            "value": "o5",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a17",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Seibert TM"
+          },
+          {
+            "name": "affiliation",
+            "value": "o9",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Bioengineering, UC San Diego Jacobs School of Engineering, La Jolla, California."
+          }
+        ]
+      },
+      {
+        "accno": "o8",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Bioengineering, UC San Diego Jacobs School of Engineering, La Jolla, California; Department of Radiology, UC San Diego School of Medicine, La Jolla, California."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Neurosciences, UC San Diego School of Medicine, La Jolla, California."
+          }
+        ]
+      },
+      {
+        "accno": "o7",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Pathology, UC San Diego School of Medicine, La Jolla, California."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Medicine and Applied Sciences, UC San Diego School of Medicine, La Jolla, California."
+          }
+        ]
+      },
+      {
+        "accno": "o9",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Medicine and Applied Sciences, UC San Diego School of Medicine, La Jolla, California; Department of Bioengineering, UC San Diego Jacobs School of Engineering, La Jolla, California; Department of Radiology, UC San Diego School of Medicine, La Jolla, California. Electronic address: tseibert@ucsd.edu."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Medicine and Applied Sciences, UC San Diego School of Medicine, La Jolla, California; UC San Diego School of Medicine, La Jolla, California."
+          }
+        ]
+      },
+      {
+        "accno": "o5",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiology, UC San Diego School of Medicine, La Jolla, California."
+          }
+        ]
+      },
+      {
+        "accno": "o6",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiology, UC San Diego School of Medicine, La Jolla, California; Department of Neurosciences, UC San Diego School of Medicine, La Jolla, California; Halıcıoğlu Data Science Institute, UC San Diego School of Medicine, La Jolla, California."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

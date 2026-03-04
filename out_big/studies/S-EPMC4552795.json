@@ -1,0 +1,244 @@
+{
+  "accno": "S-EPMC4552795",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "The Inhibitory Effects of Low-Dose Ionizing Radiation in IgE-Mediated Allergic Responses."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2015-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "The Inhibitory Effects of Low-Dose Ionizing Radiation in IgE-Mediated Allergic Responses."
+      },
+      {
+        "name": "Abstract",
+        "value": "Ionizing radiation has different biological effects according to dose and dose rate. In particular, the biological effect of low-dose radiation is unclear. Low-dose whole-body gamma irradiation activates immune responses in several ways. However, the effects and mechanism of low-dose radiation on allergic responses remain poorly understood. Previously, we reported that low-dose ionizing radiation inhibits mediator release in IgE-mediated RBL-2H3 mast cell activation. In this study, to have any physiological relevance, we investigated whether low-dose radiation inhibits allergic responses in activated human mast cells (HMC-1(5C6) and LAD2 cells), mouse models of passive cutaneous anaphylaxis and the late-phase cutaneous response. High-dose radiation induced cell death, but low-dose ionizing radiation of <0.5 Gy did not induce mast cell death. Low-dose ionizing radiation that did not induce cell death significantly suppressed mediator release from human mast cells (HMC-1(5C6) and LAD2 cells) that were activated by antigen-antibody reaction. To determine the inhibitory mechanism of mediator released by low-dose ionizing radiation, we examined the phosphorylation of intracellular signaling molecules such as Lyn, Syk, phospholipase Cγ, and protein kinase C, as well as the intracellular free Ca2+ concentration ([Ca2+]i). The phosphorylation of signaling molecules and [Ca2+]i following stimulation of FcεRI receptors was inhibited by low dose ionizing radiation. In agreement with its in vitro effect, ionizing radiation also significantly inhibited inflammatory cells infiltration, cytokine mRNA expression (TNF-α, IL-4, IL-13), and symptoms of passive cutaneous anaphylaxis reaction and the late-phase cutaneous response in anti-dinitrophenyl IgE-sensitized mice. These results indicate that ionizing radiation inhibits both mast cell-mediated immediate- and delayed-type allergic reactions in vivo and in vitro."
+      }
+    ],
+    "links": [
+      [
+        {
+          "url": "NM_021283.2",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refseq"
+            }
+          ]
+        },
+        {
+          "url": "NM_001278601.1",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refseq"
+            }
+          ]
+        },
+        {
+          "url": "NM_008355.3",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refseq"
+            }
+          ]
+        },
+        {
+          "url": "NM_001289726.1",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refseq"
+            }
+          ]
+        }
+      ]
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "PloS one"
+          },
+          {
+            "name": "Volume",
+            "value": "10(8)"
+          },
+          {
+            "name": "Pages",
+            "value": "e0136394"
+          },
+          {
+            "name": "Publication date",
+            "value": "2015"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1371/journal.pone.0136394",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC4552795",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "26317642",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Joo HM"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kang SJ"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Nam SY"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Yang KH"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kim CS"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Lee IK"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kim JY"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Low-dose Radiation Research Team, Radiation Health Institute, Korea Hydro & Nuclear Power Co., Ltd., Seoul, Korea."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

@@ -1,0 +1,313 @@
+{
+  "accno": "S-EPMC5754078",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "The effect of well-characterized, very low-dose x-ray radiation on fibroblasts."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2018-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "The effect of well-characterized, very low-dose x-ray radiation on fibroblasts."
+      },
+      {
+        "name": "Abstract",
+        "value": "The purpose of this study is to determine the effects of low-dose radiation on fibroblast cells irradiated by spectrally and dosimetrically well-characterized soft x-rays. To achieve this, a new cell culture x-ray irradiation system was designed. This system generates characteristic fluorescent x-rays to irradiate the cell culture with x-rays of well-defined energies and doses. 3T3 fibroblast cells were cultured in cups with Mylar® surfaces and were irradiated for one hour with characteristic iron (Fe) K x-ray radiation at a dose rate of approximately 550 μGy/hr. Cell proliferation, total protein analysis, flow cytometry, and cell staining were performed on fibroblast cells to determine the various effects caused by the radiation. Irradiated cells demonstrated increased proliferation and protein production compared to control samples. Flow cytometry revealed that a higher percentage of irradiated cells were in the G0/G1 phase of the cell cycle compared to control counterparts, which is consistent with other low-dose studies. Cell staining results suggest that irradiated cells maintained normal cell functions after radiation exposure, as there were no qualitative differences between the images of the control and irradiated samples. The result of this study suggest that low-dose soft x-ray radiation might cause an initial pause, followed by a significant increase, in proliferation. An initial \"pause\" in cell proliferation could be a protective mechanism of the cells to minimize DNA damage caused by radiation exposure. The new cell irradiation system developed here allows for unprecedented control over the properties of the x-rays given to the cell cultures. This will allow for further studies on various cell types with known spectral distribution and carefully measured doses of radiation, which may help to elucidate the mechanisms behind varied cell responses to low-dose x-rays reported in the literature."
+      }
+    ],
+    "files": [
+      {
+        "path": "pone.0190330.s001.rar",
+        "size": 80406,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Clemson University"
+          },
+          {
+            "name": "grant_id",
+            "value": "Creative Inquiry 318"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Division of Chemical, Bioengineering, Environmental, and Transport Systems"
+          },
+          {
+            "name": "grant_id",
+            "value": "1254609"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Clemson University"
+          },
+          {
+            "name": "grant_id",
+            "value": "Creative Inquiry 789"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "PloS one"
+          },
+          {
+            "name": "Volume",
+            "value": "13(1)"
+          },
+          {
+            "name": "Pages",
+            "value": "e0190330"
+          },
+          {
+            "name": "Publication date",
+            "value": "2018"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1371/journal.pone.0190330",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC5754078",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "29300773",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Truong K"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Bradley S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Baginski B"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Wilson JR"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Medlin D"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Zheng L"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Wilson RK"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Rusin M"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a9",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Takacs E"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-2427-5362"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a10",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Dean D"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-8631-2640"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Bioengineering, Clemson University, Clemson, South Carolina, United States of America."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Physics and Astronomy, Clemson University, Clemson, South Carolina, United States of America."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

@@ -1,0 +1,214 @@
+{
+  "accno": "S-EPMC9327761",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Radiation in orthopaedics (RIO) study: a national survey of UK orthopaedic surgeons."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2021-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Radiation in orthopaedics (RIO) study: a national survey of UK orthopaedic surgeons."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Objectives</h4>Orthopaedic surgeons have a responsibility to minimise risks of ionising radiation to patients, themselves and staff. This study aims to establish the understanding of radiation practice, legislation and risk by orthopaedic surgeons.<h4>Methods</h4>A nationwide online survey of UK-based orthopaedic surgeons was conducted. Participants answered 18 multiple-choice questions assessing level of radiation safety training, basic principles/knowledge of ionising radiation, relevant legislation and operating practice.<h4>Results</h4>A total of 406 surgeons completed the survey. 92% reported using intraoperative ionising radiation at least once per week. 38% received no formal training on radiation safety. Knowledge of basic principles of radiation and legislation was limited. There was variable knowledge when labelling an image intensifier machine and choosing its safest orientation. Poor uptake of radiation protection equipment was noted. Only 19% agreed they had adequate training in ionising radiation safety and 27% reported receiving adequate training in equipment emitting ionising radiation in the operating theatre.<h4>Conclusion</h4>Many orthopaedic surgeons in the UK do not believe they are adequately trained in radiation safety. There is a deficiency amongst practicing surgeons in basic knowledge, relevant legislation and practicalities of the use of ionising radiation in the operating room. This could potentially put patients and health-care professionals at additional risk. We recommend that a standardised national training programme on the basic principles and safety of ionising radiation is implemented for all practicing orthopaedic surgeons.<h4>Advances in knowledge</h4>This paper is the first UK national survey amongst orthopaedic surgeons and is one of the largest reported internationally."
+      }
+    ],
+    "files": [
+      {
+        "path": "bjr.20210736.suppl-01.docx",
+        "size": 161483,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "The British journal of radiology"
+          },
+          {
+            "name": "Volume",
+            "value": "94(1125)"
+          },
+          {
+            "name": "Pages",
+            "value": "20210736"
+          },
+          {
+            "name": "Publication date",
+            "value": "2021 Sep"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1259/bjr.20210736",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "10.1259/bjr.20210736",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC9327761",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "34235964",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Raza M"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Geleit R"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Houston J"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Williams R"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Trompeter A"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0001-7887-497X"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiology, St George's University Hospitals NHS Foundation Trust, London, UK."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Trauma & Orthopaedics, Kingston Hospital NHS Foundation Trust, London, UK."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Trauma & Orthopaedics, St George's University Hospitals NHS Foundation Trust, London, UK."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

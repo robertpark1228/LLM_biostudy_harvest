@@ -1,0 +1,121 @@
+{
+  "accno": "S-EPMC5517661",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Dispersive 2D Cherenkov radiation on a dielectric nano-film."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2017-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Dispersive 2D Cherenkov radiation on a dielectric nano-film."
+      },
+      {
+        "name": "Abstract",
+        "value": "We report a modified two-dimensional Cherenkov radiation, which occurs on a high-index dielectric nano-film driven by uniformly moving electron-beam. It is essentially different from the ordinary Cherenkov radiation in that, in the nondispersive medium, it shows unique dispersion characteristics-the waves with higher frequencies radiate at larger Cherenkov angles. Its radiation frequency and direction are essentially determined by structure parameters as well as the beam-velocity. By means of fully electromagnetic simulations and theoretical analyses, we explored the mechanism and requirements of this radiation. This new Cherenkov radiation may lead to promising applications in a broad range of fields."
+      }
+    ],
+    "files": [
+      {
+        "path": "41598_2017_6176_MOESM1_ESM.pdf",
+        "size": 871988,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Scientific reports"
+          },
+          {
+            "name": "Volume",
+            "value": "7(1)"
+          },
+          {
+            "name": "Pages",
+            "value": "5787"
+          },
+          {
+            "name": "Publication date",
+            "value": "2017 Jul"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1038/s41598-017-06176-1",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC5517661",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "28724940",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Liu W"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "National Synchrotron Radiation Laboratory, University of Science and Technology of China, Hefei, Anhui, 230029, China. liuwhao@ustc.edu.cn."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

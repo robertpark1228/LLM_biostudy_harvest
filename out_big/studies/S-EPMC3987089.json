@@ -1,0 +1,239 @@
+{
+  "accno": "S-EPMC3987089",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Treatment-related complications of radiation therapy after radical prostatectomy: comparative effectiveness of intensity-modulated versus conformal radiation therapy."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2014-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Treatment-related complications of radiation therapy after radical prostatectomy: comparative effectiveness of intensity-modulated versus conformal radiation therapy."
+      },
+      {
+        "name": "Abstract",
+        "value": "Intensity-modulated radiation therapy (IMRT) is frequently utilized after prostatectomy without strong evidence for an improvement in outcomes compared to conformal radiation therapy (RT). We analyzed a large group of patients treated with RT after radical prostatectomy (RP) to compare complications after IMRT and CRT. The Surveillance, Epidemiology and End Results (SEER)-Medicare database was queried to identify male Medicare beneficiaries aged 66 years or older who underwent prostatectomy with 1+ adverse pathologic features and received postprostatectomy RT between 1995 and 2007. Chi-square test was used to compare baseline characteristics between the treatment groups. First complication events, based upon administrative procedure or diagnosis codes occurring >1 year after start of RT, were compared for IMRT versus CRT groups. Propensity score adjustment was performed to adjust for potential confounders. Multivariable Cox proportional hazards models of time to first complication were performed. A total of 1686 patients were identified who received RT after RP (IMRT = 634, CRT = 1052). Patients treated with IMRT were more likely to be diagnosed after 2004 (P < 0.001), have minimally invasive prostatectomy (P < 0.001) and have positive margins (P = 0.019). IMRT use increased over time. After propensity score adjustment, IMRT was associated with lower rate of gastrointestinal (GI) complications, and higher rate of genitourinary-incontinence complications, compared to CRT. The observed outcomes after IMRT must be considered when determining the optimal approach for postprostatectomy RT and warrant additional study."
+      }
+    ],
+    "files": [
+      {
+        "path": "cam40003-0397-sd1.docx",
+        "size": 82108,
+        "type": "file"
+      },
+      {
+        "path": "cam40003-0397-sd2.docx",
+        "size": 21258,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Cancer medicine"
+          },
+          {
+            "name": "Volume",
+            "value": "3(2)"
+          },
+          {
+            "name": "Pages",
+            "value": "397-405"
+          },
+          {
+            "name": "Publication date",
+            "value": "2014 Apr"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1002/cam4.205",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC3987089",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "24519910",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Crandley EF"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Hegarty SE"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Hyslop T"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Wilson DD"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Dicker AP"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0003-0733-3337"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Showalter TN"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0003-1373-8496"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Thomas Jefferson University Philadelphia, Pennsylvania"
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, University of Virginia Charlottesville, Virginia"
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, University of Virginia, Charlottesville, Virginia."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Division of Biostatistics, Thomas Jefferson University Philadelphia, Pennsylvania"
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

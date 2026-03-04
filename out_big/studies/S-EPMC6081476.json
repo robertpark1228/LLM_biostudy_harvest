@@ -1,0 +1,247 @@
+{
+  "accno": "S-EPMC6081476",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Ultra-narrow-band near-infrared thermal exciton radiation in intrinsic one-dimensional semiconductors."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2018-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Ultra-narrow-band near-infrared thermal exciton radiation in intrinsic one-dimensional semiconductors."
+      },
+      {
+        "name": "Abstract",
+        "value": "Thermal radiation is the most primitive light emission phenomenon of materials. Broadband radiation from red-hot materials is well known as the kick-starter phenomenon of modern quantum physics in the early twentieth century; even nowadays, its artificial control plays a central role in modern science and technology. Herein, we report the fundamental thermal radiation properties of intrinsic one-dimensional semiconductors and metals, which have not been elucidated because of significant technical challenges. We observed narrow-band near-infrared radiation from semiconducting single-walled carbon nanotubes at 1000-2000 K in contrast to its broadband metallic counterpart. We confirm that the ultra-narrow-band radiation is enabled by the thermal generation of excitons that are hydrogen-like neutral exotic atoms comprising mutually bound electrons and holes. Our findings uncover the robust quantum correlations in intrinsic one-dimensional semiconductors even at 2000 K; additionally, the findings provide an opportunity for excitonic optothermal engineering toward the realization of efficient thermophotovoltaic energy harvesting."
+      }
+    ],
+    "files": [
+      {
+        "path": "41467_2018_5598_MOESM1_ESM.pdf",
+        "size": 529564,
+        "type": "file"
+      },
+      {
+        "path": "41467_2018_5598_MOESM2_ESM.pdf",
+        "size": 501527,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Japan Society for the Promotion of Science (JSPS)"
+          },
+          {
+            "name": "grant_id",
+            "value": "JP24681031"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Japan Science and Technology Agency"
+          },
+          {
+            "name": "grant_id",
+            "value": "JPMJER1302"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Japan Science and Technology Agency (JST)"
+          },
+          {
+            "name": "grant_id",
+            "value": "JPMJER1302"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Japan Society for the Promotion of Science"
+          },
+          {
+            "name": "grant_id",
+            "value": "JP24681031"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Nature communications"
+          },
+          {
+            "name": "Volume",
+            "value": "9(1)"
+          },
+          {
+            "name": "Pages",
+            "value": "3144"
+          },
+          {
+            "name": "Publication date",
+            "value": "2018 Aug"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1038/s41467-018-05598-3",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC6081476",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "30087347",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Nishihara T"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0001-6973-2005"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Takakura A"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Miyauchi Y"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Itami K"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "JST-ERATO, Itami Molecular Nanocarbon Project, Nagoya University, Chikusa, Nagoya, 464-8602, Japan."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "JST-ERATO, Itami Molecular Nanocarbon Project, Nagoya University, Chikusa, Nagoya, 464-8602, Japan. itami@chem.nagoya-u.ac.jp."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "JST-ERATO, Itami Molecular Nanocarbon Project, Nagoya University, Chikusa, Nagoya, 464-8602, Japan. miyauchi@iae.kyoto-u.ac.jp."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

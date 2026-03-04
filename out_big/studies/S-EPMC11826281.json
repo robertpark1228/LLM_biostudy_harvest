@@ -1,0 +1,216 @@
+{
+  "accno": "S-EPMC11826281",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "A novel optimization of cone beam CT frequency for lung radiation therapy based on an image-guided radiation therapy protocol and patient classification method."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2025-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "A novel optimization of cone beam CT frequency for lung radiation therapy based on an image-guided radiation therapy protocol and patient classification method."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Background</h4>Cone beam computed tomography (CBCT) is a standard imaging modality in the management of lung cancer with radiation therapy. The optimal frequency of CBCT imaging during a course of radiotherapy is not currently strongly defined for many anatomical sites, including lung, and in clinical practice typically ranges from daily to weekly. There is a trade-off between clinical benefit derived from optimal soft tissue targeting with daily CBCT and the increased non-therapeutic dose that such imaging regimen entails. The aim of this study is to address this matter by proposing a new image-guided radiation therapy (IGRT) protocol and a patient classification method to achieve an optimal CBCT frequency for conventionally fractionated lung cancer radiation therapy.<h4>Methods</h4>This Institutional Review Board (IRB)-approved study analyzes 110 lung cancer patients, with a total of 1616 CBCTs during treatment. The in-house IGRT protocol involves daily CBCT for the first three fractions followed by weekly CBCT for soft tissue alignment, along with daily kV-orthogonal for bony anatomy alignment. The eligibility of patient of using this IGRT protocol is determined by a criterion based on numbers of CBCT position matches (equal to 3 fractions match in the first three CBCTs, or great than or equal to 3 fractions match in the first four CBCTs). The fraction matching threshold values 40-70% of protocol-eligible group (eGroup) were applied, as well as the setup threshold (ST) values of 3, 4, and 5 mm were applied, respectively. Sensitivities, specificities and accuracies were computed to quantitate our proposed classification method.<h4>Results</h4>With ST at 3, 4, and 5 mm, with the best fraction matching threshold of 50% found in current dataset, the eGroup included 83.5%, 96.2%, and 98.7% of patients, respectively. More patients are eligible to IGRT protocol if a larger pre-defined ST is used. Sensitivities for identifying a protocol-ineligible group (iGroup) patient were 0.69, 1.0, and 1.0, specificities for identifying an eGroup patient were 0.85, 0.93, and 0.96, while accuracies were 0.82, 0.94 and 0.96, respectively.<h4>Conclusions</h4>We have proposed a new patient classification approach in the context of an IGRT protocol with optimized CBCT frequency for conventionally fractionated lung cancer radiation therapy. The first three CBCT helps predict patient eligibility of this IGRT protocol. We have evaluated different threshold criteria and found high sensitivity, specificities and accuracies are achievable. This study supports that weekly CBCT is sufficient for the most of the lung patients. The same method, proposed adaptive classification approach in this study, might also be applied for other anatomic sites."
+      }
+    ],
+    "files": [
+      {
+        "path": "tlcr-14-01-81-coif.pdf",
+        "size": 555894,
+        "type": "file"
+      },
+      {
+        "path": "tlcr-14-01-81-rc.pdf",
+        "size": 118575,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Translational lung cancer research"
+          },
+          {
+            "name": "Volume",
+            "value": "14(1)"
+          },
+          {
+            "name": "Pages",
+            "value": "81-95"
+          },
+          {
+            "name": "Publication date",
+            "value": "2025 Jan"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.21037/tlcr-24-606",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC11826281",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "39958224",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Zhou J"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Gopal A"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Zhang B"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Xu H"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Chen S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Yi B"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Lasio G"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, University of Maryland School of Medicine, Baltimore, MD, USA."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

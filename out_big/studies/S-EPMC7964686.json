@@ -1,0 +1,245 @@
+{
+  "accno": "S-EPMC7964686",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Radiation Necrosis in Pediatric Patients with Brain Tumors Treated with Proton Radiotherapy."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2015-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Radiation Necrosis in Pediatric Patients with Brain Tumors Treated with Proton Radiotherapy."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Background and purpose</h4>Proton radiotherapy has been increasingly utilized to treat pediatric brain tumors, however, limited information exists regarding radiation necrosis among these patients. Our aim was to evaluate the incidence, timing, clinical significance, risk factors, and imaging patterns of radiation necrosis in pediatric patients with brain tumors treated with proton radiation therapy.<h4>Materials and methods</h4>A retrospective study was performed on 60 consecutive pediatric patients with primary brain tumors treated with proton radiation therapy. Radiation necrosis was assessed by examining serial MRIs and clinical records to determine the incidence, timing, risk factors, imaging patterns, and clinical significance associated with the development of radiation necrosis in these patients. Radiation necrosis was defined as areas of new enhancement within an anatomic region with previous exposure to proton beam therapy with subsequent decrease on follow-up imaging without changes in chemotherapy.<h4>Results</h4>Thirty-one percent of patients developed radiation necrosis with a median time to development of 5.0 months (range, 3-11 months). Risk factors included multiple chemotherapy agents (>3 cytotoxic agents) and atypical teratoid rhabdoid tumor pathology (P = .03 and P = .03, respectively). The most common imaging patterns were small (median, 0.9 cm) and multifocal (63% of patients) areas of parenchymal enhancement remote from the surgical site. The median time to complete resolution on imaging was 5.3 months (range, 3-12 months). Among patients with imaging findings of radiation necrosis, 25% demonstrated severe symptoms with medical intervention indicated.<h4>Conclusions</h4>Pediatric patients with brain tumors treated with proton radiation therapy demonstrate a high incidence of radiation necrosis and a short time to development of necrosis. Multiple small areas of necrosis are frequently identified on imaging. Exposure to multiple chemotherapy agents was a significant risk factor associated with radiation necrosis in these patients."
+      }
+    ],
+    "files": [
+      {
+        "path": "14-01298.pdf",
+        "size": 23413,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "AJNR. American journal of neuroradiology"
+          },
+          {
+            "name": "Volume",
+            "value": "36(8)"
+          },
+          {
+            "name": "Pages",
+            "value": "1572-8"
+          },
+          {
+            "name": "Publication date",
+            "value": "2015 Aug"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.3174/ajnr.A4333",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "10.3174/ajnr.a4333",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC7964686",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "26138138",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kralik SF"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Ho CY"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Finke W"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Buchsbaum JC"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Haskins CP"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Shih CS"
+          },
+          {
+            "name": "affiliation",
+            "value": "o5",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "From the Departments of Radiology and Imaging Sciences (S.F.K., C.Y.H., W.F.) steve.kralik@gmail.com."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "From the Departments of Radiology and Imaging Sciences (S.F.K., C.Y.H., W.F.)."
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Indiana University School of Medicine (C.P.H.), Indianapolis, Indiana."
+          }
+        ]
+      },
+      {
+        "accno": "o5",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Pediatrics, Hematology/Oncology Section (C.-S.S.)."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Radiation Oncology (J.C.B.)."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

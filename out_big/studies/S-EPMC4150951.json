@@ -1,0 +1,253 @@
+{
+  "accno": "S-EPMC4150951",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "mRNA-based vaccines synergize with radiation therapy to eradicate established tumors."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2014-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "mRNA-based vaccines synergize with radiation therapy to eradicate established tumors."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Background</h4>The eradication of large, established tumors by active immunotherapy is a major challenge because of the numerous cancer evasion mechanisms that exist. This study aimed to establish a novel combination therapy consisting of messenger RNA (mRNA)-based cancer vaccines and radiation, which would facilitate the effective treatment of established tumors with aggressive growth kinetics.<h4>Methods</h4>The combination of a tumor-specific mRNA-based vaccination with radiation was tested in two syngeneic tumor models, a highly immunogenic E.G7-OVA and a low immunogenic Lewis lung cancer (LLC). The molecular mechanism induced by the combination therapy was evaluated via gene expression arrays as well as flow cytometry analyses of tumor infiltrating cells.<h4>Results</h4>In both tumor models we demonstrated that a combination of mRNA-based immunotherapy with radiation results in a strong synergistic anti-tumor effect. This was manifested as either complete tumor eradication or delay in tumor growth. Gene expression analysis of mouse tumors revealed a variety of substantial changes at the tumor site following radiation. Genes associated with antigen presentation, infiltration of immune cells, adhesion, and activation of the innate immune system were upregulated. A combination of radiation and immunotherapy induced significant downregulation of tumor associated factors and upregulation of tumor suppressors. Moreover, combination therapy significantly increased CD4+, CD8+ and NKT cell infiltration of mouse tumors.<h4>Conclusion</h4>Our data provide a scientific rationale for combining immunotherapy with radiation and provide a basis for the development of more potent anti-cancer therapies."
+      }
+    ],
+    "files": [
+      {
+        "path": "13014_2014_1150_MOESM1_ESM.pdf",
+        "size": 368470,
+        "type": "file"
+      }
+    ],
+    "links": [
+      [
+        {
+          "url": "NCT00450619",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT00085241",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        }
+      ]
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Radiation oncology (London, England)"
+          },
+          {
+            "name": "Volume",
+            "value": "9"
+          },
+          {
+            "name": "Pages",
+            "value": "180"
+          },
+          {
+            "name": "Publication date",
+            "value": "2014 Aug"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1186/1748-717X-9-180",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC4150951",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "25127546",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Fotin-Mleczek M"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Zanzinger K"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Heidenreich R"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Lorenz C"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kowalczyk A"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kallen KJ"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Huber SM"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "CureVac GmbH, CureVac GmbH, Paul-Ehrlich-Str, 15, Tübingen 72076, Germany. mf@curevac.com."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "CureVac GmbH, CureVac GmbH, Paul-Ehrlich-Str. 15, Tübingen, Germany"
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, University of Tübingen, Tübingen, Germany"
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

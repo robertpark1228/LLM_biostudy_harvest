@@ -1,0 +1,268 @@
+{
+  "accno": "S-EPMC4667362",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Combinations of radiation therapy and immunotherapy for melanoma: a review of clinical outcomes."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2014-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Combinations of radiation therapy and immunotherapy for melanoma: a review of clinical outcomes."
+      },
+      {
+        "name": "Abstract",
+        "value": "Radiation therapy has long played a role in the management of melanoma. Recent advances have also demonstrated the efficacy of immunotherapy in the treatment of melanoma. Preclinical data suggest a biologic interaction between radiation therapy and immunotherapy. Several clinical studies corroborate these findings. This review will summarize the outcomes of studies reporting on patients with melanoma treated with a combination of radiation therapy and immunotherapy. Vaccine therapies often use irradiated melanoma cells, and may be enhanced by radiation therapy. The cytokines interferon-α and interleukin-2 have been combined with radiation therapy in several small studies, with some evidence suggesting increased toxicity and/or efficacy. Ipilimumab, a monoclonal antibody which blocks cytotoxic T-lymphocyte antigen-4, has been combined with radiation therapy in several notable case studies and series. Finally, pilot studies of adoptive cell transfer have suggested that radiation therapy may improve the efficacy of treatment. The review will demonstrate that the combination of radiation therapy and immunotherapy has been reported in several notable case studies, series and clinical trials. These clinical results suggest interaction and the need for further study."
+      }
+    ],
+    "links": [
+      [
+        {
+          "url": "NCT01497808",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT01416831",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT01319565",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT00278018",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT01449279",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT01689974",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT01557114",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT01730157",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT01769222",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT01703507",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT01565837",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        }
+      ]
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "P30 CA008748"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "International journal of radiation oncology, biology, physics"
+          },
+          {
+            "name": "Volume",
+            "value": "88(5)"
+          },
+          {
+            "name": "Pages",
+            "value": "986-97"
+          },
+          {
+            "name": "Publication date",
+            "value": "2014 Apr"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1016/j.ijrobp.2013.08.035",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "10.1016/j.ijrobp.2013.08.035",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC4667362",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "24661650",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Barker CA"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0003-1882-1088"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Postow MA"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Medicine, Melanoma and Sarcoma Oncology Service, Memorial Sloan-Kettering Cancer Center, New York, New York."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Memorial Sloan-Kettering Cancer Center, New York, New York. Electronic address: barkerc@mskcc.org."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

@@ -1,0 +1,125 @@
+{
+  "accno": "S-EPMC6288658",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Lessons from radiation epidemiology."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2018-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Lessons from radiation epidemiology."
+      },
+      {
+        "name": "Abstract",
+        "value": "Radiation epidemiology has developed as a specialized field and has unique characteristics compared to the other fields of epidemiology. Radiation exposure assessment is highly quantified and health risk assessment can yield precise risks per unit dose in each organ. At the same time, radiation epidemiology also emphasizes the uncertainty of the estimated doses and risks. More radiation epidemiologists work in radiation societies rather than those of epidemiology. This specialization deepens the research of radiation studies but also results in fragmentation from general epidemiology. In addition to continued involvement with radiation-related sciences, therefore, more efforts to communicate with the other fields of epidemiology are necessary for radiation epidemiology."
+      }
+    ],
+    "files": [
+      {
+        "path": "epih-40-e2018057-supplementary.pdf",
+        "size": 249478,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Epidemiology and health"
+          },
+          {
+            "name": "Volume",
+            "value": "40"
+          },
+          {
+            "name": "Pages",
+            "value": "e2018057"
+          },
+          {
+            "name": "Publication date",
+            "value": "2018"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.4178/epih.e2018057",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC6288658",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "30428641",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Lee WJ"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-0254-7267"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Preventive Medicine, Korea University College of Medicine, Seoul, Korea."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

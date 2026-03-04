@@ -1,0 +1,400 @@
+{
+  "accno": "S-EPMC4981353",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Intricate Macrophage-Colorectal Cancer Cell Communication in Response to Radiation."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2016-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Intricate Macrophage-Colorectal Cancer Cell Communication in Response to Radiation."
+      },
+      {
+        "name": "Abstract",
+        "value": "Both cancer and tumour-associated host cells are exposed to ionizing radiation when a tumour is subjected to radiotherapy. Macrophages frequently constitute the most abundant tumour-associated immune population, playing a role in tumour progression and response to therapy. The present work aimed to evaluate the importance of macrophage-cancer cell communication in the cellular response to radiation. To address this question, we established monocultures and indirect co-cultures of human monocyte-derived macrophages with RKO or SW1463 colorectal cancer cells, which exhibit higher and lower radiation sensitivity, respectively. Mono- and co-cultures were then irradiated with 5 cumulative doses, in a similar fractionated scheme to that used during cancer patients' treatment (2 Gy/fraction/day). Our results demonstrated that macrophages sensitize RKO to radiation-induced apoptosis, while protecting SW1463 cells. Additionally, the co-culture with macrophages increased the mRNA expression of metabolism- and survival-related genes more in SW1463 than in RKO. The presence of macrophages also upregulated glucose transporter 1 expression in irradiated SW1463, but not in RKO cells. In addition, the influence of cancer cells on the expression of pro- and anti-inflammatory macrophage markers, upon radiation exposure, was also evaluated. In the presence of RKO or SW1463, irradiated macrophages exhibit higher levels of pro-inflammatory TNF, IL6, CCL2 and CCR7, and of anti-inflammatory CCL18. However, RKO cells induce an increase of macrophage pro-inflammatory IL1B, while SW1463 cells promote higher pro-inflammatory CXCL8 and CD80, and also anti-inflammatory VCAN and IL10 levels. Thus, our data demonstrated that macrophages and cancer cells mutually influence their response to radiation. Notably, conditioned medium from irradiated co-cultures increased non-irradiated RKO cell migration and invasion and did not impact on angiogenesis in a chicken embryo chorioallantoic membrane assay. Overall, the establishment of primary human macrophage-cancer cell co-cultures revealed an intricate cell communication in response to ionizing radiation, which should be considered when developing therapies adjuvant to radiotherapy."
+      }
+    ],
+    "files": [
+      {
+        "path": "pone.0160891.s001.tif",
+        "size": 434672,
+        "type": "file"
+      },
+      {
+        "path": "pone.0160891.s002.tif",
+        "size": 202240,
+        "type": "file"
+      },
+      {
+        "path": "pone.0160891.s003.tif",
+        "size": 156158,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Wellcome Trust"
+          },
+          {
+            "name": "grant_id",
+            "value": "097945/B/11/Z"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Cancer Research UK"
+          },
+          {
+            "name": "grant_id",
+            "value": "12918"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Wellcome Trust"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "PloS one"
+          },
+          {
+            "name": "Volume",
+            "value": "11(8)"
+          },
+          {
+            "name": "Pages",
+            "value": "e0160891"
+          },
+          {
+            "name": "Publication date",
+            "value": "2016"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1371/journal.pone.0160891",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC4981353",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "27513864",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Pinto AT"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Pinto ML"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Velho S"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-7104-8234"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Pinto MT"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Cardoso AP"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0003-1987-0316"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Figueira R"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Monteiro A"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Marques M"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a9",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Seruca R"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-8851-4166"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a10",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Barbosa MA"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0003-3568-7482"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a11",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Mareel M"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a12",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Oliveira MJ"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-0724-0272"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a13",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Rocha S"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-2413-4981"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Centre for Gene Regulation and Expression, College of Life Sciences, University of Dundee, Dundee, United Kingdom."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology and Experimental Cancer Research, Ghent University Hospital, Ghent, Belgium."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Radiotherapy Service, Centro Hospitalar S. João, EPE, Porto, Portugal."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "i3s-Instituto de Investigação e Inovação em Saúde, Universidade do Porto, Porto, Portugal."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

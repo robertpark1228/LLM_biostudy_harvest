@@ -1,0 +1,439 @@
+{
+  "accno": "S-EPMC5736492",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Identifying barriers to accrual in radiation oncology randomized trials."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2017-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Identifying barriers to accrual in radiation oncology randomized trials."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Background</h4>Data about factors driving accrual to radiation oncology trials are limited. In oncology, 30%-40% of trials are considered unsuccessful, many because of poor accrual. The goal of the present study was to inform the design of future trials by evaluating the effects of institutional, clinician, and patient factors on accrual rates to a randomized radiation oncology trial.<h4>Methods</h4>Investigators participating in sabr-comet (NCT01446744), a randomized phase ii trial open in Canada, Europe, and Australia that is evaluating the role of stereotactic ablative radiotherapy (sabr) in oligometastatic disease, were invited to complete a survey about factors affecting accrual. Institutional ethics approval was obtained. The primary endpoint was the annual accrual rate per institution. Univariable and multivariable linear regression analyses were used to identify factors predictive of annual accrual rates.<h4>Results</h4>On univariable linear regression analysis, off-trial availability of sabr (<i>p</i> = 0.014) and equipoise of the referring physician (<i>p</i> = 0.014) were found to be predictive of annual accrual rates. The annual accrual rates were lower when centres offered sabr for oligometastases off-trial (median: 3.7 patients vs. 8.4 patients enrolled) and when referring physicians felt that, compared with having equipoise, sabr was beneficial (median: 4.8 patients vs. 8.4 patients enrolled). Multivariable analysis identified perceived level of equipoise of the referring physician to be predictive of the annual accrual rate (<i>p</i> = 0.023).<h4>Conclusions</h4>The level of equipoise of referring physicians might play a key role in accrual to radiation oncology randomized controlled trials. Efforts to communicate with and educate referring physicians might therefore be beneficial for improving trial accrual rates."
+      }
+    ],
+    "links": [
+      [
+        {
+          "url": "NCT01446744",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        }
+      ]
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Current oncology (Toronto, Ont.)"
+          },
+          {
+            "name": "Volume",
+            "value": "24(6)"
+          },
+          {
+            "name": "Pages",
+            "value": "e524-e530"
+          },
+          {
+            "name": "Publication date",
+            "value": "2017 Dec"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.3747/co.24.3662",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "10.3747/co.24.3662",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC5736492",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "29270062",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Laba JM"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Senan S"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0003-3995-2204"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Schellenberg D"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Harrow S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Mulroy L"
+          },
+          {
+            "name": "affiliation",
+            "value": "o5",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Senthi S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o6",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Swaminath A"
+          },
+          {
+            "name": "affiliation",
+            "value": "o7",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kopek N"
+          },
+          {
+            "name": "affiliation",
+            "value": "o8",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a9",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Pantarotto JR"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-8000-9704"
+          },
+          {
+            "name": "affiliation",
+            "value": "o9",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a10",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Pan L"
+          },
+          {
+            "name": "affiliation",
+            "value": "o10",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a11",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Pearce A"
+          },
+          {
+            "name": "affiliation",
+            "value": "o11",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a12",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Warner A"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a13",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Louie AV"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a14",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Palma DA"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o6",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Alfred Health Radiation Oncology, The Alfred Hospital, Melbourne, Australia."
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Clinical Oncology, Beatson West of Scotland Cancer Centre, Glasgow, Scotland."
+          }
+        ]
+      },
+      {
+        "accno": "o8",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Oncology, McGill University, Montreal, QC."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, BC Cancer Agency, Surrey, BC."
+          }
+        ]
+      },
+      {
+        "accno": "o5",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Dalhousie University, Halifax, NS."
+          }
+        ]
+      },
+      {
+        "accno": "o7",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Juravinski Cancer Center, Hamilton, ON."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, London Health Sciences Centre, London, ON."
+          }
+        ]
+      },
+      {
+        "accno": "o11",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Northeast Cancer Centre, Sudbury, ON."
+          }
+        ]
+      },
+      {
+        "accno": "o10",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Prince Edward Island Cancer Treatment Centre, Charlottetown, PE."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, VU University Medical Centre, Amsterdam, Netherlands."
+          }
+        ]
+      },
+      {
+        "accno": "o9",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Division of Radiation Oncology, University of Ottawa, Ottawa, ON."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

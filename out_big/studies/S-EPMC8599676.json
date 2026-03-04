@@ -1,0 +1,244 @@
+{
+  "accno": "S-EPMC8599676",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Non-cancer disease prevalence and association with occupational radiation exposure among Korean radiation workers."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2021-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Non-cancer disease prevalence and association with occupational radiation exposure among Korean radiation workers."
+      },
+      {
+        "name": "Abstract",
+        "value": "Radiation-induced cancer risks have known stochastic effects; however, regarding non-cancer diseases, evidence of risk at low radiation doses remains unclear. We aimed to identify underlying characteristics concerning non-cancer disease prevalence and determine associations with radiation dose among Korean radiation workers. Using a nationwide baseline survey, 20,608 workers were enrolled. Data concerning participant demographics, occupational characteristics, lifestyle, and lifetime prevalence of non-cancer diseases were linked to a national dose registry. We compared non-cancer disease prevalences in the Korean general population with those in this cohort and undertook a dose-response analysis concerning the cumulative dose. Hyperlipidemia (10.6%), circulatory (9.6%), and respiratory (4.1%) system diseases, followed by thyroid diseases (3.5%), had the highest prevalences, with hyperlipidemia, thyroid diseases, and hepatitis prevalence being higher in the cohort than in the general population. Radiation doses were associated with elevated prevalences of most diseases; however, associations were attenuated and not significant after adjusting for confounders, except for musculoskeletal system diseases (prevalence odds ratio [POR]/10 mSv, 1.03; 95% confidence interval [CI] 1.00-1.07) and cataracts (POR/10 mSv, 1.04; 95% CI 1.00-1.07). Further studies are warranted to investigate the causality of those non-cancer diseases involving more varied confounders such as physical and psychosocial stresses and ultraviolet light."
+      }
+    ],
+    "files": [
+      {
+        "path": "41598_2021_1875_MOESM1_ESM.pdf",
+        "size": 793760,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Nuclear Safety and Security Commission"
+          },
+          {
+            "name": "grant_id",
+            "value": "50091-2021"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Scientific reports"
+          },
+          {
+            "name": "Volume",
+            "value": "11(1)"
+          },
+          {
+            "name": "Pages",
+            "value": "22415"
+          },
+          {
+            "name": "Publication date",
+            "value": "2021 Nov"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1038/s41598-021-01875-2",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC8599676",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "34789809",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Park S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Lee DN"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Jin YW"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Cha ES"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Jang WI"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Park S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Seo S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Preventive Medicine, Korea University College of Medicine, Seoul, South Korea."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "National Radiation Emergency Medical Center, Korea Institute of Radiological and Medical Sciences, 75 Nowon-ro, Nowon-gu, Seoul, 01812, South Korea."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "National Radiation Emergency Medical Center, Korea Institute of Radiological and Medical Sciences, 75 Nowon-ro, Nowon-gu, Seoul, 01812, South Korea. seo@kirams.re.kr."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

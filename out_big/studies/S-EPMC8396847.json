@@ -1,0 +1,195 @@
+{
+  "accno": "S-EPMC8396847",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Radiation Reduction and Protection for Radiosensitive Organs (Lens, Thyroid, and Genital Organs) of Patients Receiving Percutaneous Coronary Intervention-Real-World Measurement of Radiation Dose in a Single Center."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2021-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Radiation Reduction and Protection for Radiosensitive Organs (Lens, Thyroid, and Genital Organs) of Patients Receiving Percutaneous Coronary Intervention-Real-World Measurement of Radiation Dose in a Single Center."
+      },
+      {
+        "name": "Abstract",
+        "value": "Reducing radiation exposure is the basic principle for performing percutaneous coronary intervention (PCI). Many studies have confirmed the effect of radiation protection for medical staff, but studies about the effectiveness of protection for patients and real measurement of radiation dose in patients' specific organs are lacking. To measure the radiation doses absorbed by patients' radiosensitive organs during PCI and the effectiveness of radiation protection. A total of 120 patients were included and allocated into three groups as the ratio of 1:1:2. A total of 30 patients received PCI at 15 frames rate per second (fps), 30 patients at 7.5 fps, and 60 patients wore radiation protective hat and glasses during PCI at 7.5 fps. The radiation doses were measured at right eyebrow (lens), neck (thyroid), back (skin), and inguinal area (genital organs) by using thermoluminescent dosimeters (TLDs). Dose-area product (DAP) reduced by 58.8% (from 534,454 ± 344,660 to 220,352 ± 164,101 mGy·cm2, p < 0.001) after reducing the frame rate, without affecting successful rate of PCI. Radiation doses measured on skin, lens, genital organs, and thyroid decreased by 73.3%, 40.0%, 40.0%, and 35.3%, respectively (from 192.58 ± 349.45 to 51.10 ± 59.21; 5.29 ± 4.27 to 3.16 ± 2.73; 0.25 ± 0.15 to 0.15 ± 0.15; and 17.42 ± 12.11 to 11.27 ± 8.52 μSv, p < 0.05). By providing radiation protective equipment, radiation doses at lens and thyroid decreased further by 71.8% and 65.9% (from 3.16 ± 2.73 to 0.89 ± 0.79; 11.27 ± 8.52 to 3.84 ± 3.49 μSv, p < 0.05). By lowering the frame rate and providing protective equipment, radiation exposure in radiosensitive organs can be effectively reduced in patients."
+      }
+    ],
+    "files": [
+      {
+        "path": "jcdd-08-00099-s001.zip",
+        "size": 2876171,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Journal of cardiovascular development and disease"
+          },
+          {
+            "name": "Volume",
+            "value": "8(8)"
+          },
+          {
+            "name": "Pages",
+            "value": "99"
+          },
+          {
+            "name": "Publication date",
+            "value": "2021 Aug"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.3390/jcdd8080099",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC8396847",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "34436241",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Wang WH"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Wei KC"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-1338-0140"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Huang WC"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Yen YY"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Mar GY"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Cardiovascular Center, Kaohsiung Veterans General Hospital, Kaohsiung 813, Taiwan."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Division of Dermatology, Kaohsiung Veterans General Hospital, Kaohsiung 813, Taiwan."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

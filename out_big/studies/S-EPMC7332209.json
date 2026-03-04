@@ -1,0 +1,428 @@
+{
+  "accno": "S-EPMC7332209",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Image guidance in radiation therapy for better cure of cancer."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2020-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Image guidance in radiation therapy for better cure of cancer."
+      },
+      {
+        "name": "Abstract",
+        "value": "The key goal and main challenge of radiation therapy is the elimination of tumors without any concurring damages of the surrounding healthy tissues and organs. Radiation doses required to achieve sufficient cancer-cell kill exceed in most clinical situations the dose that can be tolerated by the healthy tissues, especially when large parts of the affected organ are irradiated. High-precision radiation oncology aims at optimizing tumor coverage, while sparing normal tissues. Medical imaging during the preparation phase, as well as in the treatment room for localization of the tumor and directing the beam, referred to as image-guided radiotherapy (IGRT), is the cornerstone of precision radiation oncology. Sophisticated high-resolution real-time IGRT using X-rays, computer tomography, magnetic resonance imaging, or ultrasound, enables delivery of high radiation doses to tumors without significant damage of healthy organs. IGRT is the most convincing success story of radiation oncology over the last decades, and it remains a major driving force of innovation, contributing to the development of personalized oncology, for example, through the use of real-time imaging biomarkers for individualized dose delivery."
+      }
+    ],
+    "links": [
+      [
+        {
+          "url": "NCT02960087",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT04100174",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        }
+      ]
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "The Danish Cancer Society"
+          },
+          {
+            "name": "grant_id",
+            "value": "R191-A11526"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "The Danish Cancer Society"
+          },
+          {
+            "name": "grant_id",
+            "value": "R108-A6854"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Molecular oncology"
+          },
+          {
+            "name": "Volume",
+            "value": "14(7)"
+          },
+          {
+            "name": "Pages",
+            "value": "1470-1491"
+          },
+          {
+            "name": "Publication date",
+            "value": "2020 Jul"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1002/1878-0261.12751",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC7332209",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "32536001",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Gregoire V"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Guckenberger M"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-7146-9071"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Haustermans K"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0003-0364-682X"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Lagendijk JJW"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Menard C"
+          },
+          {
+            "name": "affiliation",
+            "value": "o5",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Potter R"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-0703-572X"
+          },
+          {
+            "name": "affiliation",
+            "value": "o6",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Slotman BJ"
+          },
+          {
+            "name": "affiliation",
+            "value": "o7",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Tanderup K"
+          },
+          {
+            "name": "affiliation",
+            "value": "o8",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a9",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Thorwarth D"
+          },
+          {
+            "name": "affiliation",
+            "value": "o9",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a10",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "van Herk M"
+          },
+          {
+            "name": "affiliation",
+            "value": "o10",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a11",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Zips D"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0001-5779-9675"
+          },
+          {
+            "name": "affiliation",
+            "value": "o11",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o5",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Centre Hospitalier de l'Université de Montréal, Canada."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department for Radiation Oncology, University Hospital Zurich, University of Zurich, Switzerland."
+          }
+        ]
+      },
+      {
+        "accno": "o10",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Biomedical Engineering and Physics, Cancer Center Amsterdam, Amsterdam UMC, University of Amsterdam, The Netherlands."
+          }
+        ]
+      },
+      {
+        "accno": "o8",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Oncology, Aarhus University Hospital, Denmark."
+          }
+        ]
+      },
+      {
+        "accno": "o7",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Amsterdam University Medical Centers, The Netherlands."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Leuven Cancer Institute, University Hospital Gasthuisberg, Leuven, Belgium."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Léon Bérard Cancer Center, Lyon, France."
+          }
+        ]
+      },
+      {
+        "accno": "o6",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Medical University, General Hospital of Vienna, Austria."
+          }
+        ]
+      },
+      {
+        "accno": "o11",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, University of Tübingen, Germany."
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiotherapy, University Medical Center Utrecht, The Netherlands."
+          }
+        ]
+      },
+      {
+        "accno": "o9",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Section for Biomedical Physics, Department of Radiation Oncology, University of Tübingen, Germany."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

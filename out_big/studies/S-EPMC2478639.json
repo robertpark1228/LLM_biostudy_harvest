@@ -1,0 +1,841 @@
+{
+  "accno": "S-EPMC2478639",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Development of gene expression signatures for practical radiation biodosimetry."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2008-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Development of gene expression signatures for practical radiation biodosimetry."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Purpose</h4>In a large-scale radiologic emergency, estimates of exposure doses and radiation injury would be required for individuals without physical dosimeters. Current methods are inadequate for the task, so we are developing gene expression profiles for radiation biodosimetry. This approach could provide both an estimate of physical radiation dose and an indication of the extent of individual injury or future risk.<h4>Methods and materials</h4>We used whole genome microarray expression profiling as a discovery platform to identify genes with the potential to predict radiation dose across an exposure range relevant for medical decision making in a radiologic emergency. Human peripheral blood from 10 healthy donors was irradiated ex vivo, and global gene expression was measured both 6 and 24 h after exposure.<h4>Results</h4>A 74-gene signature was identified that distinguishes between four radiation doses (0.5, 2, 5, and 8 Gy) and controls. More than one third of these genes are regulated by TP53. A nearest centroid classifier using these same 74 genes correctly predicted 98% of samples taken either 6 h or 24 h after treatment as unexposed, exposed to 0.5, 2, or > or =5 Gy. Expression patterns of five genes (CDKN1A, FDXR, SESN1, BBC3, and PHPT1) from this signature were also confirmed by real-time polymerase chain reaction.<h4>Conclusion</h4>The ability of a single gene set to predict radiation dose throughout a window of time without need for individual pre-exposure controls represents an important advance in the development of gene expression for biodosimetry."
+      }
+    ],
+    "files": [
+      {
+        "path": "NIHMS56581-supplement-01.doc",
+        "size": 27648,
+        "type": "file"
+      },
+      {
+        "path": "NIHMS56581-supplement-02.tif",
+        "size": 640476,
+        "type": "file"
+      },
+      {
+        "path": "NIHMS56581-supplement-03.xls",
+        "size": 245248,
+        "type": "file"
+      },
+      {
+        "path": "NIHMS56581-supplement-04.xls",
+        "size": 108032,
+        "type": "file"
+      },
+      {
+        "path": "NIHMS56581-supplement-05.xls",
+        "size": 170496,
+        "type": "file"
+      }
+    ],
+    "links": [
+      [
+        {
+          "url": "GSE8917",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "geo"
+            }
+          ]
+        },
+        {
+          "url": "AK056245",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "ENA"
+            }
+          ]
+        },
+        {
+          "url": "AF289562",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "ENA"
+            }
+          ]
+        },
+        {
+          "url": "BE646426",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "ENA"
+            }
+          ]
+        },
+        {
+          "url": "AK074467",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "ENA"
+            }
+          ]
+        },
+        {
+          "url": "AK025631",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "ENA"
+            }
+          ]
+        },
+        {
+          "url": "COL01184",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "ENA"
+            }
+          ]
+        },
+        {
+          "url": "BC006795",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "ENA"
+            }
+          ]
+        },
+        {
+          "url": "BC079831",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "ENA"
+            }
+          ]
+        },
+        {
+          "url": "AK024898",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "ENA"
+            }
+          ]
+        },
+        {
+          "url": "NM_014454",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refseq"
+            }
+          ]
+        },
+        {
+          "url": "NM_018370",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refseq"
+            }
+          ]
+        },
+        {
+          "url": "NM_014172",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refseq"
+            }
+          ]
+        },
+        {
+          "url": "NM_006074",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refseq"
+            }
+          ]
+        },
+        {
+          "url": "NM_003983",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refseq"
+            }
+          ]
+        },
+        {
+          "url": "NM_000374",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refseq"
+            }
+          ]
+        },
+        {
+          "url": "NM_019555",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refseq"
+            }
+          ]
+        },
+        {
+          "url": "NM_003842",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refseq"
+            }
+          ]
+        },
+        {
+          "url": "NM_005825",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refseq"
+            }
+          ]
+        },
+        {
+          "url": "NM_022767",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refseq"
+            }
+          ]
+        },
+        {
+          "url": "NM_003326",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refseq"
+            }
+          ]
+        },
+        {
+          "url": "NM_006879",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refseq"
+            }
+          ]
+        },
+        {
+          "url": "NM_014417",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refseq"
+            }
+          ]
+        },
+        {
+          "url": "NM_138764",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refseq"
+            }
+          ]
+        },
+        {
+          "url": "NM_001153",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refseq"
+            }
+          ]
+        },
+        {
+          "url": "NM_004060",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refseq"
+            }
+          ]
+        },
+        {
+          "url": "NM_052847",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refseq"
+            }
+          ]
+        },
+        {
+          "url": "NM_006828",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refseq"
+            }
+          ]
+        },
+        {
+          "url": "NM_016551",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refseq"
+            }
+          ]
+        },
+        {
+          "url": "NM_016399",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refseq"
+            }
+          ]
+        },
+        {
+          "url": "NM_181078",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refseq"
+            }
+          ]
+        },
+        {
+          "url": "NM_138765",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refseq"
+            }
+          ]
+        },
+        {
+          "url": "NM_006622",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refseq"
+            }
+          ]
+        },
+        {
+          "url": "NM_002467",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refseq"
+            }
+          ]
+        },
+        {
+          "url": "NM_014010",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refseq"
+            }
+          ]
+        },
+        {
+          "url": "NM_002348",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refseq"
+            }
+          ]
+        },
+        {
+          "url": "NM_022338",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refseq"
+            }
+          ]
+        },
+        {
+          "url": "NM_001613",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refseq"
+            }
+          ]
+        },
+        {
+          "url": "NM_032255",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refseq"
+            }
+          ]
+        },
+        {
+          "url": "NM_002592",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refseq"
+            }
+          ]
+        },
+        {
+          "url": "NM_003200",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refseq"
+            }
+          ]
+        },
+        {
+          "url": "NM_016545",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refseq"
+            }
+          ]
+        },
+        {
+          "url": "NM_015655",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refseq"
+            }
+          ]
+        },
+        {
+          "url": "NM_023039",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refseq"
+            }
+          ]
+        },
+        {
+          "url": "NM_152640",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refseq"
+            }
+          ]
+        },
+        {
+          "url": "NM_001924",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refseq"
+            }
+          ]
+        },
+        {
+          "url": "NM_000234",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refseq"
+            }
+          ]
+        },
+        {
+          "url": "NM_018247",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refseq"
+            }
+          ]
+        },
+        {
+          "url": "NM_003620",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refseq"
+            }
+          ]
+        },
+        {
+          "url": "NM_004879",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refseq"
+            }
+          ]
+        },
+        {
+          "url": "NM_001252",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refseq"
+            }
+          ]
+        },
+        {
+          "url": "NM_013267",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refseq"
+            }
+          ]
+        },
+        {
+          "url": "NM_022470",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refseq"
+            }
+          ]
+        },
+        {
+          "url": "NM_015920",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refseq"
+            }
+          ]
+        },
+        {
+          "url": "NM_004628",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refseq"
+            }
+          ]
+        },
+        {
+          "url": "NM_006806",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refseq"
+            }
+          ]
+        },
+        {
+          "url": "NM_000389",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refseq"
+            }
+          ]
+        },
+        {
+          "url": "NM_181773",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refseq"
+            }
+          ]
+        },
+        {
+          "url": "NM_014033",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refseq"
+            }
+          ]
+        },
+        {
+          "url": "NM_004864",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refseq"
+            }
+          ]
+        },
+        {
+          "url": "NM_206920",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refseq"
+            }
+          ]
+        },
+        {
+          "url": "NM_024417",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refseq"
+            }
+          ]
+        },
+        {
+          "url": "NM_012170",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refseq"
+            }
+          ]
+        },
+        {
+          "url": "NM_000107",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refseq"
+            }
+          ]
+        },
+        {
+          "url": "NM_004073",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refseq"
+            }
+          ]
+        },
+        {
+          "url": "NM_032034",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refseq"
+            }
+          ]
+        },
+        {
+          "url": "NM_152718",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refseq"
+            }
+          ]
+        },
+        {
+          "url": "NM_003463",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refseq"
+            }
+          ]
+        }
+      ]
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NIAID NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "U19 AI067773-039002"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "CA 49062"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NIAID NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "U19 AI067773"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "P01 CA049062"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "P01 CA049062-160005"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "International journal of radiation oncology, biology, physics"
+          },
+          {
+            "name": "Volume",
+            "value": "71(4)"
+          },
+          {
+            "name": "Pages",
+            "value": "1236-1244"
+          },
+          {
+            "name": "Publication date",
+            "value": "2008 Jul"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1016/j.ijrobp.2008.03.043",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "10.1016/j.ijrobp.2008.03.043",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC2478639",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "18572087",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Paul S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Amundson SA"
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Center for Radiological Research, Columbia University Medical Center, New York, NY 10032, USA."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

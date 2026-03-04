@@ -1,0 +1,188 @@
+{
+  "accno": "S-EPMC2651760",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "A beginner's guide to radiation damage."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2009-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "A beginner's guide to radiation damage."
+      },
+      {
+        "name": "Abstract",
+        "value": "Many advances in the understanding of radiation damage to protein crystals, particularly at cryogenic temperatures, have been made in recent years, but with this comes an expanding literature, and, to the new breed of protein crystallographer who is not really interested in X-ray physics or radiation chemistry but just wants to solve a biologically relevant structure, the technical nature and breadth of this literature can be daunting. The purpose of this paper is to serve as a rough guide to radiation damage issues, and to provide references to the more exacting and detailed work. No attempt has been made to report precise numbers (a factor of two is considered satisfactory), and, since there are aspects of radiation damage that are demonstrably unpredictable, the 'worst case scenario' as well as the 'average crystal' are discussed in terms of the practicalities of data collection."
+      }
+    ],
+    "links": [
+      [
+        {
+          "url": "2blx",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "pdb"
+            }
+          ]
+        },
+        {
+          "url": "2clu",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "pdb"
+            }
+          ]
+        }
+      ]
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NIGMS NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "P50 GM082250"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NIGMS NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "U54 GM074929"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NIGMS NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "GM074929"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NIGMS NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "GM082250"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Journal of synchrotron radiation"
+          },
+          {
+            "name": "Volume",
+            "value": "16(Pt 2)"
+          },
+          {
+            "name": "Pages",
+            "value": "133-42"
+          },
+          {
+            "name": "Publication date",
+            "value": "2009 Mar"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1107/S0909049509004361",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC2651760",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "19240325",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Holton JM"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Biochemistry and Biophysics, University of California, San Francisco, CA 94158-2330, USA. jmholton@lbl.gov"
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

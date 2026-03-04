@@ -1,0 +1,179 @@
+{
+  "accno": "S-EPMC5462076",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Susceptibility of ATM-deficient pancreatic cancer cells to radiation."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2017-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Susceptibility of ATM-deficient pancreatic cancer cells to radiation."
+      },
+      {
+        "name": "Abstract",
+        "value": "Ataxia telangiectasia mutated (ATM) is inactivated in a significant minority of pancreatic ductal adenocarcinomas and may be predictor of treatment response. We determined if ATM deficiency renders pancreatic cancer cells more sensitive to fractionated radiation or commonly used chemotherapeutics. ATM expression was knocked down in three pancreatic cancer cell lines using ATM-targeting shRNA. Isogenic cell lines were tested for sensitivity to several chemotherapeutic agents and radiation. DNA repair kinetics were analyzed in irradiated cells using the comet assay. We find that while rendering pancreatic cancer cells ATM-deficient did not significantly change their sensitivity to several chemotherapeutics, it did render them exquisitely sensitized to radiation. Pancreatic cancer ATM status may help predict response to radiotherapy."
+      }
+    ],
+    "links": [
+      [
+        {
+          "url": "NCT01296763",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        }
+      ]
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "U01 CA210170"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Cell cycle (Georgetown, Tex.)"
+          },
+          {
+            "name": "Volume",
+            "value": "16(10)"
+          },
+          {
+            "name": "Pages",
+            "value": "991-998"
+          },
+          {
+            "name": "Publication date",
+            "value": "2017 May"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1080/15384101.2017.1312236",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "10.1080/15384101.2017.1312236",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC5462076",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "28453388",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Ayars M"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Eshleman J"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Goggins M"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "a Department of Pathology , The Johns Hopkins University School of Medicine , Baltimore , MD, USA."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

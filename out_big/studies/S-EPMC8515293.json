@@ -1,0 +1,321 @@
+{
+  "accno": "S-EPMC8515293",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Associations between patient-reported outcomes and radiation dose in patients treated with radiation therapy for primary brain tumours."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2021-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Associations between patient-reported outcomes and radiation dose in patients treated with radiation therapy for primary brain tumours."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Aim</h4>This study aimed to explore associations between radiation dose and patient-reported outcomes in patients with a primary non-glioblastoma brain tumour treated with radiation therapy (RT), with a focus on health-related quality-of-life (HRQoL) and self-reported cognitive function.<h4>Methods</h4>In this cross-sectional study, 78 patients who had received RT for a non-glioblastoma primary brain tumour, underwent neuropsychological testing and completed questionnaires on HRQoL, cognitive function, fatigue, depression, anxiety and perceived stress. The study explores the association between HRQoL scores, self-reported cognitive function and radiation doses to total brain, brainstem, hippocampus, thalamus, temporal lobes and frontal lobes. In addition, we examined correlations between neuropsychological test scores and self-reported cognitive function.<h4>Results</h4>The median time between RT and testing was 4.6 years (range 1-9 years). Patients who had received high mean radiation doses to the total brain had low HRQoL scores (Cohen's <i>d</i> = 0.50, <i>p</i> = 0.04), brainstem (<i>d</i> = 0.65, <i>p</i> = 0.01) and hippocampus (<i>d</i> = 0.66, <i>p</i> = 0.01). High mean doses to the total brain were also associated with low scores on self-reported cognitive functioning (Cohen's <i>d</i> = 0.64, <i>p</i> = 0.02), brainstem (<i>d</i> = 0.55, <i>p</i> = 0.03), hippocampus (<i>d</i> = 0.76, <i>p</i> < 0.01), temporal lobes (<i>d</i> = 0.70, <i>p</i> < 0.01) and thalamus (<i>d</i> = 0.64, <i>p</i> = 0.01). Self-reported cognitive function correlated well with neuropsychological test scores (correlation range 0.27-0.54.).<h4>Conclusions</h4>High radiation doses to specific brain structures may be associated with impaired HRQoL and self-reported cognitive function with potentially negative implications to patients' daily lives. Patient-reported outcomes of treatment-related side-effects and their associations with radiation doses to the brain and its sub-structures may provide important information on radiation tolerance to the brain and sub-structures."
+      }
+    ],
+    "files": [
+      {
+        "path": "mmc1.docx",
+        "size": 34052,
+        "type": "file"
+      }
+    ],
+    "links": [
+      [
+        {
+          "url": "NCT04118426",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        }
+      ]
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Novo Nordisk Fonden"
+          },
+          {
+            "name": "grant_id",
+            "value": "NNF19SA0059372"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Clinical and translational radiation oncology"
+          },
+          {
+            "name": "Volume",
+            "value": "31"
+          },
+          {
+            "name": "Pages",
+            "value": "86-92"
+          },
+          {
+            "name": "Publication date",
+            "value": "2021 Nov"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1016/j.ctro.2021.09.006",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC8515293",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "34693039",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Haldbo-Classen L"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-0175-5187"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Amidi A"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Wu LM"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0003-2241-9905"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Lukacova S"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-2875-095X"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Oettingen G"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Lassen-Ramshad Y"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Zachariae R"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0001-9076-3068"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kallehauge JF"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0003-3705-5390"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a9",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Hoyer M"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0001-8609-0008"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Danish Center for Particle Therapy, Aarhus University Hospital, Aarhus, Denmark"
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Neurosurgery, Aarhus University Hospital, Aarhus, Denmark"
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Oncology, Aarhus University Hospital, Aarhus, Denmark"
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Unit for Psychooncology and Health Psychology, Department of Psychology and Behavioural Sciences, Aarhus University, Denmark"
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

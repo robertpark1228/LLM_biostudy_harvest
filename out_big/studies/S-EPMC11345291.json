@@ -1,0 +1,171 @@
+{
+  "accno": "S-EPMC11345291",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Underuse of Postoperative Radiation After Nipple-Sparing Mastectomy for Standard Radiation Indications."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2024-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Underuse of Postoperative Radiation After Nipple-Sparing Mastectomy for Standard Radiation Indications."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Purpose</h4>Nipple areola complex-sparing surgeries, such as nipple-sparing mastectomy (NSM), are increasingly used for women with early-stage breast cancer. In the postoperative setting, 2 major indications for postoperative radiation (PORT) with/without regional nodal irradiation (RNI) are: positive margins (margin+) and pathologically involved lymph nodes (pN+). The frequency of these adverse pathologic features and the rate of PORT utilization following NSM for these 2 indications are unknown. We determined the frequency of margin+ and pN+ following NSM compared with nipple-sparing lumpectomy/breast-conserving surgery [BCS] and identified trends in appropriate PORT administration for these standard indications in the NSM setting.<h4>Methods and materials</h4>Using the National Cancer Database (NCDB), women diagnosed with cT1 to cT3,N0M0 invasive carcinoma between 2004 and 2017 who underwent NSM were compared with those who underwent BCS (with nipple preservation). The frequencies of margin+ and pN+ by surgical subtype and use of PORT with/without RNI were assessed by cohort to determine if the type of surgery was associated with radiation delivery. Overall survival between the 2 cohorts was also compared. We performed univariable/multivariable logistic and Cox regression with ORs to control for confounders.<h4>Results</h4>Of 624,075 women included, 611,907 underwent BCS, and 12,168 underwent NSM. The surgical margin+ rate was significantly higher for NSM at 4.5% (n = 544) than for BCS at 3.7% (n = 22,449) (<i>P</i> < .001) and remained significant on multivariable analysis (MVA; OR, 1.13; CI, 1.03-1.25; <i>P</i> = .012). Use of PORT for margins+ was significantly lower by MVA after NSM (OR, 0.07; CI, 0.06-0.09; <i>P</i> < .001). Similarly, pN+ rate was significantly higher for NSM at 22.5% (n = 2740) versus BCS at 13.5% (n = 82,288) (<i>P</i> < .001), retaining significance on MVA (OR, 1.12; CI, 1.06-1.19; <i>P</i> < .001). For pN+ undergoing NSM, PORT with RNI was delivered significantly less often on MVA (OR, 0.73; CI, 0.67-0.81; <i>P</i> < .001). Neither high-risk subgroup had differences in overall survival on MVA.<h4>Conclusions</h4>NSM is associated with a higher rate of margin+ and pN+ compared with BCS. Radiation is underused after NSM for these standard indications. Our results highlight the need to further refine patient selection for NSM and the importance of communicating the higher potential for adverse pathologic features (and thus, the potential need for radiation) to patients undergoing NSM."
+      }
+    ],
+    "files": [
+      {
+        "path": "mmc1.docx",
+        "size": 13027609,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Advances in radiation oncology"
+          },
+          {
+            "name": "Volume",
+            "value": "9(9)"
+          },
+          {
+            "name": "Pages",
+            "value": "101569"
+          },
+          {
+            "name": "Publication date",
+            "value": "2024 Sep"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1016/j.adro.2024.101569",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC11345291",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "39188995",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Talcott WJ"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Marta GN"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Moran MS"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Medicine, Northwell Health, New York."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Hospital Sírio-Libanês, Brazil."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Therapeutic Radiology, Yale University School of Medicine, New Haven, Connecticut."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

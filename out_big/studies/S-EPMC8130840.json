@@ -1,0 +1,320 @@
+{
+  "accno": "S-EPMC8130840",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Radiation chronotherapy-clinical impact of treatment time-of-day: a systematic review."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2019-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Radiation chronotherapy-clinical impact of treatment time-of-day: a systematic review."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Purpose</h4>Many brain tumor patients suffer from radiation-induced toxicities. Chronotherapy is a treatment modality that utilizes circadian rhythms to optimize the effect on tumor while minimizing negative outcomes on healthy tissue. This review aims to systematically examine the literature on the application of a radiation chronotherapeutic for all cancers and determine the possible advantages of incorporating a circadian-based fixed time-of-day for radiotherapy into CNS cancers.<h4>Methods</h4>A systematic review of the literature was conducted in two electronic databases from inception to February 1, 2019. Primary research manuscripts were screened for those related to adult human subjects exposed to ionizing radiation using the chronotherapy technique.<h4>Results</h4>Nine manuscripts were included in the review from 79 eligible articles. Three were prospective randomized trails and 6 were retrospective reviews. This survey revealed that overall survival and tumor control do not have consistent effects with only 60% and 55.5% of paper which included the variables having some significance, respectively. Treatment symptoms were the primary endpoint for both the prospective trials and were examined in 3 of the retrospective reviews; effects were observed in sensitive tissue for all 5 studies including mucosal linings and skin basal layer.<h4>Conclusions</h4>Existing literature suggests that the application of radiation chronotherapy may reduce negative symptom outcome within highly proliferative tissues. Further examination of radiation chronotherapy in well-designed prospective trials and studies in brain tumor patients are merited."
+      }
+    ],
+    "links": [
+      [
+        {
+          "url": "rs934945",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refsnp"
+            }
+          ]
+        }
+      ]
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Intramural NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "ZIA BC011784"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Intramural NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "ZIA BC011333"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Intramural NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "ZIA BC011768"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "National Cancer Institute"
+          },
+          {
+            "name": "grant_id",
+            "value": "Intramural Research Program"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "Intramural Research Program"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Intramural NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "ZIA BC011837"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Journal of neuro-oncology"
+          },
+          {
+            "name": "Volume",
+            "value": "145(3)"
+          },
+          {
+            "name": "Pages",
+            "value": "415-427"
+          },
+          {
+            "name": "Publication date",
+            "value": "2019 Dec"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1007/s11060-019-03332-7",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "10.1007/s11060-019-03332-7",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC8130840",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "31729636",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Shuboni-Mulligan DD"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0001-7575-8666"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Breton G"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0001-6400-3858"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Smart D"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0003-3471-0871"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Gilbert M"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Armstrong TS"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-2414-0492"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Integrative Biology and Pharmacology, McGovern Medical School, University of Texas Health Science Center at Houston, Houston, TX, USA."
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Neuro-Oncology Branch, National Cancer Institute, National Institutes of Health, Bethesda, MD, USA."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Neuro-Oncology Branch, National Cancer Institute, National Institutes of Health, Bethesda, MD, USA. Dorela.Shuboni-Mulligan@nih.gov."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Radiation Oncology Branch, Center for Cancer Research, National Cancer Institute, National Institutes of Health, Bethesda, MD, USA."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

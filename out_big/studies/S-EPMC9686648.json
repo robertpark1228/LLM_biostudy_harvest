@@ -1,0 +1,222 @@
+{
+  "accno": "S-EPMC9686648",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "ROS-Responsive and pH-Sensitive Aminothiols Dual-Prodrug for Radiation Enteritis."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2022-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "ROS-Responsive and pH-Sensitive Aminothiols Dual-Prodrug for Radiation Enteritis."
+      },
+      {
+        "name": "Abstract",
+        "value": "Radiation exposure can immediately trigger a burst of reactive oxygen species (ROS), which can induce severe cell death and long-term tissue damage. Therefore, instantaneous release of sufficient radioprotective drugs is vital to neutralize those accumulated ROS in IR-exposed areas. To achieve this goal, we designed, synthesized, and evaluated a novel oral ROS-responsive radioprotective compound (M1) with high biocompatibility and efficient ROS-scavenging ability to act as a promising oral drug for radiation protection. The compound is stably present in acidic environments and is hydrolyzed in the intestine to form active molecules rich in thiols. M1 can significantly remove cellular ROS and reduce DNA damage induced by γ-ray radiation. An in vivo experiment showed that oral administration of M1 effectively alleviates acute radiation-induced intestinal injury. Immunohistochemical staining showed that M1 improved cell proliferation, reduced cell apoptosis, and enhanced the epithelial integrity of intestinal crypts. This study provides a promising oral ROS-sensitive agent for acute intestinal radiation syndrome."
+      }
+    ],
+    "files": [
+      {
+        "path": "antioxidants-11-02145-s001.zip",
+        "size": 498134,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "National Natural Science Foundation of China"
+          },
+          {
+            "name": "grant_id",
+            "value": "82203970"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "CAMS Innovation Fund for Medical Sciences"
+          },
+          {
+            "name": "grant_id",
+            "value": "CIFMS, 2021-I2M-1-042"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Antioxidants (Basel, Switzerland)"
+          },
+          {
+            "name": "Volume",
+            "value": "11(11)"
+          },
+          {
+            "name": "Pages",
+            "value": "2145"
+          },
+          {
+            "name": "Publication date",
+            "value": "2022 Oct"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.3390/antiox11112145",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC9686648",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "36358517",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Chen Y"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Yang Y"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Tang H"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Zhang Z"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Zhou X"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Xu W"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Institute of Radiation Medicine, Chinese Academy of Medical Sciences & Peking Union Medical College, Tianjin 300192, China."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

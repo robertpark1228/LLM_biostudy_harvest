@@ -1,0 +1,224 @@
+{
+  "accno": "S-EPMC6394774",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "The Role of Radiation Oncology in Immuno-Oncology."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2019-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "The Role of Radiation Oncology in Immuno-Oncology."
+      },
+      {
+        "name": "Abstract",
+        "value": "Despite the promising efficacy of immunotherapy in some patients, many other patients are resistant. The synergistic effect of radiotherapy (RT) in combination with immunotherapy reported in case reports and clinical trials has piqued the interest of radiologists in investigating the underlying mechanisms and efficacy of the combination in preclinical and clinical trials. To date, the reported data are limited to small-sized samples, trials lacking a comparison arm, and trials using diverse immunotherapies, various radiation doses, and fractionations. There are just a few studies comparing the efficacy of immunotherapy and radiotherapy to that of conventional therapies or different combinations. Radiologists should design and conduct clinical trials wisely to confirm the efficacy of the combination, particularly the abscopal effect, identify the best combination of various immunotherapeutic drugs and different radiation models for patients, identify the best sequence of the combination, determine the optimal timing of the combination, select the target site and volume, lower adverse effects, and explore predictive models to identify patients who may benefit from the combination therapy. We expect that these clinical trials performed by radiologists will offer definitive evidence for the wide use of the combination of RT and immunotherapy in clinical practice. IMPLICATIONS FOR PRACTICE: This review will provide an update on the use of a combination of radiotherapy and immunotherapy, a cautious interpretation of preliminary results, and future directions for radiologists to perform well-designed clinical trials."
+      }
+    ],
+    "links": [
+      [
+        {
+          "url": "NCT02623595",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT02946138",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT03113851",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT02663440",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        }
+      ]
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "The oncologist"
+          },
+          {
+            "name": "Volume",
+            "value": "24(Suppl 1)"
+          },
+          {
+            "name": "Pages",
+            "value": "S42-S52"
+          },
+          {
+            "name": "Publication date",
+            "value": "2019 Feb"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1634/theoncologist.2019-IO-S1-s04",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC6394774",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "30819830",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Meng X"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Feng R"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Yang L"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Xing L"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Yu J"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Shandong Cancer Hospital Affiliated with Shandong University, Shandong Academy of Medical Science, Jinan, People's Republic of China xinglg@medmail.com.cn sdyujinming@126.com."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Shandong Cancer Hospital Affiliated with Shandong University, Shandong Academy of Medical Science, Jinan, People's Republic of China."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

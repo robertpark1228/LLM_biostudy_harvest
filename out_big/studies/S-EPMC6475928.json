@@ -1,0 +1,360 @@
+{
+  "accno": "S-EPMC6475928",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Radiation biology and oncology in the genomic era."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2018-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Radiation biology and oncology in the genomic era."
+      },
+      {
+        "name": "Abstract",
+        "value": "Radiobiology research is building the foundation for applying genomics in precision radiation oncology. Advances in high-throughput approaches will underpin increased understanding of radiosensitivity and the development of future predictive assays for clinical application. There is an established contribution of genetics as a risk factor for radiotherapy side effects. An individual's radiosensitivity is an inherited polygenic trait with an architecture that includes rare mutations in a few genes that confer large effects and common variants in many genes with small effects. Current thinking is that some will be tissue specific, and future tests will be tailored to the normal tissues at risk. The relationship between normal and tumor cell radiosensitivity is poorly understood. Data are emerging suggesting interplay between germline genetic variation and epigenetic modification with growing evidence that changes in DNA methylation regulate the radiosensitivity of cancer cells and histone acetyltransferase inhibitors have radiosensitizing effects. Changes in histone methylation can also impair DNA damage response signaling and alter radiosensitivity. An important effort to advance radiobiology in the genomic era was establishment of the Radiogenomics Consortium to enable the creation of the large radiotherapy cohorts required to exploit advances in genomics. To address challenges in harmonizing data from multiple cohorts, the consortium established the REQUITE project to collect standardized data and genotyping for ~5,000 patients. The collection of detailed dosimetric data is important to produce validated multivariable models. Continued efforts will identify new genes that impact on radiosensitivity to generate new knowledge on toxicity pathogenesis and tests to incorporate into the clinical decision-making process."
+      }
+    ],
+    "links": [
+      [
+        {
+          "url": "rs17599026",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refsnp"
+            }
+          ]
+        },
+        {
+          "url": "rs1801516",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refsnp"
+            }
+          ]
+        },
+        {
+          "url": "rs1139793",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refsnp"
+            }
+          ]
+        },
+        {
+          "url": "rs2868371",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refsnp"
+            }
+          ]
+        }
+      ]
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "CLC NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "HHSN261201700033C"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "R01 CA134444"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "K07 CA187546"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "HHSN261201500043C"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "The British journal of radiology"
+          },
+          {
+            "name": "Volume",
+            "value": "91(1091)"
+          },
+          {
+            "name": "Pages",
+            "value": "20170949"
+          },
+          {
+            "name": "Publication date",
+            "value": "2018 Nov"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1259/bjr.20170949",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "10.1259/bjr.20170949",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC6475928",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "29888979",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kerns SL"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Chuang KH"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Hall W"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Werner Z"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Chen Y"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Ostrer H"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "West C"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Rosenstein B"
+          },
+          {
+            "name": "affiliation",
+            "value": "o5",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "1 Department of Radiation Oncology, University of Rochester Medical Center , Rochester, NY , USA."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "3 Department of Radiation Oncology, Medical College of Wisconsin and Clement J Zablocki VA Medical Center Milwaukee , Milwaukee, WI , USA."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "4 Departments of Pathology and Pediatrics, Albert Einstein College of Medicine , Bronx, NY , USA."
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "5 Division of Cancer Sciences, University of Manchester, Christie Hospital , Manchester , UK."
+          }
+        ]
+      },
+      {
+        "accno": "o5",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "6 Departments of Radiation Oncology, Genetics and Genomic Sciences, and Dermatology, Icahn School of Medicine at Mount Sinai , New York, NY , USA."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

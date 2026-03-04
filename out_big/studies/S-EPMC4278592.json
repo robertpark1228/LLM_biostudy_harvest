@@ -1,0 +1,449 @@
+{
+  "accno": "S-EPMC4278592",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "EGFR-mediated chromatin condensation protects KRAS-mutant cancer cells against ionizing radiation."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2014-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "EGFR-mediated chromatin condensation protects KRAS-mutant cancer cells against ionizing radiation."
+      },
+      {
+        "name": "Abstract",
+        "value": "Therapeutics that target the epidermal growth factor receptor (EGFR) can enhance the cytotoxic effects of ionizing radiation (IR). However, predictive genomic biomarkers of this radiosensitization have remained elusive. By screening 40 non-small cell lung cancer cell (NSCLC) lines, we established a surprising positive correlation between the presence of a KRAS mutation and radiosensitization by the EGFR inhibitors erlotinib and cetuximab. EGFR signaling in KRAS-mutant NSCLC cells promotes chromatin condensation in vitro and in vivo, thereby restricting the number of DNA double-strand breaks (DSB) produced by a given dose of IR. Chromatin condensation in interphase cells is characterized by an unexpected mitosis-like colocalization of serine 10 phosphorylation and lysine 9 trimethylation on histone H3. Aurora B promotes this process in a manner that is codependent upon EGFR and protein kinase C α (PKCα). PKCα, in addition to MEK/ERK signaling, is required for the suppression of DSB-inducible premature senescence by EGFR. Blockade of autophagy results in a mutant KRAS-dependent senescence-to-apoptosis switch in cancer cells treated with IR and erlotinib. In conclusion, we identify EGFR as a molecular target to overcome a novel mechanism of radioresistance in KRAS-mutant tumor cells, which stands in contrast to the unresponsiveness of KRAS-mutant cancers to EGFR-directed agents in monotherapy. Our findings may reposition EGFR-targeted agents for combination with DSB-inducing therapies in KRAS-mutant NSCLC."
+      }
+    ],
+    "files": [
+      {
+        "path": "NIHMS57520-supplement-1.pdf",
+        "size": 1490934,
+        "type": "file"
+      },
+      {
+        "path": "NIHMS57520-supplement-2.pdf",
+        "size": 2125965,
+        "type": "file"
+      },
+      {
+        "path": "NIHMS57520-supplement-3.pdf",
+        "size": 1535126,
+        "type": "file"
+      },
+      {
+        "path": "NIHMS57520-supplement-4.pdf",
+        "size": 2483114,
+        "type": "file"
+      },
+      {
+        "path": "NIHMS57520-supplement-5.pdf",
+        "size": 79030,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "C06 CA059267"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "P50 CA090578"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "K99 CA149169"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "NCI R01 CA142698"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "R01 CA142698"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "NCI P50 CA090578"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Wellcome Trust"
+          },
+          {
+            "name": "grant_id",
+            "value": "086357"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Cancer research"
+          },
+          {
+            "name": "Volume",
+            "value": "74(10)"
+          },
+          {
+            "name": "Pages",
+            "value": "2825-34"
+          },
+          {
+            "name": "Publication date",
+            "value": "2014 May"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1158/0008-5472.CAN-13-3157",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "10.1158/0008-5472.can-13-3157",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC4278592",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "24648348",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Wang M"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kern AM"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Hulskotter M"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Greninger P"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Singh A"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Pan Y"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Chowdhury D"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Krause M"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0003-1776-9556"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a9",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Baumann M"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-9340-974X"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a10",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Benes CH"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a11",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Efstathiou JA"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a12",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Settleman J"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a13",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Willers H"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Authors' Affiliations: Department of Radiation Oncology, Massachusetts General Hospital; Center for Cancer Research, Massachusetts General Hospital Cancer Center; Department of Radiation Oncology, Dana-Farber Cancer Institute, Harvard Medical School, Boston, Massachusetts; Department of Radiation Oncology, Medical Faculty and University Hospital Carl Gustav Carus, Technische Universität Dresden, Dresden; OncoRay-National Center for Radiation Research in Oncology, Medical Faculty and University Hospital Carl Gustav Carus, Technische Universität Dresden, Dresden; Institute of Radiation Oncology, Helmholtz-Zentrum Dresden-Rossendorf, Dresden; and Cancer Consortium (DKTK) Partner Site Dresden and German Cancer Research Center (DKFZ), Heidelberg, Germany hwillers@partners.org."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Authors' Affiliations: Department of Radiation Oncology, Massachusetts General Hospital; Center for Cancer Research, Massachusetts General Hospital Cancer Center; Department of Radiation Oncology, Dana-Farber Cancer Institute, Harvard Medical School, Boston, Massachusetts; Department of Radiation Oncology, Medical Faculty and University Hospital Carl Gustav Carus, Technische Universität Dresden, Dresden; OncoRay-National Center for Radiation Research in Oncology, Medical Faculty and University Hospital Carl Gustav Carus, Technische Universität Dresden, Dresden; Institute of Radiation Oncology, Helmholtz-Zentrum Dresden-Rossendorf, Dresden; and Cancer Consortium (DKTK) Partner Site Dresden and German Cancer Research Center (DKFZ), Heidelberg, Germany."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Authors' Affiliations: Department of Radiation Oncology, Massachusetts General Hospital; Center for Cancer Research, Massachusetts General Hospital Cancer Center; Department of Radiation Oncology, Dana-Farber Cancer Institute, Harvard Medical School, Boston, Massachusetts; Department of Radiation Oncology, Medical Faculty and University Hospital Carl Gustav Carus, Technische Universität Dresden, Dresden; OncoRay-National Center for Radiation Research in Oncology, Medical Faculty and University Hospital Carl Gustav Carus, Technische Universität Dresden, Dresden; Institute of Radiation Oncology, Helmholtz-Zentrum Dresden-Rossendorf, Dresden; and Cancer Consortium (DKTK) Partner Site Dresden and German Cancer Research Center (DKFZ), Heidelberg, GermanyAuthors' Affiliations: Department of Radiation Oncology, Massachusetts General Hospital; Center for Cancer Research, Massachusetts General Hospital Cancer Center; Department of Radiation Oncology, Dana-Farber Cancer Institute, Harvard Medical School, Boston, Massachusetts; Department of Radiation Oncology, Medical Faculty and University Hospital Carl Gustav Carus, Technische Universität Dresden, Dresden; OncoRay-National Center for Radiation Research in Oncology, Medical Faculty and University Hospital Carl Gustav Carus, Technische Universität Dresden, Dresden; Institute of Radiation Oncology, Helmholtz-Zentrum Dresden-Rossendorf, Dresden; and Cancer Consortium (DKTK) Partner Site Dresden and German Cancer Research Center (DKFZ), Heidelberg, GermanyAuthors' Affiliations: Department of Radiation Oncology, Massachusetts General Hospital; Center for Cancer Research, Massachusetts General Hospital Cancer Center; Department of Radiation Oncology, Dana-Farber Cancer Institute, Harvard Medical School, Boston, Massachusetts; Department of Radiation Oncology, Medical Faculty and University Hospital Carl Gustav Carus, Technische Universität Dresden, Dresden; OncoRay-National Center for Radiation Research in Oncology, Medical F"
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

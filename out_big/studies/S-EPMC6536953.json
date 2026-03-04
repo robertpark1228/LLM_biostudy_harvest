@@ -1,0 +1,437 @@
+{
+  "accno": "S-EPMC6536953",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Genetic variants of SP-D confer susceptibility to radiation pneumonitis in lung cancer patients undergoing thoracic radiation therapy."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2019-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Genetic variants of SP-D confer susceptibility to radiation pneumonitis in lung cancer patients undergoing thoracic radiation therapy."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Background</h4>Surfactant protein D (SP-D) is an innate immunity molecule in the alveoli. However, the associations between genetic variants of SP-D and radiation pneumonitis (RP) have never been investigated.<h4>Methods</h4>The Linkage disequilibrium of SP-D and tagSNPs were analyzed by using Haploview 4.1. Eight tagSNPs were genotyped among 396 lung cancer patients who received thoracic radiation therapy with follow-up time (median [P25, P75]: 11[6, 18]) using improved multiplex ligation detection reaction (iMLDR). The associations between clinical characteristics, tagSNP alleles, genotypes, haplotypes and onset time of grade ≥2 or ≥3 RP were evaluated by using univariate and multivariate Cox proportional hazard regression model.<h4>Results</h4>Three tagSNPs of SP-D (rs1998374, rs911887 and rs2255326) were significantly associated with grade ≥2 RP in multivariate analysis with multiple testing (Q test). The rs199874 had a protective effect for grade ≥2 RP in the dominant model (Hazard ratio (HR), 0.575; 95% confidence interval (CI), 0.378-0.875). The homozygous mutant genotype for rs911887 had risk effect for grade ≥2 RP (HR, 2.209; 95% CI, 1.251-3.902). The A mutant allele of rs2255326 also showed an elevated risk for grade ≥2 RP (HR, 1.777; 95% CI, 1.283-2.461) and this risk effect was still significant in the recessive genetic model (HR, 3.320; 95% CI, 1.659-6.644) and dominant genetic model (HR, 1.773; 95% CI, 1.166-2.696). Compared to the lung cancer patients bearing the most common haplotype C-G-T, the patients bearing the haplotype T-A-C (rs1998374-rs2255326-rs911887) showed a significant risk of both grade ≥2 RP (HR, 1.885; 95% CI, 1.284-2.765) and grade ≥3 RP (HR, 2.256; 95% CI, 1.248-4.080).<h4>Conclusions</h4>Genetic variants of SP-D were associated with risk of RP development in lung cancer patients receiving thoracic radiotherapy."
+      }
+    ],
+    "files": [
+      {
+        "path": "CAM4-8-2599-s001.docx",
+        "size": 453208,
+        "type": "file"
+      }
+    ],
+    "links": [
+      [
+        {
+          "url": "rs1998374",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refsnp"
+            }
+          ]
+        },
+        {
+          "url": "rs911887",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refsnp"
+            }
+          ]
+        },
+        {
+          "url": "rs2255326",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refsnp"
+            }
+          ]
+        },
+        {
+          "url": "rs1923536",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refsnp"
+            }
+          ]
+        },
+        {
+          "url": "rs726288",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refsnp"
+            }
+          ]
+        },
+        {
+          "url": "rs2243639",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refsnp"
+            }
+          ]
+        },
+        {
+          "url": "rs75074551",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refsnp"
+            }
+          ]
+        },
+        {
+          "url": "rs721917",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refsnp"
+            }
+          ]
+        }
+      ]
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Cancer medicine"
+          },
+          {
+            "name": "Volume",
+            "value": "8(5)"
+          },
+          {
+            "name": "Pages",
+            "value": "2599-2611"
+          },
+          {
+            "name": "Publication date",
+            "value": "2019 May"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1002/cam4.2088",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC6536953",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "30897289",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Xu L"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Jiang J"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Li Y"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Zhang L"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Li Z"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Xian J"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Jiang C"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Diao Y"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a9",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Su X"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a10",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Xu H"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a11",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Zhang Y"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a12",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Zhang T"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a13",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Yang Z"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a14",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Tan B"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a15",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Li H"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Cancer Center, The General Hospital of Western Theater Command, Chengdu, China."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Cancer Center, The Second affiliated Hospital of Chongqing Medical University, Chongqing, China."
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Oncology, Affiliated Hospital of North Sichuan Medical College, Nanchong, China."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Statistics, The General Hospital of Western Theater Command, Chengdu, China."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

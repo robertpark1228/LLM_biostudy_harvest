@@ -1,0 +1,372 @@
+{
+  "accno": "S-EPMC9299851",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Integration of glucose and cardiolipin anabolism confers radiation resistance of HCC."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2022-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Integration of glucose and cardiolipin anabolism confers radiation resistance of HCC."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Background and aims</h4>Poor response to ionizing radiation (IR) due to resistance remains a clinical challenge. Altered metabolism represents a defining characteristic of nearly all types of cancers. However, how radioresistance is linked to metabolic reprogramming remains elusive in hepatocellular carcinoma (HCC).<h4>Approach and results</h4>Baseline radiation responsiveness of different HCC cells were identified and cells with acquired radio-resistance were generated. By performing proteomics, metabolomics, metabolic flux, and other functional studies, we depicted a metabolic phenotype that mediates radiation resistance in HCC, whereby increased glucose flux leads to glucose addiction in radioresistant HCC cells and a corresponding increase in glycerophospholipids biosynthesis to enhance the levels of cardiolipin. Accumulation of cardiolipin dampens the effectiveness of IR by inhibiting cytochrome c release to initiate apoptosis. Mechanistically, mammalian target of rapamycin complex 1 (mTORC1) signaling-mediated translational control of hypoxia inducible factor-1α (HIF-1α) and sterol regulatory element-binding protein-1 (SREBP1) remodels such metabolic cascade. Targeting mTORC1 or glucose to cardiolipin synthesis, in combination with IR, strongly diminishes tumor burden. Finally, activation of glucose metabolism predicts poor response to radiotherapy in cancer patients.<h4>Conclusions</h4>We demonstrate a link between radiation resistance and metabolic integration and suggest that metabolically dismantling the radioresistant features of tumors may provide potential combination approaches for radiotherapy in HCC."
+      }
+    ],
+    "files": [
+      {
+        "path": "HEP-75-1386-s001.docx",
+        "size": 20463388,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "National Natural Science Foundation of China"
+          },
+          {
+            "name": "grant_id",
+            "value": "82073342"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "National Natural Science Foundation of China"
+          },
+          {
+            "name": "grant_id",
+            "value": "81872399"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "National Natural Science Foundation of China"
+          },
+          {
+            "name": "grant_id",
+            "value": "82073394"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "National Natural Science Foundation of China"
+          },
+          {
+            "name": "grant_id",
+            "value": "81872470"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Hepatology (Baltimore, Md.)"
+          },
+          {
+            "name": "Volume",
+            "value": "75(6)"
+          },
+          {
+            "name": "Pages",
+            "value": "1386-1401"
+          },
+          {
+            "name": "Publication date",
+            "value": "2022 Jun"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1002/hep.32177",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC9299851",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "34580888",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Fang Y"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Zhan Y"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Xie Y"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Du S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Chen Y"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Zeng Z"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Zhang Y"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Chen K"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a9",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Wang Y"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a10",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Liang L"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a11",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Ding Y"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a12",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Wu D"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0003-0560-0016"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Pathology, Nanfang Hospital, Southern Medical University, Guangzhou, Guangdong Province, China."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Nanfang Hospital, Southern Medical University, Guangzhou, Guangdong Province, China."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Zhongshan Hospital, Fudan University, Shanghai, China."
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Huiqiao Medical Center, Nanfang Hospital, Southern Medical University, Guangzhou, Guangdong Province, China."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

@@ -1,0 +1,380 @@
+{
+  "accno": "S-EPMC8976465",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Activated B Cells and Plasma Cells Are Resistant to Radiation Therapy."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2022-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Activated B Cells and Plasma Cells Are Resistant to Radiation Therapy."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Purpose</h4>B cells play a key role in outcomes of cancer patients and responses to checkpoint blockade immunotherapies. However, the effect of radiation therapy on B cell populations is poorly understood. Here we characterize the effects of radiation on the development, survival, and phenotype of physiological B-cell subsets.<h4>Methods and materials</h4>Naïve and immunized tumor bearing and nontumor bearing mice were treated with large-field or focal stereotactic radiation and distinct B-cell subsets of varying developmental stages were analyzed by flow cytometry and real-time reverse transcription polymerase chain reaction.<h4>Results</h4>We first report that focal stereotactic radiation is highly superior to large-field radiation at inducing tumor infiltration of B cells, CD8<sup>+</sup> T cells, and macrophages. We observed that radiation affects B cell development in the bone marrow, increasing frequencies of early pro-B cells and late pro-B cells while inducing upregulation of programmed cell death protein 1. We then demonstrate that class switched B cells and plasma cells are highly resistant to radiation therapy compared with naïve B cells and upregulate activation markers programmed cell death 1 ligand 2 and major histocompatibility complex class II) after radiation. Mechanistically, radiation upregulates Xbp1 and Bcl6 in plasma cells, conferring radioresistance. Furthermore, using an immunization approach, we demonstrate that radiation enhances activation-induced cytidine deaminase mediated class switching and somatic hypermutation in primed B cells.<h4>Conclusions</h4>These data demonstrate that stereotactic radiation is superior to large-field radiation at inducing infiltration of immune cells into tumors and that plasma cells and class switched B cells are highly resistant to radiation therapy. These results represent the most comprehensive analysis of the effects of radiation on B cells to date and identify novel mechanisms by which radiation modulates immune cells within the tumor microenvironment."
+      }
+    ],
+    "files": [
+      {
+        "path": "NIHMS1750684-supplement-1.pdf",
+        "size": 1475941,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "National Center for Advancing Translational Sciences"
+          },
+          {
+            "name": "grant_id",
+            "value": "1KL2TR001444"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NIDCR NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "U01 DE028227"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "National Institute of Dental and Craniofacial Research"
+          },
+          {
+            "name": "grant_id",
+            "value": "R01 DE028563"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Varian Medical Systems"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "National Institute of Dental and Craniofacial Research"
+          },
+          {
+            "name": "grant_id",
+            "value": "1U01 DE028227-01"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "AstraZeneca"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "University of California San Diego"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NIDCR NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "R01 DE028563"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Merck"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Pfizer"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "International journal of radiation oncology, biology, physics"
+          },
+          {
+            "name": "Volume",
+            "value": "112(2)"
+          },
+          {
+            "name": "Pages",
+            "value": "514-528"
+          },
+          {
+            "name": "Publication date",
+            "value": "2022 Feb"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1016/j.ijrobp.2021.08.037",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "10.1016/j.ijrobp.2021.08.037",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC8976465",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "34474108",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Franiak-Pietryga I"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Miyauchi S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kim SS"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Sanders PD"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Sumner W"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Zhang L"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Mundt AJ"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Califano JA"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a9",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Sharabi AB"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Medicine and Applied Sciences, Moores Cancer Center, University of California, San Diego, California."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Medicine and Applied Sciences, Moores Cancer Center, University of California, San Diego, California. Electronic address: sharabi@ucsd.edu."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Medicine and Applied Sciences, Moores Cancer Center, University of California, San Diego, California; Department of Surgery, Division of Otolaryngology, University of California, San Diego, California."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

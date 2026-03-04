@@ -1,0 +1,136 @@
+{
+  "accno": "S-EPMC11399821",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Stereotactic body radiation therapy for colorectal cancer liver metastases."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2024-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Stereotactic body radiation therapy for colorectal cancer liver metastases."
+      },
+      {
+        "name": "Abstract",
+        "value": "The management of colorectal cancer liver metastases requires a multidisciplinary approach, which may incorporate systemic therapy, surgery, or local ablative therapies. Stereotactic body radiation therapy (SBRT) is a non-invasive highly conformal radiation technique that enables the delivery of large doses of radiation in a few fractions to well-defined targets using image-guidance and motion management. For selected patients with colorectal cancer liver metastases, stereotactic body radiation therapy can be delivered safely, with excellent long-term local control and overall survival. The purpose of this clinical practice review is to review the background, indications, and treatment details of stereotactic body radiation therapy for the treatment of colorectal liver metastases. SBRT for colorectal cancer liver metastases may be considered for patients with oligometastatic colorectal cancer in combination with surgery or other locally ablative therapies; for patients who are not candidates for surgical resection; or after failure of resection or other ablative therapies. When planning SBRT both a computed tomography and magnetic resonance imaging simulation may be obtained, where feasible, for target delineation. One or 3 fraction SBRT can be considered for lesions away from the central liver and luminal organs at risk, whereas 5 fraction SBRT is preferred otherwise. Image-guidance and motion management strategies are essential components of liver SBRT and will guide the creation of relevant internal and planning target volume margins. For lesions in close proximity to or overlapping with organs-at-risk, the balance between adequate local control and potential for cure with potential acute and late toxicity must be carefully considered."
+      }
+    ],
+    "files": [
+      {
+        "path": "jgo-15-04-1917-coif.pdf",
+        "size": 88016,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Journal of gastrointestinal oncology"
+          },
+          {
+            "name": "Volume",
+            "value": "15(4)"
+          },
+          {
+            "name": "Pages",
+            "value": "1917-1925"
+          },
+          {
+            "name": "Publication date",
+            "value": "2024 Aug"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.21037/jgo-22-1183",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC11399821",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "39279927",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Lukovic J"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Dawson LA"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Radiation Medicine Program, Princess Margaret Cancer Centre, University Health Network, Toronto, Canada."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

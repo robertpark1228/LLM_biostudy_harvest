@@ -1,0 +1,335 @@
+{
+  "accno": "S-EPMC7606935",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Whole Brain Radiation Therapy Plus Focal Radiation Boost May Generate Better Survival Benefit for Brain Metastases From Non-small Cell Lung Cancer."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2020-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Whole Brain Radiation Therapy Plus Focal Radiation Boost May Generate Better Survival Benefit for Brain Metastases From Non-small Cell Lung Cancer."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Background</h4>Owing to improved systemic therapies, the survival of patients with non-small cell lung cancer (NSCLC) was prolonged, and the risk of brain metastases was consequently increased. This study aims to compare different radiotherapy for brain metastases in patients with NSCLC.<h4>Materials and methods</h4>The patients with NSCLC who were treated with whole brain radiation therapy (WBRT) or stereotactic radiosurgery (SRS) for brain metastases at three medical centers between January 2012 and December 2017 were retrospectively analyzed.<h4>Results</h4>Of the 684 eligible patients, 217 received WBRT plus focal radiation boost (WBRT+boost), 324 received WBRT, and 143 received SRS. Patients with WBRT+boost lived longer than those with WBRT (median overall survival (OS), 22.2 vs 13.7 months, <i>P</i> < 0.001) or SRS (22.2 vs 17.3 months, <i>P</i> = 0.011). In subgroup analyses, the survival advantage of WBRT+boost was more obvious among patients with 1 to 3 brain metastases or who received targeted therapy than did SRS. From pair-wise comparisons of intracranial progression-free survival (iPFS), WBRT+boost was also superior to WBRT (12.9 vs 10.6 months, <i>P</i> = 0.028) and SRS (12.9 vs 9.1 months, <i>P</i> = 0.001).<h4>Conclusions</h4>Patients who were treated with WBRT+boost experienced significantly longer OS and iPFS than those with WBRT or SRS alone. WBRT+boost should be a preferred strategy for brain metastases in NSCLC patients."
+      }
+    ],
+    "files": [
+      {
+        "path": "Image_1.tif",
+        "size": 550486,
+        "type": "file"
+      },
+      {
+        "path": "Image_2.tif",
+        "size": 426488,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Frontiers in oncology"
+          },
+          {
+            "name": "Volume",
+            "value": "10"
+          },
+          {
+            "name": "Pages",
+            "value": "576700"
+          },
+          {
+            "name": "Publication date",
+            "value": "2020"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.3389/fonc.2020.576700",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC7606935",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "33194690",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Ni M"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Liu W"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Jiang A"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Wang Y"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Sheng Y"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Zeng H"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0001-5976-6084"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Liu N"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Li L"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a9",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Qi Y"
+          },
+          {
+            "name": "affiliation",
+            "value": "o5",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a10",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Wang Y"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a11",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Yu J"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a12",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Yuan S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Liaocheng People's Hospital, Liaocheng, China."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Qingdao University Medical College Affiliated Yantai Yuhuangding Hospital, Yantai, China."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Shandong Cancer Hospital and Institute, Shandong First Medical University and Shandong Academy of Medical Sciences, Jinan, China."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, The Affiliated Hospital of Xuzhou Medical University, Xuzhou, China."
+          }
+        ]
+      },
+      {
+        "accno": "o5",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, ZiBo Central Hospital, Zibo, China."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

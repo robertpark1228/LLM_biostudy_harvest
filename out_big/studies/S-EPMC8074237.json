@@ -1,0 +1,140 @@
+{
+  "accno": "S-EPMC8074237",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Multi-Omics Approaches and Radiation on Lipid Metabolism in Toothed Whales."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2021-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Multi-Omics Approaches and Radiation on Lipid Metabolism in Toothed Whales."
+      },
+      {
+        "name": "Abstract",
+        "value": "Lipid synthesis pathways of toothed whales have evolved since their movement from the terrestrial to marine environment. The synthesis and function of these endogenous lipids and affecting factors are still little understood. In this review, we focused on different omics approaches and techniques to investigate lipid metabolism and radiation impacts on lipids in toothed whales. The selected literature was screened, and capacities, possibilities, and future approaches for identifying unusual lipid synthesis pathways by omics were evaluated. Omics approaches were categorized into the four major disciplines: lipidomics, transcriptomics, genomics, and proteomics. Genomics and transcriptomics can together identify genes related to unique lipid synthesis. As lipids interact with proteins in the animal body, lipidomics, and proteomics can correlate by creating lipid-binding proteome maps to elucidate metabolism pathways. In lipidomics studies, recent mass spectroscopic methods can address lipid profiles; however, the determination of structures of lipids are challenging. As an environmental stress, the acoustic radiation has a significant effect on the alteration of lipid profiles. Radiation studies in different omics approaches revealed the necessity of multi-omics applications. This review concluded that a combination of many of the omics areas may elucidate the metabolism of lipids and possible hazards on lipids in toothed whales by radiation."
+      }
+    ],
+    "files": [
+      {
+        "path": "life-11-00364-s001.zip",
+        "size": 234904,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Life (Basel, Switzerland)"
+          },
+          {
+            "name": "Volume",
+            "value": "11(4)"
+          },
+          {
+            "name": "Pages",
+            "value": "364"
+          },
+          {
+            "name": "Publication date",
+            "value": "2021 Apr"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.3390/life11040364",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC8074237",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "33923876",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Senevirathna JDM"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-9800-1962"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Asakawa S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Laboratory of Aquatic Molecular Biology and Biotechnology, Department of Aquatic Bioscience, Graduate School of Agricultural and Life Sciences, The University of Tokyo, Tokyo 113-8657, Japan."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

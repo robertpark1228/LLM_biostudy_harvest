@@ -1,0 +1,205 @@
+{
+  "accno": "S-EPMC3337972",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Maximizing tumor immunity with fractionated radiation."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2012-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Maximizing tumor immunity with fractionated radiation."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Purpose</h4>Technologic advances have led to increased clinical use of higher-sized fractions of radiation dose and higher total doses. How these modify the pathways involved in tumor cell death, normal tissue response, and signaling to the immune system has been inadequately explored. Here we ask how radiation dose and fraction size affect antitumor immunity, the suppression thereof, and how this might relate to tumor control.<h4>Methods and materials</h4>Mice bearing B16-OVA murine melanoma were treated with up to 15 Gy radiation given in various-size fractions, and tumor growth followed. The tumor-specific immune response in the spleen was assessed by interferon-γ enzyme-linked immunospot (ELISPOT) assay with ovalbumin (OVA) as the surrogate tumor antigen and the contribution of regulatory T cells (Tregs) determined by the proportion of CD4(+)CD25(hi)Foxp3(+) T cells.<h4>Results</h4>After single doses, tumor control increased with the size of radiation dose, as did the number of tumor-reactive T cells. This was offset at the highest dose by an increase in Treg representation. Fractionated treatment with medium-size radiation doses of 7.5 Gy/fraction gave the best tumor control and tumor immunity while maintaining low Treg numbers.<h4>Conclusions</h4>Radiation can be an immune adjuvant, but the response varies with the size of dose per fraction. The ultimate challenge is to optimally integrate cancer immunotherapy into radiation therapy."
+      }
+    ],
+    "links": [
+      [
+        {
+          "url": "NCT00861614",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        }
+      ]
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "R01 CA101752"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "R01 CA101752-05"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "R01 CA-101752"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "International journal of radiation oncology, biology, physics"
+          },
+          {
+            "name": "Volume",
+            "value": "83(4)"
+          },
+          {
+            "name": "Pages",
+            "value": "1306-10"
+          },
+          {
+            "name": "Publication date",
+            "value": "2012 Jul"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1016/j.ijrobp.2011.09.049",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "10.1016/j.ijrobp.2011.09.049",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC3337972",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "22208977",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Schaue D"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Ratikan JA"
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Iwamoto KS"
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "McBride WH"
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, David Geffen School of Medicine at UCLA, B3-109 CHS, 10833 Le Conte Avenue, Los Angeles, CA 90095-1714, USA. dschaue@mednet.ucla.edu"
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

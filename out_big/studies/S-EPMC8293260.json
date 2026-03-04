@@ -1,0 +1,151 @@
+{
+  "accno": "S-EPMC8293260",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Outcomes in Elderly Patients with Glioblastoma Multiforme Treated with Short-Course Radiation Alone Compared to Short-Course Radiation and Concurrent and Adjuvant Temozolomide Based on Performance Status and Extent of Resection."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2021-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Outcomes in Elderly Patients with Glioblastoma Multiforme Treated with Short-Course Radiation Alone Compared to Short-Course Radiation and Concurrent and Adjuvant Temozolomide Based on Performance Status and Extent of Resection."
+      },
+      {
+        "name": "Abstract",
+        "value": "(1) Background: Studies in elderly patients over the age of 65 with glioblastoma have shown survival benefits of short-course radiation therapy with concurrent and adjuvant temozolomide, making it the standard of care adopted at Juravinski Cancer Center. Our study retrospectively examines patients with GBM aged ≥ 70 at the JCC treated with short-course radiation alone compared to those treated with short-course radiation and concurrent and adjuvant TMZ, to determine if there is a difference in outcomes based on performance status. (2) Methods: A retrospective chart review was conducted at JCC using patients diagnosed with GBM in 2014-2017 (treated with the old protocol of short-course RT alone) versus those diagnosed in 2017-2019 (treated with the new protocol of short-course radiation and TMZ). Patient demographics, treatments, outcomes, and baseline KPS were analyzed. (3) Results: No clear benefit and more neurologic decline post treatment were seen in patients with borderline performance status and subtotal resection who underwent concurrent treatment with temozolomide and radiation. The addition of temozolomide was most helpful in patients with good performance status and a gross total resection. Variable outcomes were seen in patients with mixed traits. (4) Conclusions: This study suggests that performance status and extent of resection are significant determinants of patient response to treatment. In the case of elderly patients with borderline performance status and GTR or those with good performance status and STR, also described as \"mixed traits\", it may be beneficial to pursue single modality treatment, ideally based on MGMT promoter methylation status as opposed to bimodality treatment in order to maintain the best QOL."
+      }
+    ],
+    "files": [
+      {
+        "path": "curroncol-28-00220-s001.zip",
+        "size": 64209,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Current oncology (Toronto, Ont.)"
+          },
+          {
+            "name": "Volume",
+            "value": "28(4)"
+          },
+          {
+            "name": "Pages",
+            "value": "2399-2408"
+          },
+          {
+            "name": "Publication date",
+            "value": "2021 Jun"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.3390/curroncol28040220",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC8293260",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "34206775",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Mir T"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Pond G"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Greenspoon JN"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Juravinski Cancer Center, Department of Oncology, Radiation Oncology, McMaster University, 699 Concession St., Hamilton, ON L8V5C2, Canada."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

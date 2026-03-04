@@ -1,0 +1,433 @@
+{
+  "accno": "S-EPMC5554783",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "The Impact of Cardiac Radiation Dosimetry on Survival After Radiation Therapy for Non-Small Cell Lung Cancer."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2017-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "The Impact of Cardiac Radiation Dosimetry on Survival After Radiation Therapy for Non-Small Cell Lung Cancer."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Purpose</h4>The heart receives high radiation doses during radiation therapy of advanced-stage lung cancer. We have explored associations between overall survival, cardiac radiation doses, and electrocardiographic (ECG) changes in patients treated in IDEAL-CRT, a trial of isotoxically escalated concurrent chemoradiation delivering tumor doses of 63 to 73 Gy.<h4>Methods and materials</h4>Dosimetric and survival data were analyzed for 78 patients. The whole heart, pericardium, AV node, and walls of left and right atria (LA/RA-Wall) and ventricles (LV/RV-Wall) were outlined on radiation therapy planning scans, and differential dose-volume histograms (dDVHs) were calculated. For each structure, dDVHs were approximated using the average dDVH and the 10 highest-ranked structure-specific principal components (PCs). ECGs at baseline and 6 months after radiation therapy were analyzed for 53 patients, dichotomizing patients according to presence or absence of \"any ECG change\" (conduction or ischemic/pericarditis-like change). All-cause death rate (DR) was analyzed from the start of treatment using Cox regression.<h4>Results</h4>38% of patients had ECG changes at 6 months. On univariable analysis, higher scores for LA-Wall-PC6, Heart-PC6, \"any ECG change,\" and larger planning target volume (PTV) were significantly associated with higher DR (P=.003, .009, .029, and .037, respectively). Heart-PC6 and LA-Wall-PC6 represent larger volumes of whole heart and left atrial wall receiving 63 to 69 Gy. Cardiac doses ≥63 Gy were concentrated in the LA-Wall, and consequently Heart-PC6 was highly correlated with LA-Wall-PC6. \"Any ECG change,\" LA-Wall-PC6 scores, and PTV size were retained in the multivariable model.<h4>Conclusions</h4>We found associations between higher DR and conduction or ischemic/pericarditis-like changes on ECG at 6 months, and between higher DR and higher Heart-PC6 or LA-Wall-PC6 scores, which are closely related to heart or left atrial wall volumes receiving 63 to 69 Gy in this small cohort of patients."
+      }
+    ],
+    "files": [
+      {
+        "path": "mmc1.pdf",
+        "size": 450921,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Cancer Research UK"
+          },
+          {
+            "name": "grant_id",
+            "value": "17203"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Medical Research Council"
+          },
+          {
+            "name": "grant_id",
+            "value": "MC_PC_12001/2"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Cancer Research UK"
+          },
+          {
+            "name": "grant_id",
+            "value": "8313"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Cancer Research UK"
+          },
+          {
+            "name": "grant_id",
+            "value": "C13530/A10424"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Cancer Research UK"
+          },
+          {
+            "name": "grant_id",
+            "value": "17007"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "International journal of radiation oncology, biology, physics"
+          },
+          {
+            "name": "Volume",
+            "value": "99(1)"
+          },
+          {
+            "name": "Pages",
+            "value": "51-60"
+          },
+          {
+            "name": "Publication date",
+            "value": "2017 Sep"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1016/j.ijrobp.2017.04.026",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC5554783",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "28816160",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Vivekanandan S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Landau DB"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Counsell N"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-0688-9192"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Warren DR"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0001-8025-215X"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Khwanda A"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Rosen SD"
+          },
+          {
+            "name": "affiliation",
+            "value": "o5",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Parsons E"
+          },
+          {
+            "name": "affiliation",
+            "value": "o6",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Ngai Y"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a9",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Farrelly L"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a10",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Hughes L"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a11",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Hawkins MA"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-6669-0628"
+          },
+          {
+            "name": "affiliation",
+            "value": "o7",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a12",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Fenwick JD"
+          },
+          {
+            "name": "affiliation",
+            "value": "o8",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Cancer Research UK & UCL Cancer Trials Centre Cancer Institute, University College London, London, UK."
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Cardiology, Ealing Hospital and Imperial College London, UK."
+          }
+        ]
+      },
+      {
+        "accno": "o5",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Cardiology, Ealing and Royal Brompton Hospitals & Imperial College, London, UK."
+          }
+        ]
+      },
+      {
+        "accno": "o8",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Molecular and Clinical Cancer Medicine, Institute of Translational Medicine, University of Liverpool, Liverpool, UK; Department of Physics, Clatterbridge Cancer Centre, Wirral, UK."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Oncology and CRUK MRC, Oxford Institute for Radiation Oncology, Gray Laboratories, University of Oxford, Oxford, UK."
+          }
+        ]
+      },
+      {
+        "accno": "o7",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Oncology and CRUK MRC, Oxford Institute for Radiation Oncology, Gray Laboratories, University of Oxford, Oxford, UK. Electronic address: maria.hawkins@oncology.ox.ac.uk."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Oncology, Guy's & St. Thomas' NHS Trust, King's College London, UK."
+          }
+        ]
+      },
+      {
+        "accno": "o6",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Radiotherapy Trials Quality Assurance, Mount Vernon Hospital, Middlesex, UK."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

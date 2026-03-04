@@ -1,0 +1,362 @@
+{
+  "accno": "S-EPMC8207207",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Radiation therapy for vaginal and perirectal lesions in recurrent ovarian cancer."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2021-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Radiation therapy for vaginal and perirectal lesions in recurrent ovarian cancer."
+      },
+      {
+        "name": "Abstract",
+        "value": "The role for localized radiation to treat ovarian cancer (OC) patients with locally recurrent vaginal/perirectal lesions remains unclear, though we hypothesize these patients may be salvaged locally and gain long-term survival benefit. We describe our institutional outcomes using intensity modulated radiation therapy (IMRT) +/- high-dose rate (HDR) brachytherapy to treat this population. Our primary objectives were to evaluate complete response rates of targeted lesions after radiation and calculate our 5-year in-field control (IFC) rate. Secondary objectives were to assess radiation-related toxicities, chemotherapy free-interval (CFI), as well as post-radiation progression-free (PFS) and overall survival (OS). PFS and OS were defined from radiation start to either progression or death/last follow-up, respectively. This was a heavily pre-treated cohort of 17 recurrent OC patients with a median follow-up of 28.4 months (range 4.5-166.4) after radiation completion. 52.9% had high-grade serous histology and 4 (23.5%) had isolated vaginal/perirectal disease. Four (23.5%) patients had in-field failures at 3.7, 11.2, 24.5, and 27.5 months after start of radiation, all treated with definitive dosing of radiation therapy. Patients who were platinum-sensitive prior to radiation had similar median PFS (6.5 vs. 13.4 months, log-rank p = 0.75), but longer OS (71.1 vs 18.8 months, log-rank p = 0.05) than their platinum-resistant counterparts. Excluding patients with low-grade histology or who were treated with palliative radiation, median CFI was 14.2 months (range 4.7 - 33.0). Radiation was well tolerated with 2 (12.0%) experiencing grade 3/4 gastrointestinal/genitourinary toxicities. In conclusion, radiation to treat locally recurrent vaginal/perirectal lesions in heavily pre-treated OC patients is safe and may effectively provide IFC."
+      }
+    ],
+    "files": [
+      {
+        "path": "mmc1.docx",
+        "size": 16010,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Washington University in St Louis School of Medicine"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "National Institutes of Health"
+          },
+          {
+            "name": "grant_id",
+            "value": "KL2TR002346"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "National Center for Advancing Translational Sciences"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Gynecologic oncology reports"
+          },
+          {
+            "name": "Volume",
+            "value": "37"
+          },
+          {
+            "name": "Pages",
+            "value": "100808"
+          },
+          {
+            "name": "Publication date",
+            "value": "2021 Aug"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1016/j.gore.2021.100808",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC8207207",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "34169134",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Johns EA"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Stanley JA"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Toboni MD"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Schwarz JK"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Zhang F"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Hagemann AR"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Fuh KC"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Thaker PH"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a9",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "McCourt CK"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a10",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Mutch DG"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a11",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Powell MA"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a12",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Khabele D"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a13",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kuroki LM"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Obstetrics and Gynecology, Washington University School of Medicine, St. Louis, MO, USA."
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Division of Clinical Research, Department of Gynecologic Oncology, Washington University School of Medicine, St. Louis, MO, USA."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Division of Gynecologic Oncology, Department of Obstetrics and Gynecology, Washington University School of Medicine, and Alvin J. Siteman Cancer Center, St. Louis, MO, USA."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Divisions of Clinical and Cancer Biology, Department of Radiation Oncology, Washington University School of Medicine, and Alvin J. Siteman Cancer Center, St. Louis, MO, USA."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

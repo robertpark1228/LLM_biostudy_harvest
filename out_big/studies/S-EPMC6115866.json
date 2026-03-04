@@ -1,0 +1,810 @@
+{
+  "accno": "S-EPMC6115866",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Stereotactic Body Radiation Therapy for Patients with Pulmonary Interstitial Change: High Incidence of Fatal Radiation Pneumonitis in a Retrospective Multi-Institutional Study."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2018-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Stereotactic Body Radiation Therapy for Patients with Pulmonary Interstitial Change: High Incidence of Fatal Radiation Pneumonitis in a Retrospective Multi-Institutional Study."
+      },
+      {
+        "name": "Abstract",
+        "value": "Pretreatment pulmonary interstitial change (PIC) has been indicated as a risk factor of severe radiation pneumonitis (RP) following stereotactic body radiation therapy (SBRT) for early-stage lung cancer, but details of its true effect remain unclear. This study aims to evaluate treatment outcomes of SBRT for stage I non-small cell lung cancer in patients with PIC. A total of 242 patients are included in this study (88% male). The median age is 77 years (range, 55⁻92 years). A total dose of 40⁻70 Gy is administered in 4 to 10 fractions during a 4-to-25 day period. One, two, and three-year overall survival (OS) rates are 82.1%, 57.1%, and 42.6%, respectively. Fatal RP is identified in 6.9% of all patients. The percent vital capacity <70%, mean percentage normal lung volume receiving more than 20 Gy (>10%), performance status of 2⁻4, presence of squamous cell carcinoma, clinical T2 stage, regular use of steroid before SBRT, and percentage predicting forced expiratory volume in one second (<70%) are associated with worse prognoses for OS. Our results indicate that fatal RP frequently occurs after SBRT for stage I lung cancer in patients with PIC."
+      }
+    ],
+    "links": [
+      [
+        {
+          "url": "rs1982073",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refsnp"
+            }
+          ]
+        }
+      ]
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Japan Society for the Promotion of science (JSPS)"
+          },
+          {
+            "name": "grant_id",
+            "value": "KAKENHI Grant Number JP16H05389"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Cancers"
+          },
+          {
+            "name": "Volume",
+            "value": "10(8)"
+          },
+          {
+            "name": "Publication date",
+            "value": "2018 Aug"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.3390/cancers10080257",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC6115866",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "30072613",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Onishi H"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-3512-1166"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Yamashita H"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Shioyama Y"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Matsumoto Y"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0003-2788-5198"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Takayama K"
+          },
+          {
+            "name": "affiliation",
+            "value": "o5",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Matsuo Y"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-4372-8259"
+          },
+          {
+            "name": "affiliation",
+            "value": "o6",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Miyakawa A"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0001-8056-2123"
+          },
+          {
+            "name": "affiliation",
+            "value": "o7",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Matsushita H"
+          },
+          {
+            "name": "affiliation",
+            "value": "o8",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a9",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Aoki M"
+          },
+          {
+            "name": "affiliation",
+            "value": "o9",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a10",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Nihei K"
+          },
+          {
+            "name": "affiliation",
+            "value": "o10",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a11",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kimura T"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-7779-0536"
+          },
+          {
+            "name": "affiliation",
+            "value": "o11",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a12",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Ishiyama H"
+          },
+          {
+            "name": "affiliation",
+            "value": "o12",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a13",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Murakami N"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0003-0660-9987"
+          },
+          {
+            "name": "affiliation",
+            "value": "o13",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a14",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Nakata K"
+          },
+          {
+            "name": "affiliation",
+            "value": "o14",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a15",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Takeda A"
+          },
+          {
+            "name": "affiliation",
+            "value": "o15",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a16",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Uno T"
+          },
+          {
+            "name": "affiliation",
+            "value": "o16",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a17",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Nomiya T"
+          },
+          {
+            "name": "affiliation",
+            "value": "o17",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a18",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Takanaka T"
+          },
+          {
+            "name": "affiliation",
+            "value": "o18",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a19",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Seo Y"
+          },
+          {
+            "name": "affiliation",
+            "value": "o19",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a20",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Komiyama T"
+          },
+          {
+            "name": "affiliation",
+            "value": "o20",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a21",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Marino K"
+          },
+          {
+            "name": "affiliation",
+            "value": "o21",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a22",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Aoki S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o22",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a23",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Saito R"
+          },
+          {
+            "name": "affiliation",
+            "value": "o23",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a24",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Araya M"
+          },
+          {
+            "name": "affiliation",
+            "value": "o24",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a25",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Maehata Y"
+          },
+          {
+            "name": "affiliation",
+            "value": "o25",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a26",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Tominaga L"
+          },
+          {
+            "name": "affiliation",
+            "value": "o26",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a27",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kuriyama K"
+          },
+          {
+            "name": "affiliation",
+            "value": "o27",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o5",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology and Image-Applied Therapy, Graduate School of Medicine, Kyoto University, 54 Kawaharacho, Shogoin, Sakyo-ku, Kyoto 6068507, Japan. tkym@kuhp.kyoto-u.ac.jp."
+          }
+        ]
+      },
+      {
+        "accno": "o6",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology and Image-Applied Therapy, Graduate School of Medicine, Kyoto University, 54 Kawaharacho, Shogoin, Sakyo-ku, Kyoto 6068507, Japan. ymatsuo@kuhp.kyoto-u.ac.jp."
+          }
+        ]
+      },
+      {
+        "accno": "o11",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Hiroshima University Hospital, 1-2-3, Kasumi Minami-ku, Hiroshima 7348551, Japan. tkkimura@hiroshima-u.ac.jp."
+          }
+        ]
+      },
+      {
+        "accno": "o18",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Kanazawa University, 13-1 Takaramachi, Kanazawa 9208641, Japan. takanaka@staff.kanazawa-u.ac.jp."
+          }
+        ]
+      },
+      {
+        "accno": "o12",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Kitasato University School of Medicine, 1-15-1 Kitasato, Minami, Sagamihara, Kanagawa 2520375, Japan. hishiyam@kitasato-u.ac.jp."
+          }
+        ]
+      },
+      {
+        "accno": "o13",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, National Cancer Center Hospital, 5-1-1 Tsukiji, Chuo-ku, Tokyo 1040045, Japan. namuraka@ncc.go.jp."
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Niigata Cancer Center Hospital, 2-15-3 Kawagishi, Chuo-ku, Niigata 9518566, Japan. ymatsu@niigata-cc.jp."
+          }
+        ]
+      },
+      {
+        "accno": "o19",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Osaka University Graduate School of Medicine, 2-2 (D10) Yamada-oka, Suita, Osaka 5650871, Japan. seo@radonc.med.osaka-u.ac.jp."
+          }
+        ]
+      },
+      {
+        "accno": "o14",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Sapporo Medical University, 16-291 Minami-1jyo-nishi, Chuo-ku, Sapporo-shi, Hokkaido 0608543, Japan. kensei@sapmed.ac.jp."
+          }
+        ]
+      },
+      {
+        "accno": "o8",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, School of Medicine, Tohoku University, 2-1 Seiryo-machi, Aoba-ku, Sendai, Miyagi 9808574, Japan. harumatsu2001@yahoo.co.jp."
+          }
+        ]
+      },
+      {
+        "accno": "o10",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Tokyo Metropolitan Cancer and Infectious Diseases Center Komagome Hospital, 3-18-22 Honkomagome, Bunkyo-ku, Tokyo 1138677, Japan. knihei.cick@gmail.com."
+          }
+        ]
+      },
+      {
+        "accno": "o17",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Yamagata University Faculty of Medicine, 2-2-2 Iida-Nishi, Yamagata-shi, Yamagata 9909585, Japan. t.nomiya@med.id.yamagata-u.ac.jp."
+          }
+        ]
+      },
+      {
+        "accno": "o9",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiology and Radiation Oncology, Hirosaki University School of Medicine, 5 Zaifu-cho Hirosaki city, Aomori 0368562, Japan. maoki@hirosaki-u.ac.jp."
+          }
+        ]
+      },
+      {
+        "accno": "o7",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiology, School of Medicine, Nagoya City University, 1 Kawasumi, Mizuho-cho, Mizuho-ku, Nagoya 4678601, Japan. netakky115@hotmail.com."
+          }
+        ]
+      },
+      {
+        "accno": "o24",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiology, School of Medicine, University of Yamanashi, 1110 Shimokato, Chuo, Yamanashi 4093898, Japan. ai.65718@ai-hosp.or.jp."
+          }
+        ]
+      },
+      {
+        "accno": "o22",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiology, School of Medicine, University of Yamanashi, 1110 Shimokato, Chuo, Yamanashi 4093898, Japan. aokis@yamanashi.ac.jp."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiology, School of Medicine, University of Yamanashi, 1110 Shimokato, Chuo, Yamanashi 4093898, Japan. honishi@yamanashi.ac.jp."
+          }
+        ]
+      },
+      {
+        "accno": "o27",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiology, School of Medicine, University of Yamanashi, 1110 Shimokato, Chuo, Yamanashi 4093898, Japan. kurikuriayumi@gmail.com."
+          }
+        ]
+      },
+      {
+        "accno": "o26",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiology, School of Medicine, University of Yamanashi, 1110 Shimokato, Chuo, Yamanashi 4093898, Japan. lichtt@gmail.com."
+          }
+        ]
+      },
+      {
+        "accno": "o25",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiology, School of Medicine, University of Yamanashi, 1110 Shimokato, Chuo, Yamanashi 4093898, Japan. maehata.ro@gmail.com."
+          }
+        ]
+      },
+      {
+        "accno": "o21",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiology, School of Medicine, University of Yamanashi, 1110 Shimokato, Chuo, Yamanashi 4093898, Japan. marino@yamanashi.ac.jp."
+          }
+        ]
+      },
+      {
+        "accno": "o23",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiology, School of Medicine, University of Yamanashi, 1110 Shimokato, Chuo, Yamanashi 4093898, Japan. rsaito@yamanashi.ac.jp."
+          }
+        ]
+      },
+      {
+        "accno": "o20",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiology, School of Medicine, University of Yamanashi, 1110 Shimokato, Chuo, Yamanashi 4093898, Japan. takafumi@yamanashi.ac.jp."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiology, University of Tokyo Hospital, 7-3-1 Hongo, Bunkyo-ku, Tokyo 1138655, Japan. yamachan07291973@yahoo.co.jp."
+          }
+        ]
+      },
+      {
+        "accno": "o16",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Diagnostic Radiology and Radiation Oncology, Graduate School of Medicine, Chiba University, 1-8-1 Inohana, Chuo-ku, Chiba City, Chiba 2608670, Japan. unotakas@faculty.chiba-u.jp."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Ion Beam Therapy Center, SAGA-HIMAT Foundation, 3049 Harukoga-machi, Tosu-shi, Saga 8410071, Japan. yshioyama@gmail.com."
+          }
+        ]
+      },
+      {
+        "accno": "o15",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Radiation Oncology Center, Ofuna Chuo Hospital, 6-2-24 Ofuna, Kamakura, Kanagawa 2470056, Japan. takedaatsuya@gmail.com."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

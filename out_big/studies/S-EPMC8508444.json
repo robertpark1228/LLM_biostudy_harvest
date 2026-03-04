@@ -1,0 +1,365 @@
+{
+  "accno": "S-EPMC8508444",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Anti-PD-1/Anti-PD-L1 Drugs and Radiation Therapy: Combinations and Optimization Strategies."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2021-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Anti-PD-1/Anti-PD-L1 Drugs and Radiation Therapy: Combinations and Optimization Strategies."
+      },
+      {
+        "name": "Abstract",
+        "value": "Immune checkpoint inhibitors have been associated with long-term complete responses leading to improved overall survival in several cancer types. However, these novel immunotherapies are only effective in a small proportion of patients, and therapeutic resistance represents a major limitation in clinical practice. As with chemotherapy, there is substantial evidence that radiation therapy promotes anti-tumor immune responses that can enhance systemic responses to immune checkpoint inhibitors. In this review, we discuss the main preclinical and clinical evidence on strategies that can lead to an enhanced response to PD-1/PD-L1 blockade in combination with radiation therapy. We focused on central issues in optimizing radiation therapy, such as the optimal dose and fractionation for improving the therapeutic ratio, as well as the impact on immune and clinical responses of dose rate, target volume, lymph nodes irradiation, and type of radiation particle. We explored the addition of a third immunomodulatory agent to the combination such as other checkpoint inhibitors, chemotherapy, and treatment targeting the tumor microenvironment components. The strategies described in this review provide a lead for future clinical trials."
+      }
+    ],
+    "links": [
+      [
+        {
+          "url": "NCT03391869",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT04719988",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT04050085",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT03275597",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT03765190",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT04834349",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT04671667",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT02523313",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT03818776",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT04047706",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT01421017",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT03539198",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT03267836",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT02444741",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT04894370",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        }
+      ]
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Cancers"
+          },
+          {
+            "name": "Volume",
+            "value": "13(19)"
+          },
+          {
+            "name": "Pages",
+            "value": "4893"
+          },
+          {
+            "name": "Publication date",
+            "value": "2021 Sep"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.3390/cancers13194893",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC8508444",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "34638376",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Boustani J"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Lecoester B"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Baude J"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0001-6076-3112"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Latour C"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Adotevi O"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-7742-136X"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Mirjolet C"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Truc G"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-2556-4975"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Centre Georges François Leclerc, UNICANCER, 21079 Dijon, France."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "INSERM, EFS BFC, UMR1098, RIGHT, Interactions Greffon-Hôte-Tumeur/Ingénierie Cellulaire et Génique, University of Bourgogne Franche-Comté, 25000 Besançon, France."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

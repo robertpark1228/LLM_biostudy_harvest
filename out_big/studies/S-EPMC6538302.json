@@ -1,0 +1,659 @@
+{
+  "accno": "S-EPMC6538302",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Objective Evaluation of a Didactic Curriculum for the Radiation Oncology Medical Student Clerkship."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2018-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Objective Evaluation of a Didactic Curriculum for the Radiation Oncology Medical Student Clerkship."
+      },
+      {
+        "name": "Abstract",
+        "value": "PURPOSE:A structured didactic radiation oncology clerkship curriculum for medical students is in use at multiple academic medical centers. Objective evidence supporting this educational approach over the traditional clerkship model is lacking. This study evaluated the curriculum efficacy using an objective knowledge assessment. METHODS AND MATERIALS:Medical students received the Radiation Oncology Education Collaborative Study Group (ROECSG) curriculum consisting of 3 lectures (Overview of Radiation Oncology, Radiation Biology/Physics, and Practical Aspects of Simulation/Radiation Emergencies) and a radiation oncology treatment-planning workshop. A standardized 20-item multiple choice question (MCQ) knowledge assessment was completed pre- and post-curriculum and approximately 6 months after receiving the curriculum. RESULTS:One hundred forty-six students at 22 academic medical centers completed the ROECSG curriculum from July to November 2016. One hundred nine students completed pre- and post-clerkship MCQ knowledge assessments (response rate 74.7%). Twenty-four students reported a prior rotation at a ROECSG institution and were excluded from analysis. Mean assessment scores increased from pre- to post-curriculum (63.9% vs 80.2%, P < .01). Mean MCQ knowledge subdomain assessment scores all improved post-curriculum (t test, P values < .01). Post-scores for students rotating de novo at ROECSG institutions (n = 30) were higher compared with pre-scores for students with ≥1 prior rotations at non-ROECSG institutions (n = 55) (77.3% vs 68.8%, P = .01), with an effect size of 0.8. Students who completed rotations at ROECSG institutions continued to demonstrate a trend toward improved performance on the objective knowledge assessment at approximately 6 months after curriculum exposure (70.5% vs 65.6%, P = .11). CONCLUSIONS:Objective evaluation of a structured didactic curriculum for the radiation oncology clerkship at early and late time points demonstrated significant improvement in radiation oncology knowledge. Students who completed clerkships at ROECSG institutions performed objectively better than students who completed clerkships at non-ROECSG institutions. These results support including a structured didactic curriculum as a standard component of the radiation oncology clerkship."
+      }
+    ],
+    "files": [
+      {
+        "path": "NIHMS963587-supplement-1.pdf",
+        "size": 50933,
+        "type": "file"
+      },
+      {
+        "path": "NIHMS963587-supplement-2.pdf",
+        "size": 52213,
+        "type": "file"
+      },
+      {
+        "path": "NIHMS963587-supplement-3.pdf",
+        "size": 114650,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCATS NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "UL1 TR000430"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NIGMS NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "U54 GM104942"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "International journal of radiation oncology, biology, physics"
+          },
+          {
+            "name": "Volume",
+            "value": "101(5)"
+          },
+          {
+            "name": "Pages",
+            "value": "1039-1045"
+          },
+          {
+            "name": "Publication date",
+            "value": "2018 Aug"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1016/j.ijrobp.2018.04.052",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "10.1016/j.ijrobp.2018.04.052",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC6538302",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "29908787",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Golden DW"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-2808-722X"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kauffmann GE"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "McKillip RP"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Farnan JM"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Park YS"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0001-8583-4335"
+          },
+          {
+            "name": "affiliation",
+            "value": "o5",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Schwartz A"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0003-3809-6637"
+          },
+          {
+            "name": "affiliation",
+            "value": "o5",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Radiation Oncology Education Collaborative Study Group"
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Hirsch AE"
+          }
+        ]
+      },
+      {
+        "accno": "a9",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Warren LE"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-7418-6405"
+          }
+        ]
+      },
+      {
+        "accno": "a10",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Spektor A"
+          }
+        ]
+      },
+      {
+        "accno": "a11",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Rudra S"
+          }
+        ]
+      },
+      {
+        "accno": "a12",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Jimenez RB"
+          }
+        ]
+      },
+      {
+        "accno": "a13",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Colbert LE"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0001-5806-4339"
+          }
+        ]
+      },
+      {
+        "accno": "a14",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Gunther JR"
+          }
+        ]
+      },
+      {
+        "accno": "a15",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Das P"
+          }
+        ]
+      },
+      {
+        "accno": "a16",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Wu AJ"
+          }
+        ]
+      },
+      {
+        "accno": "a17",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Du K"
+          }
+        ]
+      },
+      {
+        "accno": "a18",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kruser TJ"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-6006-2372"
+          }
+        ]
+      },
+      {
+        "accno": "a19",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Nabavizadeh N"
+          }
+        ]
+      },
+      {
+        "accno": "a20",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Thomas CR"
+          }
+        ]
+      },
+      {
+        "accno": "a21",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Hara W"
+          }
+        ]
+      },
+      {
+        "accno": "a22",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "McDonald A"
+          }
+        ]
+      },
+      {
+        "accno": "a23",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Chang EM"
+          }
+        ]
+      },
+      {
+        "accno": "a24",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Braunstein S"
+          }
+        ]
+      },
+      {
+        "accno": "a25",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Chmura SJ"
+          }
+        ]
+      },
+      {
+        "accno": "a26",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Amsbaugh MJ"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0003-1268-3569"
+          }
+        ]
+      },
+      {
+        "accno": "a27",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Yechieli R"
+          }
+        ]
+      },
+      {
+        "accno": "a28",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Takita C"
+          }
+        ]
+      },
+      {
+        "accno": "a29",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Dean M"
+          }
+        ]
+      },
+      {
+        "accno": "a30",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Asher D"
+          }
+        ]
+      },
+      {
+        "accno": "a31",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Taunk NK"
+          }
+        ]
+      },
+      {
+        "accno": "a32",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Vargo JA"
+          }
+        ]
+      },
+      {
+        "accno": "a33",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Beriwal S"
+          }
+        ]
+      },
+      {
+        "accno": "a34",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Ye JC"
+          }
+        ]
+      },
+      {
+        "accno": "a35",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Ballas L"
+          }
+        ]
+      },
+      {
+        "accno": "a36",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Ballo MT"
+          }
+        ]
+      },
+      {
+        "accno": "a37",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Brower JV"
+          }
+        ]
+      },
+      {
+        "accno": "a38",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Bradley KA"
+          }
+        ]
+      },
+      {
+        "accno": "a39",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Rao YJ"
+          }
+        ]
+      },
+      {
+        "accno": "a40",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Stahl JM"
+          }
+        ]
+      },
+      {
+        "accno": "a41",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Higgins SA"
+          }
+        ]
+      },
+      {
+        "accno": "o5",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Medical Education, University of Illinois at Chicago, Chicago, Illinois."
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Medicine, University of Chicago, Chicago, Illinois."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation and Cellular Oncology, University of Chicago, Chicago, Illinois."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation and Cellular Oncology, University of Chicago, Chicago, Illinois. Electronic address: dgolden@radonc.uchicago.edu."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Pritzker School of Medicine, University of Chicago, Chicago, Illinois."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

@@ -1,0 +1,217 @@
+{
+  "accno": "S-EPMC4638209",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Longitudinal Trends in Costs of Palliative Radiation for Metastatic Prostate Cancer."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2015-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Longitudinal Trends in Costs of Palliative Radiation for Metastatic Prostate Cancer."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Background</h4>In recent years, palliative treatment of prostate cancer metastases has been characterized by the use of more complex radiation treatment, despite a lack of evidence demonstrating a clinical benefit of these technologies in the palliative setting. The impact of adoption of these technologies on the costs of palliative radiation treatment in patients with metastatic prostate cancer remains poorly understood in the general patient population.<h4>Methods</h4>The study was a retrospective analysis of Surveillance, Epidemiology and End Results (SEER) Medicare data of men aged 66 and older who died from metastatic prostate cancer between 2000 and 2007 and received radiation therapy for bony metastases in the last year of life. Direct costs were obtained from Medicare carrier and outpatient facility payments for all radiation treatment claims and adjusted to 2008 dollars.<h4>Results</h4>A total of 1705 men met study inclusion criteria. Total Medicare payments for radiation therapy for bony metastases in the last year of life increased by 44.4% from an average of $2,763 in 2000 to $3,989 in 2007, with the proportion of all payments accrued within hospital-based settings increasing from 48% to 57%. Complexity of radiation therapy techniques over the same period was characterized by use of less simple (30.1% to 23.3%) and more complex (59.9% versus 66.7%) radiation therapy. From 2000-2003 to 2004-2007, the use of shorter treatment courses (≤5 fractions) decreased from 22% to 14%, and the use of single fraction treatment courses decreased by half (6.3% to 2.9%; P≤.001).<h4>Conclusions</h4>Between 2000 and 2007, palliative radiation therapy for bony prostate cancer metastases was characterized by the use of more advanced treatment technologies and prolonged radiation treatment courses. Further research investigating barriers to cost-effective palliation is warranted."
+      }
+    ],
+    "files": [
+      {
+        "path": "Supp_Table1.pdf",
+        "size": 21608,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "RC2CA148463"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Journal of palliative medicine"
+          },
+          {
+            "name": "Volume",
+            "value": "18(11)"
+          },
+          {
+            "name": "Pages",
+            "value": "933-9"
+          },
+          {
+            "name": "Publication date",
+            "value": "2015 Nov"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1089/jpm.2015.0171",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "10.1089/jpm.2015.0171",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC4638209",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "26241733",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Robinson TJ"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Dinan MA"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Li Y"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Lee WR"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-3545-0170"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Reed SD"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "1 Department of Radiation Oncology, Duke University School of Medicine , Durham, North Carolina."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "2 Duke Clinical Research Institute, Duke University School of Medicine , Durham, North Carolina."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

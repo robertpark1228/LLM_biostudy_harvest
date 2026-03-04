@@ -1,0 +1,155 @@
+{
+  "accno": "S-EPMC7483540",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Local heating of radiation belt electrons to ultra-relativistic energies."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2020-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Local heating of radiation belt electrons to ultra-relativistic energies."
+      },
+      {
+        "name": "Abstract",
+        "value": "Electrically charged particles are trapped by the Earth's magnetic field, forming the Van Allen radiation belts. Observations show that electrons in this region can have energies in excess of 7 MeV. However, whether electrons at these ultra-relativistic energies are locally accelerated, arise from betatron and Fermi acceleration due to transport across the magnetic field, or if a combination of both mechanisms is required, has remained an unanswered question in radiation belt physics. Here, we present a unique way of analyzing satellite observations which demonstrates that local acceleration is capable of heating electrons up to 7 MeV. By considering the evolution of phase space density peaks in magnetic coordinate space, we observe distinct signatures of local acceleration and the subsequent outward radial diffusion of ultra-relativistic electron populations. The results have important implications for understanding the origin of ultra-relativistic electrons in Earth's radiation belts, as well as in magnetized plasmas throughout the solar system."
+      }
+    ],
+    "files": [
+      {
+        "path": "41467_2020_18053_MOESM1_ESM.pdf",
+        "size": 26053657,
+        "type": "file"
+      },
+      {
+        "path": "41467_2020_18053_MOESM2_ESM.pdf",
+        "size": 3168684,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Nature communications"
+          },
+          {
+            "name": "Volume",
+            "value": "11(1)"
+          },
+          {
+            "name": "Pages",
+            "value": "4533"
+          },
+          {
+            "name": "Publication date",
+            "value": "2020 Sep"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1038/s41467-020-18053-z",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC7483540",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "32913216",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Allison HJ"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-6665-2023"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Shprits YY"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "GFZ German Research Centre for Geosciences, 14473, Potsdam, Germany."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "GFZ German Research Centre for Geosciences, 14473, Potsdam, Germany. haylis@gfz-potsdam.de."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

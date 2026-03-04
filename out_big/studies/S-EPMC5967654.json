@@ -1,0 +1,247 @@
+{
+  "accno": "S-EPMC5967654",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "PEGylated IL-11 (BBT-059): A Novel Radiation Countermeasure for Hematopoietic Acute Radiation Syndrome."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2018-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "PEGylated IL-11 (BBT-059): A Novel Radiation Countermeasure for Hematopoietic Acute Radiation Syndrome."
+      },
+      {
+        "name": "Abstract",
+        "value": "Interleukin-11 was developed to reduce chemotherapy-induced thrombocytopenia; however, its clinical use was limited by severe adverse effects in humans. PEGylated interleukin-11 (BBT-059), developed by Bolder Biotechnology, Inc., exhibited a longer half-life in rodents and induced longer-lasting increases in hematopoietic cells than interleukin-11. A single dose of 1.2 mg kg of BBT-059, administered subcutaneously to CD2F1 mice (12-14 wk, male) was found to be safe in a 14 d toxicity study. The drug demonstrated its efficacy both as a prophylactic countermeasure and a mitigator in CD2F1 mice exposed to Co gamma total-body irradiation. A single dose of 0.3 mg kg, administered either 24 h pre-, 4 h post-, or 24 h postirradiation increased the survival of mice to 70-100% from lethal doses of radiation. Preadministration (-24 h) of the drug conferred a significantly (p < 0.05) higher survival compared to 24 h post-total-body irradiation. There was significantly accelerated recovery from radiation-induced peripheral blood neutropenia and thrombocytopenia in animals pretreated with BBT-059. The drug also increased bone marrow cellularity and megakaryocytes and accelerated multilineage hematopoietic recovery. In addition, BBT-059 inhibited the induction of radiation-induced hematopoietic biomarkers, thrombopoietin, erythropoietin, and Flt-3 ligand. These results indicate that BBT-059 is a promising radiation countermeasure, demonstrating its potential to be used both pre- and postirradiation for hematopoietic acute radiation syndrome with a broad window for medical management in a radiological or nuclear event."
+      }
+    ],
+    "files": [
+      {
+        "path": "NIHMS928022-supplement-Suppl_Fig_1.tif",
+        "size": 6927048,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NIAID NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "AAI12044001"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Health physics"
+          },
+          {
+            "name": "Volume",
+            "value": "115(1)"
+          },
+          {
+            "name": "Pages",
+            "value": "65-76"
+          },
+          {
+            "name": "Publication date",
+            "value": "2018 Jul"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1097/HP.0000000000000841",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "10.1097/hp.0000000000000841",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC5967654",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "29787432",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kumar VP"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Biswas S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Sharma NK"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Stone S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Fam CM"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Cox GN"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Ghosh SP"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-0261-460X"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Armed Forces Radiobiology Research Institute, Uniformed Services University of the Health Sciences, 8901 Wisconsin Av., Bethesda, MD 20889."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Bolder Biotechnology, 2425 55th St., Suite 201, Boulder, CO 80301."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

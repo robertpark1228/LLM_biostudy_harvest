@@ -1,0 +1,359 @@
+{
+  "accno": "S-EPMC6460234",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Single-fraction Stereotactic Body Radiation Therapy versus Conventionally Fractionated Radiation Therapy for the Treatment of Prostate Cancer Bone Metastases."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2019-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Single-fraction Stereotactic Body Radiation Therapy versus Conventionally Fractionated Radiation Therapy for the Treatment of Prostate Cancer Bone Metastases."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Purpose</h4>This study aimed to compare outcomes of patients with prostate cancer with bone metastases treated with stereotactic body radiation therapy (SBRT) versus conventionally fractionated radiation therapy (CFRT).<h4>Methods and materials</h4>An institutional, retrospective review was conducted of patients with prostate cancer receiving radiation therapy to bone metastases. In-field failure (IFF) was the primary outcome of the study, and distant failure (DF) and biochemical failure (BF) were secondary outcomes.<h4>Results</h4>A total of 249 metastases (191 SBRT; 58 CFRT) in 201 patients with a median follow-up of 2.2 years were analyzed. The SBRT prescription dose was predominantly 18 Gy (45.5%) or 20 Gy (46.6%) in a single fraction. CFRT was given either as 8 Gy in 1 fraction (56.9%) or 20 Gy in 5 fractions (41.4%). Imaging follow up was performed most frequently with <sup>11</sup>C-choline positron emission tomography/computed tomography (79%) or bone scan (10%). The median time to IFF was 1.6 years for CFRT-treated lesions and not met (>4.4 years) for SBRT. The 1- and 3-year IFF estimates were 34.4% (95% confidence interval [CI], 19.9-46.2) and 53.3% (95% CI, 34.3-66.8) for lesions treated with CFRT compared with 4.5% (95% CI, 1.4-7.5) and 12.9% (95% CI, 6.6-18-8) for those treated with SBRT (<i>P</i> < .01). On multivariate regression, the hazard ratio (HR) for IFF with CFRT compared with SBRT was 6.8 (95% CI, 3.7-12.5; <i>P</i> < .01). There were nonsignificant reduced rates of BF (HR, 1.4; 95% CI, 1.0-2.1; <i>P</i> = .05) and DF (HR, 1.3; 95% CI, 1.0-1.8; <i>P</i> = .08) in patients who received SBRT. The 3-year BF and DF estimates in these patients were 88.6% (95% CI, 82.0-92.8) and 82.2% (95% CI, 74.5-87.6), respectively.<h4>Conclusions</h4>SBRT for the management of prostate cancer bone metastases significantly reduces radiographic IFF. However, the high rate of subsequent DF and BF highlights the challenges in selecting patients who may benefit from aggressive radiation therapy."
+      }
+    ],
+    "links": [
+      [
+        {
+          "url": "NCT02685397",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT02759783",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT02364557",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT03143322",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT00922974",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT02417662",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        }
+      ]
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "National Cancer Institute"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "R01 CA200551"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Advances in radiation oncology"
+          },
+          {
+            "name": "Volume",
+            "value": "4(2)"
+          },
+          {
+            "name": "Pages",
+            "value": "314-322"
+          },
+          {
+            "name": "Publication date",
+            "value": "2019 Apr-Jun"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1016/j.adro.2019.02.002",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC6460234",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "31011676",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Gao RW"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Olivier KR"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Park SS"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Davis BJ"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Pisansky TM"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Choo R"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kwon ED"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Karnes RJ"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a9",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Harmsen WS"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a10",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Stish BJ"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Biomedical Statistics and Informatics, Mayo Clinic, Rochester, Minnesota."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Mayo Clinic, Rochester, Minnesota."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Urology, Mayo Clinic, Rochester, Minnesota."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Medical School, University of Minnesota, Minneapolis, Minnesota."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

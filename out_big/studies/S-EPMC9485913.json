@@ -1,0 +1,250 @@
+{
+  "accno": "S-EPMC9485913",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Adoption of respiratory motion management in radiation therapy."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2022-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Adoption of respiratory motion management in radiation therapy."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Background and purpose</h4>A survey on the patterns of practice of respiratory motion management (MM) was distributed to 111 radiation therapy facilities to inform the development of an end-to-end dosimetry audit including respiratory motion.<h4>Materials and methods</h4>The survey (distributed via REDCap) asked facilities to provide information specific to the combinations of MM techniques (breath-hold gating - BHG, internal target volume - ITV, free-breathing gating - FBG, mid-ventilation - MidV, tumour tracking - TT), sites treated (thorax, upper abdomen, lower abdomen), and fractionation regimes (conventional, stereotactic ablative body radiation therapy - SABR) used in their clinic.<h4>Results</h4>The survey was completed by 78% of facilities, with 98% of respondents indicating that they used at least one form of MM. The ITV approach was common to all MM-users, used for thoracic treatments by 89% of respondents, and upper and lower abdominal treatments by 38%. BHG was the next most prevalent (41% of MM users), with applications in upper abdominal and thoracic treatment sites (28% vs 25% respectively), but minimal use in the lower abdomen (9%). FBG and TT were utilised sparingly (17%, 7% respectively), and MidV was not selected at all.<h4>Conclusions</h4>Two distinct treatment workflows (including use of motion limitation, imaging used for motion assessment, dose calculation, and image guidance procedures) were identified for the ITV and BHG MM techniques, to form the basis of the initial audit. Thoracic SABR with the ITV approach was common to nearly all respondents, while upper abdominal SABR using BHG stood out as more technically challenging. Other MM techniques were sparsely used, but may be considered for future audit development."
+      }
+    ],
+    "files": [
+      {
+        "path": "mmc1.pdf",
+        "size": 1677052,
+        "type": "file"
+      },
+      {
+        "path": "mmc2.csv",
+        "size": 621193,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Varian Medical Systems"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Physics and imaging in radiation oncology"
+          },
+          {
+            "name": "Volume",
+            "value": "24"
+          },
+          {
+            "name": "Pages",
+            "value": "21-29"
+          },
+          {
+            "name": "Publication date",
+            "value": "2022 Oct"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1016/j.phro.2022.09.003",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC9485913",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "36148153",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Burton A"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Beveridge S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Hardcastle N"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Lye J"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Sanagou M"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Franich R"
+          },
+          {
+            "name": "affiliation",
+            "value": "o5",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Australian Clinical Dosimetry Service (ACDS), Australian Radiation Protection and Nuclear Safety Agency (ARPANSA), Melbourne, Australia."
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Diagnostic Imaging, Australian Radiation Protection and Nuclear Safety Agency (ARPANSA), Yallambie, Australia."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Olivia Newton John Cancer and Wellness Centre (ONJCWC), Heidelberg, Australia."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Peter MacCallum Cancer Centre, Melbourne, Australia."
+          }
+        ]
+      },
+      {
+        "accno": "o5",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "School of Science, RMIT University, Melbourne, Australia."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

@@ -1,0 +1,447 @@
+{
+  "accno": "S-EPMC6838141",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Theranostic nanoparticles enhance the response of glioblastomas to radiation."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2019-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Theranostic nanoparticles enhance the response of glioblastomas to radiation."
+      },
+      {
+        "name": "Abstract",
+        "value": "Despite considerable progress with our understanding of glioblastoma multiforme (GBM) and the precise delivery of radiotherapy, the prognosis for GBM patients is still unfavorable with tumor recurrence due to radioresistance being a major concern. We recently developed a cross-linked iron oxide nanoparticle conjugated to azademethylcolchicine (CLIO-ICT) to target and eradicate a subpopulation of quiescent cells, glioblastoma initiating cells (GICs), which could be a reason for radioresistance and tumor relapse. The purpose of our study was to investigate if CLIO-ICT has an additive therapeutic effect to enhance the response of GBMs to ionizing radiation. Methods: NSG™ mice bearing human GBMs and C57BL/6J mice bearing murine GBMs received CLIO-ICT, radiation, or combination treatment. The mice underwent pre- and post-treatment magnetic resonance imaging (MRI) scans, bioluminescence imaging (BLI), and histological analysis. Tumor nanoparticle enhancement, tumor flux, microvessel density, GIC, and apoptosis markers were compared between different groups using a one-way ANOVA and two-tailed Mann-Whitney test. Additional NSG™ mice underwent survival analyses with Kaplan-Meier curves and a log rank (Mantel-Cox) test. Results: At 2 weeks post-treatment, BLI and MRI scans revealed significant reduction in tumor size for CLIO-ICT plus radiation treated tumors compared to monotherapy or vehicle-treated tumors. Combining CLIO-ICT with radiation therapy significantly decreased microvessel density, decreased GICs, increased caspase-3 expression, and prolonged the survival of GBM-bearing mice. CLIO-ICT delivery to GBM could be monitored with MRI. and was not significantly different before and after radiation. There was no significant caspase-3 expression in normal brain at therapeutic doses of CLIO-ICT administered. Conclusion: Our data shows additive anti-tumor effects of CLIO-ICT nanoparticles in combination with radiotherapy. The combination therapy proposed here could potentially be a clinically translatable strategy for treating GBMs."
+      }
+    ],
+    "files": [
+      {
+        "path": "ntnov03p0299s1.pdf",
+        "size": 825926,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "P30 CA124435"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Nanotheranostics"
+          },
+          {
+            "name": "Volume",
+            "value": "3(4)"
+          },
+          {
+            "name": "Pages",
+            "value": "299-310"
+          },
+          {
+            "name": "Publication date",
+            "value": "2019"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.7150/ntno.35342",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC6838141",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "31723547",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Wu W"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Klockow JL"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Mohanty S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Ku KS"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-5435-7393"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Aghighi M"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Melemenidis S"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-3941-8784"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Chen Z"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Li K"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a9",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Morais GR"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a10",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Zhao N"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0003-0173-3794"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a11",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Schlegel J"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-5544-2717"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a12",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Graves EE"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0003-4265-9041"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a13",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Rao J"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a14",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Loadman PM"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-4259-8616"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a15",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Falconer RA"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-6426-4430"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a16",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Mukherjee S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a17",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Chin FT"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a18",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Daldrup-Link HE"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Neuropathology, School of Medicine, Technical University of Munich, Munich, Germany."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Stanford University, Stanford, CA, USA."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiology, Molecular Imaging Program at Stanford, Stanford University, Stanford, CA, USA."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Institute of Cancer Therapeutics, Faculty of Life Sciences, University of Bradford, Bradford, UK."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

@@ -1,0 +1,309 @@
+{
+  "accno": "S-EPMC8287426",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Construction and Verification of a Radiation Pneumonia Prediction Model Based on Multiple Parameters."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2021-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Construction and Verification of a Radiation Pneumonia Prediction Model Based on Multiple Parameters."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Objective</h4>Patients with lung cancer are at risk of radiation pneumonia (RP) after receiving radiotherapy. We established a prediction model according to the critical indicators extracted from radiation pneumonia patients.<h4>Materials and methods</h4>74 radiation pneumonia patients were involved in the training set. Firstly, the clinical data, hematological and radiation dose parameters of the 74 patients were screened by Logistics regression univariate analysis according to the level of radiation pneumonia. Next, Stepwise regression analysis was utilized to construct the regression model. Then, the influence of continuous variables on RP was tested by smoothing function. Finally, the model was externally verified by 30 patients in validation set and visualized by R code.<h4>Results</h4>In the training set, there was 40 patients suffered≥ level 2 acute radiation pneumonia. Clinical data (diabetes), blood indexes (lymphocyte percentage, basophil percentage, platelet count) and radiation dose (V15 > 40%, V20 > 30%, V35 >18%, V40 > 15%) were related to radiation pneumonia (<i>P</i> < 0.05). Particularly, stepwise regression analysis indicated that the history of diabetes, the basophils percentage, platelet count and V20 could be the best combination used for predicting radiation pneumonia. The column chart was obtained by fitting the regression model with the combined indicator. The receiver operating characteristic (ROC) curve showed that the AUC in the development term was 0.853, the AUC was 0.656 in the validation term. And calibration curves of both groups showed the high stability in efficiently diagnostic. Furthermore, the DCA curve showed that the model had a satisfactory positive net benefit.<h4>Conclusion</h4>The combination of the basophils percentage, platelet count and V20 is available to build a predictive model of radiation pneumonia for patients with advanced lung cancer."
+      }
+    ],
+    "files": [
+      {
+        "path": "sj-tif-1-ccx-10.1177_10732748211026671.tif",
+        "size": 2102096,
+        "type": "file"
+      },
+      {
+        "path": "sj-xlsx-1-ccx-10.1177_10732748211026671.xlsx",
+        "size": 9452,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Top Talents Program of Disciplines (Majors) in Colleges and Universities of Anhui Province"
+          },
+          {
+            "name": "grant_id",
+            "value": "gxbjZD12"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Cancer control : journal of the Moffitt Cancer Center"
+          },
+          {
+            "name": "Volume",
+            "value": "28"
+          },
+          {
+            "name": "Pages",
+            "value": "10732748211026671"
+          },
+          {
+            "name": "Publication date",
+            "value": "2021 Jan-Dec"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1177/10732748211026671",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC8287426",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "34263661",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Yafeng L"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Jing W"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Jiawei Z"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Yingru X"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Xin Z"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Danting L"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Jun X"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Chang T"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a9",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Min M"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a10",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Xuansheng D"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a11",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Dong H"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Affiliated Cancer Hospital, Anhui University of Science and Technology, Huainan, People's Republic of China."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Anhui Province Engineering Laboratory of Occupational Health and Safety, Anhui University of Science and Technology, Huainan, People's Republic of China."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "School of Medicine, Anhui University of Science and Technology, Huainan, People's Republic of China."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

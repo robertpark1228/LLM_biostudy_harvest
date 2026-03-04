@@ -1,0 +1,590 @@
+{
+  "accno": "S-EPMC7948830",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Practice patterns for postoperative radiation therapy in patients with metastases to the long bones: a survey of the Japanese Radiation Oncology Study Group."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2021-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Practice patterns for postoperative radiation therapy in patients with metastases to the long bones: a survey of the Japanese Radiation Oncology Study Group."
+      },
+      {
+        "name": "Abstract",
+        "value": "Evidence regarding postoperative radiation therapy (PORT) for metastases to the long bones is lacking. Characterizing the current practice patterns and identifying factors that influence dose-fractionation schedules are essential for future clinical trials. An internet-based survey of the palliative RT subgroup of the Japanese Radiation Oncology Study Group was performed in 2017 to collect data regarding PORT prescription practices and dose-fractionation schedules. Responders were also asked to recommend dose-fractionation schedules for four hypothetical cases that involved a patient with impending pathological fractures and one of four clinical features (poor prognosis, solitary metastasis, radio-resistant primary tumor or expected long-term survival). Responders were asked to indicate their preferred irradiation fields and the reasons for the dose fractionation schedule they chose. Responses were obtained from 89 radiation oncologists (67 institutions and 151 RT plans) who used 22 dose-fractionation schedules, with the most commonly used and recommended schedule being 30 Gy in 10 fractions. Local control was the most common reason for preferring longer-course RT. High-dose fractionated schedules were preferred for oligometastasis, and low-dose regimens were preferred for patients with a poor prognosis; however, single-fraction RT was not preferred. Most respondents recommended targeting the entire orthopedic prosthesis. These results indicated that PORT using 30 Gy in 10 fractions to the entire orthopedic prosthesis is preferred in current Japanese practice and that single-fraction RT was not preferred. Oligometastasis and poor prognosis influenced the selection of high- or low-dose regimens."
+      }
+    ],
+    "files": [
+      {
+        "path": "jrr_revised_supplemental_table1_rraa133.docx",
+        "size": 18601,
+        "type": "file"
+      },
+      {
+        "path": "jrr_revised_supplemental_table2_rraa133.docx",
+        "size": 18678,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Japanese Radiation Oncology Study Group"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Journal of radiation research"
+          },
+          {
+            "name": "Volume",
+            "value": "62(2)"
+          },
+          {
+            "name": "Pages",
+            "value": "356-363"
+          },
+          {
+            "name": "Publication date",
+            "value": "2021 Mar"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1093/jrr/rraa133",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC7948830",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "33454759",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kubota H"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Nakamura N"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Shikama N"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Tonari A"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Wada H"
+          },
+          {
+            "name": "affiliation",
+            "value": "o5",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Harada H"
+          },
+          {
+            "name": "affiliation",
+            "value": "o6",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Nagakura H"
+          },
+          {
+            "name": "affiliation",
+            "value": "o7",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Heianna J"
+          },
+          {
+            "name": "affiliation",
+            "value": "o8",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a9",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Ito K"
+          },
+          {
+            "name": "affiliation",
+            "value": "o9",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a10",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Nozaki M"
+          },
+          {
+            "name": "affiliation",
+            "value": "o10",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a11",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Tago M"
+          },
+          {
+            "name": "affiliation",
+            "value": "o11",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a12",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Fushiki M"
+          },
+          {
+            "name": "affiliation",
+            "value": "o12",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a13",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Uchida N"
+          },
+          {
+            "name": "affiliation",
+            "value": "o13",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a14",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Araki N"
+          },
+          {
+            "name": "affiliation",
+            "value": "o14",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a15",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Sekii S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a16",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kosugi T"
+          },
+          {
+            "name": "affiliation",
+            "value": "o15",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a17",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Takahashi T"
+          },
+          {
+            "name": "affiliation",
+            "value": "o16",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a18",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kawamoto T"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a19",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Saito T"
+          },
+          {
+            "name": "affiliation",
+            "value": "o17",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a20",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Yamada K"
+          },
+          {
+            "name": "affiliation",
+            "value": "o18",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o17",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Arao Municipal Hospital, 2600 Arao, Arao City, Kumamoto 864-0041, Japan."
+          }
+        ]
+      },
+      {
+        "accno": "o10",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Dokkyo Medical University Saitama Medical Center, 2-1-50 Minamikoshigaya, Koshigaya, Saitama, Japan."
+          }
+        ]
+      },
+      {
+        "accno": "o15",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Fujieda Municipal General Hospital, 4-1-11 Surugadai, Fujieda City, Shizuoka Prefecture 426-8677, Japan."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Juntendo University Hospital, 3-1-3 Hongo, Bunkyo-ku, Tokyo 113-8431, Japan."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Kobe University Hospital, 7-5-2 Kusunoki-cho, Chuo-ku, Kobe City, Hyogo Prefecture 650-0017, Japan."
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Kyorin University Hospital, 6-20-2 Shinkawa, Mitaka-shi, Tokyo 181-8611, Japan."
+          }
+        ]
+      },
+      {
+        "accno": "o14",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Kyoto Medical Center, 1-1 Fukakusamukaihatacho, Fushimi-ku, Kyoto-shi, Kyoto 612-8555, Japan."
+          }
+        ]
+      },
+      {
+        "accno": "o12",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Nagahama City Hospital, 313 Oinuicho, Nagahama, Shiga 526-8580, Japan."
+          }
+        ]
+      },
+      {
+        "accno": "o8",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Ryukyu University Hospital."
+          }
+        ]
+      },
+      {
+        "accno": "o16",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Saitama Medical University Saitama Medical Center, 1981 kamoda,kawagoeshi, saitama 350-8550, Japan."
+          }
+        ]
+      },
+      {
+        "accno": "o18",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Seirei Mikatahara General Hospital, 3453 Mikatahara-cho, Kita-ku, Hamamatsu, Shizuoka 433-8558, Japan."
+          }
+        ]
+      },
+      {
+        "accno": "o5",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Southern TOHOKU Proton Therapy Center, 172-7, Yatsuyamada,Koriyama,Fukushima 963-8563, Japan."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, St. Marianna University School of Medicine, 2-16-1 Sugao Kawasaki City, Kanagawa prefecture 216-8511, Japan."
+          }
+        ]
+      },
+      {
+        "accno": "o9",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Tokyo Metropolitan Cancer and Infectious Diseases Center Komagome Hospital, 3-18-22 Honkomagome, Bunkyo-ku, Tokyo 113-8677, Japan."
+          }
+        ]
+      },
+      {
+        "accno": "o13",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Tokyo Saiseikai Central Hospital, 1-4-17 Mita, Minato-ku, Tokyo 108-0073, Japan."
+          }
+        ]
+      },
+      {
+        "accno": "o7",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiology, KKR Sapporo Medical Center, 6-3-40 Hiragishi-1, Toyohira-ku, Sapporo 062-0931, Japan."
+          }
+        ]
+      },
+      {
+        "accno": "o11",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiology, Teikyo University Mizonokuchi Hospital, 3-8-3, Mizokuchi, Takatsu-ku, Kawasaki city, Kanagawa pref., Japan."
+          }
+        ]
+      },
+      {
+        "accno": "o6",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Division of Radiation Therapy, Radiation and Proton Therapy Center, Shizuoka Cancer Center Hospital, 1007 Shimonagakubo, Nagaizumi-cho, Sunto-gun, Shizuoka Prefecture 411-8777, Japan."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

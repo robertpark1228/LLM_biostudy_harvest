@@ -1,0 +1,231 @@
+{
+  "accno": "S-EPMC8425201",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Effect of EG00229 on Radiation Resistance of Lung Adenocarcinoma Cells."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2021-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Effect of EG00229 on Radiation Resistance of Lung Adenocarcinoma Cells."
+      },
+      {
+        "name": "Abstract",
+        "value": "<b>Background:</b> Neuropilin 1 (NRP1) is a pleiotropic receptor that interacts with multiple ligands and their receptors and plays a critical role in the process of tumor metastasis and radiation resistance in endothelial cells and tumor cells. In this study, we sought to investigate the mechanistic role of NRP1 in the radiation resistance of non-small cell lung cancer (NSCLC) cells and the role of EG00229 (an inhibitor of NRP1) on reversing radiation resistance. <b>Materials and Methods:</b> A549 and H1299 NSCLC cells were used to construct radiation resistance models. Western blot, ELISA, and qRT-PCR were used to detect protein and mRNA levels of NRP1, epithelial-mesenchymal transition (EMT) markers, and molecules in signaling pathways. Immunofluorescence was used to measure changes in co-expression of NRP1 and VEGF-165 in radiation-resistant model cells. An immunoprecipitation assay was used to detect the binding capacity of NRP1 and VEGF-165. <b>Results:</b> We successfully created two radiation resistant models (A549RR and H1299-RR). The expression levels of NRP1, EMT-related proteins, and proteins in metastasis-related pathways were increased in NSCLC cells with radiation resistance. After adding EG00229, the expression levels and binding capacity of NRP1 and VEGF-165 proteins were significantly reduced. The expression of EMT-related proteins and proteins in metastasis-related pathways were reduced in NSCLC cells with radiation resistance. <b>Conclusion:</b> Our data provide an insight into the molecular mechanisms of radiation resistance and suggest that EG00229 may contribute to reversing the radiation resistance of NSCLC cells by inhibiting the binding of NRP1 and VEGF-165. Our findings could provide a novel theoretical and experimental foundation for improving the efficacy of lung cancer radiotherapy."
+      }
+    ],
+    "files": [
+      {
+        "path": "jcav12p6105s1.pdf",
+        "size": 122252,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Journal of Cancer"
+          },
+          {
+            "name": "Volume",
+            "value": "12(20)"
+          },
+          {
+            "name": "Pages",
+            "value": "6105-6117"
+          },
+          {
+            "name": "Publication date",
+            "value": "2021"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.7150/jca.56123",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC8425201",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "34539883",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Cong L"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Yi J"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Qiu S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Wang R"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Jin S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Jiang R"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Cong X"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Dermatology, China-Japan Union Hospital, Jilin University, Changchun 130033, Jilin, China."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "NHC Key Laboratory of Radiobiology, School of Public Health, Jilin University, Changchun, 130021, China."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Tissue Bank, China-Japan Union Hospital, Jilin University, Changchun 130033, Jilin, China."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

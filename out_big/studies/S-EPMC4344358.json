@@ -1,0 +1,390 @@
+{
+  "accno": "S-EPMC4344358",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Radiation damage to nucleoprotein complexes in macromolecular crystallography."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2015-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Radiation damage to nucleoprotein complexes in macromolecular crystallography."
+      },
+      {
+        "name": "Abstract",
+        "value": "Significant progress has been made in macromolecular crystallography over recent years in both the understanding and mitigation of X-ray induced radiation damage when collecting diffraction data from crystalline proteins. In contrast, despite the large field that is productively engaged in the study of radiation chemistry of nucleic acids, particularly of DNA, there are currently very few X-ray crystallographic studies on radiation damage mechanisms in nucleic acids. Quantitative comparison of damage to protein and DNA crystals separately is challenging, but many of the issues are circumvented by studying pre-formed biological nucleoprotein complexes where direct comparison of each component can be made under the same controlled conditions. Here a model protein-DNA complex C.Esp1396I is employed to investigate specific damage mechanisms for protein and DNA in a biologically relevant complex over a large dose range (2.07-44.63 MGy). In order to allow a quantitative analysis of radiation damage sites from a complex series of macromolecular diffraction data, a computational method has been developed that is generally applicable to the field. Typical specific damage was observed for both the protein on particular amino acids and for the DNA on, for example, the cleavage of base-sugar N1-C and sugar-phosphate C-O bonds. Strikingly the DNA component was determined to be far more resistant to specific damage than the protein for the investigated dose range. At low doses the protein was observed to be susceptible to radiation damage while the DNA was far more resistant, damage only being observed at significantly higher doses."
+      }
+    ],
+    "files": [
+      {
+        "path": "s-22-00213-sup1.pdf",
+        "size": 371090,
+        "type": "file"
+      }
+    ],
+    "links": [
+      [
+        {
+          "url": "3clc",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "pdb"
+            }
+          ]
+        },
+        {
+          "url": "4x4h",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "pdb"
+            }
+          ]
+        },
+        {
+          "url": "4x4i",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "pdb"
+            }
+          ]
+        },
+        {
+          "url": "4x4b",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "pdb"
+            }
+          ]
+        },
+        {
+          "url": "4x4c",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "pdb"
+            }
+          ]
+        },
+        {
+          "url": "4x4d",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "pdb"
+            }
+          ]
+        },
+        {
+          "url": "4x4e",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "pdb"
+            }
+          ]
+        },
+        {
+          "url": "4x4f",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "pdb"
+            }
+          ]
+        },
+        {
+          "url": "4x4g",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "pdb"
+            }
+          ]
+        }
+      ]
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Biotechnology and Biological Sciences Research Council"
+          },
+          {
+            "name": "grant_id",
+            "value": "BB/E000878/1"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Engineering and Physical Sciences Research Council"
+          },
+          {
+            "name": "grant_id",
+            "value": "EP/E500595/1"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Wellcome Trust"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Engineering and Physical Sciences Research Council"
+          },
+          {
+            "name": "grant_id",
+            "value": "1363961"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Journal of synchrotron radiation"
+          },
+          {
+            "name": "Volume",
+            "value": "22(2)"
+          },
+          {
+            "name": "Pages",
+            "value": "213-24"
+          },
+          {
+            "name": "Publication date",
+            "value": "2015 Mar"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1107/S1600577514026289",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC4344358",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "25723923",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Bury C"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Garman EF"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0001-8329-5665"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Ginn HM"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Ravelli RB"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0001-6056-5888"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Carmichael I"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-4651-5080"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kneale G"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "McGeehan JE"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-6750-1462"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Institute of Nanoscopy, Maastricht University, PO Box 616, Maastricht 6200 MD, The Netherlands."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Laboratory of Molecular Biophysics, Department of Biochemistry, University of Oxford, South Parks Road, Oxford OX1 3QU, UK."
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Molecular Biophysics, Institute of Biomedical and Biomolecular Sciences, University of Portsmouth, King Henry 1st Street, Portsmouth PO1 2DY, UK."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Notre Dame Radiation Laboratory, University of Notre Dame, Notre Dame, IN 46556, USA."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

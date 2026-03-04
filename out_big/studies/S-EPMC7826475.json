@@ -1,0 +1,307 @@
+{
+  "accno": "S-EPMC7826475",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Prognostic value of radiation interruption in different periods for nasopharyngeal carcinoma patients in the intensity-modulated radiation therapy era."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2021-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Prognostic value of radiation interruption in different periods for nasopharyngeal carcinoma patients in the intensity-modulated radiation therapy era."
+      },
+      {
+        "name": "Abstract",
+        "value": "We aimed to investigate the prognostic value of radiation interruptions at different times on the overall survival (OS) and disease-free survival (DFS) of patients with nasopharyngeal carcinoma receiving intensity-modulated radiation therapy. Totally, 4510 patients were identified from a well-established big-data intelligence platform. Optimal interruption thresholds were identified using Recursive partitioning analyses. Actuarial rates were plotted using the Kaplan-Meier method and were compared using the log-rank test. Patients with preceding interruptions ≥1 d (5-year OS, 89.6% vs. 85.7%, p < 0.001; 5-year DFS, 81.4% vs. 76.4%, p < 0.001), or latter interruptions ≥4 d (88.4% vs. 82.3%, p < 0.001; 79.2% vs. 75.1%, p = 0.006) showed significant detrimental effects on OS and DFS than patients without those interruptions. However, no significant lower survival was identified in latter interruptions ≥1 d (5-year OS: 89.0% vs. 86.7%, p = 0.053; 5-year DFS, 80.2% vs. 77.8%, p = 0.080). Latter interruptions ≥4 d was an independent unfavorable prognostic factor for OS (HR, 1.404; 95% CI, 1.143-1.723, p = 0.001) and DFS (HR, 1.351; 95% CI, 1.105-1.652, p = 0.003) in multivariate analysis. Radiation interruptions longer than 3 days that occurred in the latter period of treatment with IMRT were independent factors in poorer survival. Efforts are needed to minimize radiation interruptions and improve the timely provision of treatment."
+      }
+    ],
+    "files": [
+      {
+        "path": "CAM4-10-143-s001.docx",
+        "size": 18227,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "National Natural Science Foundation of China"
+          },
+          {
+            "name": "grant_id",
+            "value": "81872463"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Overseas Expertise Introduction Project for Discipline Innovation"
+          },
+          {
+            "name": "grant_id",
+            "value": "B14035"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Cancer medicine"
+          },
+          {
+            "name": "Volume",
+            "value": "10(1)"
+          },
+          {
+            "name": "Pages",
+            "value": "143-155"
+          },
+          {
+            "name": "Publication date",
+            "value": "2021 Jan"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1002/cam4.3580",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC7826475",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "33107201",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Yang XL"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Zhou GQ"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Lin L"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Zhang LL"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Chen FP"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Lv JW"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kou J"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Wen DW"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a9",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Ma J"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a10",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Sun Y"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a11",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Mao YP"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Molecular Diagnostics, State Key Laboratory of Oncology in South China, Guangdong Key Laboratory of Nasopharyngeal Carcinoma Diagnosis and Therapy, Sun Yat-sen University Cancer Center, Collaborative Innovation Center for Cancer Medicine, Guangzhou, People's Republic of China."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, State Key Laboratory of Oncology in South China, Guangdong Key Laboratory of Nasopharyngeal Carcinoma Diagnosis and Therapy, Sun Yat-Sen University Cancer Center, Collaborative Innovation Center for Cancer Medicine, Guangzhou, People's Republic of China."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

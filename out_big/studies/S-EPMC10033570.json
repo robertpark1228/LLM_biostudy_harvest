@@ -1,0 +1,315 @@
+{
+  "accno": "S-EPMC10033570",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Risk management patterns in radiation oncology-results of a national survey within the framework of the Patient Safety in German Radiation Oncology (PaSaGeRO) project."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2023-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Risk management patterns in radiation oncology-results of a national survey within the framework of the Patient Safety in German Radiation Oncology (PaSaGeRO) project."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Purpose</h4>Risk management (RM) is a key component of patient safety in radiation oncology (RO). We investigated current approaches on RM in German RO within the framework of the Patient Safety in German Radiation Oncology (PaSaGeRO) project. Aim was not only to evaluate a status quo of RM purposes but furthermore to discover challenges for sustainable RM that should be addressed in future research and recommendations.<h4>Methods</h4>An online survey was conducted from June to August 2021, consisting of 18 items on prospective and reactive RM, protagonists of RM, and self-assessment concerning RM. The survey was designed using LimeSurvey and invitations were sent by e‑mail. Answers were requested once per institution.<h4>Results</h4>In all, 48 completed questionnaires from university hospitals, general and non-academic hospitals, and private practices were received and considered for evaluation. Prospective and reactive RM was commonly conducted within interprofessional teams; 88% of all institutions performed prospective risk analyses. Most institutions (71%) reported incidents or near-events using multiple reporting systems. Results were presented to the team in 71% for prospective analyses and 85% for analyses of incidents. Risk conferences take place in 46% of institutions. 42% nominated a manager/committee for RM. Knowledge concerning RM was mostly rated \"satisfying\" (44%). However, 65% of all institutions require more information about RM by professional societies.<h4>Conclusion</h4>Our results revealed heterogeneous patterns of RM in RO departments, although most departments adhered to common recommendations. Identified mismatches between recommendations and implementation of RM provide baseline data for future research and support definition of teaching content."
+      }
+    ],
+    "files": [
+      {
+        "path": "66_2022_1984_MOESM1_ESM.docx",
+        "size": 22929,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Universitätsklinikum Hamburg-Eppendorf (UKE)"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Strahlentherapie und Onkologie : Organ der Deutschen Rontgengesellschaft ... [et al]"
+          },
+          {
+            "name": "Volume",
+            "value": "199(4)"
+          },
+          {
+            "name": "Pages",
+            "value": "350-359"
+          },
+          {
+            "name": "Publication date",
+            "value": "2023 Apr"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1007/s00066-022-01984-5",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC10033570",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "35931889",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Baehr A"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Hummel D"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Gauer T"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Oertel M"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kittel C"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Loser A"
+          },
+          {
+            "name": "affiliation",
+            "value": "o5",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Todorovic M"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Petersen C"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a9",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Krull A"
+          },
+          {
+            "name": "affiliation",
+            "value": "o5",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a10",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Buchgeister M"
+          },
+          {
+            "name": "affiliation",
+            "value": "o6",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, University Hospital Münster, Münster, Germany."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiotherapy and Genetics, Outpatient Center Stuttgart, University Hospital Tübingen, Stuttgart, Germany."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiotherapy and Radiation Oncology, University Medical Center Hamburg-Eppendorf, Hamburg, Germany."
+          }
+        ]
+      },
+      {
+        "accno": "o6",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Faculty of Mathematics-Physics-Chemistry (II), Berliner Hochschule für Technik, Berlin, Germany."
+          }
+        ]
+      },
+      {
+        "accno": "o5",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Outpatient Center of the UKE GmbH, Department of Radiotherapy and Radiation Oncology, University Medical Center Hamburg-Eppendorf, Martinistr. 52, 20251, Hamburg, Germany."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Outpatient Center of the UKE GmbH, Department of Radiotherapy and Radiation Oncology, University Medical Center Hamburg-Eppendorf, Martinistr. 52, 20251, Hamburg, Germany. a.baehr@uke.de."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

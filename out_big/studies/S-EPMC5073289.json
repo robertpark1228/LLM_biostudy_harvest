@@ -1,0 +1,259 @@
+{
+  "accno": "S-EPMC5073289",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Management of fluoroscopy-induced radiation ulcer: One-stage radical excision and immediate reconstruction."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2016-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Management of fluoroscopy-induced radiation ulcer: One-stage radical excision and immediate reconstruction."
+      },
+      {
+        "name": "Abstract",
+        "value": "With increasing use of cardiac fluoroscopic intervention, the incidence of fluoroscopy-induced radiation ulcer is increasing. Radiation ulcer is difficult to manage and currently there are no treatment guidelines. To identify the optimal treatment approaches for managing cardiac fluoroscopy-induced radiation ulcers, we retrospectively reviewed medical records of 13 patients with fluoroscopy-induced radiation ulcers receiving surgical interventions and following up in our hospital from 2012 to 2015. Conventional wound care and hyperbaric oxygen therapy were of little therapeutic benefit. Twelve patients received reconstruction with advancement flap or split thick skin graft. One-stage radical excision of radiation damaged area in eight cases with immediate reconstruction led to better outcomes than conservative excisions in four cases. Radical surgical excision to remove all the radiation damaged tissues in combination with immediate reconstruction appears to offer the optimal treatment results for cardiac fluoroscopy-induced radiation ulcers. Adequate excision of the damaged areas in both vertical (to the muscular fascia) and horizontal (beyond the sclerotic areas) dimension is pivotal to achieve good treatment outcomes."
+      }
+    ],
+    "files": [
+      {
+        "path": "srep35875-s1.pdf",
+        "size": 419641,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Scientific reports"
+          },
+          {
+            "name": "Volume",
+            "value": "6"
+          },
+          {
+            "name": "Pages",
+            "value": "35875"
+          },
+          {
+            "name": "Publication date",
+            "value": "2016 Oct"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1038/srep35875",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC5073289",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "27767187",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Wei KC"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Yang KC"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Chen LW"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Liu WC"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-5788-632X"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Chen WC"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Chiou WY"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-5541-6834"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Lai PC"
+          },
+          {
+            "name": "affiliation",
+            "value": "o5",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Dermatology and Allergy, Technische Universität München, Munich, Germany."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Dermatology, Kaohsiung Veterans General Hospital, Taiwan."
+          }
+        ]
+      },
+      {
+        "accno": "o5",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Nephrology, Kidney Center, Chang Gung Memorial Hospital, Chang Gung School of Medicine, Chang Gung University, Linkou, Taiwan."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Plastic and Reconstructive Surgery, Kaohsiung Veterans General Hospital, Kaohsiung, Taiwan."
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Buddhist Dalin Tzu-Chi Hospital, Chiayi, Taiwan."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

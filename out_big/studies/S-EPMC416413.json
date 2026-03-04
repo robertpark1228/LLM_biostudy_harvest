@@ -1,0 +1,314 @@
+{
+  "accno": "S-EPMC416413",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Ionizing radiation induces delayed hyperrecombination in Mammalian cells."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2004-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Ionizing radiation induces delayed hyperrecombination in Mammalian cells."
+      },
+      {
+        "name": "Abstract",
+        "value": "Exposure to ionizing radiation can result in delayed effects that can be detected in the progeny of an irradiated cell multiple generations after the initial exposure. These effects are described under the rubric of radiation-induced genomic instability and encompass multiple genotoxic endpoints. We have developed a green fluorescence protein (GFP)-based assay and demonstrated that ionizing radiation induces genomic instability in human RKO-derived cells and in human hamster hybrid GM10115 cells, manifested as increased homologous recombination (HR). Up to 10% of cells cultured after irradiation produce mixed GFP(+/-) colonies indicative of delayed HR or, in the case of RKO-derived cells, mutation and deletion. Consistent with prior studies, delayed chromosomal instability correlated with delayed reproductive cell death. In contrast, cells displaying delayed HR showed no evidence of delayed reproductive cell death, and there was no correlation between delayed chromosomal instability and delayed HR, indicating that these forms of genome instability arise by distinct mechanisms. Because delayed hyperrecombination can be induced at doses of ionizing radiation that are not associated with significantly reduced cell viability, these data may have important implications for assessment of radiation risk and understanding the mechanisms of radiation carcinogenesis."
+      }
+    ],
+    "links": [
+      [
+        {
+          "url": "GM10115",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "igsr"
+            }
+          ]
+        }
+      ]
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "CA73924"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "R01 CA077693"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "CA77693"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "R01 CA073924"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "CA83872"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "R01 CA083872"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Molecular and cellular biology"
+          },
+          {
+            "name": "Volume",
+            "value": "24(11)"
+          },
+          {
+            "name": "Pages",
+            "value": "5060-8"
+          },
+          {
+            "name": "Publication date",
+            "value": "2004 Jun"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1128/MCB.24.11.5060-5068.2004",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "10.1128/mcb.24.11.5060-5068.2004",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC416413",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "15143196",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Huang L"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Grim S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Smith LE"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kim PM"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Nickoloff JA"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Goloubeva OG"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Morgan WF"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Graduate Program in Human Genetics, Radiation Oncology Research Laboratory, Biostatistics Division, Greenebaum Cancer Center, University of Maryland, Baltimore, Maryland 21201-1559, Department of Pharmacology and Toxicology, Faculty of Health Sciences, Queen's University, Kingston, Ontario, Canada K7L 3N6, Department of Molecular Genetics and Microbiology, University of New Mexico School of Medicine, Albuquerque, New Mexico 87131"
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Radiation Oncology Research Laboratory, Bressler Research Building, Room 7-002, University of Maryland, 655 W. Baltimore St., Baltimore, MD 21201-1559, USA. lhuan001@umaryland.edu"
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

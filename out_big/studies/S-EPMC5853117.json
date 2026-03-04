@@ -1,0 +1,401 @@
+{
+  "accno": "S-EPMC5853117",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Anatomy of a Neotropical insect radiation."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2018-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Anatomy of a Neotropical insect radiation."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Background</h4>Much evolutionary theory predicts that diversity arises via both adaptive radiation (diversification driven by selection against niche-overlap within communities) and divergence of geographically isolated populations. We focus on tropical fruit flies (Blepharoneura, Tephritidae) that reveal unexpected patterns of niche-overlap within local communities. Throughout the Neotropics, multiple sympatric non-interbreeding populations often share the same highly specialized patterns of host use (e.g., flies are specialists on flowers of a single gender of a single species of host plants). Lineage through time (LTT) plots can help distinguish patterns of diversification consistent with ecologically limited adaptive radiation from those predicted by ecologically neutral theories. Here, we use a time-calibrated phylogeny of Blepharoneura to test the hypothesis that patterns of Blepharoneura diversification are consistent with an \"ecologically neutral\" model of diversification that predicts that diversification is primarily a function of time and space.<h4>Results</h4>The Blepharoneura phylogeny showed more cladogenic divergence associated with geography than with shifts in host-use. Shifts in host-use were associated with ~ 20% of recent splits (< 3 Ma), but > 60% of older splits (> 3 Ma). In the overall tree, gamma statistic and maximum likelihood model fitting showed no evidence of diversification rate changes though there was a weak signature of slowing diversification rate in one of the component clades.<h4>Conclusions</h4>Overall patterns of Blepharoneura diversity are inconsistent with a traditional explanation of adaptive radiation involving decreases in diversification rates associated with niche-overlap. Sister lineages usually use the same host-species and host-parts, and multiple non-interbreeding sympatric populations regularly co-occur on the same hosts. We suggest that most lineage origins (phylogenetic splits) occur in allopatry, usually without shifts in host-use, and that subsequent dispersal results in assembly of communities composed of multiple sympatric non-interbreeding populations of flies that share the same hosts."
+      }
+    ],
+    "files": [
+      {
+        "path": "12862_2018_1146_MOESM1_ESM.xlsx",
+        "size": 16624,
+        "type": "file"
+      },
+      {
+        "path": "12862_2018_1146_MOESM2_ESM.docx",
+        "size": 34485,
+        "type": "file"
+      },
+      {
+        "path": "12862_2018_1146_MOESM3_ESM.pdf",
+        "size": 210490,
+        "type": "file"
+      }
+    ],
+    "links": [
+      [
+        {
+          "url": "KY312845",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "ENA"
+            }
+          ]
+        },
+        {
+          "url": "KY312817",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "ENA"
+            }
+          ]
+        },
+        {
+          "url": "10.5061/dryad.4m281",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "doi"
+            }
+          ]
+        }
+      ]
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "National Science Foundation"
+          },
+          {
+            "name": "grant_id",
+            "value": "DEB-0330845"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "National Science Foundation"
+          },
+          {
+            "name": "grant_id",
+            "value": "DEB-0949361"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "National Science Foundation"
+          },
+          {
+            "name": "grant_id",
+            "value": "DEB-1542269"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "National Science Foundation"
+          },
+          {
+            "name": "grant_id",
+            "value": "DEB-1542451"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "National Science Foundation"
+          },
+          {
+            "name": "grant_id",
+            "value": "HRD-9103322"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "BMC evolutionary biology"
+          },
+          {
+            "name": "Volume",
+            "value": "18(1)"
+          },
+          {
+            "name": "Pages",
+            "value": "30"
+          },
+          {
+            "name": "Publication date",
+            "value": "2018 Mar"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1186/s12862-018-1146-9",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC5853117",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "29540154",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Winkler I"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Scheffer SJ"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Lewis ML"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Ottens KJ"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Rasmussen AP"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Gomes-Costa GA"
+          },
+          {
+            "name": "affiliation",
+            "value": "o5",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Huerto Santillan LM"
+          },
+          {
+            "name": "affiliation",
+            "value": "o6",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Condon MA"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a9",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Forbes AA"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0001-8332-6652"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o6",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Departamento de Entomología Museo de Historia Natural, Universidad Nacional Mayor de San Marcos, Av. Arenales 1256, Apartado 14-0434, 14, Lima, Peru."
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Biology, Cornell College, Mount Vernon, Iowa, 52314, USA."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Biology, Cornell College, Mount Vernon, Iowa, 52314, USA. iwinkler@cornellcollege.edu."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Biology, University of Iowa, Iowa City, Iowa, 52242, USA."
+          }
+        ]
+      },
+      {
+        "accno": "o5",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Programa de Pós-Graduação em Biologia Vegetal, Universidade Federal de Pernambuco, Av. Prof°. Moraes Rego s/n, Cidade Universitária, Recife, Pernambuco, 50670-901, Brazil."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Systematic Entomology Laboratory, U.S. Department of Agriculture, Beltsville, MD, 20705, USA."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

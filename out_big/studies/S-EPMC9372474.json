@@ -1,0 +1,176 @@
+{
+  "accno": "S-EPMC9372474",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Radiation Therapy for Soft Tissue Sarcoma: Indications, Timing, Benefits, and Consequences."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2022-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Radiation Therapy for Soft Tissue Sarcoma: Indications, Timing, Benefits, and Consequences."
+      },
+      {
+        "name": "Abstract",
+        "value": "Radiation therapy is an integral component of local management with oncologic resection for soft tissue sarcoma. Radiotherapy is indicated in patients at an increased risk of local recurrence so that improved local control may be achieved. Sequencing of radiotherapy and resection should be determined by multidisciplinary input before treatment initiation. For most patients, preoperative delivery of radiation therapy is preferred. In patients initially thought to be at low risk for local recurrence and found to have unexpected adverse pathologic features at resection, postoperative radiation therapy is indicated. The use of radiation therapy for retroperitoneal sarcoma is controversial; when used, preoperative delivery of radiation is recommended."
+      }
+    ],
+    "links": [
+      [
+        {
+          "url": "NCT00423618",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT00017160",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT00091351",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT02565498",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        }
+      ]
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Intramural NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "Z99 CA999999"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "The Surgical clinics of North America"
+          },
+          {
+            "name": "Volume",
+            "value": "102(4)"
+          },
+          {
+            "name": "Pages",
+            "value": "567-582"
+          },
+          {
+            "name": "Publication date",
+            "value": "2022 Aug"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1016/j.suc.2022.04.001",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "10.1016/j.suc.2022.04.001",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC9372474",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "35952688",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Salerno KE"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Radiation Oncology Branch, National Cancer Institute, National Institutes of Health, Building 10 CCR, Room B2-3500, Bethesda, MD 20892, USA. Electronic address: kilian.salerno@nih.gov."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

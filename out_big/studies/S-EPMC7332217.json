@@ -1,0 +1,194 @@
+{
+  "accno": "S-EPMC7332217",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Role of radiation oncology in modern multidisciplinary cancer treatment."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2020-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Role of radiation oncology in modern multidisciplinary cancer treatment."
+      },
+      {
+        "name": "Abstract",
+        "value": "Cancer care is moving from a disease-focused management toward a patient-centered tailored approach. Multidisciplinary management that aims to define individual, optimal treatment strategies through shared decision making between healthcare professionals and patient is a fundamental aspect of high-quality cancer care and often includes radiation oncology. Advances in technology and radiobiological research allow to deliver ever more tailored radiation treatments in an ever easier and faster way, thus improving the efficacy, safety, and accessibility of radiation therapy. While these changes are improving quality of cancer care, they are also enormously increasing complexity of decision making, thus challenging the ability to deliver quality affordable cancer care. In this review, we provide an updated outline of the role of radiation oncology in the modern multidisciplinary treatment of cancer. Particularly, we focus on the way some developments in key areas of cancer management are challenging multidisciplinary cancer care in the different clinical settings of early, locally advanced, and metastatic disease, thus highlighting some priority areas of research."
+      }
+    ],
+    "links": [
+      [
+        {
+          "url": "NCT03818503",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        }
+      ]
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Molecular oncology"
+          },
+          {
+            "name": "Volume",
+            "value": "14(7)"
+          },
+          {
+            "name": "Pages",
+            "value": "1431-1441"
+          },
+          {
+            "name": "Publication date",
+            "value": "2020 Jul"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1002/1878-0261.12712",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC7332217",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "32418368",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Valentini V"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0003-4637-6487"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Boldrini L"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-5631-1575"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Mariani S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Massaccesi M"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-7740-747X"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Dipartimento di Diagnostica per Immagini, Radioterapia Oncologica ed Ematologia, UOC Radioterapia Oncologica, Fondazione Policlinico Universitario \"A. Gemelli\" IRCCS, Rome, Italy."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Istituto di Radiologia, Fondazione Policlinico Universitario A. Gemelli IRCCS-Università Cattolica Del Sacro Cuore, Rome, Italy."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

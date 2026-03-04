@@ -1,0 +1,243 @@
+{
+  "accno": "S-EPMC5066420",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Reconstruction of Radiation Dose Received by Diagnostic Radiologic Technologists in Korea."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2016-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Reconstruction of Radiation Dose Received by Diagnostic Radiologic Technologists in Korea."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Objectives</h4>Diagnostic medical radiation workers in Korea have been officially monitored for their occupational radiation doses since 1996. The purpose of this study was to design models for reconstructing unknown individual radiation doses to which diagnostic radiation technologists were exposed before 1996.<h4>Methods</h4>Radiation dose reconstruction models were developed by using cross-sectional survey data and the personal badge doses of 8167 radiologic technologists. The models included calendar year and age as predictors, and the participants were grouped into six categories according to their sex and facility type. The annual doses between 1971 and 1995 for those who were employed before 1996 were estimated using these models.<h4>Results</h4>The calendar year and age were inversely related to the estimated radiation doses in the models of all six groups. The annual median estimated doses decreased from 9.45 mSv in 1971 to 1.26 mSv in 1995, and the associated dose variation also decreased with time. The estimated median badge doses from 1996 (1.22 mSv) to 2011 (0.30 mSv) were similar to the measured doses (1.68 mSv to 0.21 mSv) for the same years. Similar results were observed for all six groups.<h4>Conclusions</h4>The reconstruction models developed in this study may be useful for estimating historical occupational radiation doses received by medical radiologic technologists in Korea."
+      }
+    ],
+    "files": [
+      {
+        "path": "jpmph-49-5-288-supple1.pdf",
+        "size": 126441,
+        "type": "file"
+      },
+      {
+        "path": "jpmph-49-5-288-supple2.pdf",
+        "size": 35738,
+        "type": "file"
+      },
+      {
+        "path": "jpmph-49-5-288-supple3.pdf",
+        "size": 49074,
+        "type": "file"
+      },
+      {
+        "path": "jpmph-49-5-288-supple4.pdf",
+        "size": 56620,
+        "type": "file"
+      },
+      {
+        "path": "jpmph-49-5-288-supple5.pdf",
+        "size": 45362,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Korea Health Industry Development Institute"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Ministry of Health and Welfare"
+          },
+          {
+            "name": "grant_id",
+            "value": "HI16C1186"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Journal of preventive medicine and public health = Yebang Uihakhoe chi"
+          },
+          {
+            "name": "Volume",
+            "value": "49(5)"
+          },
+          {
+            "name": "Pages",
+            "value": "288-300"
+          },
+          {
+            "name": "Publication date",
+            "value": "2016 Sep"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.3961/jpmph.16.064",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC5066420",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "27744670",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Choi Y"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kim J"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Lee JJ"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Jun JK"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Lee WJ"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Preventive Medicine, Keimyung University School of Medicine, Daegu, Korea."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Preventive Medicine, Korea University College of Medicine, Seoul, Korea."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "National Cancer Control Institute, National Cancer Center, Goyang, Korea."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

@@ -1,0 +1,337 @@
+{
+  "accno": "S-EPMC7004937",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Assessment of Polyethylene Glycol Hydrogel Spacer and Its Effect on Rectal Radiation Dose in Prostate Cancer Patients Receiving Proton Beam Radiation Therapy."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2020-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Assessment of Polyethylene Glycol Hydrogel Spacer and Its Effect on Rectal Radiation Dose in Prostate Cancer Patients Receiving Proton Beam Radiation Therapy."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Purpose</h4>To assess the efficacy of placing a polyethylene glycol (PEG) spacing hydrogel in patients undergoing proton beam radiation therapy for prostate cancer. This study also aims to assess the effect on rectal radiation dose of prostate-rectum separation in various anatomic planes.<h4>Methods and materials</h4>Seventy-two consecutive prostate cancer patients undergoing conventionally fractionated pencil beam scanning proton radiation therapy with and without hydrogel placement were compared. Magnetic resonance images taken after hydrogel placement measured prostate-rectum separation and were correlated to rectal dosing and rectal toxicity. Univariate analysis of clinical variables and radiation dosing was conducted using nonparametric Wilcoxon rank-sum test with continuity correction between groups (hydrogel spacer vs controls). Spearman's rank correlation coefficient assessed relationships between the various anatomic dimensions of perirectal space and rectal radiation dosing.<h4>Results</h4>Fifty-one patients had hydrogel placement before therapy and 21 did not. There was a 42.2% reduction in rectal dosing (mL<sup>3</sup> rectum) in hydrogel patients (<i>P</i> < .001). Increasing midline sagittal lift resulted in a greater mitigation of total rectal dose (<i>P</i> = .031). The degree of prostate surface area coverage on coronal plane did not correlate with further reductions in rectal radiation dose (<i>P</i> = .673). Patients who had PEG hydrogels placed reported more rectal side effects during treatment compared with those patients who did not (35.3% vs 9.5%, <i>P</i> = .061). At median 9.5-month follow-up, there was no difference in reporting of grade ≤2 rectal toxicity between the 2 groups (7.7% vs 7.1%, <i>P</i> = .145).<h4>Conclusions</h4>Polyethylene glycol hydrogel placement before pencil proton beam radiation therapy for prostate cancer reduced rectal radiation dose. The most important factor reducing total rectal dose was the degree of sagittal midline separation created by the PEG hydrogel. This is the largest study with the longest follow-up to investigate hydrogel placement in the proton beam radiation setting."
+      }
+    ],
+    "files": [
+      {
+        "path": "mmc1.pdf",
+        "size": 289353,
+        "type": "file"
+      },
+      {
+        "path": "mmc2.pdf",
+        "size": 163676,
+        "type": "file"
+      },
+      {
+        "path": "mmc3.pdf",
+        "size": 157069,
+        "type": "file"
+      },
+      {
+        "path": "mmc4.pdf",
+        "size": 201742,
+        "type": "file"
+      }
+    ],
+    "links": [
+      [
+        {
+          "url": "NCT01617161",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        }
+      ]
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Advances in radiation oncology"
+          },
+          {
+            "name": "Volume",
+            "value": "5(1)"
+          },
+          {
+            "name": "Pages",
+            "value": "92-100"
+          },
+          {
+            "name": "Publication date",
+            "value": "2020 Jan-Feb"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1016/j.adro.2019.08.007",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC7004937",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "32051895",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Navaratnam A"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Cumsky J"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Abdul-Muhsin H"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Gagneur J"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Shen J"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kosiorek H"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Golafshar M"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0001-7666-7782"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kawashima A"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0003-4686-8369"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a9",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Wong W"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a10",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Ferrigni R"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a11",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Humphreys MR"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Biostatistics, Mayo Clinic in Arizona, Phoenix, Arizona."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Mayo Clinic in Arizona, Phoenix, Arizona."
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiology, Mayo Clinic in Arizona, Phoenix, Arizona."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Urology, Mayo Clinic in Arizona, Phoenix, Arizona."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

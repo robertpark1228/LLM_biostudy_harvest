@@ -1,0 +1,377 @@
+{
+  "accno": "S-EPMC2970706",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Ionizing radiation activates the Nrf2 antioxidant response."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2010-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Ionizing radiation activates the Nrf2 antioxidant response."
+      },
+      {
+        "name": "Abstract",
+        "value": "The transcription factor NF-E2-related factor 2 (Nrf2) binds the antioxidant DNA response element (ARE) to activate important cellular cytoprotective defense systems. Recently several types of cancers have been shown to overexpress Nrf2, but its role in the cellular response to radiation therapy has yet to be fully determined. In this study, we report that single doses of ionizing radiation from 2 to 8 Gy activate ARE-dependent transcription in breast cancer cells in a dose-dependent manner, but only after a delay of five days. Clinically relevant daily dose fractions of radiation also increased ARE-dependent transcription, but again only after five days. Downstream activation of Nrf2-ARE-dependent gene and protein markers, such as heme oxygenase-1, occurred, whereas Nrf2-deficient fibroblasts were incapable of these responses. Compared with wild-type fibroblasts, Nrf2-deficient fibroblasts had relatively high basal levels of reactive oxygen species that increased greatly five days after radiation exposure. Further, in vitro clonogenic survival assays and in vivo sublethal whole body irradiation tests showed that Nrf2 deletion increased radiation sensitivity, whereas Nrf2-inducing drugs did not increase radioresistance. Our results indicate that the Nrf2-ARE pathway is important to maintain resistance to irradiation, but that it operates as a second-tier antioxidant adaptive response system activated by radiation only under specific circumstances, including those that may be highly relevant to tumor response during standard clinical dose-fractionated radiation therapy."
+      }
+    ],
+    "files": [
+      {
+        "path": "NIHMS237286-supplement-1.doc",
+        "size": 29696,
+        "type": "file"
+      },
+      {
+        "path": "NIHMS237286-supplement-2.tif",
+        "size": 5680760,
+        "type": "file"
+      },
+      {
+        "path": "NIHMS237286-supplement-3.tif",
+        "size": 182936,
+        "type": "file"
+      },
+      {
+        "path": "NIHMS237286-supplement-4.tif",
+        "size": 320112,
+        "type": "file"
+      },
+      {
+        "path": "NIHMS237286-supplement-5.tif",
+        "size": 81948,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "F31 CA126501"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "F31CA126501"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NIAID NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "U19 AI067769"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Cancer research"
+          },
+          {
+            "name": "Volume",
+            "value": "70(21)"
+          },
+          {
+            "name": "Pages",
+            "value": "8886-95"
+          },
+          {
+            "name": "Publication date",
+            "value": "2010 Nov"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1158/0008-5472.CAN-10-0171",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "10.1158/0008-5472.can-10-0171",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC2970706",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "20940400",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "McDonald JT"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0003-4300-6827"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0003-1955-6052"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kim K"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Norris AJ"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Vlashi E"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Phillips TM"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Lagadec C"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Della Donna L"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Ratikan J"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a9",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Szelag H"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a10",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Hlatky L"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a11",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "McBride WH"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Center of Cancer Systems Biology, Caritas St. Elizabeth's Medical Center, Tufts School of Medicine, Boston, MA 02135."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Division of Molecular and Cellular Oncology, Department of Radiation Oncology, David Geffen School of Medicine at University of California at Los Angeles, Los Angeles, CA 90095."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Division of Molecular and Cellular Oncology, Department of Radiation Oncology, and Pasarow Mass Spectrometry Laboratory, David Geffen School of Medicine at University of California, Los Angeles, California 90095-1714, USA."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Pasarow Mass Spectrometry Laboratory, Department of Psychiatry and Behavioral Science, David Geffen School of Medicine at University of California at Los Angeles, Los Angeles, CA 90095."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

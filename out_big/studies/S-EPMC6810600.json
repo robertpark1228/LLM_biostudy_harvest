@@ -1,0 +1,292 @@
+{
+  "accno": "S-EPMC6810600",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Mutational Analysis of Ionizing Radiation Induced Neoplasms."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2015-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Mutational Analysis of Ionizing Radiation Induced Neoplasms."
+      },
+      {
+        "name": "Abstract",
+        "value": "Ionizing radiation (IR) is a mutagen that promotes tumorigenesis in multiple exposure contexts. One severe consequence of IR is the development of second malignant neoplasms (SMNs), a radiotherapy-associated complication in survivors of cancers, particularly pediatric cancers. SMN genomes are poorly characterized, and the influence of genetic background on genotoxin-induced mutations has not been examined. Using our mouse models of SMNs, we performed whole exome sequencing of neoplasms induced by fractionated IR in wild-type and Nf1 mutant mice. Using non-negative matrix factorization, we identified mutational signatures that did not segregate by genetic background or histology. Copy-number analysis revealed recurrent chromosomal alterations and differences in copy number that were background dependent. Pathway analysis identified enrichment of non-synonymous variants in genes responsible for cell assembly and organization, cell morphology, and cell function and maintenance. In this model system, ionizing radiation and Nf1 heterozygosity each exerted distinct influences on the mutational landscape."
+      }
+    ],
+    "files": [
+      {
+        "path": "NIHMS1051801-supplement-Supplemental_Figures_All.pdf",
+        "size": 373543,
+        "type": "file"
+      },
+      {
+        "path": "NIHMS1051801-supplement-Supplemental_Tables_S6-8.xlsx",
+        "size": 6394274,
+        "type": "file"
+      },
+      {
+        "path": "NIHMS1051801-supplement-Supplemtal_Figure_1.pdf",
+        "size": 191968,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "U54 CA196519"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "1K08CA115476"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "K08 CA115476"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Cell reports"
+          },
+          {
+            "name": "Volume",
+            "value": "12(11)"
+          },
+          {
+            "name": "Pages",
+            "value": "1915-26"
+          },
+          {
+            "name": "Publication date",
+            "value": "2015 Sep"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1016/j.celrep.2015.08.015",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "10.1016/j.celrep.2015.08.015",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC6810600",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "26344771",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Sherborne AL"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-9717-4773"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Davidson PR"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Yu K"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0001-8310-8815"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Nakamura AO"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Rashid M"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Nakamura JL"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Finance and Statistical Analysis, University of Alberta, Edmonton, AB T6G 2R3, Canada."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, University of California, San Francisco, San Francisco, CA 94158, USA."
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, University of California, San Francisco, San Francisco, CA 94158, USA. Electronic address: jean.nakamura@ucsf.edu."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Wellcome Trust Sanger Institute, Hinxton, Cambridge CB10 1SA, UK."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

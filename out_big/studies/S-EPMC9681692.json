@@ -1,0 +1,246 @@
+{
+  "accno": "S-EPMC9681692",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Being a young radiation oncologist in Poland: results of a multi-institutional survey."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2022-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Being a young radiation oncologist in Poland: results of a multi-institutional survey."
+      },
+      {
+        "name": "Abstract",
+        "value": "In 2018, Polish Society of Radiation Oncology formed a young section (yPTRO), dedicated to radiation oncologists under the age of 40. To evaluate their current situation, an anonymous, nationwide, online survey was carried out. Thirty-two-item-based questionnaire investigated young radiation oncologists' perception of employment, workload, education, malpractice lawsuits, scientific research, and board exam. A total of 44 physicians responded to the questionnaire, yielding a response rate of 25%. Results of the survey identified the main problematic areas. In general, young radiation oncologists in Poland are overloaded with bureaucracy. They complain on spending too much time at work and lack work-life balance. The risk of being sued for medical error is threatening two-thirds of responders in everyday work. Compensation is not satisfying for nearly half of the survey participants. Nearly all young radiation oncologists continue education and participate in national and international educational events. Forty-eight percent of responders do scientific research alongside clinical work. However, the perception of young radiation oncologists on the board exam is alarming and requires further discussion. Fifty-five percent of the survey participants think that current form of the exam is not appropriate. Hopefully, 75% of physicians feel fairly evaluated. The presented report is the first of its kind in Poland. Issues mentioned in our questionnaire will help newly formed yPTRO to develop strategic priorities for the upcoming years."
+      }
+    ],
+    "files": [
+      {
+        "path": "13187_2021_1998_MOESM1_ESM.docx",
+        "size": 28625,
+        "type": "file"
+      },
+      {
+        "path": "13187_2021_1998_MOESM2_ESM.docx",
+        "size": 33466,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Journal of cancer education : the official journal of the American Association for Cancer Education"
+          },
+          {
+            "name": "Volume",
+            "value": "37(6)"
+          },
+          {
+            "name": "Pages",
+            "value": "1614-1620"
+          },
+          {
+            "name": "Publication date",
+            "value": "2022 Dec"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1007/s13187-021-01998-0",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC9681692",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "33783761",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Pawlowska E"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0001-8807-2428"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Tomasik B"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0001-5648-345X"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Spalek M"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-3960-7673"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Chyrek AJ"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0003-3062-8395"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Napieralska A"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-7390-9165"
+          },
+          {
+            "name": "affiliation",
+            "value": "o5",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Brachytherapy Department, Greater Poland Cancer Center, Poznan, Poland."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Biostatistics and Translational Medicine, Medical University of Lodz, Lodz, Poland."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Oncology and Radiotherapy, Faculty of Medicine, Medical University of Gdansk, Gdansk, Poland. ewa.pawlowska@gumed.edu.pl."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Soft Tissue/Bone Sarcoma and Melanoma, Maria Sklodowska-Curie National Research Institute of Oncology, Warsaw, Poland."
+          }
+        ]
+      },
+      {
+        "accno": "o5",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Maria Sklodowska-Curie National Research Institute of Oncology Gliwice Branch, Gliwice, Poland."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

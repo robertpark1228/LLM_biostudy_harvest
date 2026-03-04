@@ -1,0 +1,517 @@
+{
+  "accno": "S-EPMC12024869",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Synergistic Effects of UVB and Ionizing Radiation on Human Non-Malignant Cells: Implications for Ozone Depletion and Secondary Cosmic Radiation Exposure."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2025-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Synergistic Effects of UVB and Ionizing Radiation on Human Non-Malignant Cells: Implications for Ozone Depletion and Secondary Cosmic Radiation Exposure."
+      },
+      {
+        "name": "Abstract",
+        "value": "The ozone layer in the Earth's atmosphere filters solar radiation and limits the unwanted effects on humans. A depletion of this ozone shield would permit hazardous levels of UV solar radiation, especially in the UVB range, to bombard Earth's surface, resulting in potentially significant effects on human health. The concern for these adverse effects intensifies if we consider that the UVB solar radiation is combined with secondary cosmic radiation (SCR) components, such as protons and muons, as well as terrestrial gamma rays. This research aims to delve into the intricate interplay between cosmic and solar radiation on earth at the cellular level, focusing on their synergistic effects on human cell biology. Through a multidisciplinary approach integrating radiobiology and physics, we aim to explore key aspects of biological responses, including cell viability, DNA damage, stress gene expression, and finally, genomic instability. To assess the impact of the combined exposure, normal i.e., non-malignant human cells (skin fibroblasts, keratinocytes, monocytes, and lymphocytes) were exposed to high-energy protons or gamma rays in combination with UVB. Cellular molecular and cytogenetic biomarkers of radiation exposure, such as DNA damage (γH2AΧ histone protein and dicentric chromosomes), as well as the expression pattern of various stress genes, were analyzed. In parallel, the MTS reduction and lactate dehydrogenase assays were used as indicators of cell viability, proliferation, and cytotoxicity. Results reveal remaining DNA damage for the co-exposed samples compared to samples exposed to only one type of radiation in all types of cells, accompanied by increased genomic instability and distinct stress gene expression patterns detected at 24-48 h post-exposure. Understanding the impact of combined radiation exposures is crucial for assessing the health risks posed to humans if the ozone layer is partially depleted, with structural and functional damages inflicted by combined cosmic and UVB exposure."
+      }
+    ],
+    "files": [
+      {
+        "path": "biomolecules-15-00536-s001.zip",
+        "size": 2767998,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "European Partnership on Metrology, co-financed by the European Union's Horizon Europe Research and Innovation Programme and by the Participating States"
+          },
+          {
+            "name": "grant_id",
+            "value": "21GRD02"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Ministry of Education, Innovation and Digitization"
+          },
+          {
+            "name": "grant_id",
+            "value": "PN 23.16.02.01"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Biomolecules"
+          },
+          {
+            "name": "Volume",
+            "value": "15(4)"
+          },
+          {
+            "name": "Pages",
+            "value": "536"
+          },
+          {
+            "name": "Publication date",
+            "value": "2025 Apr"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.3390/biom15040536",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC12024869",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "40305266",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Gkikoudi A"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Manda G"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Beinke C"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Giesen U"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Al-Qaaod A"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Dragnea EM"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Dobre M"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Neagoe IV"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a9",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Sangsuwan T"
+          },
+          {
+            "name": "affiliation",
+            "value": "o5",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a10",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Haghdoost S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o5",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a11",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Vasilopoulos SN"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a12",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Triantopoulou S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o6",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a13",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Georgakopoulou A"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a14",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Tremi I"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a15",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Koutsoudaki PN"
+          },
+          {
+            "name": "affiliation",
+            "value": "o7",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a16",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Havaki S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o7",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a17",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Gorgoulis VG"
+          },
+          {
+            "name": "affiliation",
+            "value": "o7",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a18",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kokkoris M"
+          },
+          {
+            "name": "affiliation",
+            "value": "o8",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a19",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Krasniqi F"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a20",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Terzoudi GI"
+          },
+          {
+            "name": "affiliation",
+            "value": "o6",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a21",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Georgakilas AG"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o5",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "ABTE/ToxEMAC Laboratory, University of Caen Normandy, F-14050 Caen, France"
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Bundeswehr Institute of Radiobiology, University of Ulm, Neuherbergstraβe 11, 80937 Munich, Germany"
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "DNA Damage Laboratory, Physics Department, School of Applied Mathematical and Physical Sciences, National Technical University of Athens (NTUA), Zografou Campus, 15780 Athens, Greece"
+          }
+        ]
+      },
+      {
+        "accno": "o8",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Group of Nuclear Physics, Physics Department, School of Applied Mathematical and Physical Sciences, National Technical University of Athens (NTUA), 15780 Zografou, Greece"
+          }
+        ]
+      },
+      {
+        "accno": "o6",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Laboratory of Health Physics, Radiobiology & Cytogenetics, Institute of Nuclear & Radiological Sciences & Technology, Energy & Safety, National Centre for Scientific Research \"Demokritos\", 15341 Agia Paraskevi, Greece"
+          }
+        ]
+      },
+      {
+        "accno": "o7",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Molecular Carcinogenesis Group, Department of Histology and Embryology, Medical School, National and Kapodistrian University of Athens, 11527 Athens, Greece"
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Physikalisch-Technische Bundesanstalt (PTB), Bundesallee 100, 38116 Braunschweig, Germany"
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Radiobiology Laboratory, \"Victor Babeș\" National Institute of Pathology, 99-101 Splaiul Independentei, 050096 Bucharest, Romania"
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

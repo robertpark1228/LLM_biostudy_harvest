@@ -1,0 +1,244 @@
+{
+  "accno": "S-EPMC11609320",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Simulation-free magnetic resonance-guided radiation therapy of prostate cancer."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2024-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Simulation-free magnetic resonance-guided radiation therapy of prostate cancer."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Background and purpose</h4>Despite recent advances of online image-guided high-precision patient positioning and adaptation using magnetic resonance imaging (MRI) or cone-beam computed tomography (CT), standard radiation therapy pathway still involves a dedicated simulation scan. The aim of this study was to evaluate the feasibility and planning quality of integrating a simulation-free treatment planning workflow for adaptive online MRI-guided radiation therapy on a 1.5 T MRI linear accelerator (MRI-Linac) in prostate cancer using diagnostic CT (dCT) scans.<h4>Materials and methods</h4>For ten patients with prostate cancer previously treated at the MRI-Linac with adaptive radiation therapy (42.7 Gy in 7 fractions), simulation-free reference plans based on dCT were retrospectively created, and adaptive plans were simulated for the first treatment fraction. Reference and adapted plans derived from both standard and simulation-free workflows were compared with regard to institutional dose/volume criteria, followed by statistical assessment using the paired Wilcoxon signed-rank test with a Bonferroni-corrected significance level of α = 0.025.<h4>Results</h4>Simulation-free reference and adapted plans consistently met dose/volume criteria. Statistical analysis revealed no significant differences between both workflows, except median values for near-maximum dose (D2%) in the planning target volume: 44.2 Gy (standard) vs. 44.5 Gy (simulation-free) in reference plans (p = 0.01), and 44.5 Gy vs. 44.6 Gy in adapted plans (p = 0.01).<h4>Conclusion</h4>This study demonstrated the feasibility of simulation-free radiation therapy planning using dCT. Comparable treatment plan quality was observed for both reference and adapted radiation therapy plans in a curative setting for patients with prostate cancer."
+      }
+    ],
+    "files": [
+      {
+        "path": "mmc1.pdf",
+        "size": 401906,
+        "type": "file"
+      }
+    ],
+    "links": [
+      [
+        {
+          "url": "NCT04172753",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        }
+      ]
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Physics and imaging in radiation oncology"
+          },
+          {
+            "name": "Volume",
+            "value": "32"
+          },
+          {
+            "name": "Pages",
+            "value": "100667"
+          },
+          {
+            "name": "Publication date",
+            "value": "2024 Oct"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1016/j.phro.2024.100667",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC11609320",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "39624393",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Warda C"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Gani C"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Boeke S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Monnich D"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Schneider M"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Niyazi M"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Thorwarth D"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, University Hospital Tübingen, Tübingen, Germany."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "German Cancer Consortium (DKTK), Partner Site Tübingen, a Partnership Between DKFZ and University Hospital Tübingen, Germany."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Section for Biomedical Physics, Department of Radiation Oncology, University Hospital Tübingen, Tübingen, Germany."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

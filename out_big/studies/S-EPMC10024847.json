@@ -1,0 +1,389 @@
+{
+  "accno": "S-EPMC10024847",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Multi-omics to predict acute radiation esophagitis in patients with lung cancer treated with intensity-modulated radiation therapy."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2023-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Multi-omics to predict acute radiation esophagitis in patients with lung cancer treated with intensity-modulated radiation therapy."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Purpose</h4>The study aimed to predict acute radiation esophagitis (ARE) with grade  ≥ 2 for patients with locally advanced lung cancer (LALC) treated with intensity-modulated radiation therapy (IMRT) using multi-omics features, including radiomics and dosiomics.<h4>Methods</h4>161 patients with stage IIIA-IIIB LALC who received chemoradiotherapy (CRT) or radiotherapy by IMRT with a prescribed dose from 45 to 70 Gy from 2015 to 2019 were enrolled retrospectively. All the toxicity gradings were given following the Common Terminology Criteria for Adverse Events V4.0. Multi-omics features, including radiomics, dosiomics (including dose-volume histogram dosimetric parameters), were extracted based on the planning CT image and three-dimensional dose distribution. All data were randomly divided into training cohorts (N = 107) and testing cohorts (N = 54). In the training cohorts, features with reliably high outcome relevance and low redundancy were selected under random patient subsampling. Four classification models (using clinical factors (CF) only, using radiomics features (RFs) only, dosiomics features (DFs) only, and the hybrid features (HFs) containing clinical factors, radiomics and dosiomics) were constructed employing the Ridge classifier using two-thirds of randomly selected patients as the training cohort. The remaining patient was treated as the testing cohort. A series of models were built with 30 times training-testing splits. Their performances were assessed using the area under the ROC curve (AUC) and accuracy.<h4>Results</h4>Among all patients, 51 developed ARE grade  ≥ 2, with an incidence of 31.7%. Next, 8990 radiomics and 213 dosiomics features were extracted, and 3, 6, 12, and 13 features remained after feature selection in the CF, DF, RF and DF models, respectively. The RF and HF models achieved similar classification performance, with the training and testing AUCs of 0.796 ± 0.023 (95% confidence interval (CI [0.79, 0.80])/0.744 ± 0.044 (95% CI [0.73, 0.76]) and 0.801 ± 0.022 (95% CI [0.79, 0.81]) (p = 0.74), respectively. The model performances using CF and DF features were poorer, with training and testing AUCs of 0.573 ± 0.026 (95% CI [0.56, 0.58])/ 0.509 ± 0.072 (95% CI [0.48, 0.53]) and 0.679 ± 0.027 (95% CI [0.67, 0.69])/0.604 ± 0.041 (95% CI [0.53, 0.63]) compared with the above two models (p < 0.001), respectively.<h4>Conclusions</h4>In LALC patients treated with CRT IMRT, the ARE grade  ≥ 2 can be predicted using the pretreatment radiotherapy image features. To predict ARE, the multi-omics features had similar predictability with radiomics features; however, the dosiomics features and clinical factors had a limited classification performance."
+      }
+    ],
+    "files": [
+      {
+        "path": "40001_2023_1041_MOESM1_ESM.docx",
+        "size": 43342,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "European journal of medical research"
+          },
+          {
+            "name": "Volume",
+            "value": "28(1)"
+          },
+          {
+            "name": "Pages",
+            "value": "126"
+          },
+          {
+            "name": "Publication date",
+            "value": "2023 Mar"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1186/s40001-023-01041-6",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC10024847",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "36935504",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Zheng X"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Guo W"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Wang Y"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Zhang J"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Zhang Y"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Cheng C"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Teng X"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Lam S"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0003-0293-2381"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a9",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Zhou T"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a10",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Ma Z"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a11",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Liu R"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a12",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Wu H"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a13",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Ge H"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a14",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Cai J"
+          },
+          {
+            "name": "affiliation",
+            "value": "o5",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a15",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Li B"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0001-6983-7253"
+          },
+          {
+            "name": "affiliation",
+            "value": "o6",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Health Technology and Informatics, The Hong Kong Polytechnic University, Hong Kong SAR, China."
+          }
+        ]
+      },
+      {
+        "accno": "o5",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Health Technology and Informatics, The Hong Kong Polytechnic University, Hong Kong SAR, China. jing.cai@polyu.edu.hk."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Interventional Therapy, Henan Provincial People's Hospital, Zhengzhou, China."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, The Affiliated Cancer Hospital of Zhengzhou University & Henan Cancer Hospital, Zhengzhou, China."
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, The Affiliated Cancer Hospital of Zhengzhou University & Henan Cancer Hospital, Zhengzhou, China. zlyygehong0199@zzu.edu.cn."
+          }
+        ]
+      },
+      {
+        "accno": "o6",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, The Affiliated Cancer Hospital of Zhengzhou University & Henan Cancer Hospital, Zhengzhou, China. zlyylibing4127@zzu.edu.cn."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

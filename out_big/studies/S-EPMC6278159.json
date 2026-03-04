@@ -1,0 +1,333 @@
+{
+  "accno": "S-EPMC6278159",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Projected lifetime cancer risks from occupational radiation exposure among diagnostic medical radiation workers in South Korea."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2018-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Projected lifetime cancer risks from occupational radiation exposure among diagnostic medical radiation workers in South Korea."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Background</h4>Timely assessment of cancer risk from current radiation exposure among medical radiation workers can contribute to the development of strategies to prevent excessive occupational radiation exposure. The purpose of the present study is to estimate the lifetime risk of cancers induced by occupational radiation exposure among medical radiation workers.<h4>Methods</h4>Using estimated organ doses and the RadRAT risk assessment tool, the lifetime cancer risk was estimated among medical radiation workers who were enrolled in the Korean National Dose Registry from 1996 to 2011. Median doses were used for estimating the risk because of the skewed distribution of radiation doses. Realistic representative exposure scenarios in the study population based on sex, job start year, and occupational group were created for calculating the lifetime attributable risk (LAR) and lifetime fractional risk (LFR).<h4>Results</h4>The mean estimated lifetime cancer risk from occupational radiation exposure varied significantly by sex and occupational group. The highest LAR was observed in male and female radiologic technologists who started work in 1991 (264.4/100,000 and 391.2/100,000, respectively). Female workers had a higher risk of radiation-related excess cancer, although they were exposed to lower radiation doses than male workers. The higher LAR among women was attributable primarily to excess breast and thyroid cancer risks. LARs among men were higher than women in most other cancer sites. With respect to organ sites, LAR of colon cancer (44.3/100,000) was the highest in male radiologic technologists, whereas LAR of thyroid cancer (222.0/100,000) was the highest in female radiologic technologists among workers who started radiologic practice in 1991. Thyroid and bladder cancers had the highest LFR among radiologic technologists.<h4>Conclusions</h4>Our findings provide an assessment of the potential cancer risk from occupational radiation exposure among medical radiation workers, based on current knowledge about radiation risk. Although the radiation-related risk was small in most cases, it varied widely by sex and occupational group, and the risk would be underestimated due to the use of median, rather than mean, doses. Therefore, careful monitoring is necessary to optimize radiation doses and protect medical radiation workers from potential health risks, particularly female radiologic technologists."
+      }
+    ],
+    "files": [
+      {
+        "path": "12885_2018_5107_MOESM1_ESM.docx",
+        "size": 674970,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Korea Health Industry Development Institute"
+          },
+          {
+            "name": "grant_id",
+            "value": "HI16C1186"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "BMC cancer"
+          },
+          {
+            "name": "Volume",
+            "value": "18(1)"
+          },
+          {
+            "name": "Pages",
+            "value": "1206"
+          },
+          {
+            "name": "Publication date",
+            "value": "2018 Dec"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1186/s12885-018-5107-x",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC6278159",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "30514249",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Lee WJ"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-0254-7267"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Choi Y"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Ko S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Cha ES"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kim J"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kim YM"
+          },
+          {
+            "name": "affiliation",
+            "value": "o5",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kong KA"
+          },
+          {
+            "name": "affiliation",
+            "value": "o6",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Seo S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o7",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a9",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Bang YJ"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a10",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Ha YW"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o6",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Preventive Medicine, College of Medicine, Ewha Womans University, Seoul, South Korea."
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Preventive Medicine, Keimyung University School of Medicine, Daegu, South Korea."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Preventive Medicine, Korea University College of Medicine, 73, Inchon-ro, Seongbuk-gu, Seoul, 02841, South Korea."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Preventive Medicine, Korea University College of Medicine, 73, Inchon-ro, Seongbuk-gu, Seoul, 02841, South Korea. leewj@korea.ac.kr."
+          }
+        ]
+      },
+      {
+        "accno": "o5",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Statistics, Kyungpook National University, Daegu, South Korea."
+          }
+        ]
+      },
+      {
+        "accno": "o7",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Laboratory of Low Dose Risk Assessment, National Radiation Emergency Medical Center, Korea Institute of Radiological and Medical Sciences, Seoul, South Korea."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Seoul Workers' Health Center, Ewha Womans University, Seoul, South Korea."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

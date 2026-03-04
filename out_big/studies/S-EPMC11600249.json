@@ -1,0 +1,319 @@
+{
+  "accno": "S-EPMC11600249",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Selenium Attenuates Radiation Colitis by Regulating cGAS-STING Signaling."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2024-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Selenium Attenuates Radiation Colitis by Regulating cGAS-STING Signaling."
+      },
+      {
+        "name": "Abstract",
+        "value": "Radiation colitis is one of the most common complications in patients undergoing pelvic radiotherapy and there is no effective treatment in the clinic. Therefore, searching for effective agents for the treatment of radiation colitis is urgently needed. Herein, it is found that the essential element selenium (Se) is protective against radiation colitis through inhibiting X-ray-induced apoptosis, cell cycle arrest, and inflammation with the involvement of balancing the generation of reactive oxygen species after the irradiation. Mechanistically, Se, especially for selenium nanoparticles (SeNPs), induced selenoprotein expression and then functioned to effectively restrain DNA damage response, which reduced X-ray-induced intestinal injury. Additionally, SeNPs treatment also restrained the cyclic GMP-AMP synthas (cGAS)- stimulator of interferon genes (STING)-TBK1-IRF3 signaling pathway cascade, thereby blocking the transcription of inflammatory cytokine gene, IL-6 and TNF-α, and thus alleviating inflammation. Moreover, inducing selenoprotein expression, such as GPX4, with SeNPs in vivo can regulate intestinal microenvironment immunity and gut microbiota to attenuate radiation-induced colitis by inhibiting oxidative stress and maintaining microenvironment immunity homeostasis. Together, these results unravel a previously unidentified modulation role that SeNPs restrained radiation colitis with the involvement of inducing selenoprotein expression but suppressing cGAS-STING-TBK1-IRF3 cascade."
+      }
+    ],
+    "files": [
+      {
+        "path": "ADVS-11-2403918-s001.docx",
+        "size": 2588520,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "National Key R&amp;D Program of China"
+          },
+          {
+            "name": "grant_id",
+            "value": "2023YFC3402800"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "National Key Research and Development Program of China"
+          },
+          {
+            "name": "grant_id",
+            "value": "2023YFC3402800"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "National Natural Science Foundation of China"
+          },
+          {
+            "name": "grant_id",
+            "value": "32101044"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "National Key R&D Program of China"
+          },
+          {
+            "name": "grant_id",
+            "value": "2023YFC3402800"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "National Natural Science Foundation of China"
+          },
+          {
+            "name": "grant_id",
+            "value": "32171296"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "National Science Fund for Distinguished Young Scholars"
+          },
+          {
+            "name": "grant_id",
+            "value": "82225025"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)"
+          },
+          {
+            "name": "Volume",
+            "value": "11(44)"
+          },
+          {
+            "name": "Pages",
+            "value": "e2403918"
+          },
+          {
+            "name": "Publication date",
+            "value": "2024 Nov"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1002/advs.202403918",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC11600249",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "39348242",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Xue Q"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Lai H"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Zhang H"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Li G"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Pi F"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Wu Q"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Liu S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Yang F"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a9",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Chen T"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology of Puning People's Hospital, Department of Chemistry of Jinan University, State Key Laboratory of Bioactive Molecules and Druggalibility Assessment, MOE Key Laboratory of Tumor Molecular Biology, Jinan University, Guangdong, China."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

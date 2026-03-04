@@ -1,0 +1,425 @@
+{
+  "accno": "S-EPMC8501214",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Two-miRNA-based finger-stick assay for estimation of absorbed ionizing radiation dose."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2020-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Two-miRNA-based finger-stick assay for estimation of absorbed ionizing radiation dose."
+      },
+      {
+        "name": "Abstract",
+        "value": "Nuclear radiation and radioactive fallouts resulting from a nuclear weapon detonation or reactor accidents could result in injuries affecting multiple sensitive organs, defined as acute radiation syndrome (ARS). Rapid and early estimation of injuries to sensitive organs using markers of radiation response is critical for identifying individuals who could potentially exhibit ARS; however, there are currently no biodosimetry assays approved for human use. We developed a sensitive microRNA (miRNA)-based blood test for radiation dose reconstruction with ±0.5 Gy resolution at critical dose range. Radiation dose-dependent changes in miR-150-5p in blood were internally normalized by a miRNA, miR-23a-3p, that was nonresponsive to radiation. miR-23a-3p was not highly expressed in blood cells but was abundant in circulation and was released primarily from the lung. Our assay showed the capability for dose estimation within hours to 1 week after exposure using a drop of blood from mice. We tested this biodosimetry assay for estimation of absorbed ionizing radiation dose in mice of varying ages and after exposure to both improvised nuclear device (IND)-spectrum neutrons and gamma rays. Leukemia specimens from patients exposed to fractionated radiation showed depletion of miR-150-5p in blood. We bridged the exposure of these patients to fractionated radiation by comparing responses after fractionated versus single acute exposure in mice. Although validation in nonhuman primates is needed, this proof-of-concept study suggests the potential utility of this assay in radiation disaster management and clinical applications."
+      }
+    ],
+    "files": [
+      {
+        "path": "NIHMS1743482-supplement-supplementary_material.pdf",
+        "size": 3418550,
+        "type": "file"
+      }
+    ],
+    "links": [
+      [
+        {
+          "url": "GSE116880",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "geo"
+            }
+          ]
+        },
+        {
+          "url": "NCT01521039",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT02122081",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        }
+      ]
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "National Cancer Institute"
+          },
+          {
+            "name": "grant_id",
+            "value": "P30CA016058"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "United States Defense for Health Affairs"
+          },
+          {
+            "name": "grant_id",
+            "value": "W81XWH-15-2-0054"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Science translational medicine"
+          },
+          {
+            "name": "Volume",
+            "value": "12(552)"
+          },
+          {
+            "name": "Pages",
+            "value": "eaaw5831"
+          },
+          {
+            "name": "Publication date",
+            "value": "2020 Jul"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1126/scitranslmed.aaw5831",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "10.1126/scitranslmed.aaw5831",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC8501214",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "32669422",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Yadav M"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-4778-8347"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Bhayana S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Liu J"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Lu L"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Huang J"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Ma Y"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Qamri Z"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Mo X"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-9797-2687"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a9",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Jacob DS"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a10",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Parasa ST"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a11",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Bhuiya N"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a12",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Fadda P"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a13",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Xu-Welliver M"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a14",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Chakravarti A"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a15",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Jacob NK"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Center for Biostatistics, The Ohio State University, Columbus, OH 43210, USA."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "The Ohio State University Comprehensive Cancer Center, Columbus, OH 43210, USA."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "The Ohio State University Comprehensive Cancer Center, Columbus, OH 43210, USA. naduparambil.jacob@osumc.edu."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

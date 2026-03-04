@@ -1,0 +1,264 @@
+{
+  "accno": "S-EPMC8874181",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Positive Cofactor 4 as a Potential Radiation Biodosimeter for Early Assessment."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2022-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Positive Cofactor 4 as a Potential Radiation Biodosimeter for Early Assessment."
+      },
+      {
+        "name": "Abstract",
+        "value": "During a major radiation event, a large number of people need to be rapidly assessed for radiation damage to ensure effective medical treatment and efficient use of medical resources. However, current techniques cannot meet the requirement of rapid detection of large quantities of samples in an emergency. It is essential to develop rapid and accurate radiation biodosimeters in peripheral blood. Here, we identified radiation sensitive genes in mice by RNA sequencing and evaluated their utility as radiation biodosimeters in human cell lines. Mice were subjected to gamma-irradiation with different doses (0-8 Gy, .85 Gy/min), and the tail venous blood was analyzed by RNA sequencing. We have identified 5 genes with significantly differential expression after radiation exposure. We found that positive cofactor 4(PC4) had well correlation with radiation dose in human lymphoblastoid cell line after irradiation. The relative expression of PC4 gene showed a good linear correlation with the radiation dose after 1-5 Gy irradiation (.85 Gy/min). PC4 gene can be rapidly recruited to the DNA damage sites faster than γ-H2AX after radiation in immunofluorescence detection. In conclusion, PC4 may be represented as new radiation biological dosimeter for early assessment."
+      }
+    ],
+    "files": [
+      {
+        "path": "sj-pdf-1-dos-10.1177_15593258221081317.pdf",
+        "size": 323031,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Third Military Medical University"
+          },
+          {
+            "name": "grant_id",
+            "value": "2020XQN13"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "General Logistics Department, People&apos;s Liberation Army"
+          },
+          {
+            "name": "grant_id",
+            "value": "20QNPY018"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "General Logistics Department, People&apos;s Liberation Army"
+          },
+          {
+            "name": "grant_id",
+            "value": "AWS17J007"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Dose-response : a publication of International Hormesis Society"
+          },
+          {
+            "name": "Volume",
+            "value": "20(1)"
+          },
+          {
+            "name": "Pages",
+            "value": "15593258221081317"
+          },
+          {
+            "name": "Publication date",
+            "value": "2022 Jan-Mar"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1177/15593258221081317",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC8874181",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "35221823",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Ma L"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-1811-2639"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Gong Q"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Liu G"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Chen J"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Wang Y"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Luo P"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Shi C"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Hematology, Southwest Hospital, First Affiliated Hospital of the Army Medical University, Chongqing, China."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Institute of Rocket Force Medicine, State Key Laboratory of Trauma, Burns and Combined Injury, Third Military Medical University (Army Medical University), Chongqing, China."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

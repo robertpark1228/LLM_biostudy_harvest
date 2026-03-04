@@ -1,0 +1,191 @@
+{
+  "accno": "S-EPMC9297706",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Shortened Radiation Time Promotes Recovery From Radiation-induced Lymphopenia in Early-Stage Non-small Cell Lung Cancer Patients Treated With Stereotactic Body Radiation Therapy."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2022-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Shortened Radiation Time Promotes Recovery From Radiation-induced Lymphopenia in Early-Stage Non-small Cell Lung Cancer Patients Treated With Stereotactic Body Radiation Therapy."
+      },
+      {
+        "name": "Abstract",
+        "value": "<b>Background:</b> To evaluate the potential impact of radiation time on radiation-induced lymphopenia (RIL) and subsequently recovery after stereotactic body radiation therapy (SBRT) and to examine the associations between radiation time and with patient outcomes in early-stage non-small cell lung cancer (NSCLC). <b>Methods:</b> Clinical and laboratory records of subjects consisted of 115 patients who had received SBRT for early-stage NSCLC. Clinical and laboratory records were retrospective reviewed to assess the changes in total lymphocyte counts (TLCs) following SBRT. Associations of TLCs kinetics with the clinical and treatment features, and outcomes were analyzed. <b>Results:</b> Most patients (100/115, 86.96%) experienced significantly decreased median TLCs following SBRT (1700 vs 1100 cells/µL; <i>P</i> < .001), and 52 patients (45.21%) met the criteria for lymphopenia. Six months after SBRT, 44 patients (38.26%) had recovered. A negative correlation between TLCs reduction and radiation time was observed (<i>r</i> = -0.381, <i>P</i> < .001). According to the receiver-operating characteristic curve analysis, the optimal cut-off value for radiation time to was 3950 s to predict lymphocyte count recovery (LR) following RIL was 3950 s (<i>P</i> < .001). Multivariate analyses demonstrated that radiation time was significantly associated with LR (odds ratio [OR], 0.113; 95% confidence interval [CI], 0.029-0.432; <i>P</i> = .001) but not TLCs reduction (<i>P</i> = .575). LR within 6 months after SBRT was associated with improved progression-free survival in patients without non-lymphopenia (<i>P</i> = .034), but had little effect in patients with lymphopenia (<i>P</i> = .405). <b>Conclusion:</b> A longer radiation time was associated with a lower rate of LR within 6 months after SBRT in patients with early-stage NSCLC. Given the association of severe and persistent RIL with survival in NSCLC, further study of the effect of radiation time on immune status is warranted."
+      }
+    ],
+    "files": [
+      {
+        "path": "sj-tif-1-tct-10.1177_15330338221112287.tif",
+        "size": 730868,
+        "type": "file"
+      },
+      {
+        "path": "sj-tif-2-tct-10.1177_15330338221112287.tif",
+        "size": 444688,
+        "type": "file"
+      },
+      {
+        "path": "sj-tif-3-tct-10.1177_15330338221112287.tif",
+        "size": 1232080,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Technology in cancer research & treatment"
+          },
+          {
+            "name": "Volume",
+            "value": "21"
+          },
+          {
+            "name": "Pages",
+            "value": "15330338221112287"
+          },
+          {
+            "name": "Publication date",
+            "value": "2022 Jan-Dec"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1177/15330338221112287",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC9297706",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "35816375",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Zhao Q"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Li T"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Du S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "He J"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Zeng Z"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, 92323Zhongshan Hospital, Fudan University, Shanghai, China."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

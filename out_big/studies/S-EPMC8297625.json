@@ -1,0 +1,243 @@
+{
+  "accno": "S-EPMC8297625",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Immediate Breast Reconstruction Allows for the Timely Initiation of Postmastectomy Radiation Therapy."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2019-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Immediate Breast Reconstruction Allows for the Timely Initiation of Postmastectomy Radiation Therapy."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Background</h4>Complications from breast reconstruction may delay postmastectomy radiation therapy and impact breast cancer outcomes. The authors hypothesized that immediate breast reconstruction may be associated with delays in the initiation of radiation, but that this delay would not significantly impact overall patient survival.<h4>Methods</h4>Using the National Cancer Database, the authors identified women with breast cancer who underwent mastectomy and received postmastectomy radiation therapy. Delayed radiation was defined as treatment initiated 6 months or more after surgery in patients who received adjuvant chemotherapy or 12 weeks or more after surgery in patients who received neoadjuvant or no chemotherapy.<h4>Results</h4>Women undergoing breast reconstruction had an increased time to postmastectomy radiation therapy, 154 days versus 132 days (p < 0.001), and were more likely to experience a delay in initiating radiation (OR, 1.25; 95 percent CI, 1.188 to 1.314). Other factors associated with delayed radiation included increased Charlson/Deyo scores, neoadjuvant chemotherapy, nonprivate insurance, and black race. Cox proportional hazards models revealed no evidence of a reduced adjusted overall survival in the immediate breast reconstruction group (hazard ratio, 0.836; 95 percent CI, 0.802 to 0.871; p < 0.001). Restricted cubic spline analysis identified the threshold number of days at which the start of radiation began to impact survival at 169 days (95 percent CI, 160 to 190 days), 75 days (95 percent CI, 42 to 90 days), and 71 days (95 percent CI, 41 to 90 days) in patients undergoing adjuvant, neoadjuvant, and no chemotherapy, respectively.<h4>Conclusion</h4>Immediate breast reconstruction is associated with a modest delay in initiating postmastectomy radiation therapy but does not impact overall survival.<h4>Clinical question/level of evidence</h4>Therapeutic, III."
+      }
+    ],
+    "files": [
+      {
+        "path": "NIHMS1688485-supplement-Supplementary_Figure_1.jpeg",
+        "size": 207996,
+        "type": "file"
+      },
+      {
+        "path": "NIHMS1688485-supplement-Supplementary_Figure_2.jpg",
+        "size": 127151,
+        "type": "file"
+      },
+      {
+        "path": "NIHMS1688485-supplement-Supplementary_Figure_3.jpg",
+        "size": 346130,
+        "type": "file"
+      },
+      {
+        "path": "NIHMS1688485-supplement-Supplementary_Figure_4.jpg",
+        "size": 127252,
+        "type": "file"
+      },
+      {
+        "path": "NIHMS1688485-supplement-Supplementary_Table_1__Digital_Content.docx",
+        "size": 26905,
+        "type": "file"
+      },
+      {
+        "path": "NIHMS1688485-supplement-Supplementary_Table_4__Digital_Content.docx",
+        "size": 13272,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NICHD NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "K12 HD043446"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Plastic and reconstructive surgery"
+          },
+          {
+            "name": "Volume",
+            "value": "144(3)"
+          },
+          {
+            "name": "Pages",
+            "value": "347e-357e"
+          },
+          {
+            "name": "Publication date",
+            "value": "2019 Sep"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1097/PRS.0000000000005899",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "10.1097/prs.0000000000005899",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC8297625",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "31460998",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Shammas RL"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Ren Y"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Thomas SM"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Hollenbeck ST"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Greenup RA"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Blitzblau RC"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "From the Division of Plastic, Maxillofacial, and Oral Surgery and the Departments of Surgery and Radiation Oncology, Duke University Medical Center; the Department of Biostatistics and Bioinformatics, Duke University; and the Duke Cancer Institute."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

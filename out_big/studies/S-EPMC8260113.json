@@ -1,0 +1,209 @@
+{
+  "accno": "S-EPMC8260113",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Perception of solar UV radiation by plants: photoreceptors and mechanisms."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2021-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Perception of solar UV radiation by plants: photoreceptors and mechanisms."
+      },
+      {
+        "name": "Abstract",
+        "value": "About 95% of the ultraviolet (UV) photons reaching the Earth's surface are UV-A (315-400 nm) photons. Plant responses to UV-A radiation have been less frequently studied than those to UV-B (280-315 nm) radiation. Most previous studies on UV-A radiation have used an unrealistic balance between UV-A, UV-B, and photosynthetically active radiation (PAR). Consequently, results from these studies are difficult to interpret from an ecological perspective, leaving an important gap in our understanding of the perception of solar UV radiation by plants. Previously, it was assumed UV-A/blue photoreceptors, cryptochromes and phototropins mediated photomorphogenic responses to UV-A radiation and \"UV-B photoreceptor\" UV RESISTANCE LOCUS 8 (UVR8) to UV-B radiation. However, our understanding of how UV-A radiation is perceived by plants has recently improved. Experiments using a realistic balance between UV-B, UV-A, and PAR have demonstrated that UVR8 can play a major role in the perception of both UV-B and short-wavelength UV-A (UV-Asw, 315 to ∼350 nm) radiation. These experiments also showed that UVR8 and cryptochromes jointly regulate gene expression through interactions that alter the relative sensitivity to UV-B, UV-A, and blue wavelengths. Negative feedback loops on the action of these photoreceptors can arise from gene expression, signaling crosstalk, and absorption of UV photons by phenolic metabolites. These interactions explain why exposure to blue light modulates photomorphogenic responses to UV-B and UV-Asw radiation. Future studies will need to distinguish between short and long wavelengths of UV-A radiation and to consider UVR8's role as a UV-B/UV-Asw photoreceptor in sunlight."
+      }
+    ],
+    "files": [
+      {
+        "path": "kiab162_supplementary_data.pdf",
+        "size": 167173,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Alfred Kordelin Foundation"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Doctoral Programme in Plant Sciences"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Finnish Cultural Foundation"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "University of Helsinki"
+          },
+          {
+            "name": "grant_id",
+            "value": "ASTF 570-2016"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Plant physiology"
+          },
+          {
+            "name": "Volume",
+            "value": "186(3)"
+          },
+          {
+            "name": "Pages",
+            "value": "1382-1396"
+          },
+          {
+            "name": "Publication date",
+            "value": "2021 Jul"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1093/plphys/kiab162",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC8260113",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "33826733",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Rai N"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-4972-9332"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Morales LO"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Aphalo PJ"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0003-3385-972X"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Organismal and Evolutionary Biology, Viikki Plant Science Center (ViPS), Faculty of Biological and Environmental Sciences, University of Helsinki, 00014 Helsinki, Finland."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "School of Science and Technology, The Life Science Center-Biology, Örebro University, SE-70182 Örebro, Sweden."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

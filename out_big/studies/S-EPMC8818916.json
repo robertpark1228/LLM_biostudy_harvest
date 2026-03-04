@@ -1,0 +1,359 @@
+{
+  "accno": "S-EPMC8818916",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Quality Indicators in Palliative Radiation Oncology: Development and Pilot Testing."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2022-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Quality Indicators in Palliative Radiation Oncology: Development and Pilot Testing."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Purpose</h4>A quality indicator (QI) is a valuable tool to evaluate the quality of health care systems. In palliative radiation oncology, only a few related QIs have been developed to date. In this study, we sought to develop and pilot test QIs that assess the quality of care in palliative radiation therapy.<h4>Methods and materials</h4>A modified Delphi method was used to establish consensus with an expert panel. The panel consisted of 8 radiation oncologists who have expertise in palliative radiation oncology and 1 expert on Delphi methodology. Online panel meetings and e-mail surveys were conducted to develop QIs on palliative radiation therapy for bone and brain metastases. Feasibility of measurement was assessed though pilot surveys that were conducted by radiation oncologists at 5 facilities.<h4>Results</h4>After 3 online meetings and 2 e-mail surveys, we developed 4 QIs on bone metastases and 3 QIs on brain metastases. Two email surveys and 2 pilot surveys confirmed the validity of QIs and the feasibility of measurement, respectively.<h4>Conclusions</h4>We developed valid and feasible QIs on palliative radiation therapy for bone and brain metastases. Our work may contribute to reduce the evidence-practice gaps in palliative radiation oncology."
+      }
+    ],
+    "files": [
+      {
+        "path": "mmc1.docx",
+        "size": 739992,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Ministry of Health, Labour and Welfare"
+          },
+          {
+            "name": "grant_id",
+            "value": "19EA1010"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Advances in radiation oncology"
+          },
+          {
+            "name": "Volume",
+            "value": "7(2)"
+          },
+          {
+            "name": "Pages",
+            "value": "100856"
+          },
+          {
+            "name": "Publication date",
+            "value": "2022 Mar-Apr"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1016/j.adro.2021.100856",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC8818916",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "35146217",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Saito T"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Shikama N"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Takahashi T"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Miwa M"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Miyazawa K"
+          },
+          {
+            "name": "affiliation",
+            "value": "o5",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Wada H"
+          },
+          {
+            "name": "affiliation",
+            "value": "o6",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Nakamura N"
+          },
+          {
+            "name": "affiliation",
+            "value": "o7",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Yorozu A"
+          },
+          {
+            "name": "affiliation",
+            "value": "o8",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a9",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Nagakura H"
+          },
+          {
+            "name": "affiliation",
+            "value": "o9",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a10",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Miyashita M"
+          },
+          {
+            "name": "affiliation",
+            "value": "o10",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o10",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Palliative Nursing, Health Sciences, Tohoku University Graduate School of Medicine, Miyagi, Japan."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Arao Municipal Hospital, Kumamoto, Japan."
+          }
+        ]
+      },
+      {
+        "accno": "o8",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, National Hospital Organization, Tokyo Medical Center, Tokyo, Japan."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Saitama Medical Center, Saitama Medical University, Saitama, Japan."
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Sendai Kousei Hospital, Miyagi, Japan."
+          }
+        ]
+      },
+      {
+        "accno": "o6",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Southern TOHOKU Proton Therapy Center, Fukushima."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiology, Juntendo University School of Medicine, Tokyo, Japan."
+          }
+        ]
+      },
+      {
+        "accno": "o9",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiology, KKR Sapporo Medical Center, Sapporo, Japan."
+          }
+        ]
+      },
+      {
+        "accno": "o5",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiology, Showa General Hospital, Tokyo, Japan."
+          }
+        ]
+      },
+      {
+        "accno": "o7",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiology, St. Marianna University School of Medicine, Kanagawa, Japan."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

@@ -1,0 +1,212 @@
+{
+  "accno": "S-EPMC6116356",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Use of a Small Animal Radiation Research Platform (SARRP) facilitates analysis of systemic versus targeted radiation effects in the mouse ovary."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2018-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Use of a Small Animal Radiation Research Platform (SARRP) facilitates analysis of systemic versus targeted radiation effects in the mouse ovary."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Background</h4>Radiation exposure is known to cause accelerated aging and damage to the ovary, but the contribution of indirect versus direct effects is not well understood. We used the Small Animal Radiation Research Platform (SARRP) (Xstrahl) to deliver radiation to precise fields equivalent to clinical practice, allowing us to investigate systemic versus targeted damage in a structure as small as the mouse ovary. The X-ray dose was kept constant at 1 Gy, but the field varied. Mice either received total body irradiation (TBI), radiation targeted to both ovaries (T2), or radiation targeted to one ovary (left) while the contralateral ovary (right) was spared (T1). Sham mice, handled similarly to the other cohorts but not exposed to radiation, served as controls. Two weeks post-exposure, ovaries were harvested and analyzed histologically to identify and count follicles within each ovary.<h4>Results</h4>Radiation significantly reduced primordial follicles in the TBI and T2 cohorts compared to the Sham cohort. There were no significant differences between these two irradiated groups. These findings suggest that at 1 Gy, the extent of damage to the ovary caused by radiation is similar despite the different delivery methods. When investigating the T1 cohort, targeted ovaries showed a significant decrease in primordial and growing follicles compared to non-targeted contralateral ovaries.<h4>Conclusions</h4>These findings demonstrate that the SARRP is an effective strategy for delivering precise ionizing radiation to small organs such as mouse ovaries. Such tools will facilitate identifying the relative risks to ovarian function associated with different radiation fields as well as screening the efficacy of emerging fertoprotective agents."
+      }
+    ],
+    "files": [
+      {
+        "path": "13048_2018_442_MOESM1_ESM.pdf",
+        "size": 491992,
+        "type": "file"
+      },
+      {
+        "path": "13048_2018_442_MOESM2_ESM.pdf",
+        "size": 491982,
+        "type": "file"
+      },
+      {
+        "path": "13048_2018_442_MOESM3_ESM.pdf",
+        "size": 491982,
+        "type": "file"
+      },
+      {
+        "path": "13048_2018_442_MOESM4_ESM.pdf",
+        "size": 491982,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Eunice Kennedy Shriver National Institute of Child Health and Human Development"
+          },
+          {
+            "name": "grant_id",
+            "value": "P50 HD076188"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NICHD NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "P50 HD076188"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Journal of ovarian research"
+          },
+          {
+            "name": "Volume",
+            "value": "11(1)"
+          },
+          {
+            "name": "Pages",
+            "value": "72"
+          },
+          {
+            "name": "Publication date",
+            "value": "2018 Aug"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1186/s13048-018-0442-8",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC6116356",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "30165884",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Grover AR"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kimler BF"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Duncan FE"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Center for Reproductive Science, Northwestern University, Chicago, IL, 60611, USA."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Center for Reproductive Science, Northwestern University, Chicago, IL, 60611, USA. f-duncan@northwestern.edu."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Kansas University Medical Center, Kansas City, KS, 66160, USA."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

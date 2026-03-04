@@ -1,0 +1,212 @@
+{
+  "accno": "S-EPMC5173286",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Tolerance to Gamma Radiation in the Marine Heterotardigrade, Echiniscoides sigismundi."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2016-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Tolerance to Gamma Radiation in the Marine Heterotardigrade, Echiniscoides sigismundi."
+      },
+      {
+        "name": "Abstract",
+        "value": "Tardigrades belong to the most radiation tolerant animals on Earth, as documented by a number of studies using both low-LET and high-LET ionizing radiation. Previous studies have focused on semi-terrestrial species, which are also very tolerant to desiccation. The predominant view on the reason for the high radiation tolerance among these semi-terrestrial species is that it relies on molecular mechanisms that evolved as adaptations for surviving dehydration. In this study we report the first study on radiation tolerance in a marine tardigrade, Echiniscoides sigismundi. Adult specimens in the hydrated active state were exposed to doses of gamma radiation from 100 to 5000 Gy. The results showed little effect of radiation at 100 and 500 Gy but a clear decline in activity at 1000 Gy and higher. The highest dose survived was 4000 Gy, at which ca. 8% of the tardigrades were active 7 days after irradiation. LD50 in the first 7 days after irradiation was in the range of 1100-1600 Gy. Compared to previous studies on radiation tolerance in semi-terrestrial and limnic tardigrades, Echiniscoides sigismundi seems to have a lower tolerance. However, the species still fits into the category of tardigrades that have high tolerance to both desiccation and radiation, supporting the hypothesis that radiation tolerance is a by-product of adaptive mechanisms to survive desiccation. More studies on radiation tolerance in tardigrade species adapted to permanently wet conditions, both marine and freshwater, are needed to obtain a more comprehensive picture of the patterns of radiation tolerance."
+      }
+    ],
+    "files": [
+      {
+        "path": "pone.0168884.s001.docx",
+        "size": 31038,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Danish Council for Independent Research"
+          },
+          {
+            "name": "grant_id",
+            "value": "DFF – 4090-00145"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "PloS one"
+          },
+          {
+            "name": "Volume",
+            "value": "11(12)"
+          },
+          {
+            "name": "Pages",
+            "value": "e0168884"
+          },
+          {
+            "name": "Publication date",
+            "value": "2016"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1371/journal.pone.0168884",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC5173286",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "27997621",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Jonsson KI"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-1732-0372"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Hygum TL"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Andersen KN"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Clausen LK"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Mobjerg N"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-5845-9047"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Biology, University of Copenhagen, Copenhagen, Denmark."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "School of Education and Environment, Kristianstad University, Kristianstad, Sweden."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

@@ -1,0 +1,246 @@
+{
+  "accno": "S-EPMC6305239",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Recent advances in radiation therapy of pancreatic cancer."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2018-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Recent advances in radiation therapy of pancreatic cancer."
+      },
+      {
+        "name": "Abstract",
+        "value": "Pancreatic cancer has a dismal prognosis with an overall survival outcome of just 5% at five years. However, paralleling our improved understanding of the biology of pancreatic cancer, treatment paradigms have also continued to evolve with newer advances in surgical techniques, chemotherapeutic agents, radiation therapy (RT) techniques, and immunotherapy paradigms. RT dose, modality, fraction size, and sequencing are being evaluated actively, and the interplay between RT and immune effects has opened up newer avenues of research. In this review, we will emphasize recent advances in RT for pancreatic cancer, focusing on preoperative chemoradiation, RT dose escalation, sparing of the spleen to reduce lymphopenia, and combination of RT with immunotherapy."
+      }
+    ],
+    "links": [
+      [
+        {
+          "url": "NCT03161379",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT03563248",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT02305186",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT02648282",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT03104439",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        }
+      ]
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "U01 CA216468"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "P30 CA016672"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "F1000Research"
+          },
+          {
+            "name": "Volume",
+            "value": "7"
+          },
+          {
+            "name": "Pages",
+            "value": "F1000 Faculty Rev-1931"
+          },
+          {
+            "name": "Publication date",
+            "value": "2018"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.12688/f1000research.16272.1",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC6305239",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "30613390",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Venkatesulu BP"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Hsieh CE"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-2038-4537"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Sanders KL"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0003-0161-5384"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Krishnan S"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-1340-4771"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Experimental Radiation Oncology, University of Texas MD Anderson Cancer Center, Houston, TX, USA."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

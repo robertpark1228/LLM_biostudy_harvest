@@ -1,0 +1,218 @@
+{
+  "accno": "S-EPMC10166094",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Circulating Cytokine/Chemokine Concentrations Respond to Ionizing Radiation Doses but not Radiation Dose Rates: Granulocyte-Colony Stimulating Factor and Interleukin-18."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2018-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Circulating Cytokine/Chemokine Concentrations Respond to Ionizing Radiation Doses but not Radiation Dose Rates: Granulocyte-Colony Stimulating Factor and Interleukin-18."
+      },
+      {
+        "name": "Abstract",
+        "value": "Exposure to ionizing radiation is a crucial life-threatening factor in nuclear and radiological incidents. It is known that ionizing radiation affects cytokine/chemokine concentrations in the blood of B6D2F1 mice. It is not clear whether radiation dose rates would vary the physiological response. Therefore, in this study we utilized data from two experiments using B6D2F1 female mice exposed to six different dose rates ranging from low to high rates. In one experiment, mice received a total dose of 8 Gy (LD<sub>0/30</sub>) of <sup>60</sup>Co gamma radiation at four dose rates: 0.04, 0.15, 0.30 and 0.47 Gy/min. Blood samples from mice were collected at 24 and 48 h postirradiation for cytokine/chemokine measurements, including interleukin (IL)-1β, IL-6, IL-10, keratinocyte cytokine (KC), IL-12p70, IL-15, IL-17A, IL-18, granulocyte-colony stimulating factor (G-CSF), granulocyte macrophage (GM)-CSF, macrophage (M)-CSF, monokine induced by gamma interferon (MIG), tumor necrosis factor (TNF)-α, fibroblast growth factor (FGF)-basic, vascular endothelial growth factor (VEGF) and platelet-derived growth factor basic (PDGF-bb). At 24 h after ionizing irradiation at dose rate of 0.04 Gy/min, significant increases were observed only in G-CSF and M-CSF ( P < 0.05). At 0.15 Gy/min, IL-10, IL-17A, G-CSF and GM-CSF concentrations were increased. At 0.3 Gy/min, IL-15, IL-18, G-CSF, GM-CSF, M-CSF, MCP-1, MIP-2, MIG, FGF-basic, VEGF and PDGF-bb were significantly elevated ( P < 0.05). At 0.47 Gy/min, IL-6, KC, IL-10, MCP-1, G-CSF, GM-CSF and M-CSF were significantly increased. At 48 h postirradiation, all cytokines/chemokines except MCP-1 returned to or were below their baselines, suggesting these increases are transient at LD<sub>0/30</sub> irradiation. Of note, there is a limitation on day 2 because cytokines/chemokines are either at or below their baselines. Other parameters such as fms-like tyrosine kinase receptor-3 ligand (Flt-3 ligand) concentrations and lymphocyte counts, which have proven to be unaffected by radiation dose rates, can be used instead for assessing the radiation dose. However, in a separate radiation dose and time-course experiment, increases in IL-18 and G-CSF depended on the radiation doses but showed no significant differences between 0.58 and 1.94 Gy/min ( P > 0.05) at 3 and 6 Gy but not 12 Gy. G-CSF continued to increase up to day 7, whereas IL-18 increased on day 4 and remained above baseline level on day 7. Therefore, time after irradiation at different doses should be taken into consideration. To our knowledge, these results are the first to suggest that ionizing radiation, even at a very low-dose-rate (0.04 Gy/min), induces circulating G-CSF increases but not others for selected time points; radiation-induced increases in IL-18 at radiation dose rates between 0.15 and 1.94 Gy/min are also not in a radiation dose-rate-dependent manner. C-CSF, lymphocyte counts and circulating Flt-3 ligand should be explored further as possible biomarkers of radiation exposure at early time points. IL-18 is also worthy of further study as a potential biomarker at later time points."
+      }
+    ],
+    "files": [
+      {
+        "path": "NIHMS1888277-supplement-Supplem__Table_1.doc",
+        "size": 76800,
+        "type": "file"
+      },
+      {
+        "path": "NIHMS1888277-supplement-Supplem__Table_2.doc",
+        "size": 30720,
+        "type": "file"
+      },
+      {
+        "path": "NIHMS1888277-supplement-Supplem__Table_3.doc",
+        "size": 30720,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NIAID NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "R33 AI080553"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Radiation research"
+          },
+          {
+            "name": "Volume",
+            "value": "189(6)"
+          },
+          {
+            "name": "Pages",
+            "value": "634-643"
+          },
+          {
+            "name": "Publication date",
+            "value": "2018 Jun"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1667/RR14966.1",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "10.1667/rr14966.1",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC10166094",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "29652619",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kiang JG"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Smith JT"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Hegge SR"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Ossetrova NI"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "a   Radiation Combined Injury Program, Armed Forces Radiobiology Research Institute, Bethesda, Maryland."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "b   Veterinary Sciences Department, Armed Forces Radiobiology Research Institute, Bethesda, Maryland."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "c   Biodosimetry Program, Armed Forces Radiobiology Research Institute, Bethesda, Maryland."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

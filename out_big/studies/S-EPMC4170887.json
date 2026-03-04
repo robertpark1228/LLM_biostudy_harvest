@@ -1,0 +1,389 @@
+{
+  "accno": "S-EPMC4170887",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Gene expression profiling of biological pathway alterations by radiation exposure."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2014-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Gene expression profiling of biological pathway alterations by radiation exposure."
+      },
+      {
+        "name": "Abstract",
+        "value": "Though damage caused by radiation has been the focus of rigorous research, the mechanisms through which radiation exerts harmful effects on cells are complex and not well-understood. In particular, the influence of low dose radiation exposure on the regulation of genes and pathways remains unclear. In an attempt to investigate the molecular alterations induced by varying doses of radiation, a genome-wide expression analysis was conducted. Peripheral blood mononuclear cells were collected from five participants and each sample was subjected to 0.5 Gy, 1 Gy, 2.5 Gy, and 5 Gy of cobalt 60 radiation, followed by array-based expression profiling. Gene set enrichment analysis indicated that the immune system and cancer development pathways appeared to be the major affected targets by radiation exposure. Therefore, 1 Gy radioactive exposure seemed to be a critical threshold dosage. In fact, after 1 Gy radiation exposure, expression levels of several genes including FADD, TNFRSF10B, TNFRSF8, TNFRSF10A, TNFSF10, TNFSF8, CASP1, and CASP4 that are associated with carcinogenesis and metabolic disorders showed significant alterations. Our results suggest that exposure to low-dose radiation may elicit changes in metabolic and immune pathways, potentially increasing the risk of immune dysfunctions and metabolic disorders."
+      }
+    ],
+    "files": [
+      {
+        "path": "834087.f1.pdf",
+        "size": 352216,
+        "type": "file"
+      }
+    ],
+    "links": [
+      [
+        {
+          "url": "GO:0019221",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "go"
+            }
+          ]
+        },
+        {
+          "url": "GO:0045935",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "go"
+            }
+          ]
+        },
+        {
+          "url": "GO:0006955",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "go"
+            }
+          ]
+        },
+        {
+          "url": "GO:0071310",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "go"
+            }
+          ]
+        },
+        {
+          "url": "GO:0051254",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "go"
+            }
+          ]
+        },
+        {
+          "url": "GO:2001236",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "go"
+            }
+          ]
+        },
+        {
+          "url": "GO:0071345",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "go"
+            }
+          ]
+        },
+        {
+          "url": "GO:0012501",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "go"
+            }
+          ]
+        },
+        {
+          "url": "GO:0002376",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "go"
+            }
+          ]
+        },
+        {
+          "url": "GO:0044092",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "go"
+            }
+          ]
+        },
+        {
+          "url": "GO:0070887",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "go"
+            }
+          ]
+        }
+      ]
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "BioMed research international"
+          },
+          {
+            "name": "Volume",
+            "value": "2014"
+          },
+          {
+            "name": "Pages",
+            "value": "834087"
+          },
+          {
+            "name": "Publication date",
+            "value": "2014"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1155/2014/834087",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC4170887",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "25276823",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Lee KF"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Weng JT"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Hsu PW"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Chi YH"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Chen CK"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Liu IY"
+          },
+          {
+            "name": "affiliation",
+            "value": "o5",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Chen YC"
+          },
+          {
+            "name": "affiliation",
+            "value": "o6",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Wu LS"
+          },
+          {
+            "name": "affiliation",
+            "value": "o7",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Bioinformatics Core Laboratory, Institute of Molecular Biology, Academia Sinica, Taipei 11529, Taiwan."
+          }
+        ]
+      },
+      {
+        "accno": "o6",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Computer Science & Information Engineering, Tamkang University, New Taipei City 25137, Taiwan."
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Computer Science and Engineering, Yuan Ze University, Chungli 32003, Taiwan."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Innovation Center for Big Data and Digital Convergence, Yuan Ze University, Chungli 32003, Taiwan ; Department of Computer Science and Engineering, Yuan Ze University, Chungli 32003, Taiwan."
+          }
+        ]
+      },
+      {
+        "accno": "o5",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Institute of Medical Sciences, Tzu Chi University, Hualien 970, Taiwan ; Department of Molecular Biology and Human Genetics, Tzu Chi University, Hualien 970, Taiwan."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Institute of Medical Sciences, Tzu Chi University, Hualien 970, Taiwan ; Laboratory for Cytogenetics, Center for Genetic Counseling, Buddhist Tzu Chi General Hospital, Hualien 970, Taiwan."
+          }
+        ]
+      },
+      {
+        "accno": "o7",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Institute of Medical Sciences, Tzu Chi University, Hualien 970, Taiwan."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

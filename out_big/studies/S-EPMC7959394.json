@@ -1,0 +1,253 @@
+{
+  "accno": "S-EPMC7959394",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Radiation exposure to the urology surgeon during retrograde intrarenal surgery."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2021-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Radiation exposure to the urology surgeon during retrograde intrarenal surgery."
+      },
+      {
+        "name": "Abstract",
+        "value": "Retrograde intrarenal surgery is a common procedure that carries a risk of radiation exposure for urologists. This study aimed to measure the amount of radiation that urologists are exposed to during surgery, and to estimate how many procedures can be safely performed by one urologist per year. Variables that affect radiation exposure were also identified. Radiation exposure doses were measured for the eye, neck, chest, arms, and hands of a urologist who performed 226 retrograde intrarenal surgeries. To determine how many procedures could be safely performed per year, the Annual Permissible Occupational Exposure Radiation Dose Guidelines of the National Council on Radiation Protection and Measurements were consulted. Correlations between radiation exposure dose and the patient's age, sex, body mass index, stone number/burden/laterality/location/Hounsfield unit, and their renal calculi were calculated. The mean surgery and fluoroscopy durations were 83.2 and 5.13 min; the mean tube voltage and current were 68.88 kV and 2.48 mA, respectively. Cumulative radiation doses for the eye, neck, chest, right upper arm, left hand, and right hand were 65.53, 69.95, 131.79, 124.43, 165.66, and 126.64 mSv, respectively. Radiation reduction rates for lead collars and aprons were 97% and 98%, respectively. If the urologists wear only radiation shields and lead apron but do not wear safety glasses during RIRS, the recommended by the ICRP publication 103 is taken into consideration, our results showed that 517 RIRS can be performed per year safely. However, if no protective measures are taken, this number decreases to only 85 RIRS per year. At all measurement sites, significant correlations were observed between the radiation exposure dose and stone numbers and Hounsfield unit values. In conclusion, it is imperative that urologists wear protective gear. Greater effort should be made to reduce radiation exposure when renal calculi have a large number of stones or large Hounsfield unit values."
+      }
+    ],
+    "files": [
+      {
+        "path": "pone.0247833.s001.pdf",
+        "size": 479467,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Gachon University Gil Medical Center"
+          },
+          {
+            "name": "grant_id",
+            "value": "FRD2018-01"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "PloS one"
+          },
+          {
+            "name": "Volume",
+            "value": "16(3)"
+          },
+          {
+            "name": "Pages",
+            "value": "e0247833"
+          },
+          {
+            "name": "Publication date",
+            "value": "2021"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1371/journal.pone.0247833",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC7959394",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "33720938",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Park IW"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kim SJ"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Shin D"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Shim SR"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0003-4143-7383"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Chang HK"
+          },
+          {
+            "name": "affiliation",
+            "value": "o5",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kim CH"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Pharmacology, Gachon University College of Medicine, Incheon, Korea."
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Preventive Medicine, Korea University College of Medicine, Seoul, Republic of Korea."
+          }
+        ]
+      },
+      {
+        "accno": "o5",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Urology, Catholic Kwandong University, International St. Mary's Hospital, Incheon, Republic of Korea."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Urology, Gil Medical Center, Gachon University College of Medicine, Incheon, Republic of Korea."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Urology, Yonsei University Wonju College of Medicine, Wonju, Republic of Korea."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

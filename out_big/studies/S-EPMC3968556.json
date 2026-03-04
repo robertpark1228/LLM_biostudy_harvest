@@ -1,0 +1,189 @@
+{
+  "accno": "S-EPMC3968556",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Radiation dose effect in locally advanced non-small cell lung cancer."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2014-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Radiation dose effect in locally advanced non-small cell lung cancer."
+      },
+      {
+        "name": "Abstract",
+        "value": "Radiation is the foundation of treatment for locally advanced non-small cell lung cancer (NSCLC), and as such, optimal radiation dose is essential for successful treatment. This article will briefly review biological considerations of radiation dose and their effect in the context of three-dimensional conformal radiation therapy (3D-CRT) including intensity modulated radiation therapy (IMRT) and stereotactic body radiation therapy (SBRT) for NSCLC. It will focus on literature review and discussions regarding radiation dose effect in locally advanced NSCLC including potential severe and lethal toxicities of high dose radiation given with concurrent chemotherapy. Potential new approaches for delivering safe and effective doses by individualizing treatment based on functional imaging are being applied in studies such as the PET boost trial and RTOG1106. The RTOG concept of delivering high dose radiation to the more resistant tumors with the use of isotoxic dose prescription and adaptive planning will also be discussed in detail."
+      }
+    ],
+    "links": [
+      [
+        {
+          "url": "NCT01024829",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        }
+      ]
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Journal of thoracic disease"
+          },
+          {
+            "name": "Volume",
+            "value": "6(4)"
+          },
+          {
+            "name": "Pages",
+            "value": "336-47"
+          },
+          {
+            "name": "Publication date",
+            "value": "2014 Apr"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.3978/j.issn.2072-1439.2014.01.23",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "10.3978/j.issn.2072-1439.2014.01.23",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC3968556",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "24688778",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kong FM"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0003-2652-098X"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Zhao J"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Wang J"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Faivre-Finn C"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0001-5617-9781"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "1 Department of Radiation Oncology, GRU Cancer Center, Georgia Regents University, Augusta, Georgia, USA ; 2 Department of Oncology, Tongji Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan 430030, China ; 3 Cancer Hospital/Institutes of Peking Union Medical College, Beijing 100730, China ; 4 Faculty Institute of Cancer Sciences, Manchester Academic Health Sciences Centre, University of Manchester, UK."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

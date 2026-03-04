@@ -1,0 +1,412 @@
+{
+  "accno": "S-EPMC6356878",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Peroxiredoxins in Cancer and Response to Radiation Therapies."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2019-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Peroxiredoxins in Cancer and Response to Radiation Therapies."
+      },
+      {
+        "name": "Abstract",
+        "value": "Peroxiredoxins have a long-established cellular function as regulators of redox metabolism by catalyzing the reduction of peroxides (e.g., H₂O₂, lipid peroxides) with high catalytic efficiency. This activity is also critical to the initiation and relay of both phosphorylation and redox signaling in a broad range of pathophysiological contexts. Under normal physiological conditions, peroxiredoxins protect normal cells from oxidative damage that could promote oncogenesis (e.g., environmental stressors). In cancer, higher expression level of peroxiredoxins has been associated with both tumor growth and resistance to radiation therapies. However, this relationship between the expression of peroxiredoxins and the response to radiation is not evident from an analysis of data in The Cancer Genome Atlas (TCGA) or NCI60 panel of cancer cell lines. The focus of this review is to summarize the current experimental knowledge implicating this class of proteins in cancer, and to provide a perspective on the value of targeting peroxiredoxins in the management of cancer. Potential biases in the analysis of the TCGA data with respect to radiation resistance are also highlighted."
+      }
+    ],
+    "links": [
+      [
+        {
+          "url": "GSE62944",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "geo"
+            }
+          ]
+        },
+        {
+          "url": "2RII",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "pdb"
+            }
+          ]
+        },
+        {
+          "url": "1QMV",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "pdb"
+            }
+          ]
+        }
+      ]
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "National Cancer Institute"
+          },
+          {
+            "name": "grant_id",
+            "value": "F30 CA224968"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "National Cancer Institute"
+          },
+          {
+            "name": "grant_id",
+            "value": "U01 CA215848"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "National Institute of Environmental Health Sciences"
+          },
+          {
+            "name": "grant_id",
+            "value": "R33 ES025645"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Antioxidants (Basel, Switzerland)"
+          },
+          {
+            "name": "Volume",
+            "value": "8(1)"
+          },
+          {
+            "name": "Pages",
+            "value": "E11"
+          },
+          {
+            "name": "Publication date",
+            "value": "2019 Jan"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.3390/antiox8010011",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC6356878",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "30609657",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Forshaw TE"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0001-9266-3925"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Holmila R"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-2825-5676"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Nelson KJ"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0003-2464-7696"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Lewis JE"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kemp ML"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0003-3781-8802"
+          },
+          {
+            "name": "affiliation",
+            "value": "o5",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Tsang AW"
+          },
+          {
+            "name": "affiliation",
+            "value": "o6",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Poole LB"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0003-0334-7328"
+          },
+          {
+            "name": "affiliation",
+            "value": "o7",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Lowther WT"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-0246-1295"
+          },
+          {
+            "name": "affiliation",
+            "value": "o8",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a9",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Furdui CM"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0003-3771-7999"
+          },
+          {
+            "name": "affiliation",
+            "value": "o9",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Biochemistry, Wake Forest School of Medicine, Winston-Salem, NC 27157, USA. kinelson@wakehealth.edu."
+          }
+        ]
+      },
+      {
+        "accno": "o7",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Biochemistry, Wake Forest School of Medicine, Winston-Salem, NC 27157, USA. lbpoole@wakehealth.edu."
+          }
+        ]
+      },
+      {
+        "accno": "o8",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Biochemistry, Wake Forest School of Medicine, Winston-Salem, NC 27157, USA. tlowther@wakehealth.edu."
+          }
+        ]
+      },
+      {
+        "accno": "o6",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Internal Medicine, Section on Molecular Medicine, Wake Forest School of Medicine, Winston-Salem, NC 27157, USA. atsang@wakehealth.edu."
+          }
+        ]
+      },
+      {
+        "accno": "o9",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Internal Medicine, Section on Molecular Medicine, Wake Forest School of Medicine, Winston-Salem, NC 27157, USA. cfurdui@wakehealth.edu."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Internal Medicine, Section on Molecular Medicine, Wake Forest School of Medicine, Winston-Salem, NC 27157, USA. rholmila@wakehealth.edu."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Internal Medicine, Section on Molecular Medicine, Wake Forest School of Medicine, Winston-Salem, NC 27157, USA. tforshaw@wakehealth.edu."
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "The Wallace H. Coulter Department of Biomedical Engineering, Georgia Institute of Technology and Emory University, Atlanta, GA 30332, USA. joshlewis@gatech.edu."
+          }
+        ]
+      },
+      {
+        "accno": "o5",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "The Wallace H. Coulter Department of Biomedical Engineering, Georgia Institute of Technology and Emory University, Atlanta, GA 30332, USA. melissa.kemp@bme.gatech.edu."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

@@ -1,0 +1,445 @@
+{
+  "accno": "S-EPMC3840044",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Preliminary toxicity analysis of 3-dimensional conformal radiation therapy versus intensity modulated radiation therapy on the high-dose arm of the Radiation Therapy Oncology Group 0126 prostate cancer trial."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2013-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Preliminary toxicity analysis of 3-dimensional conformal radiation therapy versus intensity modulated radiation therapy on the high-dose arm of the Radiation Therapy Oncology Group 0126 prostate cancer trial."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Purpose</h4>To give a preliminary report of clinical and treatment factors associated with toxicity in men receiving high-dose radiation therapy (RT) on a phase 3 dose-escalation trial.<h4>Methods and materials</h4>The trial was initiated with 3-dimensional conformal RT (3D-CRT) and amended after 1 year to allow intensity modulated RT (IMRT). Patients treated with 3D-CRT received 55.8 Gy to a planning target volume that included the prostate and seminal vesicles, then 23.4 Gy to prostate only. The IMRT patients were treated to the prostate and proximal seminal vesicles to 79.2 Gy. Common Toxicity Criteria, version 2.0, and Radiation Therapy Oncology Group/European Organization for Research and Treatment of Cancer late morbidity scores were used for acute and late effects.<h4>Results</h4>Of 763 patients randomized to the 79.2-Gy arm of Radiation Therapy Oncology Group 0126 protocol, 748 were eligible and evaluable: 491 and 257 were treated with 3D-CRT and IMRT, respectively. For both bladder and rectum, the volumes receiving 65, 70, and 75 Gy were significantly lower with IMRT (all P<.0001). For grade (G) 2+ acute gastrointestinal/genitourinary (GI/GU) toxicity, both univariate and multivariate analyses showed a statistically significant decrease in G2+ acute collective GI/GU toxicity for IMRT. There were no significant differences with 3D-CRT or IMRT for acute or late G2+ or 3+ GU toxicities. Univariate analysis showed a statistically significant decrease in late G2+ GI toxicity for IMRT (P=.039). On multivariate analysis, IMRT showed a 26% reduction in G2+ late GI toxicity (P=.099). Acute G2+ toxicity was associated with late G3+ toxicity (P=.005). With dose-volume histogram data in the multivariate analysis, RT modality was not significant, whereas white race (P=.001) and rectal V70 ≥15% were associated with G2+ rectal toxicity (P=.034).<h4>Conclusions</h4>Intensity modulated RT is associated with a significant reduction in acute G2+ GI/GU toxicity. There is a trend for a clinically meaningful reduction in late G2+ GI toxicity with IMRT. The occurrence of acute GI toxicity and large (>15%) volumes of rectum >70 Gy are associated with late rectal toxicity."
+      }
+    ],
+    "files": [
+      {
+        "path": "NIHMS514244-supplement-01.pdf",
+        "size": 56161,
+        "type": "file"
+      },
+      {
+        "path": "NIHMS514244-supplement-02.doc",
+        "size": 80384,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "U10 CA21661"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "U10 CA021661"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "U24 CA180803"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "U10 CA037422"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "U24 CA081647"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "U10 CA37422"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "U24 CA 81647"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "International journal of radiation oncology, biology, physics"
+          },
+          {
+            "name": "Volume",
+            "value": "87(5)"
+          },
+          {
+            "name": "Pages",
+            "value": "932-8"
+          },
+          {
+            "name": "Publication date",
+            "value": "2013 Dec"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1016/j.ijrobp.2013.07.041",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "10.1016/j.ijrobp.2013.07.041",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC3840044",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "24113055",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Michalski JM"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Yan Y"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Watkins-Bruner D"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Bosch WR"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Winter K"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Galvin JM"
+          },
+          {
+            "name": "affiliation",
+            "value": "o5",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Bahary JP"
+          },
+          {
+            "name": "affiliation",
+            "value": "o6",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Morton GC"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-4903-1233"
+          },
+          {
+            "name": "affiliation",
+            "value": "o7",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a9",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Parliament MB"
+          },
+          {
+            "name": "affiliation",
+            "value": "o8",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a10",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Sandler HM"
+          },
+          {
+            "name": "affiliation",
+            "value": "o9",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o6",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Centre Hospitalier de l’Université de Montréal-Notre Dame, Montreal, QC, Canada"
+          }
+        ]
+      },
+      {
+        "accno": "o8",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Cross Cancer Institute, Edmonton, AB, Canada"
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology Washington University Medical Center, St. Louis, Missouri. Electronic address: jmichalski@radonc.wustl.edu."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "RTOG Statistical Center, Philadelphia, PA, USA"
+          }
+        ]
+      },
+      {
+        "accno": "o9",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Samuel Oschin Comprehensive Cancer Institute, Cedars-Sinai Medical Center, Los Angeles, CA, USA"
+          }
+        ]
+      },
+      {
+        "accno": "o5",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Thomas Jefferson University Hospital, Philadelphia, PA, USA"
+          }
+        ]
+      },
+      {
+        "accno": "o7",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Toronto-Sunnybrook Regional Cancer Centre, Toronto, ON, Canada"
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "University of Pennsylvania School of Nursing, Philadelphia, PA, USA"
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Washington University Medical Center, St. Louis, MO, USA"
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

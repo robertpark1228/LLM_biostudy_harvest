@@ -1,0 +1,335 @@
+{
+  "accno": "S-EPMC3721325",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "A survivin-associated adaptive response in radiation therapy."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2013-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "A survivin-associated adaptive response in radiation therapy."
+      },
+      {
+        "name": "Abstract",
+        "value": "Adaptive responses can be induced in cells by very low doses of ionizing radiation resulting in an enhanced resistance to much larger exposures. The inhibitor of apoptosis protein, survivin, has been implicated in many adaptive responses to cellular stress. Computerized axial tomography used in image-guided radiotherapy to position and monitor tumor response uses very low radiation doses ranging from 0.5 to 100 mGy. We investigated the ability of these very low radiation doses administered along with two 2 Gy doses separated by 24 hours, a standard conventional radiotherapy dosing schedule, to initiate adaptive responses resulting in the elevation of radiation resistance in exposed cells. Human colon carcinoma (RKO36), mouse sarcoma (SA-NH), along with transformed mouse embryo fibroblasts, wild type or cells lacking functional tumor necrosis factor receptors 1 and 2 were used to assess their relative ability to express an adaptive response when grown either to confluence in vitro or as tumors in the flank of C57BL/6 mice. The survival of each of these cells was elevated from 5% to 20% (P ≤ 0.05) as compared to cells not receiving a 100 mGy or lesser dose. In addition, the cells exposed to 100 mGy exhibited elevations in survivin levels, reductions in apoptosis frequencies, and loss of an adaptive response if transfected with survivin siRNA. This survivin-mediated adaptive response has the potential for affecting outcomes if regularly induced throughout a course of image guided radiation therapy."
+      }
+    ],
+    "files": [
+      {
+        "path": "NIHMS478745-supplement-1.pptx",
+        "size": 154982,
+        "type": "file"
+      },
+      {
+        "path": "NIHMS478745-supplement-2.pptx",
+        "size": 430475,
+        "type": "file"
+      },
+      {
+        "path": "NIHMS478745-supplement-3.pptx",
+        "size": 169460,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "R01-CA111423"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "R01 CA111423"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "R01-CA132998"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "R01 CA132998"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Cancer research"
+          },
+          {
+            "name": "Volume",
+            "value": "73(14)"
+          },
+          {
+            "name": "Pages",
+            "value": "4418-28"
+          },
+          {
+            "name": "Publication date",
+            "value": "2013 Jul"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1158/0008-5472.CAN-12-4640",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "10.1158/0008-5472.can-12-4640",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC3721325",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "23651635",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Grdina DJ"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Murley JS"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Miller RC"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Mauceri HJ"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Sutton HG"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Li JJ"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0003-3694-9675"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Woloschak GE"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0001-9209-8954"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Weichselbaum RR"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department Of Radiation and Cellular Oncology, The University of Chicago, Chicago, IL 60637"
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Northwestern University, Chicago, IL 60611"
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, The University of California Davis, Sacramento, CA 95817"
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation and Cellular Oncology, The University of Chicago, Chicago, IL 60637, USA. dgrdina@uchicago.edu"
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

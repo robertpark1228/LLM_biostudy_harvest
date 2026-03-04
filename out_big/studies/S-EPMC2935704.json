@@ -1,0 +1,195 @@
+{
+  "accno": "S-EPMC2935704",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Radiation therapy in prostate cancer: a risk-adapted strategy."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2010-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Radiation therapy in prostate cancer: a risk-adapted strategy."
+      },
+      {
+        "name": "Abstract",
+        "value": "External-beam radiotherapy and brachytherapy, widely utilized as curative treatment modalities for prostate cancer, have undergone significant clinical and technological advances in recent decades. Contemporary radiotherapy treatment algorithms use pretreatment prognostic factors to stratify patients into low-, intermediate-, and high-risk groups that correlate with both pathologic stage of disease and risk of recurrence after treatment. The use of risk groups and additional prognostic factors guide selection of the optimal treatment modalities for individual patients. Here, the roles of external-beam radiotherapy, brachytherapy, and neoadjuvant or adjuvant androgen deprivation therapy are discussed in that context. Additional prognostic factors for recurrence in the post-prostatectomy setting and the role of adjuvant and salvage radiation therapy are also reviewed. The risk-adaptive approach in radiotherapy for prostate cancer aims to optimize cancer control outcomes while minimizing the morbidity of treatment."
+      }
+    ],
+    "links": [
+      [
+        {
+          "url": "NCT00541047",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT00223171",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT00005044",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        }
+      ]
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Current oncology (Toronto, Ont.)"
+          },
+          {
+            "name": "Volume",
+            "value": "17 Suppl 2"
+          },
+          {
+            "name": "Pages",
+            "value": "S18-24"
+          },
+          {
+            "name": "Publication date",
+            "value": "2010 Sep"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.3747/co.v17i0.704",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC2935704",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "20882127",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Hayden AJ"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Catton C"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Pickles T"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Radiation Oncology Program, BC Cancer Agency, Vancouver, BC."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Radiation Oncology Program, BC Cancer Agency, and Division of Radiation Oncology and Developmental Radiotherapeutics, University of British Columbia, Vancouver, BC"
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Radiation Oncology Program, Princess Margaret Hospital and the University of Toronto, Toronto, ON"
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

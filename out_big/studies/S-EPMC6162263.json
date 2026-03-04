@@ -1,0 +1,191 @@
+{
+  "accno": "S-EPMC6162263",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Cancer mortality and incidence following external occupational radiation exposure: an update of the 3rd analysis of the UK national registry for radiation workers."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2018-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Cancer mortality and incidence following external occupational radiation exposure: an update of the 3rd analysis of the UK national registry for radiation workers."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Background</h4>This study provides direct evidence of cancer risk from low dose and dose rate occupational external radiation exposures.<h4>Methods</h4>Cancer mortality and incidence were studied in relation to external radiation exposure in the National Registry for Radiation Workers. A cohort of 167,003 workers followed for an average of 32 years was analysed using Poisson regression methods.<h4>Results</h4>Mortality and incidence risks were significantly raised for the group of all malignant neoplasms excluding leukaemia (ERR/Sv mortality = 0.28; 90%CI: 0.06, 0.53, ERR/Sv incidence = 0.28; 90%CI: 0.10, 0.48) but with narrower confidence bounds compared with the previous analysis of this cohort reflecting the increased statistical power from the additional 10 years of follow-up information. The linear trends in relative risk for both mortality and incidence of these cancers remained statistically significantly raised when information relating to cumulative doses above 100 mSv was excluded (ERR/Sv mortality = 1.42; 90%CI: 0.51, 2.38 and ERR/Sv incidence = 1.18; 90%CI: 0.47, 1.92).<h4>Conclusions</h4>This study improved the precision of the cancer risk estimates seen in the third analysis of the NRRW cohort. The overall results remain consistent with the risk estimates from the Life Span Study and those adopted in the current ICRP recommendations."
+      }
+    ],
+    "files": [
+      {
+        "path": "41416_2018_184_MOESM1_ESM.docx",
+        "size": 92623,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "British journal of cancer"
+          },
+          {
+            "name": "Volume",
+            "value": "119(5)"
+          },
+          {
+            "name": "Pages",
+            "value": "631-637"
+          },
+          {
+            "name": "Publication date",
+            "value": "2018 Aug"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1038/s41416-018-0184-9",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC6162263",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "30108294",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Haylock RGE"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Gillies M"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Hunter N"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Zhang W"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Phillipson M"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Public Health England, Centre for Radiation, Chemical and Environmental Hazards, Chilton, Didcot, Oxfordshire, OX11 0RQ, UK."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Public Health England, Centre for Radiation, Chemical and Environmental Hazards, Chilton, Didcot, Oxfordshire, OX11 0RQ, UK. Richard.Haylock@phe.gov.uk."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

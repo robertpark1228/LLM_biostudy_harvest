@@ -1,0 +1,136 @@
+{
+  "accno": "S-EPMC3900019",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Treatment of Radiation Injury."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2014-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Treatment of Radiation Injury."
+      },
+      {
+        "name": "Abstract",
+        "value": "<b>Significance:</b> Radiation exposure as a result of radiation treatment, accident, or terrorism may cause serious problems such as deficiency due to necrosis or loss of function, fibrosis, or intractable ulcers in the tissues and organs. When the skin, bone, oral mucous membrane, guts, or salivary glands are damaged by ionizing radiation, the management and treatment are very lengthy and difficult. <b>Critical Issues:</b> In severe and irreversible injuries, surgery remains the mainstay of treatment. Several surgical procedures, such as debridement, skin grafting, and local and free-vascularized flaps, are widely used. <b>Recent Advances:</b> In specific cases of major morbidity or in high-risk patients, a newly developed therapy using a patient's own stem cells is safe and effective. Adipose tissue, normally a rich source of mesenchymal stem cells, which are similar to those from the bone marrow, can be harvested, since the procedure is easy, and abundant tissue can be obtained with minimal invasiveness. <b>Future Directions:</b> Based on the molecular basis of radiation injuries, several prospective treatments are under development. Single-nucleotide polymorphisms focus on an individual's sensitivity to radiation in radiogenomics, and the pathology of radiation fibrosis or the effect of radiation on wound healing is being studied and will lead to new insight into the treatment of radiation injuries. Protectors and mitigators are being actively investigated in terms of the timing of administration or dose."
+      }
+    ],
+    "links": [
+      [
+        {
+          "url": "rs2268363",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refsnp"
+            }
+          ]
+        }
+      ]
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Advances in wound care"
+          },
+          {
+            "name": "Volume",
+            "value": "3(1)"
+          },
+          {
+            "name": "Pages",
+            "value": "1-11"
+          },
+          {
+            "name": "Publication date",
+            "value": "2014 Jan"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1089/wound.2012.0403",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "10.1089/wound.2012.0403",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC3900019",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "24761339",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Akita S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Division of Plastic and Reconstructive Surgery, Department of Developmental and Reconstructive Medicine, Graduate School of Biomedical and Sciences, Nagasaki University , Nagasaki, Japan ."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

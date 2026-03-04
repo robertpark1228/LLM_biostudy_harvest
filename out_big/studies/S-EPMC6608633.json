@@ -1,0 +1,394 @@
+{
+  "accno": "S-EPMC6608633",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Radiation damage in small-molecule crystallography: fact not fiction."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2019-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Radiation damage in small-molecule crystallography: fact not fiction."
+      },
+      {
+        "name": "Abstract",
+        "value": "Traditionally small-molecule crystallographers have not usually observed or recognized significant radiation damage to their samples during diffraction experiments. However, the increased flux densities provided by third-generation synchrotrons have resulted in increasing numbers of observations of this phenomenon. The diversity of types of small-molecule systems means it is not yet possible to propose a general mechanism for their radiation-induced sample decay, however characterization of the effects will permit attempts to understand and mitigate it. Here, systematic experiments are reported on the effects that sample temperature and beam attenuation have on radiation damage progression, allowing qualitative and quantitative assessment of their impact on crystals of a small-molecule test sample. To allow inter-comparison of different measurements, radiation-damage metrics (diffraction-intensity decline, resolution fall-off, scaling <i>B</i>-factor increase) are plotted against the absorbed dose. For ease-of-dose calculations, the software developed for protein crystallography, <i>RADDOSE</i>-3<i>D</i>, has been modified for use in small-molecule crystallography. It is intended that these initial experiments will assist in establishing protocols for small-molecule crystallographers to optimize the diffraction signal from their samples prior to the onset of the deleterious effects of radiation damage."
+      }
+    ],
+    "files": [
+      {
+        "path": "m-06-00703-sup1.cif",
+        "size": 850805,
+        "type": "file"
+      },
+      {
+        "path": "m-06-00703-sup2.hkl",
+        "size": 566433,
+        "type": "file"
+      },
+      {
+        "path": "m-06-00703-sup3.pdf",
+        "size": 328809,
+        "type": "file"
+      }
+    ],
+    "links": [
+      [
+        {
+          "url": "10.5281/zenodo.2553080",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "doi"
+            }
+          ]
+        },
+        {
+          "url": "10.5281/zenodo.2552049",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "doi"
+            }
+          ]
+        },
+        {
+          "url": "10.5281/zenodo.2591394",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "doi"
+            }
+          ]
+        },
+        {
+          "url": "10.5281/zenodo.2551061",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "doi"
+            }
+          ]
+        },
+        {
+          "url": "10.5281/zenodo.2556528",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "doi"
+            }
+          ]
+        },
+        {
+          "url": "10.5281/zenodo.2557314",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "doi"
+            }
+          ]
+        },
+        {
+          "url": "10.5281/zenodo.2592265",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "doi"
+            }
+          ]
+        },
+        {
+          "url": "10.5281/zenodo.2587857",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "doi"
+            }
+          ]
+        },
+        {
+          "url": "10.5281/zenodo.2591169",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "doi"
+            }
+          ]
+        }
+      ]
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Engineering and Physical Sciences Research Council"
+          },
+          {
+            "name": "grant_id",
+            "value": "PR150005"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Suomen Kulttuurirahasto"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Engineering and Physical Sciences Research Council"
+          },
+          {
+            "name": "grant_id",
+            "value": "EP/G03706X/1"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Diamond Light Source"
+          },
+          {
+            "name": "grant_id",
+            "value": "MT15762"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "IUCrJ"
+          },
+          {
+            "name": "Volume",
+            "value": "6(Pt 4)"
+          },
+          {
+            "name": "Pages",
+            "value": "703-713"
+          },
+          {
+            "name": "Publication date",
+            "value": "2019 Jul"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1107/S2052252519006948",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC6608633",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "31316814",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Christensen J"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-1273-8307"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Horton PN"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0001-8886-2016"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Bury CS"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Dickerson JL"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0001-5049-4000"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Taberman H"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Garman EF"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0001-8329-5665"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Coles SJ"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0001-8414-9272"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Biochemistry, University of Oxford, South Parks Road, Oxford OX1 3QU, UK."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Diamond Light Source Ltd, Diamond House, Harwell Science and Innovation Campus, Didcot, Oxfordshire OX11 0DE, UK."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "National Crystallography Service, School of Chemistry, Faculty of Engineering and Physical Sciences, University of Southampton, Southampton SO17 1BJ, UK."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

@@ -1,0 +1,225 @@
+{
+  "accno": "S-EPMC8640590",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Reliability and Validity of a Nationwide Survey (the Korean Radiation Workers Study)."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2021-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Reliability and Validity of a Nationwide Survey (the Korean Radiation Workers Study)."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Background</h4>This study aimed to evaluate the reliability and validity of the self-administered questionnaire for Korean radiation workers.<h4>Methods</h4>From May 24, 2016, to June 30, 2017, 20,608 participants completed the questionnaire, providing information on sociodemographics, lifestyle, work history and practices, medical radiation exposure, and medical history, which was linked to the National Dose Registry and the National Cancer Registry. The validity of the questionnaire was evaluated using the responses of 20,608 workers, and reliability was evaluated using the responses of 3043 workers who responded to the survey twice.<h4>Results</h4>Responses concerning demographic characteristics and lifestyle showed reliability with a moderate-to-high agreement (kappa: 0.43-0.99), whereas responses concerning occupation and medical radiation exposure had a wide range of agreement (kappa: 0.05-0.95), possibly owing to temporal variability during employment. Regarding validity, responses to the question about the first year of employment had an excellent agreement with the national registry (intraclass correlation coefficient = 0.9); however, responses on cancer history had a wide range of agreement (kappa: 0.22-0.85).<h4>Conclusion</h4>Although the reliability and validity of the questionnaire were not distinguished by demographic characteristics, they tended to be low among participants whose occupational radiation exposure was minimal. Overall, the information collected can be reliable for epidemiological studies; however, caution must be exercised when using information such as medical exposure and work practices, which are prone to temporal variability."
+      }
+    ],
+    "files": [
+      {
+        "path": "mmc1.docx",
+        "size": 40005,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Safety and health at work"
+          },
+          {
+            "name": "Volume",
+            "value": "12(4)"
+          },
+          {
+            "name": "Pages",
+            "value": "445-451"
+          },
+          {
+            "name": "Publication date",
+            "value": "2021 Dec"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1016/j.shaw.2021.07.012",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC8640590",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "34900363",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Lee D"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Lim WY"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Park S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Jin YW"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Lee WJ"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Park S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Seo S"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0001-6200-5120"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Preventive Medicine, Korea University College of Medicine, Seoul, 02841, Republic of Korea."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Laboratory of Radiation Epidemiology, National Radiation Emergency Medical Center, Korea Institute of Radiological and Medical Sciences, Seoul, 01812, Republic of Korea."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

@@ -1,0 +1,260 @@
+{
+  "accno": "S-EPMC3388558",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "γ-Secretase inhibitor enhances antitumour effect of radiation in Notch-expressing lung cancer."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2012-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "γ-Secretase inhibitor enhances antitumour effect of radiation in Notch-expressing lung cancer."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Background</h4>Notch receptor has an important role in both development and cancer. We previously reported that inhibition of the Notch3 by γ-secretase inhibitor (GSI) induces apoptosis and suppresses tumour proliferation in non-small-cell lung cancer. Although radiation is reported to induce Notch activation, little is known about the relationship between radiation and Notch pathway.<h4>Methods</h4>We examined the effect of combining GSI and radiation at different dosing in three Notch expressing lung cancer cell lines. The cytotoxic effect of GSI and radiation was evaluated using MTT assay and clonogenic assay in vitro and xenograft models. Expressions of Notch pathway, mitogen-activated protein kinase (MAPK) pathway and Bcl-2 family proteins were investigated using western blot analysis.<h4>Results</h4>We discovered that the antitumour effect of combining GSI and radiation was dependent on treatment schedule. γ-Secretase inhibitor administration after radiation had the greatest growth inhibition of lung cancer in vitro and in vivo. We showed that the combination induced apoptosis of lung cancer cell lines through the regulation of MAPK and Bcl-2 family proteins. Furthermore, activation of Notch after radiation was ameliorated by GSI administration, suggesting that treatment with GSI prevents Notch-induced radiation resistance.<h4>Conclusion</h4>Notch has an important role in lung cancer. Treatment with GSI after radiation can significantly enhance radiation-mediated tumour cytotoxicity."
+      }
+    ],
+    "files": [
+      {
+        "path": "bjc2012178x1.pdf",
+        "size": 215535,
+        "type": "file"
+      },
+      {
+        "path": "bjc2012178x2.pdf",
+        "size": 189922,
+        "type": "file"
+      },
+      {
+        "path": "bjc2012178x3.doc",
+        "size": 33792,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "British journal of cancer"
+          },
+          {
+            "name": "Volume",
+            "value": "106(12)"
+          },
+          {
+            "name": "Pages",
+            "value": "1953-9"
+          },
+          {
+            "name": "Publication date",
+            "value": "2012 Jun"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1038/bjc.2012.178",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC3388558",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "22596234",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Mizugaki H"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Sakakibara-Konishi J"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Ikezawa Y"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kikuchi J"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kikuchi E"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Oizumi S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Dang TP"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Nishimura M"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-6456-4361"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Medicine, Division of Hematology/Oncology, University of Virginia , Charlottesville, VA,"
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "First Department of Medicine, Hokkaido University School of Medicine , North15, West7, Kita-ku, Sapporo 060-8638,"
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "First Department of Medicine, Hokkaido University School of Medicine, Kita-ku, Sapporo, Japan."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

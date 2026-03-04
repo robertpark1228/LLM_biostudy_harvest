@@ -1,0 +1,271 @@
+{
+  "accno": "S-EPMC4534329",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "A comparison of the biological effects of 125I seeds continuous low-dose-rate radiation and 60Co high-dose-rate gamma radiation on non-small cell lung cancer cells."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2015-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "A comparison of the biological effects of 125I seeds continuous low-dose-rate radiation and 60Co high-dose-rate gamma radiation on non-small cell lung cancer cells."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Objectives</h4>To compare the biological effects of 125I seeds continuous low-dose-rate (CLDR) radiation and 60Co γ-ray high-dose-rate (HDR) radiation on non-small cell lung cancer (NSCLC) cells.<h4>Materials and methods</h4>A549, H1299 and BEAS-2B cells were exposed to 125I seeds CLDR radiation or 60Co γ-ray HDR radiation. The survival fraction was determined using a colony-forming assay. The cell cycle progression and apoptosis were detected by flow cytometry (FCM). The expression of the apoptosis-related proteins caspase-3, cleaved-caspase-3, PARP, cleaved-PARP, BAX and Bcl-2 were detected by western blot assay.<h4>Results</h4>After irradiation with 125I seeds CLDR radiation, there was a lower survival fraction, more pronounced cell cycle arrest (G1 arrest and G2/M arrest in A549 and H1299 cells, respectively) and a higher apoptotic ratio for A549 and H1299 cells than after 60Co γ-ray HDR radiation. Moreover, western blot assays revealed that 125I seeds CLDR radiation remarkably up-regulated the expression of Bax, cleaved-caspase-3 and cleaved-PARP proteins and down-regulated the expression of Bcl-2 proteins in A549 and H1299 cells compared with 60Co γ-ray HDR radiation. However, there was little change in the apoptotic ratio and expression of apoptosis-related proteins in normal BEAS-2B cells receiving the same treatment.<h4>Conclusions</h4>125I seeds CLDR radiation led to remarkable growth inhibition of A549 and H1299 cells compared with 60Co HDR γ-ray radiation; A549 cells were the most sensitive to radiation, followed by H1299 cells. In contrast, normal BEAS-2B cells were relatively radio-resistant. The imbalance of the Bcl-2/Bax ratio and the activation of caspase-3 and PARP proteins might play a key role in the anti-proliferative effects induced by 125I seeds CLDR radiation, although other possibilities have not been excluded and will be investigated in future studies."
+      }
+    ],
+    "files": [
+      {
+        "path": "pone.0133728.s001.doc",
+        "size": 35840,
+        "type": "file"
+      },
+      {
+        "path": "pone.0133728.s002.doc",
+        "size": 36352,
+        "type": "file"
+      },
+      {
+        "path": "pone.0133728.s003.doc",
+        "size": 35840,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "PloS one"
+          },
+          {
+            "name": "Volume",
+            "value": "10(8)"
+          },
+          {
+            "name": "Pages",
+            "value": "e0133728"
+          },
+          {
+            "name": "Publication date",
+            "value": "2015"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1371/journal.pone.0133728",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC4534329",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "26266801",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Wang Z"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Zhao Z"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Lu J"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Chen Z"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Mao A"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Teng G"
+          },
+          {
+            "name": "affiliation",
+            "value": "o5",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Liu F"
+          },
+          {
+            "name": "affiliation",
+            "value": "o6",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Interventional Radiology, Shanghai St. Luke's Hospital, Shanghai, China."
+          }
+        ]
+      },
+      {
+        "accno": "o6",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiobiology, School of Radiological Medicine and Protection, Soochow University, Suzhou, China."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiology, Renji Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China; Department of Interventional Radiology, Shanghai St. Luke's Hospital, Shanghai, China."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiology, Ruijin Hospital Luwan Branch, Shanghai Jiao Tong University School of Medicine, Shanghai, China."
+          }
+        ]
+      },
+      {
+        "accno": "o5",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Institution of Molecular Imaging, Southeast University, Nanjing, China."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Institution of Molecular Imaging, Southeast University, Nanjing, China; Department of Interventional Radiology, The Third Affiliated Hospital of the Medical College Shihezi University, Xinjiang, China; Department of Radiology, Ruijin Hospital Luwan Branch, Shanghai Jiao Tong University School of Medicine, Shanghai, China."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

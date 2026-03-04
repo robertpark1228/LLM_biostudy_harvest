@@ -1,0 +1,225 @@
+{
+  "accno": "S-EPMC3159113",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Radiation as a risk factor for cardiovascular disease."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2011-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Radiation as a risk factor for cardiovascular disease."
+      },
+      {
+        "name": "Abstract",
+        "value": "Abstract population are ubiquitous background radiation and medical exposure of patients. From the early 1980s to 2006, the average dose per individual in the United States for all sources of radiation increased by a factor of 1.7-6.2 mSv, with this increase due to the growth of medical imaging procedures. Radiation can place individuals at an increased risk of developing cardiovascular disease. Excess risk of cardiovascular disease occurs a long time after exposure to lower doses of radiation as demonstrated in Japanese atomic bomb survivors. This review examines sources of radiation (atomic bombs, radiation accidents, radiological terrorism, cancer treatment, space exploration, radiosurgery for cardiac arrhythmia, and computed tomography) and the risk for developing cardiovascular disease. The evidence presented suggests an association between cardiovascular disease and exposure to low-to-moderate levels of radiation, as well as the well-known association at high doses. Studies are needed to define the extent that diagnostic and therapeutic radiation results in increased risk factors for cardiovascular disease, to understand the mechanisms involved, and to develop strategies to mitigate or treat radiation-induced cardiovascular disease."
+      }
+    ],
+    "links": [
+      [
+        {
+          "url": "NCT00069654",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        }
+      ]
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NIAID NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "AI067734"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NIAID NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "AI080363"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NHLBI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "HL54075"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Antioxidants & redox signaling"
+          },
+          {
+            "name": "Volume",
+            "value": "15(7)"
+          },
+          {
+            "name": "Pages",
+            "value": "1945-56"
+          },
+          {
+            "name": "Publication date",
+            "value": "2011 Oct"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1089/ars.2010.3742",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "10.1089/ars.2010.3742",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC3159113",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "21091078",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Baker JE"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Moulder JE"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Hopewell JW"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Medical College of Wisconsin , Milwaukee, Wisconsin."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Division of Cardiothoracic Surgery, Medical College of Wisconsin, 8701 Watertown Plank Road, Milwaukee, WI 53226, USA. jbaker@mcw.edu"
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Green Templeton College and Particle Therapy Cancer Research Institute, University of Oxford , Oxford, ."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

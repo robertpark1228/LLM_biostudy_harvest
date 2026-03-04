@@ -1,0 +1,269 @@
+{
+  "accno": "S-EPMC6707719",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Medical Radiation Exposure among Atomic Bomb Survivors: Understanding its Impact on Risk Estimates of Atomic Bomb Radiation."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2019-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Medical Radiation Exposure among Atomic Bomb Survivors: Understanding its Impact on Risk Estimates of Atomic Bomb Radiation."
+      },
+      {
+        "name": "Abstract",
+        "value": "There have been some concerns about the influence of medical X rays in dose-response analysis of atomic bomb radiation on health outcomes. Among atomic bomb survivors in the Life Span Study, the association between atomic bomb radiation dose and exposures to medical X rays was investigated using questionnaire data collected by a mail survey conducted between 2007-2011, soliciting information on the history of computed tomography (CT) scans, gastrointestinal fluoroscopy, angiography and radiotherapy. Among 12,670 participants, 76% received at least one CT scan; 77%, a fluoroscopic examination; 23%, an angiographic examination; and 8%, radiotherapy. Descriptive and multivariable-adjusted analyses showed that medical X rays were administered in greater frequencies among those who were exposed to an atomic bomb radiation dose of 1.0 Gy or higher, compared to those exposed to lower doses. This is possibly explained by a greater frequency in major chronic diseases such as cancer in the ≥1.0 Gy group. The frequency of medical X rays in the groups exposed to 0.005-0.1 Gy or 0.1-1.0 Gy did not differ significantly from those exposed to <0.005 Gy. An analysis of finer dose groups under 1 Gy likewise showed no differences in frequencies of medical X rays. Thus, no evidence of material confounding of atomic bomb effects was found. Among those exposed to atomic bomb doses <1 Gy, doses were not associated with medical radiation exposures. The significant association of doses ≥1 Gy with medical radiation exposures likely produces no substantive bias in radiation effect estimates because diagnostic medical X-ray doses are much lower than the atomic bomb doses. Further information on actual medical X-ray doses and on the validity of self-reports of X-ray procedures would strengthen this conclusion."
+      }
+    ],
+    "files": [
+      {
+        "path": "NIHMS1034518-supplement-Supplementary_file.pdf",
+        "size": 108830,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCATS NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "UL1 TR000039"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NIGMS NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "P20 GM109005"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Radiation research"
+          },
+          {
+            "name": "Volume",
+            "value": "191(6)"
+          },
+          {
+            "name": "Pages",
+            "value": "507-517"
+          },
+          {
+            "name": "Publication date",
+            "value": "2019 Jun"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1667/RR15054.1",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "10.1667/rr15054.1",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC6707719",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "30925137",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Sadakane A"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Landes RD"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Sakata R"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Nagano J"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Shore RE"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-6842-2248"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Ozasa K"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-5637-1383"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "a Department of Epidemiology, Radiation Effects Research Foundation, Hiroshima, Japan."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "b Department of Biostatistics, University of Arkansas for Medical Science, Little Rock, Arkansas."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "c Department of Faculty of Arts and Science, Kyushu University, Fukuoka, Japan."
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "d Department of New York University School of Medicine, New York, New York."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

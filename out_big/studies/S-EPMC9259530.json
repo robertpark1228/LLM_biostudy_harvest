@@ -1,0 +1,166 @@
+{
+  "accno": "S-EPMC9259530",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Evaluation of the SPARTACUS-Urban Radiation Model for Vertically Resolved Shortwave Radiation in Urban Areas."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2022-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Evaluation of the SPARTACUS-Urban Radiation Model for Vertically Resolved Shortwave Radiation in Urban Areas."
+      },
+      {
+        "name": "Abstract",
+        "value": "The heterogenous structure of urban environments impacts interactions with radiation, and the intensity of urban-atmosphere exchanges. Numerical weather prediction (NWP) often characterizes the urban structure with an infinite street canyon, which does not capture the three-dimensional urban morphology realistically. Here, the SPARTACUS (Speedy Algorithm for Radiative Transfer through Cloud Sides) approach to urban radiation (SPARTACUS-Urban), a multi-layer radiative transfer model designed to capture three-dimensional urban geometry for NWP, is evaluated with respect to the explicit Discrete Anisotropic Radiative Transfer (DART) model. Vertical profiles of shortwave fluxes and absorptions are evaluated across domains spanning regular arrays of cubes, to real cities (London and Indianapolis). The SPARTACUS-Urban model agrees well with the DART model (normalized bias and mean absolute errors < 5.5%) when its building distribution assumptions are fulfilled (i.e., buildings randomly distributed in the horizontal). For realistic geometry, including real-world building distributions and pitched roofs, SPARTACUS-Urban underestimates the effective albedo (< 6%) and ground absorption (< 16%), and overestimates wall-plus-roof absorption (< 15%), with errors increasing with solar zenith angle. Replacing the single-exponential fit of the distribution of building separations with a two-exponential function improves flux predictions for real-world geometry by up to half. Overall, SPARTACUS-Urban predicts shortwave fluxes accurately for a range of geometries (cf. DART). Comparison with the commonly used single-layer infinite street canyon approach finds SPARTACUS-Urban has an improved performance for randomly distributed and real-world geometries. This suggests using SPARTACUS-Urban would benefit weather and climate models with multi-layer urban energy balance models, as it allows more realistic urban form and vertically resolved absorption rates, without large increases in computational cost or data inputs.<h4>Supplementary information</h4>The online version contains supplementary material available at 10.1007/s10546-022-00706-9."
+      }
+    ],
+    "files": [
+      {
+        "path": "10546_2022_706_MOESM1_ESM.pdf",
+        "size": 542989,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Boundary-layer meteorology"
+          },
+          {
+            "name": "Volume",
+            "value": "184(2)"
+          },
+          {
+            "name": "Pages",
+            "value": "301-331"
+          },
+          {
+            "name": "Publication date",
+            "value": "2022"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1007/s10546-022-00706-9",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC9259530",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "35814293",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Stretton MA"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Morrison W"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Hogan RJ"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Grimmond S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Meteorology, University of Reading, Reading, UK."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

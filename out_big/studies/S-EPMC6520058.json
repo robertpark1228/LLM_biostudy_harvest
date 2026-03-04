@@ -1,0 +1,214 @@
+{
+  "accno": "S-EPMC6520058",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Adjuvant vs. salvage radiation therapy in men with high-risk features after radical prostatectomy: Survey of North American genitourinary expert radiation oncologists."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2019-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Adjuvant vs. salvage radiation therapy in men with high-risk features after radical prostatectomy: Survey of North American genitourinary expert radiation oncologists."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Introduction</h4>The management of patients with high-risk features after radical prostatectomy (RP) is controversial. Level 1 evidence demonstrates that adjuvant radiation therapy (RT) improves survival compared to no treatment; however, it may overtreat up to 30% of patients, as randomized clinical trials (RCTs) using salvage RT on observation arms failed to reveal a survival advantage of adjuvant RT. We, therefore, sought to determine the current view of adjuvant vs. salvage RT among North American genitourinary (GU) radiation oncology experts.<h4>Methods</h4>A survey was distributed to 88 practicing North American GU physicians serving on decision-making committees of cooperative group research organizations. Questions pertained to opinions regarding adjuvant vs. salvage RT for this patient population. Treatment recommendations were correlated with practice patterns using Fisher's exact test.<h4>Results</h4>Forty-two of 88 radiation oncologists completed the survey; 23 (54.8%) recommended adjuvant RT and 19 (45.2%) recommended salvage RT. Recommendation of active surveillance for Gleason 3+4 disease was a significant predictor of salvage RT recommendation (p=0.034), and monthly patient volume approached significance for recommendation of adjuvant over salvage RT; those seeing <15 patients/month trended towards recommending adjuvant over salvage RT (p=0.062). No other demographic factors approached significance.<h4>Conclusions</h4>There is dramatic polarization among North American GU experts regarding optimal management of patients with high-risk features after RP. Ongoing RCTs will determine whether adjuvant RT improves survival over salvage RT. Until then, the almost 50/50 division seen from this analysis should encourage practicing clinicians to discuss the ambiguity with their patients."
+      }
+    ],
+    "files": [
+      {
+        "path": "5470_Appendix1.pdf",
+        "size": 63693,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Canadian Urological Association journal = Journal de l'Association des urologues du Canada"
+          },
+          {
+            "name": "Volume",
+            "value": "13(5)"
+          },
+          {
+            "name": "Pages",
+            "value": "E132-E134"
+          },
+          {
+            "name": "Publication date",
+            "value": "2019 May"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.5489/cuaj.5470",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "10.5489/cuaj.5470",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC6520058",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "30332590",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "McClelland S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Sandler KA"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Degnin C"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Chen Y"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-3743-3331"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Mitin T"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Biostatistics Shared Resource, Oregon Health and Science University, Portland, OR, United States."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Medicine, Oregon Health and Science University, Portland, OR, United States."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, University of California at Los Angeles, Los Angeles, CA, United States."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

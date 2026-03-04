@@ -1,0 +1,198 @@
+{
+  "accno": "S-EPMC2922126",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Control of transpiration by radiation."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2010-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Control of transpiration by radiation."
+      },
+      {
+        "name": "Abstract",
+        "value": "The terrestrial hydrological cycle is strongly influenced by transpiration--water loss through the stomatal pores of leaves. In this report we present studies showing that the energy content of radiation absorbed by the leaf influences stomatal control of transpiration. This observation is at odds with current concepts of how stomata sense and control transpiration, and we suggest an alternative model. Specifically, we argue that the steady-state water potential of the epidermis in the intact leaf is controlled by the difference between the radiation-controlled rate of water vapor production in the leaf interior and the rate of transpiration. Any difference between these two potentially large fluxes is made up by evaporation from (or condensation on) the epidermis, causing its water potential to pivot around this balance point. Previous work established that stomata in isolated epidermal strips respond by opening with increasing (and closing with decreasing) water potential. Thus, stomatal conductance and transpiration rate should increase when there is condensation on (and decrease when there is evaporation from) the epidermis, thus tending to maintain homeostasis of epidermal water potential. We use a model to show that such a mechanism would have control properties similar to those observed with leaves. This hypothesis provides a plausible explanation for the regulation of leaf and canopy transpiration by the radiation load and provides a unique framework for studies of the regulation of stomatal conductance by CO(2) and other factors."
+      }
+    ],
+    "files": [
+      {
+        "path": "0913177107_pnas.200913177SI.pdf",
+        "size": 598209,
+        "type": "file"
+      },
+      {
+        "path": "0913177107_sd01.doc",
+        "size": 43520,
+        "type": "file"
+      },
+      {
+        "path": "supp_107_30_13372__index.html",
+        "size": 773,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Proceedings of the National Academy of Sciences of the United States of America"
+          },
+          {
+            "name": "Volume",
+            "value": "107(30)"
+          },
+          {
+            "name": "Pages",
+            "value": "13372-7"
+          },
+          {
+            "name": "Publication date",
+            "value": "2010 Jul"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1073/pnas.0913177107",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "10.1073/pnas.0913177107",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC2922126",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "20624981",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Pieruschka R"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-9774-2670"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Huber G"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-1250-8165"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Berry JA"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Carnegie Institution of Washington , Department of Global Ecology, Stanford, CA 94305"
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Forschungszentrum Jülich GmbH, Institut für Chemie und Dynamik der Geosphäre , Jülich, ; and"
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Forschungszentrum Jülich GmbH, Institut für Chemie und Dynamik der Geosphäre, 52425 Jülich, Germany."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

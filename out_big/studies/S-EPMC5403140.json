@@ -1,0 +1,553 @@
+{
+  "accno": "S-EPMC5403140",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Cerebral Cortex Regions Selectively Vulnerable to Radiation Dose-Dependent Atrophy."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2017-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Cerebral Cortex Regions Selectively Vulnerable to Radiation Dose-Dependent Atrophy."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Purpose and objectives</h4>Neurologic deficits after brain radiation therapy (RT) typically involve decline in higher-order cognitive functions such as attention and memory rather than sensory defects or paralysis. We sought to determine whether areas of the cortex critical to cognition are selectively vulnerable to radiation dose-dependent atrophy.<h4>Methods and materials</h4>We measured change in cortical thickness in 54 primary brain tumor patients who underwent fractionated, partial brain RT. The study patients underwent high-resolution, volumetric magnetic resonance imaging (T1-weighted; T2 fluid-attenuated inversion recovery, FLAIR) before RT and 1 year afterward. Semiautomated software was used to segment anatomic regions of the cerebral cortex for each patient. Cortical thickness was measured for each region before RT and 1 year afterward. Two higher-order cortical regions of interest (ROIs) were tested for association between radiation dose and cortical thinning: entorhinal (memory) and inferior parietal (attention/memory). For comparison, 2 primary cortex ROIs were also tested: pericalcarine (vision) and paracentral lobule (somatosensory/motor). Linear mixed-effects analyses were used to test all other cortical regions for significant radiation dose-dependent thickness change. Statistical significance was set at α = 0.05 using 2-tailed tests.<h4>Results</h4>Cortical atrophy was significantly associated with radiation dose in the entorhinal (P=.01) and inferior parietal ROIs (P=.02). By contrast, no significant radiation dose-dependent effect was found in the primary cortex ROIs (pericalcarine and paracentral lobule). In the whole-cortex analysis, 9 regions showed significant radiation dose-dependent atrophy, including areas responsible for memory, attention, and executive function (P≤.002).<h4>Conclusions</h4>Areas of cerebral cortex important for higher-order cognition may be most vulnerable to radiation-related atrophy. This is consistent with clinical observations that brain radiation patients experience deficits in domains of memory, executive function, and attention. Correlations of regional cortical atrophy with domain-specific cognitive functioning in prospective trials are warranted."
+      }
+    ],
+    "files": [
+      {
+        "path": "NIHMS851964-supplement.pdf",
+        "size": 2648185,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NIBIB NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "R01 EB000790"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "merican Cancer Society Pilot Award ACS-IRG"
+          },
+          {
+            "name": "grant_id",
+            "value": "70-002 (JAH-G)"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCATS NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "KL2 TR001444"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCATS NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "UL1 TR001442"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Radiological Society of North America (RSNA) Research &amp; Education Foundation"
+          },
+          {
+            "name": "grant_id",
+            "value": "#RR1554 (TMS)"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NINDS NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "R01 NS065838"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCATS NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "UL1 TR000100"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "National Institutes of Health"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "American Cancer Society Research Scholar"
+          },
+          {
+            "name": "grant_id",
+            "value": "Grant RSG-15-229-01-CCE (CRM)"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "National Science Foundation"
+          },
+          {
+            "name": "grant_id",
+            "value": "grant 1430082 (NSW)"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "International journal of radiation oncology, biology, physics"
+          },
+          {
+            "name": "Volume",
+            "value": "97(5)"
+          },
+          {
+            "name": "Pages",
+            "value": "910-918"
+          },
+          {
+            "name": "Publication date",
+            "value": "2017 Apr"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1016/j.ijrobp.2017.01.005",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "10.1016/j.ijrobp.2017.01.005",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC5403140",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "28333012",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Seibert TM"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-4089-7399"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Karunamuni R"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kaifi S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Burkeen J"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Connor M"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Krishnan AP"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "White NS"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Farid N"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a9",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Bartsch H"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0003-1486-4128"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a10",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Murzin V"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a11",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Nguyen TT"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-9510-9564"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a12",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Moiseenko V"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a13",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Brewer JB"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a14",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "McDonald CR"
+          },
+          {
+            "name": "affiliation",
+            "value": "o5",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a15",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Dale AM"
+          },
+          {
+            "name": "affiliation",
+            "value": "o6",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a16",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Hattangadi-Gluth JA"
+          },
+          {
+            "name": "affiliation",
+            "value": "o7",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Psychiatry, University of California, San Diego, La Jolla, California."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Medicine and Applied Sciences, University of California, San Diego, La Jolla, California."
+          }
+        ]
+      },
+      {
+        "accno": "o7",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Medicine and Applied Sciences, University of California, San Diego, La Jolla, California. Electronic address: jhattangadi@ucsd.edu."
+          }
+        ]
+      },
+      {
+        "accno": "o5",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Medicine and Applied Sciences, University of California, San Diego, La Jolla, California; Department of Psychiatry, University of California, San Diego, La Jolla, California."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiology, University of California, San Diego, La Jolla, California."
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiology, University of California, San Diego, La Jolla, California; Department of Neurosciences, University of California, San Diego, La Jolla, California."
+          }
+        ]
+      },
+      {
+        "accno": "o6",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiology, University of California, San Diego, La Jolla, California; Department of Psychiatry, University of California, San Diego, La Jolla, California; Department of Neurosciences, University of California, San Diego, La Jolla, California."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

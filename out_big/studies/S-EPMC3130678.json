@@ -1,0 +1,155 @@
+{
+  "accno": "S-EPMC3130678",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Evolutionary patterns and processes in the radiation of phyllostomid bats."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2011-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Evolutionary patterns and processes in the radiation of phyllostomid bats."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Background</h4>The phyllostomid bats present the most extensive ecological and phenotypic radiation known among mammal families. This group is an important model system for studies of cranial ecomorphology and functional optimisation because of the constraints imposed by the requirements of flight. A number of studies supporting phyllostomid adaptation have focused on qualitative descriptions or correlating functional variables and diet, but explicit tests of possible evolutionary mechanisms and scenarios for phenotypic diversification have not been performed. We used a combination of morphometric and comparative methods to test hypotheses regarding the evolutionary processes behind the diversification of phenotype (mandible shape and size) and diet during the phyllostomid radiation.<h4>Results</h4>The different phyllostomid lineages radiate in mandible shape space, with each feeding specialisation evolving towards different axes. Size and shape evolve quite independently, as the main directions of shape variation are associated with mandible elongation (nectarivores) or the relative size of tooth rows and mandibular processes (sanguivores and frugivores), which are not associated with size changes in the mandible. The early period of phyllostomid diversification is marked by a burst of shape, size, and diet disparity (before 20 Mya), larger than expected by neutral evolution models, settling later to a period of relative phenotypic and ecological stasis. The best fitting evolutionary model for both mandible shape and size divergence was an Ornstein-Uhlenbeck process with five adaptive peaks (insectivory, carnivory, sanguivory, nectarivory and frugivory).<h4>Conclusions</h4>The radiation of phyllostomid bats presented adaptive and non-adaptive components nested together through the time frame of the family's evolution. The first 10 My of the radiation were marked by strong phenotypic and ecological divergence among ancestors of modern lineages, whereas the remaining 20 My were marked by stasis around a number of probable adaptive peaks. A considerable amount of cladogenesis and speciation in this period is likely to be the result of non-adaptive allopatric divergence or adaptations to peaks within major dietary categories."
+      }
+    ],
+    "files": [
+      {
+        "path": "1471-2148-11-137-S1.PDF",
+        "size": 51452,
+        "type": "file"
+      },
+      {
+        "path": "1471-2148-11-137-S2.GIF",
+        "size": 1090420,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "BMC evolutionary biology"
+          },
+          {
+            "name": "Volume",
+            "value": "11"
+          },
+          {
+            "name": "Pages",
+            "value": "137"
+          },
+          {
+            "name": "Publication date",
+            "value": "2011 May"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1186/1471-2148-11-137",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC3130678",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "21605452",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Monteiro LR"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-0725-3647"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Nogueira MR"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Departamento de Biologia Animal, Universidade Federal Rural do Rio de Janeiro, Seropedica, RJ, Brazil"
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Biological Sciences and Hull York Medical School, The University of Hull, Hull, HU6 7RX, UK. lrmont@uenf.br"
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

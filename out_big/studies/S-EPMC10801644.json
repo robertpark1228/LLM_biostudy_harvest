@@ -1,0 +1,211 @@
+{
+  "accno": "S-EPMC10801644",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Assessment of Medical Student Research Mentorship in Radiation Oncology."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2024-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Assessment of Medical Student Research Mentorship in Radiation Oncology."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Purpose</h4>Mentored medical student (MS) research opportunities in radiation oncology (RO) provide in-depth exposure to the specialty and may promote greater interest in a career in RO. Many radiation oncologists conduct research; however, the extent to which they directly engage MSs in their research is unknown. The purpose of this study was to characterize MS authorship in American Society for Radiation Oncology (ASTRO) journals.<h4>Methods and materials</h4>The byline and abstract of all scientific articles (ie, clinical, basic science, training/education) and case reports published from 2019 to 2021 in the International Journal of Radiation Oncology, Biology, and Physics; Practical Radiation Oncology; and Advances in Radiation Oncology were reviewed. Characteristics of MSs and senior authors are reported.<h4>Results</h4>A total of 105 of 1785 articles (5.8%) included an MS author, among which 72 (68.6%) were clinical, 13 training/education (12.4%), 12 case reports (11.4%), and 8 basic science (7.6%). MS authors were more common for publications in Advances in Radiation Oncology (9.0%) than Practical Radiation Oncology (6.4%) or the International Journal of Radiation Oncology, Biology, and Physics (4.2%; <i>P</i> = .002). There were 125 unique MS authors from 72 institutions, among which 40 were first author (32.0%), 28 second author (22.4%), and 57 third (or higher) author (45.6%). There were 88 unique senior authors from 55 institutions, among which 10 (11.3%) were on 2 or more MS publications, and 57 (64.7%) shared the same institution as the MS. The median number of articles per mentor institution was 1 (interquartile range, 1-2), and the mentor institutions in the upper quartile in terms of number of MS publications accounted for 53 (50.5%) of all MS publications.<h4>Conclusions</h4>Few publications in American Society for Radiation Oncology journals include MS authors with mentorship disproportionately from a small number of academic faculty at select institutions. These findings suggest that there is great potential for radiation oncologists to proactively engage more students in their work."
+      }
+    ],
+    "files": [
+      {
+        "path": "mmc1.docx",
+        "size": 431424,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Advances in radiation oncology"
+          },
+          {
+            "name": "Volume",
+            "value": "9(1)"
+          },
+          {
+            "name": "Pages",
+            "value": "101323"
+          },
+          {
+            "name": "Publication date",
+            "value": "2024 Jan"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1016/j.adro.2023.101323",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC10801644",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "38260215",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Bono K"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Palmeri M"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Huang A"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Gunther JR"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Mattes MD"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Baylor College of Medicine, Houston, Texas."
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Rutgers Cancer Institute of New Jersey, New Brunswick, New Jersey."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, University of Texas MD Anderson Cancer Center, Houston, Texas."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Rutgers New Jersey Medical School, Newark, New Jersey."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

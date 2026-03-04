@@ -1,0 +1,248 @@
+{
+  "accno": "S-EPMC10417569",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Innate Immune System in the Context of Radiation Therapy for Cancer."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2023-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Innate Immune System in the Context of Radiation Therapy for Cancer."
+      },
+      {
+        "name": "Abstract",
+        "value": "Radiation therapy (RT) remains an integral component of modern oncology care, with most cancer patients receiving radiation as a part of their treatment plan. The main goal of ionizing RT is to control the local tumor burden by inducing DNA damage and apoptosis within the tumor cells. The advancement in RT, including intensity-modulated RT (IMRT), stereotactic body RT (SBRT), image-guided RT, and proton therapy, have increased the efficacy of RT, equipping clinicians with techniques to ensure precise and safe administration of radiation doses to tumor cells. In this review, we present the technological advancement in various types of RT methods and highlight their clinical utility and associated limitations. This review provides insights into how RT modulates innate immune signaling and the key players involved in modulating innate immune responses, which have not been well documented earlier. Apoptosis of cancer cells following RT triggers immune systems that contribute to the eradication of tumors through innate and adoptive immunity. The innate immune system consists of various cell types, including macrophages, dendritic cells, and natural killer cells, which serve as key mediators of innate immunity in response to RT. This review will concentrate on the significance of the innate myeloid and lymphoid lineages in anti-tumorigenic processes triggered by RT. Furthermore, we will explore essential strategies to enhance RT efficacy. This review can serve as a platform for researchers to comprehend the clinical application and limitations of various RT methods and provides insights into how RT modulates innate immune signaling."
+      }
+    ],
+    "links": [
+      [
+        {
+          "url": "NCT01985958",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT05035706",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT01777802",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT02310594",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT05371132",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT03383107",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT03331367",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT01376674",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT05076500",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT04624828",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        }
+      ]
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Cancers"
+          },
+          {
+            "name": "Volume",
+            "value": "15(15)"
+          },
+          {
+            "name": "Pages",
+            "value": "3972"
+          },
+          {
+            "name": "Publication date",
+            "value": "2023 Aug"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.3390/cancers15153972",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC10417569",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "37568788",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Boopathi E"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Den RB"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Thangavel C"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Center for Translational Medicine, Department of Medicine, Thomas Jefferson University, Philadelphia, PA 19107, USA."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Sidney Kimmel Cancer Center, Thomas Jefferson University, Philadelphia, PA 19107, USA."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

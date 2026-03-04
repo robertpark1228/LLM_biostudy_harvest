@@ -1,0 +1,365 @@
+{
+  "accno": "S-EPMC3655042",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Preclinical radiation dosimetry for the novel SV2A radiotracer [18F]UCB-H."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2013-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Preclinical radiation dosimetry for the novel SV2A radiotracer [18F]UCB-H."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Background</h4>[18F]UCB-H was developed as a novel radiotracer with a high affinity for synaptic vesicle protein 2A, the binding site for the antiepileptic levetiracetam. The objectives of this study were to evaluate the radiation dosimetry of [18F]UCB-H in a preclinical trial and to determine the maximum injectable dose according to guidelines for human biomedical research. The radiation dosimetry was derived by organ harvesting and dynamic micro positron emission tomography (PET) imaging in mice, and the results of both methods were compared.<h4>Methods</h4>Twenty-four male C57BL-6 mice were injected with 6.96 ± 0.81 MBq of [18F]UCB-H, and the biodistribution was determined by organ harvesting at 2, 5, 10, 30, 60, and 120 min (n = 4 for each time point). Dynamic microPET imaging was performed on five male C57BL-6 mice after the injection of 9.19 ± 3.40 MBq of [18F]UCB-H. A theoretical dynamic bladder model was applied to simulate urinary excretion. Human radiation dose estimates were derived from animal data using the International Commission on Radiological Protection 103 tissue weighting factors.<h4>Results</h4>Based on organ harvesting, the urinary bladder wall, liver and brain received the highest radiation dose with a resulting effective dose of 1.88E-02 mSv/MBq. Based on dynamic imaging an effective dose of 1.86E-02 mSv/MBq was calculated, with the urinary bladder wall and liver (brain was not in the imaging field of view) receiving the highest radiation.<h4>Conclusions</h4>This first preclinical dosimetry study of [18F]UCB-H showed that the tracer meets the standard criteria for radiation exposure in clinical studies. The dose-limiting organ based on US Food and Drug Administration (FDA) and European guidelines was the urinary bladder wall for FDA and the effective dose for Europe with a maximum injectable single dose of approximately 325 MBq was calculated. Although microPET imaging showed significant deviations from organ harvesting, the Pearson's correlation coefficient between radiation dosimetry derived by either method was 0.9666."
+      }
+    ],
+    "files": [
+      {
+        "path": "2191-219X-3-35-S1.tiff",
+        "size": 707940,
+        "type": "file"
+      },
+      {
+        "path": "2191-219X-3-35-S2.tiff",
+        "size": 707940,
+        "type": "file"
+      },
+      {
+        "path": "2191-219X-3-35-S3.xlsx",
+        "size": 11311,
+        "type": "file"
+      },
+      {
+        "path": "2191-219X-3-35-S4.xlsx",
+        "size": 9413,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "EJNMMI research"
+          },
+          {
+            "name": "Volume",
+            "value": "3(1)"
+          },
+          {
+            "name": "Pages",
+            "value": "35"
+          },
+          {
+            "name": "Publication date",
+            "value": "2013 May"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1186/2191-219X-3-35",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC3655042",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "23647774",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Bretin F"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Warnock G"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Bahri MA"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Aerts J"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Mestdagh N"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Buchanan T"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Valade A"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Mievis F"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a9",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Giacomelli F"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a10",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Lemaire C"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a11",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Luxen A"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a12",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Salmon E"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0003-2520-9241"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a13",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Seret A"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a14",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Plenevaux A"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Cyclotron Research Centre, University of Liège, Allée du 6 Août, Building B30, Sart Tilman, Liège 4000, Belgium. alain.plenevaux@ulg.ac.be."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Cyclotron Research Centre, University of Liège, Allée du Août, Building B30, Sart Tilman, Liège 4000, Belgium"
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "UCB Pharma, NewMedicines-Neurosciences Discovery Medicine, Braine-l’Alleud 1420, Belgium"
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "UCB Pharma, NewMedicines-Neurosciences Discovery Research, Braine-l’Alleud 1420, Belgium"
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

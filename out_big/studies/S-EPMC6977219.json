@@ -1,0 +1,146 @@
+{
+  "accno": "S-EPMC6977219",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Awareness about radiation hazards and knowledge about radiation protection among healthcare personnel: A quaternary care academic center-based study."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2020-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Awareness about radiation hazards and knowledge about radiation protection among healthcare personnel: A quaternary care academic center-based study."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Background</h4>The use of medical radiation in diagnosis and procedural and surgical treatment is increasing. Therefore, healthcare personnel should be adequately aware and knowledgeable about radiation hazards to protect themselves and their patients from its adverse effects. The objective of this study was to examine awareness about radiation hazards and knowledge about protection methods among the anesthesia personnel and surgical subspecialists of a quaternary care academic center.<h4>Methods</h4>A validated questionnaire was completed by anesthetic personnel and surgical subspecialists. It consisted of questions that required demographic information and assessed awareness about radiation hazards. In addition, 15 multiple-choice questions assessed knowledge about radiation across the following domains: the main principle of radiation protection, personal annual radiation dose, personal protection equipment, safe distance from an X-ray machine, and susceptible organs.<h4>Results</h4>A total of 270 potential participants were emailed and invited to respond to an online questionnaire, and the response rate was 79.3%. Of the 214 participants, 69.2% were women; the mean age of the sample was 34.8 years. Most of the participants (63.1%) considered radiation exposure that occurs as a part of daily work to be very harmful; 86.4% and 78.5% reported that they always wore a lead apron and a thyroid shield when working in an environment that entails radiation exposure, respectively. The mean score for knowledge about radiation hazards and protection was 6.4 ± 2.0 (maximum possible score = 15) Therefore, there is a need to improve anesthetic personnel and surgical subspecialists' knowledge about radiation protection, especially with regard to the use of lead goggles and harmful doses of radiation.<h4>Conclusion</h4>The present findings suggest that there is a reasonable level of awareness but a relative lack of knowledge about radiation hazards and protection among anesthesia personnel and surgical subspecialists. Therefore, continuing medical education on radiation hazards and protection must be mandated."
+      }
+    ],
+    "links": [
+      [
+        {
+          "url": "NCT03475927",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        }
+      ]
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "SAGE open medicine"
+          },
+          {
+            "name": "Volume",
+            "value": "8"
+          },
+          {
+            "name": "Pages",
+            "value": "2050312120901733"
+          },
+          {
+            "name": "Publication date",
+            "value": "2020"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1177/2050312120901733",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC6977219",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "32030128",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Khamtuikrua C"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0001-5021-4566"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Suksompong S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Anesthesiology, Faculty of Medicine Siriraj Hospital, Mahidol University, Bangkok, Thailand."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

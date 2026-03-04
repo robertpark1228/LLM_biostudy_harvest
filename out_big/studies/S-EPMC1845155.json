@@ -1,0 +1,320 @@
+{
+  "accno": "S-EPMC1845155",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Gene expression signatures that predict radiation exposure in mice and humans."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2007-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Gene expression signatures that predict radiation exposure in mice and humans."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Background</h4>The capacity to assess environmental inputs to biological phenotypes is limited by methods that can accurately and quantitatively measure these contributions. One such example can be seen in the context of exposure to ionizing radiation.<h4>Methods and findings</h4>We have made use of gene expression analysis of peripheral blood (PB) mononuclear cells to develop expression profiles that accurately reflect prior radiation exposure. We demonstrate that expression profiles can be developed that not only predict radiation exposure in mice but also distinguish the level of radiation exposure, ranging from 50 cGy to 1,000 cGy. Likewise, a molecular signature of radiation response developed solely from irradiated human patient samples can predict and distinguish irradiated human PB samples from nonirradiated samples with an accuracy of 90%, sensitivity of 85%, and specificity of 94%. We further demonstrate that a radiation profile developed in the mouse can correctly distinguish PB samples from irradiated and nonirradiated human patients with an accuracy of 77%, sensitivity of 82%, and specificity of 75%. Taken together, these data demonstrate that molecular profiles can be generated that are highly predictive of different levels of radiation exposure in mice and humans.<h4>Conclusions</h4>We suggest that this approach, with additional refinement, could provide a method to assess the effects of various environmental inputs into biological phenotypes as well as providing a more practical application of a rapid molecular screening test for the diagnosis of radiation exposure."
+      }
+    ],
+    "files": [
+      {
+        "path": "pmed.0040106.sg001.ppt",
+        "size": 44032,
+        "type": "file"
+      },
+      {
+        "path": "pmed.0040106.st001.doc",
+        "size": 332288,
+        "type": "file"
+      },
+      {
+        "path": "pmed.0040106.st002.doc",
+        "size": 56832,
+        "type": "file"
+      },
+      {
+        "path": "pmed.0040106.st003.doc",
+        "size": 27136,
+        "type": "file"
+      },
+      {
+        "path": "pmed.0040106.st004.doc",
+        "size": 46592,
+        "type": "file"
+      },
+      {
+        "path": "pmed.0040106.st005.doc",
+        "size": 46080,
+        "type": "file"
+      }
+    ],
+    "links": [
+      [
+        {
+          "url": "GSE6874",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "geo"
+            }
+          ]
+        }
+      ]
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NIAID NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "U19 AI067798"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NIAID NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "AI-067798-01"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "PLoS medicine"
+          },
+          {
+            "name": "Volume",
+            "value": "4(4)"
+          },
+          {
+            "name": "Pages",
+            "value": "e106"
+          },
+          {
+            "name": "Publication date",
+            "value": "2007 Apr"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1371/journal.pmed.0040106",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC1845155",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "17407386",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Dressman HK"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Muramoto GG"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Chao NJ"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Meadows S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Marshall D"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Ginsburg GS"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Nevins JR"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Chute JP"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Molecular Genetics and Microbiology, Duke University Medical Center, Durham, North Carolina, United States of America"
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Division of Cellular Therapy, Department of Medicine, Duke University Medical Center, Durham, North Carolina, United States of America"
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Institute for Genome Sciences and Policy, Duke University Medical Center, Durham, North Carolina, United States of America"
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Institute for Genome Sciences and Policy, Duke University Medical Center, Durham, North Carolina, United States of America."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

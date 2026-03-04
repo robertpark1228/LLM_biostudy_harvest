@@ -1,0 +1,309 @@
+{
+  "accno": "S-EPMC10000830",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Increased Radiation Sensitivity in Patients with Phelan-McDermid Syndrome."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2023-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Increased Radiation Sensitivity in Patients with Phelan-McDermid Syndrome."
+      },
+      {
+        "name": "Abstract",
+        "value": "Phelan-McDermid syndrome is an inherited global developmental disorder commonly associated with autism spectrum disorder. Due to a significantly increased radiosensitivity, measured before the start of radiotherapy of a rhabdoid tumor in a child with Phelan-McDermid syndrome, the question arose whether other patients with this syndrome also have increased radiosensitivity. For this purpose, the radiation sensitivity of blood lymphocytes after irradiation with 2Gray was examined using the G0 three-color fluorescence in situ hybridization assay in a cohort of 20 patients with Phelan-McDermid syndrome from blood samples. The results were compared to healthy volunteers, breast cancer patients and rectal cancer patients. Independent of age and gender, all but two patients with Phelan-McDermid syndrome showed significantly increased radiosensitivity, with an average of 0.653 breaks per metaphase. These results correlated neither with the individual genetic findings nor with the individual clinical course, nor with the respective clinical severity of the disease. In our pilot study, we saw a significantly increased radiosensitivity in lymphocytes from patients with Phelan-McDermid syndrome, so pronounced that a dose reduction would be recommended if radiotherapy had to be performed. Ultimately, the question arises as to the interpretation of these data. There does not appear to be an increased risk of tumors in these patients, since tumors are rare overall. The question, therefore, arose as to whether our results could possibly be the basis for processes, such as aging/preaging, or, in this context, neurodegeneration. There are no data on this so far, but this issue should be pursued in further fundamentally based studies in order to better understand the pathophysiology of the syndrome."
+      }
+    ],
+    "links": [
+      [
+        {
+          "url": "606232",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "omim"
+            }
+          ]
+        }
+      ]
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Cells"
+          },
+          {
+            "name": "Volume",
+            "value": "12(5)"
+          },
+          {
+            "name": "Pages",
+            "value": "820"
+          },
+          {
+            "name": "Publication date",
+            "value": "2023 Mar"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.3390/cells12050820",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC10000830",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "36899955",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Jesse S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kuhlmann L"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-5795-0715"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Hildebrand LS"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-1522-9591"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Magelssen H"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Schmaus M"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Timmermann B"
+          },
+          {
+            "name": "affiliation",
+            "value": "o5",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Andres S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o6",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Fietkau R"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a9",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Distel LV"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-8040-3226"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o5",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Clinic for Particle Therapy at WPE, University Hospital Essen, 45147 Essen, Germany."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Neurology, Ulm University, 89081 Ulm, Germany."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Oncology, Oslo University Hospital (The Norwegian Radium Hospital), 0424 Oslo, Norway."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Biology, Erlangen University, 91054 Erlangen, Germany."
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiotherapy and Radiation Oncology, University Medical Center Hamburg-Eppendorf, 20246 Hamburg, Germany."
+          }
+        ]
+      },
+      {
+        "accno": "o6",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Medicover München Ost MVZ, Humangenetik, 81667 Munich, Germany."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

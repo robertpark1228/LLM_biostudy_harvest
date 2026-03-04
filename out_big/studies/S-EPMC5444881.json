@@ -1,0 +1,533 @@
+{
+  "accno": "S-EPMC5444881",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Radiation with or without Antiandrogen Therapy in Recurrent Prostate Cancer."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2017-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Radiation with or without Antiandrogen Therapy in Recurrent Prostate Cancer."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Background</h4>Salvage radiation therapy is often necessary in men who have undergone radical prostatectomy and have evidence of prostate-cancer recurrence signaled by a persistently or recurrently elevated prostate-specific antigen (PSA) level. Whether antiandrogen therapy with radiation therapy will further improve cancer control and prolong overall survival is unknown.<h4>Methods</h4>In a double-blind, placebo-controlled trial conducted from 1998 through 2003, we assigned 760 eligible patients who had undergone prostatectomy with a lymphadenectomy and had disease, as assessed on pathological testing, with a tumor stage of T2 (confined to the prostate but with a positive surgical margin) or T3 (with histologic extension beyond the prostatic capsule), no nodal involvement, and a detectable PSA level of 0.2 to 4.0 ng per milliliter to undergo radiation therapy and receive either antiandrogen therapy (24 months of bicalutamide at a dose of 150 mg daily) or daily placebo tablets during and after radiation therapy. The primary end point was the rate of overall survival.<h4>Results</h4>The median follow-up among the surviving patients was 13 years. The actuarial rate of overall survival at 12 years was 76.3% in the bicalutamide group, as compared with 71.3% in the placebo group (hazard ratio for death, 0.77; 95% confidence interval, 0.59 to 0.99; P=0.04). The 12-year incidence of death from prostate cancer, as assessed by means of central review, was 5.8% in the bicalutamide group, as compared with 13.4% in the placebo group (P<0.001). The cumulative incidence of metastatic prostate cancer at 12 years was 14.5% in the bicalutamide group, as compared with 23.0% in the placebo group (P=0.005). The incidence of late adverse events associated with radiation therapy was similar in the two groups. Gynecomastia was recorded in 69.7% of the patients in the bicalutamide group, as compared with 10.9% of those in the placebo group (P<0.001).<h4>Conclusions</h4>The addition of 24 months of antiandrogen therapy with daily bicalutamide to salvage radiation therapy resulted in significantly higher rates of long-term overall survival and lower incidences of metastatic prostate cancer and death from prostate cancer than radiation therapy plus placebo. (Funded by the National Cancer Institute and AstraZeneca; RTOG 9601 ClinicalTrials.gov number, NCT00002874 .)."
+      }
+    ],
+    "files": [
+      {
+        "path": "NIHMS858313-supplement-Supplement1.pdf",
+        "size": 564392,
+        "type": "file"
+      }
+    ],
+    "links": [
+      [
+        {
+          "url": "NCT00002874",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        }
+      ]
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "U10 CA180801"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "U10 CA021661"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "U10 CA180822"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "U10 CA180868"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "UG1 CA189867"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "The New England journal of medicine"
+          },
+          {
+            "name": "Volume",
+            "value": "376(5)"
+          },
+          {
+            "name": "Pages",
+            "value": "417-428"
+          },
+          {
+            "name": "Publication date",
+            "value": "2017 Feb"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1056/NEJMoa1607529",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "10.1056/nejmoa1607529",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC5444881",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "28146658",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Shipley WU"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Seiferheld W"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Lukka HR"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Major PP"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Heney NM"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Grignon DJ"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Sartor O"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Patel MP"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a9",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Bahary JP"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a10",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Zietman AL"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a11",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Pisansky TM"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a12",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Zeitzer KL"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a13",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Lawton CA"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a14",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Feng FY"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a15",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Lovett RD"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a16",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Balogh AG"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a17",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Souhami L"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a18",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Rosenthal SA"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a19",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kerlin KJ"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a20",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Dignam JJ"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a21",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Pugh SL"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a22",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Sandler HM"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a23",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "NRG Oncology RTOG"
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "From Massachusetts General Hospital and Harvard Medical School, Boston (W.U.S., N.M.H., A.L.Z.); NRG Oncology Statistics and Data Management Center (W.S., J.J.D., S.L.P.) and Einstein Medical Center (K.L.Z.), Philadelphia; Juravinski Cancer Centre at Hamilton Health Sciences, Hamilton, ON (H.R.L., P.P.M., M.P.P.), Hospital Notre-Dame du Centre Hospitalier de l'Université de Montréal (J.-P.B.) and McGill University Health Centre (L.S.), Montreal, and Tom Baker Cancer Centre, Calgary, AB (A.G.B.) - all in Canada; Indiana University, Indianapolis (D.J.G.); Tulane University, New Orleans (O.S.); Mayo Clinic, Rochester, MN (T.M.P.); Medical College of Wisconsin, Milwaukee (C.A.F.L.); University of Michigan, Ann Arbor (F.Y.F.); University of Vermont Medical Center, Burlington (R.D.L.); Radiation Oncology Center, Sacramento (S.A.R.), and Cedars-Sinai Medical Center, Los Angeles (H.M.S.) - both in California; Wayne Radiation Oncology, Goldsboro, NC (K.J.K.); and the University of Chicago, Chicago (J.J.D.)"
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

@@ -1,0 +1,244 @@
+{
+  "accno": "S-EPMC7711365",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Radiation and immunotherapy: emerging mechanisms of synergy."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2020-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Radiation and immunotherapy: emerging mechanisms of synergy."
+      },
+      {
+        "name": "Abstract",
+        "value": "Immunotherapy (IO) has become a standard treatment in patients with metastatic and locally advanced non-small cell lung cancer (NSCLC), and is now being tested in patients with early stage disease. IO agents currently in use for lung cancer target PD-1, PD-L1, and CTLA-4. While survival and tumor control have improved with IO, many patients have limited or short responses to IO. Therefore, methods to improve the systemic response to IO are needed. Radiation therapy (RT) is an integral component of lung cancer treatment, and may improve systemic response to IO by increasing antigen presentation, increasing co-stimulatory signaling, increasing T-cells recruitment, upregulating PD-L1, increasing tumor stromal lymphocyte infiltration, and altering the microenvironment. IO after definitive chemoradiation is now standard treatment in unresectable stage III NSCLC following publication of the PACIFIC clinical trial. For early stage NSCLC, IO is being investigated in conjunction with stereotactic body radiotherapy (SBRT). The benefit of adding RT to IO in patients with metastatic disease may be especially pronounced in patients with low baseline PD-L1 expression, potentially when delivered as a short course of SBRT, as supported by the PEMBRO-RT clinical trial. Current and ongoing clinical trials are evaluating the optimal radiation dose, timing, and sequencing of RT with IO."
+      }
+    ],
+    "files": [
+      {
+        "path": "jtd-12-11-7011-coif.pdf",
+        "size": 115370,
+        "type": "file"
+      }
+    ],
+    "links": [
+      [
+        {
+          "url": "NCT03110978",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT02888743",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT03519971",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT02434081",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT03833154",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT03924869",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        }
+      ]
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Journal of thoracic disease"
+          },
+          {
+            "name": "Volume",
+            "value": "12(11)"
+          },
+          {
+            "name": "Pages",
+            "value": "7011-7023"
+          },
+          {
+            "name": "Publication date",
+            "value": "2020 Nov"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.21037/jtd-2019-cptn-07",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC7711365",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "33282406",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Breen WG"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Leventakos K"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Dong H"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Merrell KW"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Mayo Clinic, Rochester, MN, USA."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Departments of Urology and Immunology, Mayo Clinic College of Medicine and Science, Rochester, MN, USA."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Division of Medical Oncology, Mayo Clinic, Rochester, MN, USA."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

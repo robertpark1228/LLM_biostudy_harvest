@@ -1,0 +1,265 @@
+{
+  "accno": "S-EPMC9078126",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "SERS detection of radiation injury biomarkers in mouse serum."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2018-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "SERS detection of radiation injury biomarkers in mouse serum."
+      },
+      {
+        "name": "Abstract",
+        "value": "In a large-scale radiological catastrophe, it is expected that hundreds and thousands of people could be exposed to radiation. A rapid method is required for triage of casualties to determine proper medical treatment. In this article, mice were exposed to different radiation doses and sera of mice were investigated by surface-enhanced Raman spectroscopy (SERS) and orthogonal projections to latent structure discriminant analysis (OPLS-DA) after total body irradiation (TBI). The results of the present study indicated that differences have widened over time. The different radiation groups showed a slight overlap at 24 h and 72 h but were completely distinct at the 10th day after TBI. The SERS spectrum between the normal group and the irradiated group showed a significant difference at 24 hours. The same trend was depicted in scatting score plots. Significant differences in Raman peaks were found, such as 744 and 1495 cm<sup>-1</sup> corresponding to riboflavin and 593 and 1204 cm<sup>-1</sup> corresponding to l-tryptophan. The lack of riboflavin and l-tryptophan will influence metabolism levels. Above all, these results bear potential in the development of label-free and rapid tools for on-site detection and screening of irradiation injuries."
+      }
+    ],
+    "files": [
+      {
+        "path": "RA-008-C7RA12238A-s001.pdf",
+        "size": 170694,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "RSC advances"
+          },
+          {
+            "name": "Volume",
+            "value": "8(10)"
+          },
+          {
+            "name": "Pages",
+            "value": "5119-5126"
+          },
+          {
+            "name": "Publication date",
+            "value": "2018 Jan"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1039/c7ra12238a",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC9078126",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "35542392",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Li L"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Xiao R"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Wang Q"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Rong Z"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Zhang X"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Zhou P"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0001-7666-1209"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Fu H"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Wang S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a9",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Wang Z"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Anhui Medical University Anhui 230032 P R China wangzhidong1977@126.com sqwang1962@bmi.com fuhj75@126.com."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Toxicology and Oncology, Beijing Key Laboratory for Radiobiology, Beijing Institute of Radiation Medicine Beijing 100850 P R China."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Key Laboratory of New Molecular Diagnosis Techniques for Infectious Diseases, Beijing Institute of Radiation Medicine Beijing 100850 P R China."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

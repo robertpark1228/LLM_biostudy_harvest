@@ -1,0 +1,300 @@
+{
+  "accno": "S-EPMC9294942",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Radiation Myelopathy Caused by Palliative Radiotherapy and Intrathecal Methotrexate."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2022-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Radiation Myelopathy Caused by Palliative Radiotherapy and Intrathecal Methotrexate."
+      },
+      {
+        "name": "Abstract",
+        "value": "Radiation myelopathy is a rare, late-stage adverse event that develops following irradiation at or above 50 Gy. Here, we report a case of irreversible paraplegia caused by palliative radiation (20 Gy in 5 fractions) to the spinal cord combined with intrathecal methotrexate (IT-MTX). A 69-year-old man presented with back pain, prompting a diagnosis of acute myeloid leukemia. At the first visit, he complained of muscle weakness and hypoesthesia in both legs; spinal magnetic resonance imaging (MRI) revealed an epidural mass compressing the spinal cord at the fifth to seventh level of the thoracic vertebrae. This was considered to be an extramedullary lesion of leukemia, and he received remission induction therapy including IT-MTX; palliative radiation (20 Gy in 5 fractions) of the epidural mass was initiated the following day. Then, during the course of consolidation therapy, a second IT-MTX was performed after 1 month and a third after 3 months. While the consolidation therapy was complete, yielding remission, he developed sudden paraplegia, as well as bladder and bowel dysfunction (BBD), 10 months later. Spinal MRI showed extensive intramedullary high signal intensity on T2-weighted image, including the irradiation field. It was thought myelopathy was due to irradiation of the spinal cord combined with IT-MTX. He immediately received steroid pulse therapy; however, the paraplegia and BBD did not improve. It is extremely rare for irreversible radiation myelopathy to occur with IT-MTX and palliative radiation to the spinal cord. We believe that even with low-dose palliative radiation, caution is required for combined use with IT-MTX."
+      }
+    ],
+    "files": [
+      {
+        "path": "cro-0015-0674-s01.tif",
+        "size": 80214,
+        "type": "file"
+      },
+      {
+        "path": "cro-0015-0674-s02.tif",
+        "size": 375130,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Case reports in oncology"
+          },
+          {
+            "name": "Volume",
+            "value": "15(2)"
+          },
+          {
+            "name": "Pages",
+            "value": "674-681"
+          },
+          {
+            "name": "Publication date",
+            "value": "2022 May-Aug"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1159/000524825",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC9294942",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "35949907",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Fukuda Y"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Takahashi S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Nakamura M"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Endo M"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Ogawa K"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kawahara M"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Akahane K"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Ito S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a9",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kanda Y"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a10",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Mori H"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0003-1370-5272"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a11",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Shirai K"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Hematology, Jichi Medical University Hospital, Tochigi, Japan."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiology, Jichi Medical University Hospital, Tochigi, Japan."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiology, Jichi Medical University Saitama Medical Center, Saitama, Japan."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

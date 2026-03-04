@@ -1,0 +1,245 @@
+{
+  "accno": "S-EPMC6020684",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Mice Lacking RIP3 Kinase are not Protected from Acute Radiation Syndrome."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2018-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Mice Lacking RIP3 Kinase are not Protected from Acute Radiation Syndrome."
+      },
+      {
+        "name": "Abstract",
+        "value": "Exposure to high doses of ionizing radiation can cause lethal injury to normal tissue, thus inducing acute radiation syndrome. Acute radiation syndrome is caused by depletion of bone marrow cells (hematopoietic syndrome) and irreparable damage to the epithelial cells in the gastrointestinal tract (gastrointestinal syndrome). Although radiation initiates apoptosis in the hematopoietic and gastrointestinal compartments within the first few hours after exposure, alternative mechanisms of cell death may contribute to injury in these radiosensitive tissues. In this study, we utilized mice lacking a critical regulator of necroptosis, receptor interacting protein 3 (RIP3) kinase, to characterize the role of RIP3 in normal tissue toxicity after irradiation. Our results suggest that RIP3-mediated signaling is not a critical driver of acute radiation syndrome."
+      }
+    ],
+    "files": [
+      {
+        "path": "NIHMS969902-supplement-Suppemententary_file.pdf",
+        "size": 106383,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "R35 CA197616"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NIAID NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "U19 AI067798"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Radiation research"
+          },
+          {
+            "name": "Volume",
+            "value": "189(6)"
+          },
+          {
+            "name": "Pages",
+            "value": "627-633"
+          },
+          {
+            "name": "Publication date",
+            "value": "2018 Jun"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1667/RR15001.1",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "10.1667/rr15001.1",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC6020684",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "29634408",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Castle KD"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Daniel AR"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Moding EJ"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Luo L"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Lee CL"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-0673-633X"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kirsch DG"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "a   Department of Pharmacology and Cancer Biology, Duke University Medical Center, Durham, North Carolina 27710."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "b   Department of Radiation Oncology, Duke University Medical Center, Durham, North Carolina 27710."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

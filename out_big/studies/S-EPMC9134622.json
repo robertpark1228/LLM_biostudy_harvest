@@ -1,0 +1,224 @@
+{
+  "accno": "S-EPMC9134622",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "In Vitro Inactivation of SARS-CoV-2 Using Gamma Radiation."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2020-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "In Vitro Inactivation of SARS-CoV-2 Using Gamma Radiation."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Introduction</h4>Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) is classified as a Risk Group 3 pathogen; propagative work with this live virus should be conducted in biosafety level-3 (BSL-3) laboratories. However, inactivated virus can be safely handled in BSL-2 laboratories. Gamma irradiation is one of the methods used to inactivate a variety of pathogens including viruses.<h4>Objective</h4>To determine the radiation dose required to inactivate SARS-CoV-2 and its effect, if any, on subsequent polymerase chain reaction (PCR) assay.<h4>Methods</h4>Aliquots of SARS-CoV-2 virus culture were subjected to increasing doses of gamma radiation to determine the proper dose required to inactivate the virus. Real-time quantitative polymerase chain reaction (RT-qPCR) data from irradiated samples was compared with that of the non-irradiated samples to assess the effect of gamma radiation on PCR assay.<h4>Results</h4>A radiation dose of 1 Mrad was required to completely inactivate 10<sup>6.5</sup> TCID<sub>50</sub>/ml of SARS-CoV-2. The influence of gamma radiation on PCR sensitivity was inversely related and dose-dependent up to 0.5 Mrad with no further reduction thereafter.<h4>Conclusion</h4>Gamma irradiation can be used as a reliable method to inactivate SARS-CoV-2 with minimal effect on subsequent PCR assay."
+      }
+    ],
+    "links": [
+      [
+        {
+          "url": "EPI_ISL_425177",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "gisaid"
+            }
+          ]
+        }
+      ]
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Government of Canada"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Applied biosafety : journal of the American Biological Safety Association"
+          },
+          {
+            "name": "Volume",
+            "value": "25(3)"
+          },
+          {
+            "name": "Pages",
+            "value": "157-160"
+          },
+          {
+            "name": "Publication date",
+            "value": "2020 Sep"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1177/1535676020934242",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "10.1177/1535676020934242",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC9134622",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "36035758",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Leung A"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Tran K"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Audet J"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Lavineway S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Bastien N"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Krishnan J"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0001-7790-9800"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "National Microbiology Laboratory, Public Health Agency of Canada, Winnipeg, Manitoba, Canada."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

@@ -1,0 +1,224 @@
+{
+  "accno": "S-EPMC3247210",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Paleogene radiation of a plant pathogenic mushroom."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2011-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Paleogene radiation of a plant pathogenic mushroom."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Background</h4>The global movement and speciation of fungal plant pathogens is important, especially because of the economic losses they cause and the ease with which they are able to spread across large areas. Understanding the biogeography and origin of these plant pathogens can provide insights regarding their dispersal and current day distribution. We tested the hypothesis of a Gondwanan origin of the plant pathogenic mushroom genus Armillaria and the currently accepted premise that vicariance accounts for the extant distribution of the species.<h4>Methods</h4>The phylogeny of a selection of Armillaria species was reconstructed based on Maximum Parsimony (MP), Maximum Likelihood (ML) and Bayesian Inference (BI). A timeline was then placed on the divergence of lineages using a Bayesian relaxed molecular clock approach.<h4>Results</h4>Phylogenetic analyses of sequenced data for three combined nuclear regions provided strong support for three major geographically defined clades: Holarctic, South American-Australasian and African. Molecular dating placed the initial radiation of the genus at 54 million years ago within the Early Paleogene, postdating the tectonic break-up of Gondwana.<h4>Conclusions</h4>The distribution of extant Armillaria species is the result of ancient long-distance dispersal rather than vicariance due to continental drift. As these finding are contrary to most prior vicariance hypotheses for fungi, our results highlight the important role of long-distance dispersal in the radiation of fungal pathogens from the Southern Hemisphere."
+      }
+    ],
+    "files": [
+      {
+        "path": "pone.0028545.s001.tif",
+        "size": 3664498,
+        "type": "file"
+      },
+      {
+        "path": "pone.0028545.s002.tif",
+        "size": 4498152,
+        "type": "file"
+      },
+      {
+        "path": "pone.0028545.s003.doc",
+        "size": 62976,
+        "type": "file"
+      },
+      {
+        "path": "pone.0028545.s004.doc",
+        "size": 38400,
+        "type": "file"
+      },
+      {
+        "path": "pone.0028545.s005.doc",
+        "size": 76288,
+        "type": "file"
+      },
+      {
+        "path": "pone.0028545.s006.doc",
+        "size": 31744,
+        "type": "file"
+      },
+      {
+        "path": "pone.0028545.s007.doc",
+        "size": 34304,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "PloS one"
+          },
+          {
+            "name": "Volume",
+            "value": "6(12)"
+          },
+          {
+            "name": "Pages",
+            "value": "e28545"
+          },
+          {
+            "name": "Publication date",
+            "value": "2011"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1371/journal.pone.0028545",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC3247210",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "22216099",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Coetzee MP"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0001-7848-4111"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Bloomer P"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-6357-0153"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Wingfield MJ"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Wingfield BD"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Genetics, Forestry and Agricultural Biotechnology Institute (FABI), University of Pretoria, Pretoria, South Africa"
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Genetics, Forestry and Agricultural Biotechnology Institute (FABI), University of Pretoria, Pretoria, South Africa. martin.coetzee@fabi.up.ac.za"
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Genetics, Molecular Ecology and Evolution Programme (MEEP), University of Pretoria, Pretoria, South Africa"
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

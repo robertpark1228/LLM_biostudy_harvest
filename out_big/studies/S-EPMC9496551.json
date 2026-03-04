@@ -1,0 +1,213 @@
+{
+  "accno": "S-EPMC9496551",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Exploring Biomolecular Self-Assembly with Far-Infrared Radiation."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2022-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Exploring Biomolecular Self-Assembly with Far-Infrared Radiation."
+      },
+      {
+        "name": "Abstract",
+        "value": "Physical engineering technology using far-infrared radiation has been gathering attention in chemical, biological, and material research fields. In particular, the high-power radiation at the terahertz region can give remarkable effects on biological materials distinct from a simple thermal treatment. Self-assembly of biological molecules such as amyloid proteins and cellulose fiber plays various roles in medical and biomaterials fields. A common characteristic of those biomolecular aggregates is a sheet-like fibrous structure that is rigid and insoluble in water, and it is often hard to manipulate the stacking conformation without heating, organic solvents, or chemical reagents. We discovered that those fibrous formats can be conformationally regulated by means of intense far-infrared radiations from a free-electron laser and gyrotron. In this review, we would like to show the latest and the past studies on the effects of far-infrared radiation on the fibrous biomaterials and to suggest the potential use of the far-infrared radiation for regulation of the biomolecular self-assembly."
+      }
+    ],
+    "files": [
+      {
+        "path": "biomolecules-12-01326-s001.zip",
+        "size": 1032306,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Biomolecules"
+          },
+          {
+            "name": "Volume",
+            "value": "12(9)"
+          },
+          {
+            "name": "Pages",
+            "value": "1326"
+          },
+          {
+            "name": "Publication date",
+            "value": "2022 Sep"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.3390/biom12091326",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC9496551",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "36139165",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kawasaki T"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0001-8376-5807"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Yamaguchi Y"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-5364-8877"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kitahara H"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Irizawa A"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-0844-5501"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Tani M"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Accelerator Laboratory, High Energy Accelerator Research Organization, 1-1 Oho, Tsukuba 305-0801, Ibaraki, Japan."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Research Center for Development of Far-Infrared Region, University of Fukui, 3-9-1 Bunkyo, Fukui 910-8507, Fukui, Japan."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "SR Center, Research Organization of Science and Technology, Ritsumeikan University, 1-1-1 Nojihigashi, Kusatsu 525-8577, Shiga, Japan."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

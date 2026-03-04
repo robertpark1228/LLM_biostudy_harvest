@@ -1,0 +1,263 @@
+{
+  "accno": "S-EPMC92633",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Impact of UV radiation on bacterioplankton community composition."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2001-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Impact of UV radiation on bacterioplankton community composition."
+      },
+      {
+        "name": "Abstract",
+        "value": "The potential effect of UV radiation on the composition of coastal marine bacterioplankton communities was investigated. Dilution cultures with seawater collected from the surface mixed layer of the coastal North Sea were exposed to different ranges of natural or artificial solar radiation for up to two diurnal cycles. The composition of the bacterioplankton community prior to exposure was compared to that after exposure to the different radiation regimes using denaturing gradient gel electrophoresis (DGGE) of 16S rRNA and 16S ribosomal DNA. Only minor changes in the composition of the bacterial community in the different radiation regimes were detectable. Sequencing of selected bands obtained by DGGE revealed that some species of the Flexibacter-Cytophaga-Bacteroides (FCB) group were sensitive to UV radiation while other species of the FCB group were resistant. Overall, only up to approximately 10% of the operational taxonomic units present in the dilution cultures appeared to be affected by UV radiation. Thus, we conclude that UV radiation has little effect on the composition of coastal marine bacterioplankton communities in the North Sea."
+      }
+    ],
+    "links": [
+      [
+        {
+          "url": "AF207852",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "ENA"
+            }
+          ]
+        },
+        {
+          "url": "AF207851",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "ENA"
+            }
+          ]
+        },
+        {
+          "url": "AF207853",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "ENA"
+            }
+          ]
+        },
+        {
+          "url": "M64629",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "ENA"
+            }
+          ]
+        },
+        {
+          "url": "AF177568",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "ENA"
+            }
+          ]
+        },
+        {
+          "url": "UBZ88574",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "ENA"
+            }
+          ]
+        },
+        {
+          "url": "AMY18234",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "ENA"
+            }
+          ]
+        },
+        {
+          "url": "AJ224942",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "ENA"
+            }
+          ]
+        },
+        {
+          "url": "AF207849",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "ENA"
+            }
+          ]
+        },
+        {
+          "url": "AF207848",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "ENA"
+            }
+          ]
+        },
+        {
+          "url": "AF207850",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "ENA"
+            }
+          ]
+        },
+        {
+          "url": "M61002",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "ENA"
+            }
+          ]
+        }
+      ]
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Applied and environmental microbiology"
+          },
+          {
+            "name": "Volume",
+            "value": "67(2)"
+          },
+          {
+            "name": "Pages",
+            "value": "665-72"
+          },
+          {
+            "name": "Publication date",
+            "value": "2001 Feb"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1128/AEM.67.2.665-672.2001",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "10.1128/aem.67.2.665-672.2001",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC92633",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "11157229",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Winter C"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0001-6327-0209"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Moeseneder MM"
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Herndl GJ"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-2223-2852"
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Biological Oceanography, Netherlands Institute for Sea Research, 1790 AB Den Burg, Texel, The Netherlands."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

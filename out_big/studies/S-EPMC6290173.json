@@ -1,0 +1,250 @@
+{
+  "accno": "S-EPMC6290173",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Digital version of the European Atlas of natural radiation."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2019-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Digital version of the European Atlas of natural radiation."
+      },
+      {
+        "name": "Abstract",
+        "value": "The European Atlas of Natural Radiation is a collection of maps displaying the levels of natural radioactivity caused by different sources. It has been developed and is being maintained by the Joint Research Centre (JRC) of the European Commission, in line with its mission, based on the Euratom Treaty: to collect, validate and report information on radioactivity levels in the environment of the EU Member States. This work describes the first version of the European Atlas of Natural Radiation, available in digital format through a web portal, as well as the methodology and results for the maps already developed. So far the digital Atlas contains: an annual cosmic-ray dose map; a map of indoor radon concentration; maps of uranium, thorium and potassium concentration in soil and in bedrock; a terrestrial gamma dose rate map; and a map of soil permeability. Through these maps, the public will be able to: familiarize itself with natural environmental radioactivity; be informed about the levels of natural radioactivity caused by different sources; have a more balanced view of the annual dose received by the European population, to which natural radioactivity is the largest contributor; and make direct comparisons between doses from natural sources of ionizing radiation and those from man-made (artificial) ones, hence, to better assess the latter. Work will continue on the European Geogenic Radon Map and on estimating the annual dose that the public may receive from natural radioactivity, by combining all the information from the different maps. More maps could be added to the Atlas, such us radon in outdoor air and in water and concentration of radionuclides in water, even if these sources usually contribute less to the total exposure."
+      }
+    ],
+    "files": [
+      {
+        "path": "mmc1.xlsx",
+        "size": 11641,
+        "type": "file"
+      },
+      {
+        "path": "mmc2.pdf",
+        "size": 2058666,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Journal of environmental radioactivity"
+          },
+          {
+            "name": "Volume",
+            "value": "196"
+          },
+          {
+            "name": "Pages",
+            "value": "240-252"
+          },
+          {
+            "name": "Publication date",
+            "value": "2019 Jan"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1016/j.jenvrad.2018.02.008",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC6290173",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "29496295",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Cinelli G"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Tollefsen T"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Bossew P"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Gruber V"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Bogucarskis K"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "De Felice L"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0003-0549-2123"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "De Cort M"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Austrian Agency for Health and Food Safety (AGES), Linz, Austria."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "European Commission, Joint Research Centre, Directorate for Nuclear Safety & Security, Ispra, Italy."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "European Commission, Joint Research Centre, Directorate for Nuclear Safety & Security, Ispra, Italy. Electronic address: giorgia.cinelli@ec.europa.eu."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "German Federal Office for Radiation Protection (BfS), Berlin, Germany."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

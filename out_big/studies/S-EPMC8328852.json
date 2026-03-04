@@ -1,0 +1,250 @@
+{
+  "accno": "S-EPMC8328852",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Radiation Oncology Training in Poland: Multi-institutional Survey."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2021-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Radiation Oncology Training in Poland: Multi-institutional Survey."
+      },
+      {
+        "name": "Abstract",
+        "value": "To evaluate the quality of radiation oncology training in Poland and to identify difficulties and needs of radiation oncology trainees (ROTs), an anonymous online survey using Google Forms was conducted in November 2018. All ROTs from Poland (n = 154) were invited to complete the survey. The survey consisted of 30 questions and regarded aspects such as satisfaction from training, cooperation with the supervisor, and education. During the study period, 105 ROTs from 22 Polish cities responded (the response rate was 68%). Almost 85% were satisfied with the choice of specialty, 43% with training and 81% with the teaching place. Clinical cooperation with the supervisor was described as difficult by 25%. With education, 38% of responders experienced obstacles and another 25% stated that educational cooperation with their supervisor was none. \"Good practice\" understood as treatment according to the latest guidelines or internal protocols were reported by 71%. Obligatory traineeships were shorter than recommended according to 67% of the responders, usually due to shortage of medical staff. Almost two-thirds of ROTs work only in clinics, while 34% perform both clinical and scientific work. The responders suggested that the introduction of organ-specified courses is an appropriate modification of the current program. Noteworthy, current diagnostic imaging and physics courses are not sufficient for the majority of participants (81% and 80%, respectively). Radiation oncology training is conducted relatively well in Poland. Some hospitals need to improve clinical and educational cooperation between trainees and their supervisors."
+      }
+    ],
+    "files": [
+      {
+        "path": "13187_2020_1702_MOESM1_ESM.docx",
+        "size": 17082,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Maria Sklodowska - Curie Memorial Center and Institute of Oncology Gliwice Branch"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Journal of cancer education : the official journal of the American Association for Cancer Education"
+          },
+          {
+            "name": "Volume",
+            "value": "36(4)"
+          },
+          {
+            "name": "Pages",
+            "value": "769-778"
+          },
+          {
+            "name": "Publication date",
+            "value": "2021 Aug"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1007/s13187-020-01702-8",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC8328852",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "32052261",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Napieralska A"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-7390-9165"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Tomasik B"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0001-5648-345X"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Spalek M"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-3960-7673"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Chyrek A"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Fijuth J"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-3777-0960"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-1775-5907"
+          },
+          {
+            "name": "affiliation",
+            "value": "o5",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Brachytherapy Department, Greater Poland Cancer Centre, Poznań, Poland."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Biostatistics and Translational Medicine, Medical University of Lodz, Lodz, Poland."
+          }
+        ]
+      },
+      {
+        "accno": "o5",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Medical University of Lodz, Lodz, Poland."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Soft Tissue/Bone Sarcoma and Melanoma, Maria Skłodowska-Curie Institute - Oncology Center, Warsaw, Poland."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Radiotherapy Department, Maria Skłodowska-Curie Cancer Centre, ul. Wybrzeże Armii Krajowej 15, 44-101, Gliwice, Poland. olanapieralska@gmail.com."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

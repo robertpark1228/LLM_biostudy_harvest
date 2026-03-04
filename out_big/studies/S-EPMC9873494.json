@@ -1,0 +1,216 @@
+{
+  "accno": "S-EPMC9873494",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Definitive Radiation Therapy for Medically Inoperable Endometrial Carcinoma."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2023-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Definitive Radiation Therapy for Medically Inoperable Endometrial Carcinoma."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Purpose</h4>Upfront radiation therapy consisting of brachytherapy with or without external beam radiation therapy is considered standard of care for patients with endometrial carcinoma who are unable to undergo surgical intervention. This study evaluated the cancer-free survival (CFS), cancer-specific survival (CSS), and overall survival (OS) of patients with endometrial carcinoma managed with definitive-intent radiation therapy.<h4>Methods and materials</h4>This was a single-institution retrospective analysis of medically inoperable patients with biopsy-proven endometrial carcinoma managed with up-front, definitive radiation therapy at UMass Memorial Medical Center between May 2010 and October 2021. A total of 55 cases were included for analysis. Patients were stratified as having low-risk endometrial carcinoma (LREC; uterine-confined grade 1-2 endometrioid adenocarcinoma) or high-risk endometrial carcinoma (HREC; stage III/IV and/or grade 3 endometrioid carcinoma, or any stage serous or clear cell carcinoma or carcinosarcoma). The CFS, CSS, OS, and grade ≥3 toxic effects were reported for patients with LREC and HREC.<h4>Results</h4>The median age was 66 years (range, 42-86 years), and the median follow-up was 44 months (range, 4-135 months). Twelve patients (22%) were diagnosed with HREC. Six patients (11%) were treated with high-dose-rate brachytherapy alone and 49 patients (89%) were treated with high-dose-rate brachytherapy and external beam radiation therapy. Twelve patients (22%) were treated with radiation and chemotherapy. The 2-year CFS was 82% for patients with LREC and 80% for patients with HREC (log rank <i>P</i> = .0654). The 2-year CSS was 100% for both LREC and HREC patients. The 2-year OS was 92% for LREC and 80% for HREC (log <i>P</i> = .0064). There were no acute grade ≥3 toxic effects. There were 3 late grade ≥3 toxic effects owing to endometrial bleeding and gastrointestinal adverse effects.<h4>Conclusions</h4>For medically inoperable patients with endometrial carcinoma, up-front radiation therapy provided excellent CFS, CSS, and OS. The CSS and OS were higher in patients with LREC than in those with HREC. Toxic effects were limited in both cohorts."
+      }
+    ],
+    "files": [
+      {
+        "path": "mmc1.docx",
+        "size": 31505,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Advances in radiation oncology"
+          },
+          {
+            "name": "Volume",
+            "value": "8(1)"
+          },
+          {
+            "name": "Pages",
+            "value": "101003"
+          },
+          {
+            "name": "Publication date",
+            "value": "2023 Jan-Feb"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1016/j.adro.2022.101003",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC9873494",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "36711065",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Shen JL"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "O'Connor KW"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Moni J"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Zweizig S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Fitzgerald TJ"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Ko EC"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, UMass Chan Medical School and UMass Memorial Medical Center, Worcester, Massachusetts."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Division of Gynecologic Oncology, Department of Obstetrics and Gynecology, UMass Chan Medical School and UMass Memorial Medical Center, Worcester, Massachusetts."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Medical Scientist Training Program, UMass Chan Medical School, Worcester, Massachusetts."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

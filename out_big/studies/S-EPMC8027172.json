@@ -1,0 +1,239 @@
+{
+  "accno": "S-EPMC8027172",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Evaluation of practical experiences of German speaking radiation oncologists in combining radiation therapy with checkpoint blockade."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2021-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Evaluation of practical experiences of German speaking radiation oncologists in combining radiation therapy with checkpoint blockade."
+      },
+      {
+        "name": "Abstract",
+        "value": "The results of this survey reveal current clinical practice in the handling of combined radioimmunotherapy with Immune Checkpoint Inhibitors (RT + ICI). We aim to provide a basis to open a discussion for clinical application of RT + ICI by analyzation of experts' assessment. We conducted a survey with 24 items with a focus on side effects of RT + ICI, common practice of scheduling and handling of adverse events. After pilot testing by radiation oncology experts the link to the online survey was sent to all members of the German Society of Radiation Oncology (DEGRO). In total, 51 radiation oncologists completed the questionnaire. Pulmonary toxicity under RT + ICI with ICIs was reported most frequently. Consensus was observed for bone and soft tissue RT of the limbs in favor for no interruption of ICIs. For cranial RT half of the participants do not suspend ICIs during normofractionated radiotherapy (nfRT) or stereotactic hypofractionated RT (SRT). More participants pause ICIs for central than for peripheral thoracic region. Maintenance therapy with ICIs is mostly not interrupted prior to RT. For management of RT associated pneumonitis under durvalumab the majority of 86.3% suggest corticosteroid therapy and 76.5% would postpone the next cycle of ICI therapy. The here obtained assessment and experiences by radiation oncologists reveal a large variability in practical handling of combined RT + ICI. Until scientific evidence is available a discussion for current clinical application of RT + ICI should be triggered. Interdisciplinary consensus guidelines with practical recommendations are required."
+      }
+    ],
+    "files": [
+      {
+        "path": "41598_2021_86863_MOESM1_ESM.docx",
+        "size": 19996,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Technische Universität München"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "else-kröner-fresenius-stiftung"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Scientific reports"
+          },
+          {
+            "name": "Volume",
+            "value": "11(1)"
+          },
+          {
+            "name": "Pages",
+            "value": "7624"
+          },
+          {
+            "name": "Publication date",
+            "value": "2021 Apr"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1038/s41598-021-86863-2",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC8027172",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "33828117",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kraus KM"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Fischer JC"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Borm KJ"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Vogel MME"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Pigorsch SU"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Devecka M"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Combs SE"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, School of Medicine, Technical University of Munich (TUM), Klinikum rechts der Isar, Munich, Germany."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, School of Medicine, Technical University of Munich (TUM), Klinikum rechts der Isar, Munich, Germany. kimmelanie.kraus@mri.tum.de."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

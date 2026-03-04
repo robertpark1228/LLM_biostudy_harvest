@@ -1,0 +1,315 @@
+{
+  "accno": "S-EPMC2410125",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Aberrant CDKN1A transcriptional response associates with abnormal sensitivity to radiation treatment."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2008-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Aberrant CDKN1A transcriptional response associates with abnormal sensitivity to radiation treatment."
+      },
+      {
+        "name": "Abstract",
+        "value": "Normal tissue reactions to radiation therapy vary in severity among patients and cannot be accurately predicted, limiting treatment doses. The existence of heritable radiosensitivity syndromes suggests that normal tissue reaction severity is determined, at least in part, by genetic factors and these may be revealed by differences in gene expression. To test this hypothesis, peripheral blood lymphocyte cultures from 22 breast cancer patients with either minimal (11) or very severe acute skin reactions (11) have been used to analyse gene expression. Basal and post-irradiation expression of four radiation-responsive genes (CDKN1A, GADD45A, CCNB1, and BBC3) was determined by quantitative real-time PCR in T-cell cultures established from the two patient groups before radiotherapy. Relative expression levels of BBC3, CCNB1, and GADD45A 2 h following 2 Gy X-rays did not discriminate between groups. However, post-irradiation expression response was significantly reduced for CDKN1A (P<0.002) in severe reactors compared to normal. Prediction of reaction severity of approximately 91% of individuals sampled was achieved using this end point. Analysis of TP53 Arg72Pro and CDKN1A Ser31Arg single nucleotide polymorphisms did not show any significant association with reaction sensitivity. Although these results require confirmation and extension, this study demonstrates the possibility of predicting the severity of acute skin radiation toxicity in simple tests."
+      }
+    ],
+    "links": [
+      [
+        {
+          "url": "rs1801270",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refsnp"
+            }
+          ]
+        },
+        {
+          "url": "rs1042522",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refsnp"
+            }
+          ]
+        }
+      ]
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "British journal of cancer"
+          },
+          {
+            "name": "Volume",
+            "value": "98(11)"
+          },
+          {
+            "name": "Pages",
+            "value": "1845-51"
+          },
+          {
+            "name": "Publication date",
+            "value": "2008 Jun"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1038/sj.bjc.6604381",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC2410125",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "18493234",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Badie C"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0003-4572-5008"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Dziwura S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Raffy C"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Tsigani T"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Alsbeih G"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Moody J"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Finnon P"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Levine E"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a9",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Scott D"
+          },
+          {
+            "name": "affiliation",
+            "value": "o5",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a10",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Bouffler S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o5",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Cancer Genetics Department, Paterson Institute for Cancer Research, Christie Hospital NHS Foundation Trust , Manchester M4BX,"
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Clinical Oncology Department, Christie Hospital NHS Foundation Trust , Wilmslow Road, Manchester M4BX,"
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Radiation Biology Laboratory, Biomedical Physics Department, King Faisal Specialist Hospital & Research Centre , Riyadh 11211,"
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Radiation Effects Department, Health Protection Agency, Centre for Radiation Chemical and Environmental Hazards, Radiation Protection Division, Chilton, Didcot , Oxfordshire OXORQ,"
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Radiation Effects Department, Health Protection Agency, Centre for Radiation Chemical and Environmental Hazards, Radiation Protection Division, Chilton, Didcot, Oxfordshire OX11 ORQ, UK. christophe.badie@hpa.org.uk"
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

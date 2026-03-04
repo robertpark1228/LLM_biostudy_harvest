@@ -1,0 +1,234 @@
+{
+  "accno": "S-EPMC8474436",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Optimal Radiation Dose for Stage III Lung Cancer-Should \"Definitive\" Radiation Doses Be Used in the Preoperative Setting?"
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2021-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Optimal Radiation Dose for Stage III Lung Cancer-Should \"Definitive\" Radiation Doses Be Used in the Preoperative Setting?"
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Introduction</h4>There are currently two recommended radiation strategies for clinical stage III NSCLC: a lower \"preoperative\" (45-54 Gy) and a higher \"definitive/nonsurgical\" (60-70 Gy) dose. We sought to determine if definitive radiation doses should be used in the preoperative setting given that many clinical stage III patients planned for surgery are ultimately managed with chemoradiation alone.<h4>Methods</h4>Using the National Cancer Database data from 2006 to 2016, we performed a comparative effectiveness analysis of stage III N2 patients who received chemoradiotherapy. Patients were stratified into subgroups across 2 parameters: (1) radiation dose: lower (45-54 Gy) and higher (60-70 Gy); and (2) the use of surgery (i.e., surgical and nonsurgical treatment approaches). Long-term survival and perioperative outcomes were evaluated using multivariable Cox proportional hazards and logistic regression models.<h4>Results</h4>A cohort of 961 patients received radiation before surgery including 321 who received a higher dose and 640 who received a lower dose. A higher preoperative dose revealed similar long-term mortality risk (hazard ratio = 0.99, 95% confidence interval: 0.82-1.21, <i>p</i> = 0.951) compared with a lower dose. There was no significant association between radiation dose and 90-day mortality (<i>p</i> = 0.982), 30-day readmission (<i>p</i> = 0.931), or prolonged length of stay (<i>p</i> = 0.052) in the surgical cohort. A total of 17,904 clinical-stage IIIA-N2 patients were treated nonsurgically, including 15,945 receiving higher and 1959 treated with a lower dose. A higher dose was associated with a reduction in long-term mortality risk (hazard ratio = 0.64, 95% confidence interval: 0.60-0.67, <i>p</i> < 0.001) compared with a lower dose.<h4>Conclusions</h4>For clinical stage III NSCLC, the administration of 60 to 70 Gy of radiation seems to be more effective than the lower dose for nonsurgical patients without compromising surgical safety for those that undergo resection. This evidence supports the implementation of 60 to 70 Gy as a single-dose strategy for both preoperative and definitive chemoradiotherapy."
+      }
+    ],
+    "files": [
+      {
+        "path": "mmc1.docx",
+        "size": 5312240,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCATS NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "UL1 TR001863"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "JTO clinical and research reports"
+          },
+          {
+            "name": "Volume",
+            "value": "2(8)"
+          },
+          {
+            "name": "Pages",
+            "value": "100201"
+          },
+          {
+            "name": "Publication date",
+            "value": "2021 Aug"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1016/j.jtocrr.2021.100201",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC8474436",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "34590044",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Saffarzadeh AG"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Canavan M"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Resio BJ"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Walters SL"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Flores KM"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Decker RH"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Boffa DJ"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Hunter Radiation Therapy Center, Department of Therapeutic Radiology, Yale School of Medicine, New Haven, Connecticut."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Section of Thoracic Surgery, Department of Surgery, Yale School of Medicine, New Haven, Connecticut."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

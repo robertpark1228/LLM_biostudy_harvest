@@ -1,0 +1,317 @@
+{
+  "accno": "S-EPMC7806018",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Radiation Mapping and Laser Profiling Using a Robotic Manipulator."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2020-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Radiation Mapping and Laser Profiling Using a Robotic Manipulator."
+      },
+      {
+        "name": "Abstract",
+        "value": "The use of a robotic arm manipulator as a platform for coincident radiation mapping and laser profiling of radioactive sources on a flat surface is investigated in this work. A combined scanning head, integrating a micro-gamma spectrometer and Time of Flight (ToF) sensor were moved in a raster scan pattern across the surface, autonomously undertaken by the robot arm over a 600 × 260 mm survey area. A series of radioactive sources of different emission intensities were scanned in different configurations to test the accuracy and sensitivity of the system. We demonstrate that in each test configuration the system was able to generate a centimeter accurate 3D model complete with an overlaid radiation map detailing the emitted radiation intensity and the corrected surface dose rate."
+      }
+    ],
+    "links": [
+      [
+        {
+          "url": "10.17632/gts8x9f84r.1",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "doi"
+            }
+          ]
+        }
+      ]
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Engineering and Physical Sciences Research Council"
+          },
+          {
+            "name": "grant_id",
+            "value": "EP/R026084/1"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Engineering and Physical Sciences Research Council"
+          },
+          {
+            "name": "grant_id",
+            "value": "EP/T011491/1"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Frontiers in robotics and AI"
+          },
+          {
+            "name": "Volume",
+            "value": "7"
+          },
+          {
+            "name": "Pages",
+            "value": "499056"
+          },
+          {
+            "name": "Publication date",
+            "value": "2020"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.3389/frobt.2020.499056",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC7806018",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "33501295",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "White SR"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Megson-Smith DA"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-7175-792X"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Zhang K"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-2990-2943"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Connor DT"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0001-8644-2501"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Martin PG"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0003-3395-8656"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Hutson C"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-6526-3122"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Herrmann G"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0001-5390-4538"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Dilworth J"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a9",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Scott TB"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Mechanical Engineering, University of Bristol, Bristol, United Kingdom."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Physics, Interface Analysis Centre, University of Bristol, Bristol, United Kingdom."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "KUKA Systems UK Ltd, Halesowen, United Kingdom."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

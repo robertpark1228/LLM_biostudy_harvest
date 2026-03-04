@@ -1,0 +1,344 @@
+{
+  "accno": "S-EPMC9617255",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Factors affecting the radiation response in glioblastoma."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2022-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Factors affecting the radiation response in glioblastoma."
+      },
+      {
+        "name": "Abstract",
+        "value": "Glioblastoma (GBM) is a highly invasive primary brain tumor in adults with a 5-year survival rate of less than 10%. Conventional radiotherapy with photons, along with concurrent and adjuvant temozolomide, is the mainstay for treatment of GBM although no significant improvement in survival rates has been observed over the last 20 years. Inherent factors such as tumor hypoxia, radioresistant GBM stem cells, and upregulated DNA damage response mechanisms are well established as contributing to treatment resistance and tumor recurrence. While it is understandable that efforts have focused on targeting these factors to overcome this phenotype, there have also been striking advances in precision radiotherapy techniques, including proton beam therapy and carbon ion radiotherapy (CIRT). These enable higher doses of radiation to be delivered precisely to the tumor, while minimizing doses to surrounding normal tissues and organs at risk. These alternative radiotherapy techniques also benefit from increased biological effectiveness, particularly in the case of CIRT. Although not researched extensively to date, combining these new radiation modalities with radio-enhancing agents may be particularly effective in improving outcomes for patients with GBM."
+      }
+    ],
+    "links": [
+      [
+        {
+          "url": "NCT02179086",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT01390571",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT02977780",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT01854554",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT02207010",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT04752280",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT04555577",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT03587038",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT01165671",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT04536649",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT01849146",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT03778294",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT04740190",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        }
+      ]
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Cancer Research UK"
+          },
+          {
+            "name": "grant_id",
+            "value": "11423"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Cancer Research UK"
+          },
+          {
+            "name": "grant_id",
+            "value": "17870"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "National Institutes of Health"
+          },
+          {
+            "name": "grant_id",
+            "value": "R01CA256854"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Cancer Research UK"
+          },
+          {
+            "name": "grant_id",
+            "value": "20546"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Cancer Research UK"
+          },
+          {
+            "name": "grant_id",
+            "value": "28803"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Neuro-oncology advances"
+          },
+          {
+            "name": "Volume",
+            "value": "4(1)"
+          },
+          {
+            "name": "Pages",
+            "value": "vdac156"
+          },
+          {
+            "name": "Publication date",
+            "value": "2022 Jan-Dec"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1093/noajnl/vdac156",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC9617255",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "36325371",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Aiyappa-Maudsley R"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0003-4900-4013"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Chalmers AJ"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Parsons JL"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Molecular and Clinical Cancer Medicine, University of Liverpool, William Henry Duncan Building, Liverpool, L7 8TX, UK."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Institute of Cancer Sciences, College of Medical Veterinary and Life Sciences, University of Glasgow, Glasgow, UK."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

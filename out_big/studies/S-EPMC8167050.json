@@ -1,0 +1,230 @@
+{
+  "accno": "S-EPMC8167050",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Acute Radiation Syndrome and the Microbiome: Impact and Review."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2021-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Acute Radiation Syndrome and the Microbiome: Impact and Review."
+      },
+      {
+        "name": "Abstract",
+        "value": "Study of the human microbiota has been a centuries-long endeavor, but since the inception of the National Institutes of Health (NIH) Human Microbiome Project in 2007, research has greatly expanded, including the space involving radiation injury. As acute radiation syndrome (ARS) is multisystemic, the microbiome niches across all areas of the body may be affected. This review highlights advances in radiation research examining the effect of irradiation on the microbiome and its potential use as a target for medical countermeasures or biodosimetry approaches, or as a medical countermeasure itself. The authors also address animal model considerations for designing studies, and the potential to use the microbiome as a biomarker to assess radiation exposure and predict outcome. Recent research has shown that the microbiome holds enormous potential for mitigation of radiation injury, in the context of both radiotherapy and radiological/nuclear public health emergencies. Gaps still exist, but the field is moving forward with much promise."
+      }
+    ],
+    "links": [
+      [
+        {
+          "url": "NCT03516461",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT01549782",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        }
+      ]
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Frontiers in pharmacology"
+          },
+          {
+            "name": "Volume",
+            "value": "12"
+          },
+          {
+            "name": "Pages",
+            "value": "643283"
+          },
+          {
+            "name": "Publication date",
+            "value": "2021"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.3389/fphar.2021.643283",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC8167050",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "34084131",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Hollingsworth BA"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Cassatt DR"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-1742-864X"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "DiCarlo AL"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Rios CI"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Satyamitra MM"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Winters TA"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Taliaferro LP"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Radiation and Nuclear Countermeasures Program (RNCP), Division of Allergy, Immunology and Transplantation (DAIT), National Institute of Allergy and Infectious Diseases (NIAID), National Institutes of Health (NIH), Rockville, MD, United States."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

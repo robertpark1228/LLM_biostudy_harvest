@@ -1,0 +1,248 @@
+{
+  "accno": "S-EPMC4152716",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Nanotechnology in radiation oncology."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2014-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Nanotechnology in radiation oncology."
+      },
+      {
+        "name": "Abstract",
+        "value": "Nanotechnology, the manipulation of matter on atomic and molecular scales, is a relatively new branch of science. It has already made a significant impact on clinical medicine, especially in oncology. Nanomaterial has several characteristics that are ideal for oncology applications, including preferential accumulation in tumors, low distribution in normal tissues, biodistribution, pharmacokinetics, and clearance, that differ from those of small molecules. Because these properties are also well suited for applications in radiation oncology, nanomaterials have been used in many different areas of radiation oncology for imaging and treatment planning, as well as for radiosensitization to improve the therapeutic ratio. In this article, we review the unique properties of nanomaterials that are favorable for oncology applications and examine the various applications of nanotechnology in radiation oncology. We also discuss the future directions of nanotechnology within the context of radiation oncology."
+      }
+    ],
+    "links": [
+      [
+        {
+          "url": "NCT01946867",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT02010567",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT01433068",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        }
+      ]
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "P30 CA016086"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "R01 CA178748"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "R01CA178748-01"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "U54 CA151652"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "U54-CA151652"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology"
+          },
+          {
+            "name": "Volume",
+            "value": "32(26)"
+          },
+          {
+            "name": "Pages",
+            "value": "2879-85"
+          },
+          {
+            "name": "Publication date",
+            "value": "2014 Sep"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1200/JCO.2014.55.0699",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "10.1200/jco.2014.55.0699",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC4152716",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "25113769",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Wang AZ"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-9781-4494"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Tepper JE"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "All authors: Lineberger Comprehensive Cancer Center, Carolina Center for Cancer Nanotechnology Excellence, University of North Carolina at Chapel Hill, Chapel Hill, NC."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "All authors: Lineberger Comprehensive Cancer Center, Carolina Center for Cancer Nanotechnology Excellence, University of North Carolina at Chapel Hill, Chapel Hill, NC. zawang@med.unc.edu."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

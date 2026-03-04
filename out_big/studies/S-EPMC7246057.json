@@ -1,0 +1,302 @@
+{
+  "accno": "S-EPMC7246057",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Clinical utilization of radiation therapy in Korea, 2016."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2020-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Clinical utilization of radiation therapy in Korea, 2016."
+      },
+      {
+        "name": "Abstract",
+        "value": "Radiotherapy (RT) is one of the primary cancer treatment modalities. To estimate the actual utilization of RT and infrastructure in Korea, the current study was performed. Data from 2012 to 2016 were extracted from the Health Insurance Review and Assessment Service. In addition, a nationwide survey was conducted to collect the statistics of RT facilities, equipment and human resources in Korea. The total number of patients treated with RT was 72 563 in 2016. The five cancers that were most commonly treated with RT in 2016 were breast, lung, colorectal, liver and prostate cancer. According to analyses of specific treatment modalities, the number of patients treated with intensity-modulated radiotherapy (IMRT), stereotactic radiation therapy (SRT) and proton therapy increased from 6670, 6306 and 50 in 2012 to 21584, 9048 and 703 in 2016, respectively. Ninety radiation oncology centers were working in 2015 and there were a total of 213 megavoltage teletherapy machines. In 2015, 310 patients were treated per megavoltage RT machine, 246 patients per radiation oncologist, 501 patients per medical physicist and 111 patients per radiotherapy technologist. In conclusion, the number of patients who underwent RT in Korea has increased steadily from 2012 to 2016. The IMRT utilization rate remarkably increased in 2016, and the number of patients treated with advanced treatment modalities such as IMRT, SRT and proton therapy is expected to increase."
+      }
+    ],
+    "files": [
+      {
+        "path": "manuscript_cleaned_rrz095.docx",
+        "size": 54447,
+        "type": "file"
+      }
+    ],
+    "links": [
+      [
+        {
+          "url": "NCT03391869",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT03148327",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT03833154",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        }
+      ]
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "National Research Foundation of Korea"
+          },
+          {
+            "name": "grant_id",
+            "value": "2019M2A2B4095150"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Korea Institute of Radiological and Medical Sciences"
+          },
+          {
+            "name": "grant_id",
+            "value": "50432-2018"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Ministry of Sciences and ICT"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Journal of radiation research"
+          },
+          {
+            "name": "Volume",
+            "value": "61(2)"
+          },
+          {
+            "name": "Pages",
+            "value": "249-256"
+          },
+          {
+            "name": "Publication date",
+            "value": "2020 Mar"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1093/jrr/rrz095",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC7246057",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "31913473",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kim E"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Jang WI"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kim MS"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Paik EK"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kim HJ"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Yoo HJ"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Yang K"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Cho CK"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Korea Institute of Radiological and Medical Sciences, Seoul, Korea."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "External Strategy Team, Strategic Planning Office, Korea Institute of Radiological and Medical Sciences, Seoul, Korea."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

@@ -1,0 +1,172 @@
+{
+  "accno": "S-EPMC4886981",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Quantifying radiation damage in biomolecular small-angle X-ray scattering."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2016-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Quantifying radiation damage in biomolecular small-angle X-ray scattering."
+      },
+      {
+        "name": "Abstract",
+        "value": "Small-angle X-ray scattering (SAXS) is an increasingly popular technique that provides low-resolution structural information about biological macromolecules in solution. Many of the practical limitations of the technique, such as minimum required sample volume, and of experimental design, such as sample flow cells, are necessary because the biological samples are sensitive to damage from the X-rays. Radiation damage typically manifests as aggregation of the sample, which makes the collected data unreliable. However, there has been little systematic investigation of the most effective methods to reduce damage rates, and results from previous damage studies are not easily compared with results from other beamlines. Here a methodology is provided for quantifying radiation damage in SAXS to provide consistent results between different experiments, experimenters and beamlines. These methods are demonstrated on radiation damage data collected from lysozyme, glucose isomerase and xylanase, and it is found that no single metric is sufficient to describe radiation damage in SAXS for all samples. The radius of gyration, molecular weight and integrated SAXS profile intensity constitute a minimal set of parameters that capture all types of observed behavior. Radiation sensitivities derived from these parameters show a large protein dependence, varying by up to six orders of magnitude between the different proteins tested. This work should enable consistent reporting of radiation damage effects, allowing more systematic studies of the most effective minimization strategies."
+      }
+    ],
+    "files": [
+      {
+        "path": "j-49-00880-sup1.pdf",
+        "size": 779025,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NIGMS NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "P41 GM103485"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Journal of applied crystallography"
+          },
+          {
+            "name": "Volume",
+            "value": "49(Pt 3)"
+          },
+          {
+            "name": "Pages",
+            "value": "880-890"
+          },
+          {
+            "name": "Publication date",
+            "value": "2016 Jun"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1107/S1600576716005136",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "10.1107/s1600576716005136",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC4886981",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "27275138",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Hopkins JB"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0001-8554-8072"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Thorne RE"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Cornell High Energy Synchrotron Source , Ithaca, NY 14853, USA."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Physics, Cornell University , Ithaca, NY 14853, USA."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

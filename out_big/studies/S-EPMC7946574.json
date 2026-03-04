@@ -1,0 +1,210 @@
+{
+  "accno": "S-EPMC7946574",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "The Impact of COVID-19 on US Radiation Oncology Residents."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2022-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "The Impact of COVID-19 on US Radiation Oncology Residents."
+      },
+      {
+        "name": "Abstract",
+        "value": "The purpose of our study is to assess the impact of COVID-19 on the clinical responsibilities, training, and wellness of US radiation oncology residents. An anonymous cross-sectional survey was sent to all 91 radiation oncology residency programs in the USA. The survey included questions related to demographics, changes in clinical duties and training, job prospects, and wellness indicators. Univariate and multivariate logistic regression analyses were used to evaluate factors associated with residents endorsing high satisfaction with their departments' response to COVID-19. A total of 96 residents completed the survey from 67 US radiation oncology programs. In the multivariate logistic regression model, remote contouring (OR: 3.91 (95% CI: 1.11, 13.80), p = 0.03) and belief that one will be adequately trained to independently practice after completing residency (OR: 4.68 (1.12, 19.47), p = 0.03) were significantly associated with high resident satisfaction with their department's response to COVID-19. Most residents indicated that hypofractionation was encouraged to a greater extent (n = 79, 82.3%), patients were triaged by disease risk (n = 67, 69.8%), and most agreed/strongly agreed that they have been provided with adequate personal protective equipment (PPE) (n = 85, 88.5%). The COVID-19 pandemic has affected the training and wellness of radiation oncology residents. Our analysis suggests that radiation oncology programs might increase resident satisfaction with their department's response to COVID-19 by enabling remote contouring and working with residents to identity and remedy possible concerns regarding their ability to independently practice post residency."
+      }
+    ],
+    "files": [
+      {
+        "path": "13187_2021_1993_MOESM1_ESM.docx",
+        "size": 13846,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Journal of cancer education : the official journal of the American Association for Cancer Education"
+          },
+          {
+            "name": "Volume",
+            "value": "37(5)"
+          },
+          {
+            "name": "Pages",
+            "value": "1525-1531"
+          },
+          {
+            "name": "Publication date",
+            "value": "2022 Oct"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1007/s13187-021-01993-5",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC7946574",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "33694133",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kosydar S"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0003-1666-5261"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Woodfin MW"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Halasz LM"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Apisarnthanarax S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Rengan R"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Lo SS"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "School of Medicine, University of Washington, Seattle, WA, USA."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "School of Medicine, University of Washington, Seattle, WA, USA. simonslo@uw.edu."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

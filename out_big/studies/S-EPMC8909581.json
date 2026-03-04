@@ -1,0 +1,194 @@
+{
+  "accno": "S-EPMC8909581",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Combining HDAC and MEK Inhibitors with Radiation against Glioblastoma-Derived Spheres."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2022-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Combining HDAC and MEK Inhibitors with Radiation against Glioblastoma-Derived Spheres."
+      },
+      {
+        "name": "Abstract",
+        "value": "Glioblastoma stem-like cells (GSLCs) in glioblastoma limit effective treatment and promote therapeutic resistance and tumor recurrence. Using a combined radiation and drug-screening platform, we tested the combination of a histone deacetylase inhibitor (HDACi) and MAPK/ERK kinase inhibitor (MEKi) with radiation to predict the efficacy against GSLCs. To mimic a stem-like phenotype, glioblastoma-derived spheres were used and treated with a combination of HDACi (MS-275) and MEKi (TAK-733 or trametinib) with 4 Gy irradiation. The sphere-forming ability after the combined radiochemotherapy was investigated using a sphere formation assay, while the expression levels of the GSLC markers (CD44, Nestin and SOX2) after treatment were analyzed using Western blotting and flow cytometry. The combined radiochemotherapy treatment inhibited the sphere formation in both glioblastoma-derived spheres, decreased the expression of the GSLC markers in a cell-line dependent manner and increased the dead cell population. Finally, we showed that the combined treatment with radiation was more effective at reducing the GSLC markers compared to the standard treatment of temozolomide and radiation. These results suggest that combining HDAC and MEK inhibition with radiation may offer a new strategy to improve the treatment of glioblastoma."
+      }
+    ],
+    "files": [
+      {
+        "path": "cells-11-00775-s001.zip",
+        "size": 2367734,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Cells"
+          },
+          {
+            "name": "Volume",
+            "value": "11(5)"
+          },
+          {
+            "name": "Pages",
+            "value": "775"
+          },
+          {
+            "name": "Publication date",
+            "value": "2022 Feb"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.3390/cells11050775",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC8909581",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "35269397",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Essien EI"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Hofer TP"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-9713-3138"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Atkinson MJ"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Anastasov N"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-4088-1119"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Chair of Radiation Biology, Technical University of Munich, 80333 Munich, Germany"
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Immunoanalytics Research Group Tissue Control of Immunocytes & Core Facility, German Research Center for Environmental Health, 81377 Munich, Germany"
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Institute of Biological and Medical Imaging, Helmholtz Center Munich, German Research Center for Environmental Health, 85764 Neuherberg, Germany"
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

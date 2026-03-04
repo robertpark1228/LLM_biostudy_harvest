@@ -1,0 +1,220 @@
+{
+  "accno": "S-EPMC8155087",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Radiation recall dermatitis following letrozole administration in patient with a remote history of radiation therapy."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2021-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Radiation recall dermatitis following letrozole administration in patient with a remote history of radiation therapy."
+      },
+      {
+        "name": "Abstract",
+        "value": "We report the case of letrozole-induced radiation recall dermatitis (RRD) in a patient with a remote history of radiation therapy. There is only one previously known case of RRD triggered by letrozole in a patient with a recent (<3 month) history of radiation. Previously, only four other cases of aromatase-inhibitor-induced RRD have been reported. This case is significant for cancer care teams considering personalized treatments. In addition, improved long-term outcomes in cancer patients may lead to increases in and underdiagnoses of RRD. Likewise, RRD is patient specific, exacerbating health concerns, and can be difficult to recognize without proper awareness, documentation, and classification of triggering drugs. The authors hope to address these issues in this report."
+      }
+    ],
+    "files": [
+      {
+        "path": "41523_2021_271_MOESM1_ESM.pdf",
+        "size": 68866,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "NPJ breast cancer"
+          },
+          {
+            "name": "Volume",
+            "value": "7(1)"
+          },
+          {
+            "name": "Pages",
+            "value": "62"
+          },
+          {
+            "name": "Publication date",
+            "value": "2021 May"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1038/s41523-021-00271-3",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC8155087",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "34039983",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Sweren E"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Aravind P"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Dembinski R"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Klein C"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Habibi M"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0003-2944-4388"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kerns ML"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Dermatology, Johns Hopkins University School of Medicine, Baltimore, MD, USA."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Dermatology, Johns Hopkins University School of Medicine, Baltimore, MD, USA. mkerns1@jhmi.edu."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Surgery, Johns Hopkins Hospital, Bayview Campus, Baltimore, MD, USA."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

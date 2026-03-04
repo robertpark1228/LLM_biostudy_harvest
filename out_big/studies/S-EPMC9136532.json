@@ -1,0 +1,281 @@
+{
+  "accno": "S-EPMC9136532",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Inhaled curcumin mesoporous polydopamine nanoparticles against radiation pneumonitis."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2022-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Inhaled curcumin mesoporous polydopamine nanoparticles against radiation pneumonitis."
+      },
+      {
+        "name": "Abstract",
+        "value": "Radiation therapy is an effective method to kill cancer cells and shrink tumors using high-energy X-ray or <i>γ</i>-ray. Radiation pneumonitis (RP) is one of the most serious complications of radiation therapy for thoracic cancers, commonly leading to serious respiratory distress and poor prognosis. Here, we prepared curcumin-loaded mesoporous polydopamine nanoparticles (CMPN) for prevention and treatment of RP by pulmonary delivery. Mesoporous polydopamine nanoparticles (MPDA) were successfully synthesized with an emulsion-induced interface polymerization method and curcumin was loaded in MPDA <i>via π‒π</i> stacking and hydrogen bonding interaction. MPDA owned the uniform spherical morphology with numerous mesopores that disappeared after loading curcumin. More than 80% curcumin released from CMPN in 6 h and mesopores recovered. CMPN remarkably protected BEAS-2B cells from <i>γ</i>-ray radiation injury by inhibiting apoptosis. RP rat models were established after a single dose of 15 Gy <sup>60</sup>Co <i>γ</i>-ray radiation was performed on the chest area. Effective therapy of RP was achieved by intratracheal administration of CMPN due to free radical scavenging and anti-oxidation ability, and reduced proinflammatory cytokines, high superoxide dismutase, decreased malondialdehyde, and alleviated lung tissue damages were observed. Inhaled CMPN paves a new avenue for the treatment of RP."
+      }
+    ],
+    "files": [
+      {
+        "path": "mmc1.pdf",
+        "size": 433713,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Ministry of Science and Technology of the People&amp;apos;s Republic of China"
+          },
+          {
+            "name": "grant_id",
+            "value": "2018ZX09J18104-001"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "National Key New Drug Creation and Manufacturing Program, Ministry of Science and Technology"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Acta pharmaceutica Sinica. B"
+          },
+          {
+            "name": "Volume",
+            "value": "12(5)"
+          },
+          {
+            "name": "Pages",
+            "value": "2522-2532"
+          },
+          {
+            "name": "Publication date",
+            "value": "2022 May"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1016/j.apsb.2021.10.027",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC9136532",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "35646537",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Chen T"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Zhuang B"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-0440-135X"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Huang Y"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Liu Y"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Yuan B"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Wang W"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Yuan T"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Du L"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a9",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Jin Y"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-3528-1397"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Pharmaceutical Sciences, Beijing Institute of Radiation Medicine, Beijing 100850, China."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Guangdong Pharmaceutical University, Guangzhou 510006, China."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

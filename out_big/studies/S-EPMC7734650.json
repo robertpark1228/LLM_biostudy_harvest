@@ -1,0 +1,292 @@
+{
+  "accno": "S-EPMC7734650",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Carbon ion radiation therapy in breast cancer: a new frontier."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2020-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Carbon ion radiation therapy in breast cancer: a new frontier."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Purpose</h4>Breast cancer is the most commonly diagnosed cancer in women, with many efforts aimed at reducing acute and late toxicity given the generally favorable clinical outcomes with the current standard of care. Carbon ion radiation therapy is an emerging technique that may reduce dose to adjacent organs at risk while allowing dose escalation to the target. Given the efficacy of the standard treatments for breast cancer, there have been few prospective studies to date investigating carbon ion radiation therapy in breast cancer.<h4>Methods</h4>PubMed/Medline, Ebsco, Cochrane, and Scopus were systematically reviewed using the search terms \"carbon ion\" and \"breast\" in November 2019. Out of the 76 articles screened, 26 articles were included.<h4>Results</h4>This comprehensive review describes the physical and biological properties of carbon ion radiation therapy, with an emphasis on how these properties can be applied in the setting of breast cancer. Studies investigating the role of carbon ion radiation therapy in early stage breast cancers are reviewed. Additionally, the use of carbon ion radiation therapy in locally advanced disease, recurrent disease, and radiation-induced angiosarcoma are discussed.<h4>Conclusion</h4>Although the data is limited, the early clinical results are promising. Further clinical trials are needed, especially in the setting of locally advanced and recurrent disease, to fully define the potential role of carbon ion radiation therapy in the treatment of breast cancer."
+      }
+    ],
+    "links": [
+      [
+        {
+          "url": "NCT01310530",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT02603341",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT01365845",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        }
+      ]
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NICHD NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "K12 HD065987"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Breast cancer research and treatment"
+          },
+          {
+            "name": "Volume",
+            "value": "181(2)"
+          },
+          {
+            "name": "Pages",
+            "value": "291-296"
+          },
+          {
+            "name": "Publication date",
+            "value": "2020 Jun"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1007/s10549-020-05641-2",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "10.1007/s10549-020-05641-2",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC7734650",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "32318954",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Malouff TD"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Mahajan A"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Mutter RW"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Krishnan S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Hoppe BS"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Beltran C"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Trifiletti DM"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Vallow LA"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Mayo Clinic Florida, 4500 San Pablo Road S, Mayo 1N, Jacksonville, FL, 32224, USA."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Mayo Clinic Florida, 4500 San Pablo Road S, Mayo 1N, Jacksonville, FL, 32224, USA. malouff.timothy@mayo.edu."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Mayo Clinic, Rochester, MN, USA."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

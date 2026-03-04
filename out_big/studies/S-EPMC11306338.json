@@ -1,0 +1,373 @@
+{
+  "accno": "S-EPMC11306338",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "No observable non-thermal effect of microwave radiation on the growth of microtubules."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2024-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "No observable non-thermal effect of microwave radiation on the growth of microtubules."
+      },
+      {
+        "name": "Abstract",
+        "value": "Despite widespread public interest in the health impact of exposure to microwave radiation, studies of the influence of microwave radiation on biological samples are often inconclusive or contradictory. Here we examine the influence of microwave radiation of frequencies 3.5 GHz, 20 GHz and 29 GHz on the growth of microtubules, which are biological nanotubes that perform diverse functions in eukaryotic cells. Since microtubules are highly polar and can extend several micrometres in length, they are predicted to be sensitive to non-ionizing radiation. Moreover, it has been speculated that tubulin dimers within microtubules might rapidly toggle between different conformations, potentially participating in computational or other cooperative processes. Our data show that exposure to microwave radiation yields a microtubule growth curve that is distorted relative to control studies utilizing a homogeneous temperature jump. However, this apparent effect of non-ionizing radiation is reproduced by control experiments using an infrared laser or hot air to heat the sample and thereby mimic the thermal history of samples exposed to microwaves. As such, no non-thermal effects of microwave radiation on microtubule growth can be assigned. Our results highlight the need for appropriate control experiments in biophysical studies that may impact on the sphere of public interest."
+      }
+    ],
+    "files": [
+      {
+        "path": "41598_2024_68852_MOESM1_ESM.pdf",
+        "size": 1850358,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Knut och Alice Wallenbergs Stiftelse"
+          },
+          {
+            "name": "grant_id",
+            "value": "KAW 2012.0275"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "University of Gothenburg"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Vetenskapsrådet"
+          },
+          {
+            "name": "grant_id",
+            "value": "2015-00560"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Stiftelsen för Strategisk Forskning"
+          },
+          {
+            "name": "grant_id",
+            "value": "SSF SRL 10-0036"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Scientific reports"
+          },
+          {
+            "name": "Volume",
+            "value": "14(1)"
+          },
+          {
+            "name": "Pages",
+            "value": "18286"
+          },
+          {
+            "name": "Publication date",
+            "value": "2024 Aug"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1038/s41598-024-68852-3",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC11306338",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "39112501",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Hammarin G"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0001-5037-6039"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Norder P"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Harimoorthy R"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Chen G"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Berntsen P"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Widlund PO"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Stoij C"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Rodilla H"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a9",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Swenson J"
+          },
+          {
+            "name": "affiliation",
+            "value": "o5",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a10",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Branden G"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a11",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Neutze R"
+          },
+          {
+            "name": "affiliation",
+            "value": "o6",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "CSTechnologies, Växjö, Sweden."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Chemistry and Molecular Biology, University of Gothenburg, Gothenburg, Sweden."
+          }
+        ]
+      },
+      {
+        "accno": "o6",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Chemistry and Molecular Biology, University of Gothenburg, Gothenburg, Sweden. richard.neutze@gu.se."
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Microtechnology and Nanoscience, Chalmers University of Technology, Gothenburg, Sweden."
+          }
+        ]
+      },
+      {
+        "accno": "o5",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Physics, Chalmers University of Technology, Gothenburg, Sweden."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Institution of Biomedicine, University of Gothenburg, Gothenburg, Sweden."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

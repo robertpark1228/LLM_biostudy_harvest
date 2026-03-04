@@ -1,0 +1,249 @@
+{
+  "accno": "S-EPMC3311898",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Diversification and the adaptive radiation of the vangas of Madagascar."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2012-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Diversification and the adaptive radiation of the vangas of Madagascar."
+      },
+      {
+        "name": "Abstract",
+        "value": "The vangas of Madagascar exhibit extreme diversity in morphology and ecology. Recent studies have shown that several other Malagasy species also are part of this endemic radiation, even as the monophyly of the clade remains in question. Using DNA sequences from 13 genes and representatives of all 15 vanga genera, we find strong support for the monophyly of the Malagasy vangids and their inclusion in a family along with six aberrant genera of shrike-like corvoids distributed in Asia and Africa. Biogeographic reconstructions of these lineages include both Asia and Africa as possible dispersal routes to Madagascar. To study patterns of speciation through time, we introduce a method that can accommodate phylogenetically non-random patterns of incomplete taxon sampling in diversification studies. We demonstrate that speciation rates in vangas decreased dramatically through time following the colonization of Madagascar. Foraging strategies of these birds show remarkable congruence with phylogenetic relationships, indicating that adaptations to feeding specializations played a role in the diversification of these birds. Vangas fit the model of an 'adaptive radiation' in that they show an explosive burst of speciation soon after colonization, increased diversification into novel niches and extraordinary ecomorphological diversity."
+      }
+    ],
+    "links": [
+      [
+        {
+          "url": "JQ239370",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "ENA"
+            }
+          ]
+        },
+        {
+          "url": "JQ239173",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "ENA"
+            }
+          ]
+        }
+      ]
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Proceedings. Biological sciences"
+          },
+          {
+            "name": "Volume",
+            "value": "279(1735)"
+          },
+          {
+            "name": "Pages",
+            "value": "2062-71"
+          },
+          {
+            "name": "Publication date",
+            "value": "2012 May"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1098/rspb.2011.2380",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "10.1098/rspb.2011.2380",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC3311898",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "22217720",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Reddy S"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0001-7263-0763"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Driskell A"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Rabosky DL"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Hackett SJ"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Schulenberg TS"
+          },
+          {
+            "name": "affiliation",
+            "value": "o5",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Biology Department, Loyola University Chicago, Chicago, IL 60626, USA. sreddy6@luc.edu"
+          }
+        ]
+      },
+      {
+        "accno": "o5",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Cornell Lab of Ornithology, Ithaca, NY ,"
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Integrative Biology and Museum of Vertebrate Zoology , University of California , Berkeley, CA ,"
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Smithsonian Institution Laboratory of Analytical Biology , Suitland, MD ,"
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Zoology Department , Field Museum of Natural History , Chicago, IL ,"
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

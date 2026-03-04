@@ -1,0 +1,320 @@
+{
+  "accno": "S-EPMC8525728",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Radiation doses during cardiac catheterisation procedures in India: a multicentre study: Radiation dose study."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2020-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Radiation doses during cardiac catheterisation procedures in India: a multicentre study: Radiation dose study."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Aims</h4>Established, evidence-based measures of radiation are required to minimise its hazards, while maintaining adequate image quality. The aim of this study is to evaluate radiation data and generate reference radiation levels for commonly performed coronary catheterisation procedures in India.<h4>Methods and results</h4>In this prospective, observational study, all procedures were performed in accordance with the established standards using Innova IGS 520/2100-IQ catheterisation laboratories. Demographic, procedural and radiation data were collected. Dose reference limits (DRL) were established as the 75<sup>th</sup> percentile of the total distribution. There were 2,906 coronary angiograms (CAG), 750 percutaneous coronary interventions (PCI) and 715 CAG+PCI. DRLs for dose area product were: 19.6 Gy·cm<sup>2</sup> for CAG, 49.8 Gy·cm<sup>2</sup> for PCI and 72.0 Gy·cm<sup>2</sup> for CAG+PCI, respectively. Median cumulative air kerma levels were: 185 mGy for CAG, 533mGy for PCI, and 891 mGy for CAG+PCI. Male gender, higher BMI, combining CAG+PCI, fluoroscopy time, number of cine frames, and image acquisition settings were significant contributors to increased radiation dose.<h4>Conclusions</h4>This study established reference radiation dose levels for diagnostic and interventional coronary procedures in India, which were comparable to and in the lower range of international standards."
+      }
+    ],
+    "files": [
+      {
+        "path": "AIJ-D-18-00044_Subban_SD.pdf",
+        "size": 297191,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "AsiaIntervention"
+          },
+          {
+            "name": "Volume",
+            "value": "6(1)"
+          },
+          {
+            "name": "Pages",
+            "value": "25-33"
+          },
+          {
+            "name": "Publication date",
+            "value": "2020 Jul"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.4244/AIJ-D-18-00044",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "10.4244/aij-d-18-00044",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC8525728",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "34912981",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Subban V"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Amelot S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Victor SM"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Potdar A"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Yadav V"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Patel T"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Shah S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Alexander T"
+          },
+          {
+            "name": "affiliation",
+            "value": "o5",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a9",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Jeyakumaran B"
+          },
+          {
+            "name": "affiliation",
+            "value": "o5",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a10",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Angel J"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a11",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Ajit MS"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Apex Heart Institute, Ahmedabad, India."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "GE Healthcare, Buc, France."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Institute of Cardiovascular Diseases, The Madras Medical Mission, Chennai, India."
+          }
+        ]
+      },
+      {
+        "accno": "o5",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kovai Medical Centre and Hospital, Coimbatore, India."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Parisoha Heart Foundation Pvt.Ltd, Mumbai, India."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

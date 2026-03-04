@@ -1,0 +1,225 @@
+{
+  "accno": "S-EPMC10330568",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Modeling normal bladder injury after radiation therapy."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2023-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Modeling normal bladder injury after radiation therapy."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Purpose</h4>For decades, Dr. John Moulder has been a leading radiation biologist and one of the few who consistently supported the study of normal tissue responses to radiation. His meticulous modeling and collaborations across the field have offered a prime example of how research can be taken from the bench to the bedside and back, with the ultimate goal of providing benefit to patients. Much of the focus of John's work was on mitigating damage to the kidney, whether as the result of accidental or deliberate clinical exposures. Following in his footsteps, we offer here a brief overview of work conducted in the field of radiation-induced bladder injury. We then describe our own preclinical experimental studies which originated as a response to reports from a clinical genome-wide association study (GWAS) investigating genomic biomarkers of normal tissue toxicity in prostate cancer patients treated with radiotherapy. In particular, we discuss the use of Renin-Angiotensin System (RAS) inhibitors as modulators of injury, agents championed by the Moulder group, and how RAS inhibitors are associated with a reduction in some measures of toxicity. Using a murine model, along with precise CT-image guided irradiation of the bladder using single and fractionated dosing regimens, we have been able to demonstrate radiation-induced functional injury to the bladder and mitigation of this functional damage by an inhibitor of angiotensin-converting enzyme targeting the RAS, an experimental approach akin to that used by the Moulder group. We consider our scientific trajectory as a bedside-to-bench approach because the observation was made clinically and investigated in a preclinical model; this experimental approach aligns with the exemplary career of Dr. John Moulder.<h4>Conclusions</h4>Despite the differences in functional endpoints, recent findings indicate a commonality between bladder late effects and the work in kidney pioneered by Dr. John Moulder. We offer evidence that targeting the RAS pathway may provide a targetable pathway to reducing late bladder toxicity."
+      }
+    ],
+    "links": [
+      [
+        {
+          "url": "rs11122573",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refsnp"
+            }
+          ]
+        }
+      ]
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "University of Rochester Medical Center, Wilmot Cancer Institute"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "S10 OD021548"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "National Institutes of Health"
+          },
+          {
+            "name": "grant_id",
+            "value": "S100D021548"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "International journal of radiation biology"
+          },
+          {
+            "name": "Volume",
+            "value": "99(7)"
+          },
+          {
+            "name": "Pages",
+            "value": "1046-1054"
+          },
+          {
+            "name": "Publication date",
+            "value": "2023"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1080/09553002.2023.2182000",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "10.1080/09553002.2023.2182000",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC10330568",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "36854008",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kerns SL"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-6503-0011"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Williams JP"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Marples B"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Medical College of Wisconsin, Milwaukee, WI, USA."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Departments of Environmental Medicine and Radiation Oncology, University of Rochester Medical Center, Rochester, NY, USA."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Radiation Oncology, University of Rochester Medical Center, Rochester, NY, USA."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

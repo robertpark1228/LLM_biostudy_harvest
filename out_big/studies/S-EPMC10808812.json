@@ -1,0 +1,212 @@
+{
+  "accno": "S-EPMC10808812",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Plant-microorganism-soil interaction under long-term low-dose ionizing radiation."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2023-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Plant-microorganism-soil interaction under long-term low-dose ionizing radiation."
+      },
+      {
+        "name": "Abstract",
+        "value": "As the environmental nuclear radiation pollution caused by nuclear-contaminated water discharge and other factors intensifies, more plant-microorganism-soil systems will be under long-term low-dose ionizing radiation (LLR). However, the regulatory mechanisms of the plant-microorganism-soil system under LLR are still unclear. In this study, we study a system that has been stably exposed to low-dose ionizing radiation for 10 years and investigate the response of the plant-microorganism-soil system to LLR based on the decay of the absorbed dose rate with distance. The results show that LLR affects the carbon and nitrogen migration process between plant-microorganism-soil through the \"symbiotic microbial effect.\" The increase in the intensity of ionizing radiation led to a significant increase in the relative abundance of symbiotic fungi, such as Ectomycorrhizal fungi and Rhizobiales, which is accompanied by a significant increase in soil lignin peroxidase (LiP) activity, the C/N ratio, and C%. Meanwhile, enhanced radiation intensity causes adaptive changes in the plant functional traits. This study demonstrates that the \"symbiotic microbial effect\" of plant-microorganism-soil systems is an important process in terrestrial ecosystems in response to LLR."
+      }
+    ],
+    "links": [
+      [
+        {
+          "url": "PRJNA950186",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "bioproject"
+            }
+          ]
+        }
+      ]
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Frontiers in microbiology"
+          },
+          {
+            "name": "Volume",
+            "value": "14"
+          },
+          {
+            "name": "Pages",
+            "value": "1331477"
+          },
+          {
+            "name": "Publication date",
+            "value": "2023"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.3389/fmicb.2023.1331477",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC10808812",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "38274757",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Zeng G"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Wen Y"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Luo C"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Zhang Y"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Li F"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Xiong C"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "College of Nuclear Technology and Automation Engineering, Chengdu University of Technology, Chengdu, China."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Data Recovery Key Laboratory of Sichuan Province, Neijiang Normal University, Neijiang, China."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

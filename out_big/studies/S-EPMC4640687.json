@@ -1,0 +1,339 @@
+{
+  "accno": "S-EPMC4640687",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Current clinical trials testing combinations of immunotherapy and radiation."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2015-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Current clinical trials testing combinations of immunotherapy and radiation."
+      },
+      {
+        "name": "Abstract",
+        "value": "Preclinical evidence of successful combinations of ionizing radiation with immunotherapy has inspired testing the translation of these results to the clinic. Interestingly, the preclinical work has consistently predicted the responses encountered in clinical trials. The first example came from a proof-of-principle trial started in 2001 that tested the concept that growth factors acting on antigen-presenting cells improve presentation of tumor antigens released by radiation and induce an abscopal effect. Granulocyte-macrophage colony-stimulating factor was administered during radiotherapy to a metastatic site in patients with metastatic solid tumors to translate evidence obtained in a murine model of syngeneic mammary carcinoma treated with cytokine FLT-3L and radiation. Subsequent clinical availability of vaccines and immune checkpoint inhibitors has triggered a wave of enthusiasm for testing them in combination with radiotherapy. Examples of ongoing clinical trials are described in this report. Importantly, most of these trials include careful immune monitoring of the patients enrolled and will generate important data about the proimmunogenic effects of radiation in combination with a variety of immune modulators, in different disease settings. Results of these studies are building a platform of evidence for radiotherapy as an adjuvant to immunotherapy and encourage the growth of this novel field of radiation oncology."
+      }
+    ],
+    "links": [
+      [
+        {
+          "url": "NCT01416831",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT01496131",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        }
+      ]
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "R21 CA176705"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Seminars in radiation oncology"
+          },
+          {
+            "name": "Volume",
+            "value": "25(1)"
+          },
+          {
+            "name": "Pages",
+            "value": "54-64"
+          },
+          {
+            "name": "Publication date",
+            "value": "2015 Jan"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1016/j.semradonc.2014.07.003",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "10.1016/j.semradonc.2014.07.003",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC4640687",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "25481267",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Crittenden M"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kohrt H"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Levy R"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0003-2061-0650"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Jones J"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-9488-7719"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Camphausen K"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Dicker A"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0003-0733-3337"
+          },
+          {
+            "name": "affiliation",
+            "value": "o5",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Demaria S"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0003-4426-0499"
+          },
+          {
+            "name": "affiliation",
+            "value": "o6",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Formenti S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o7",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Medicine, Division of Oncology, Stanford University, Stanford, CA."
+          }
+        ]
+      },
+      {
+        "accno": "o6",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Pathology, New York University School of Medicine, New York, NY."
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology Branch, National Cancer Institute, Bethesda, MD."
+          }
+        ]
+      },
+      {
+        "accno": "o5",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Jefferson Medical College of Thomas Jefferson University, Philadelphia, PA."
+          }
+        ]
+      },
+      {
+        "accno": "o7",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, New York University, New York, NY."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Earle A. Chiles Research Institute, Portland, OR. Electronic address: marka.crittenden@providence.org."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "National Cancer Institute, Bethesda, MD."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

@@ -1,0 +1,241 @@
+{
+  "accno": "S-EPMC6395389",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Harnessing Radiation Biology to Augment Immunotherapy for Glioblastoma."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2018-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Harnessing Radiation Biology to Augment Immunotherapy for Glioblastoma."
+      },
+      {
+        "name": "Abstract",
+        "value": "Glioblastoma is the most common adult primary brain tumor and carries a dismal prognosis. Radiation is a standard first-line therapy, typically deployed following maximal safe surgical debulking, when possible, in combination with cytotoxic chemotherapy. For other systemic cancers, standard of care is being transformed by immunotherapies, including checkpoint-blocking antibodies targeting CTLA-4 and PD-1/PD-L1, with potential for long-term remission. Ongoing studies are evaluating the role of immunotherapies for GBM. Despite dramatic responses in some cases, randomized trials to date have not met primary outcomes. Challenges have been attributed in part to the immunologically \"cold\" nature of glioblastoma relative to other malignancies successfully treated with immunotherapy. Radiation may serve as a mechanism to improve tumor immunogenicity. In this review, we critically evaluate current evidence regarding radiation as a synergistic facilitator of immunotherapies through modulation of both the innate and adaptive immune milieu. Although current preclinical data encourage efforts to harness synergistic biology between radiation and immunotherapy, several practical and scientific challenges remain. Moreover, insights from radiation biology may unveil additional novel opportunities to help mobilize immunity against GBM."
+      }
+    ],
+    "files": [
+      {
+        "path": "Table_1.XLSX",
+        "size": 27560,
+        "type": "file"
+      }
+    ],
+    "links": [
+      [
+        {
+          "url": "NCT03197506",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT01280552",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        }
+      ]
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "National Institutes of Health"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Frontiers in oncology"
+          },
+          {
+            "name": "Volume",
+            "value": "8"
+          },
+          {
+            "name": "Pages",
+            "value": "656"
+          },
+          {
+            "name": "Publication date",
+            "value": "2018"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.3389/fonc.2018.00656",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC6395389",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "30854331",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Rajani KR"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0001-8747-1435"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Carlstrom LP"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Parney IF"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Johnson AJ"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Warrington AE"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Burns TC"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Immunology, Mayo Clinic, Rochester, MN, United States."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Neurologic Surgery, Mayo Clinic, Rochester, MN, United States."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

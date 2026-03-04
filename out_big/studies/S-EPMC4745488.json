@@ -1,0 +1,161 @@
+{
+  "accno": "S-EPMC4745488",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Rheology of Indian Honey: Effect of Temperature and Gamma Radiation."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2014-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Rheology of Indian Honey: Effect of Temperature and Gamma Radiation."
+      },
+      {
+        "name": "Abstract",
+        "value": "Honey brands commonly available in Indian market were characterized for their rheological and thermal properties. Viscosity of all the honey samples belonging to different commercial brands was found to decrease with increase in temperature (5-40°C) and their sensitivity towards temperature varied significantly as explained by calculating activation energy based on Arrhenius model and ranged from 54.0 to 89.0 kJ/mol. However, shear rate was not found to alter the viscosity of honey indicating their Newtonian character and the shear stress varied linearly with shear rate for all honey samples. Honey is known to contain pathogenic microbial spores and in our earlier study gamma radiation was found to be effective in achieving microbial decontamination of honey. The effect of gamma radiation (5-15 kGy) on rheological properties of honey was assessed, and it was found to remain unchanged upon radiation treatment. The glass transition temperatures (T g ) of these honey analyzed by differential scanning calorimetry varied from -44.1 to -54.1°C and remained unchanged upon gamma radiation treatment. The results provide information about some key physical properties of commercial Indian honey. Radiation treatment which is useful for ensuring microbial safety of honey does not alter these properties."
+      }
+    ],
+    "files": [
+      {
+        "path": "935129.f1.pdf",
+        "size": 272350,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "International journal of food science"
+          },
+          {
+            "name": "Volume",
+            "value": "2014"
+          },
+          {
+            "name": "Pages",
+            "value": "935129"
+          },
+          {
+            "name": "Publication date",
+            "value": "2014"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1155/2014/935129",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC4745488",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "26904655",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Saxena S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Panicker L"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Gautam S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Food Science and Safety Section, Food Technology Division, Bhabha Atomic Research Centre, Mumbai 400085, India."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Solid State Physics Division, Bhabha Atomic Research Centre, Mumbai 400085, India."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

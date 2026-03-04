@@ -1,0 +1,244 @@
+{
+  "accno": "S-EPMC9067054",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Analysis of circRNA-miRNA-mRNA Regulatory Network in Peripheral Blood of Radiation Workers."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2022-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Analysis of circRNA-miRNA-mRNA Regulatory Network in Peripheral Blood of Radiation Workers."
+      },
+      {
+        "name": "Abstract",
+        "value": "The health of radiation workers has always been our focus. Epidemiological investigation shows that long-term exposure to low-dose ionizing radiation can affect human health, especially cancer and cardiovascular disease, and there are many studies on it. However, up to now, there have been few reports on the research of blood and biological samples from radiation workers. In this study, radiation workers and healthy control groups were strictly screened, and the transcriptome of mRNA and circRNA was sequenced by extracting their peripheral venous blood. At the same time, appropriate data sets were selected in the GEO database for bioinformatics analysis, and circRNA-miRNA-mRNA network was constructed. We identified 9 different circular ribonucleic acids, 3 tiny ribonucleic acids, and 2 central genes (NOD 2 and IRF 7). These differentially expressed genes and non-coding RNA are closely related to ionizing radiation damage, and play an important role as biological markers. In conclusion, this study may provide new insights into the role of the circRNA-miRNA-mRNA regulatory network in the health of radiation workers, and provides a new strategy for the future study of radiation biology."
+      }
+    ],
+    "files": [
+      {
+        "path": "sj-pdf-1-dos-10.1177_15593258221088745.pdf",
+        "size": 10355,
+        "type": "file"
+      },
+      {
+        "path": "sj-pdf-2-dos-10.1177_15593258221088745.pdf",
+        "size": 15061,
+        "type": "file"
+      }
+    ],
+    "links": [
+      [
+        {
+          "url": "GSE55954",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "geo"
+            }
+          ]
+        }
+      ]
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Dose-response : a publication of International Hormesis Society"
+          },
+          {
+            "name": "Volume",
+            "value": "20(2)"
+          },
+          {
+            "name": "Pages",
+            "value": "15593258221088745"
+          },
+          {
+            "name": "Publication date",
+            "value": "2022 Apr-Jun"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1177/15593258221088745",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC9067054",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "35521437",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Gao J"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Lan T"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Zong X"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Shi G"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "He S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Na Chen"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Cui F"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Tu Y"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "State Key Laboratory of Radiation Medicine and Protection, School of Radiation Medicine and Protection, Soochow University, Suzhou, China."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

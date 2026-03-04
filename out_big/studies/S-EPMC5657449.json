@@ -1,0 +1,270 @@
+{
+  "accno": "S-EPMC5657449",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Radiogenomics: Identification of Genomic Predictors for Radiation Toxicity."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2017-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Radiogenomics: Identification of Genomic Predictors for Radiation Toxicity."
+      },
+      {
+        "name": "Abstract",
+        "value": "The overall goal of radiogenomics is the identification of genomic markers that are predictive for the development of adverse effects resulting from cancer treatment with radiation. The principal rationale for a focus on toxicity in radiogenomics is that for many patients treated with radiation, especially individuals diagnosed with early-stage cancers, the survival rates are high, and therefore a substantial number of people will live for a significant period of time beyond treatment. However, many of these patients could suffer from debilitating complications resulting from radiotherapy. Work in radiogenomics has greatly benefited from creation of the Radiogenomics Consortium (RGC) that includes investigators at multiple institutions located in a variety of countries. The common goal of the RGC membership is to share biospecimens and data so as to achieve large-scale studies with increased statistical power to enable identification of relevant genomic markers. A major aim of research in radiogenomics is the development of a predictive instrument to enable identification of people who are at greatest risk for adverse effects resulting from cancer treatment using radiation. It is anticipated that creation of a predictive assay characterized by a high level of sensitivity and specificity will improve precision radiotherapy and assist patients and their physicians to select the optimal treatment for each individual."
+      }
+    ],
+    "links": [
+      [
+        {
+          "url": "rs1800629",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refsnp"
+            }
+          ]
+        },
+        {
+          "url": "rs11648233",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refsnp"
+            }
+          ]
+        },
+        {
+          "url": "rs17779457",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refsnp"
+            }
+          ]
+        },
+        {
+          "url": "rs2268363",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refsnp"
+            }
+          ]
+        },
+        {
+          "url": "rs7120482",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refsnp"
+            }
+          ]
+        },
+        {
+          "url": "rs2857595",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refsnp"
+            }
+          ]
+        },
+        {
+          "url": "rs13035033",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refsnp"
+            }
+          ]
+        },
+        {
+          "url": "rs17630638",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refsnp"
+            }
+          ]
+        },
+        {
+          "url": "rs2788612",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refsnp"
+            }
+          ]
+        },
+        {
+          "url": "rs7720298",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refsnp"
+            }
+          ]
+        },
+        {
+          "url": "rs264663",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refsnp"
+            }
+          ]
+        },
+        {
+          "url": "rs1139793",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refsnp"
+            }
+          ]
+        },
+        {
+          "url": "rs17599026",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refsnp"
+            }
+          ]
+        }
+      ]
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "HHSN261201500043C"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "R01 CA134444"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Seminars in radiation oncology"
+          },
+          {
+            "name": "Volume",
+            "value": "27(4)"
+          },
+          {
+            "name": "Pages",
+            "value": "300-309"
+          },
+          {
+            "name": "Publication date",
+            "value": "2017 Oct"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1016/j.semradonc.2017.04.005",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "10.1016/j.semradonc.2017.04.005",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC5657449",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "28865512",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Rosenstein BS"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Icahn School of Medicine at Mount Sinai, New York, NY; Department of Genetics and Genomic Sciences, Icahn School of Medicine at Mount Sinai, New York, NY. Electronic address: barry.rosenstein@mssm.edu."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

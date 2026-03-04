@@ -1,0 +1,271 @@
+{
+  "accno": "S-EPMC7525092",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Sex-Specific Cognitive Deficits Following Space Radiation Exposure."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2020-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Sex-Specific Cognitive Deficits Following Space Radiation Exposure."
+      },
+      {
+        "name": "Abstract",
+        "value": "The radiation fields in space define tangible risks to the health of astronauts, and significant work in rodent models has clearly shown a variety of exposure paradigms to compromise central nervous system (CNS) functionality. Despite our current knowledge, sex differences regarding the risks of space radiation exposure on cognitive function remain poorly understood, which is potentially problematic given that 30% of astronauts are women. While work from us and others have demonstrated pronounced cognitive decrements in male mice exposed to charged particle irradiation, here we show that female mice exhibit significant resistance to adverse neurocognitive effects of space radiation. The present findings indicate that male mice exposed to low doses (≤30 cGy) of energetic (400 MeV/n) helium ions (<sup>4</sup>He) show significantly higher levels of neuroinflammation and more extensive cognitive deficits than females. Twelve weeks following <sup>4</sup>He ion exposure, irradiated male mice demonstrated significant deficits in object and place recognition memory accompanied by activation of microglia, marked upregulation of hippocampal Toll-like receptor 4 (TLR4), and increased expression of the pro-inflammatory marker high mobility group box 1 protein (HMGB1). Additionally, we determined that exposure to <sup>4</sup>He ions caused a significant decline in the number of dendritic branch points and total dendritic length along with the hippocampus neurons in female mice. Interestingly, only male mice showed a significant decline of dendritic spine density following irradiation. These data indicate that fundamental differences in inflammatory cascades between male and female mice may drive divergent CNS radiation responses that differentially impact the structural plasticity of neurons and neurocognitive outcomes following cosmic radiation exposure."
+      }
+    ],
+    "files": [
+      {
+        "path": "Data_Sheet_1.pdf",
+        "size": 539130,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Frontiers in behavioral neuroscience"
+          },
+          {
+            "name": "Volume",
+            "value": "14"
+          },
+          {
+            "name": "Pages",
+            "value": "535885"
+          },
+          {
+            "name": "Publication date",
+            "value": "2020"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.3389/fnbeh.2020.535885",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC7525092",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "33192361",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Parihar VK"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Angulo MC"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Allen BD"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Syage A"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Usmani MT"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Passerat de la Chapelle E"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Amin AN"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Flores L"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a9",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Lin X"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a10",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Giedzinski E"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a11",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Limoli CL"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, University of California, Irvine, Irvine, CA, United States."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

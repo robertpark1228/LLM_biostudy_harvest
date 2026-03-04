@@ -1,0 +1,253 @@
+{
+  "accno": "S-EPMC6473297",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Radiation Therapy Outcome and Clinical Features of Duodenal-Type Follicular Lymphoma."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2019-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Radiation Therapy Outcome and Clinical Features of Duodenal-Type Follicular Lymphoma."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Purpose</h4>Duodenal-type follicular lymphoma (FL) is a rare variant of FL. There is still no consensus on the initial treatment, and clinical features including endoscopic findings are not familiar to most physicians. The objective of this study was to evaluate the outcome of patients who were initially treated with radiation therapy for duodenal-type FL.<h4>Materials and methods</h4>We retrospectively analyzed 20 patients who were consecutively diagnosed with duodenaltype FL between 2008 and 2017. All patients received radiation therapywith curative intent.<h4>Results</h4>The median age of the patients was 52 years (range, 26 to 66 years), and females were predominant. Most patients (n=18, 90%) had stage I disease, and were diagnosed by a regular health examination in an asymptomatic state. The histological grade was one in 19 patients (95%), and the endoscopic findings were diffuse nodular (n=8), whitish granular (n=8), and mixed pattern (n=4). Radiation therapy was delivered to 17 patients with 24 Gy in 12 fractions, and to three patients with 30.6-36 Gy in 18 fractions. All patients were evaluated with endoscopy for response to radiation therapy, and complete response was achieved in 19 patients (95%). At the time of analysis, all patients survived without any evidence of late toxicities related with radiation therapy.<h4>Conclusion</h4>Taken together, radiation therapy alone could be effective in controlling duodenal lesion. A further study with longer follow-up duration is warranted to confirm our findings."
+      }
+    ],
+    "files": [
+      {
+        "path": "crt-2018-190-suppl.pdf",
+        "size": 55259,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "National Research Foundation of Korea"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Ministry of Education"
+          },
+          {
+            "name": "grant_id",
+            "value": "2017R1A2B4005136"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Cancer research and treatment"
+          },
+          {
+            "name": "Volume",
+            "value": "51(2)"
+          },
+          {
+            "name": "Pages",
+            "value": "547-555"
+          },
+          {
+            "name": "Publication date",
+            "value": "2019 Apr"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.4143/crt.2018.190",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC6473297",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "29986575",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Lee H"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Oh D"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Yang K"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Ko YH"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Ahn YC"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kim WS"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kim SJ"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Pathology, Samsung Medical Center, Sungkyunkwan University School of Medicine, Seoul, Korea."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Samsung Medical Center, Sungkyunkwan University School of Medicine, Seoul, Korea."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Division of Hematology-Oncology, Department of Medicine, Samsung Medical Center, Sungkyunkwan University School of Medicine, Seoul, Korea."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

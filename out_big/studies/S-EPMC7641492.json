@@ -1,0 +1,350 @@
+{
+  "accno": "S-EPMC7641492",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Dose-Volume Predictors of Radiation Pneumonitis After Lung Stereotactic Body Radiation Therapy (SBRT): Implications for Practice and Trial Design."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2020-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Dose-Volume Predictors of Radiation Pneumonitis After Lung Stereotactic Body Radiation Therapy (SBRT): Implications for Practice and Trial Design."
+      },
+      {
+        "name": "Abstract",
+        "value": "Background and purpose Recently published HyTEC report summarized lung toxicity data and proposed guidelines of mean lung dose (MLD) <8 Gy and normal lung receiving at least 20 Gy, V<sub>20Gy</sub><10-15% to avoid lung toxicity. Support for preferred use of a particular dosimetric parameter has been limited. We performed a detailed dose-volume analysis of data on radiation pneumonitis (RP) following lung stereotactic body radiation therapy (SBRT) to search for parameters showing the strongest correlation with RP. Materials and methods Two patient cohorts (primary and metastatic lung tumor patients) from previously reported studies were analyzed. Total number of patients was 96, and incidence of grade ≥2 RP was 13.5% (13/96). Fitting to the logistic function was performed to investigate correlation between incidence of RP and reported dosimetric and volumetric parameters. Another independent cohort was used to explore correlation between dosimetric parameters. Results Among normal lung parameters (MLD and reported V<sub>x</sub>), only MLD consistently showed significant correlation with incidence of RP. Gross tumor volume (GTV), internal target volume, planning target volume (PTV), and minimum dose covering 95% of GTV or PTV did not show statistical significance. A significant correlation between reported V<sub>x</sub> and MLD was observed in all cohorts. Conclusions In considering tumor- and target-specific (e.g., GTV, PTV) and normal lung-specific (e.g., MLD, V<sub>x</sub>) metrics, MLD was the only parameter that consistently correlated with incidence of RP across both cohorts. Because SBRT planning constraints allow small normal lung volumes to receive high doses, utility of MLD is not obvious. The parallel structure of lung is one possible explanation, but correlation between dosimetric parameters obscures elucidation of the preferred or mechanistically based parameter to guide radiotherapy planning."
+      }
+    ],
+    "links": [
+      [
+        {
+          "url": "NCT03436056",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT03867175",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        }
+      ]
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "P30 CA008748"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "R01 CA238783"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCATS NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "TL1 TR001443"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Cureus"
+          },
+          {
+            "name": "Volume",
+            "value": "12(10)"
+          },
+          {
+            "name": "Pages",
+            "value": "e10808"
+          },
+          {
+            "name": "Publication date",
+            "value": "2020 Oct"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.7759/cureus.10808",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC7641492",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "33163312",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Moiseenko V"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Grimm J"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Yorke E"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Jackson A"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Yip A"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Huynh-Le MP"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Mahadevan A"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Forster K"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a9",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Milano MT"
+          },
+          {
+            "name": "affiliation",
+            "value": "o5",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a10",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Hattangadi-Gluth JA"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Medical Physics, Memorial Sloan Kettering Cancer Center, New York, USA."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Radiation Medicine and Applied Sciences, University of California San Diego Moores Cancer Center, La Jolla, USA."
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Radiation Oncology, Geisinger Cancer Institute, Danville, USA."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Radiation Oncology, Geisinger Health System, Danville, USA."
+          }
+        ]
+      },
+      {
+        "accno": "o5",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Radiology Oncology, Wilmot Cancer Institute, University of Rochester, Rochester, USA."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

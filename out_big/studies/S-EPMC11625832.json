@@ -1,0 +1,106 @@
+{
+  "accno": "S-EPMC11625832",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "[Medical Radiation Safety: Are We Doing It Right?]"
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2024-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "[Medical Radiation Safety: Are We Doing It Right?]"
+      },
+      {
+        "name": "Abstract",
+        "value": "In 2023, Korea had 104953 diagnostic radiological devices installed across 43529 medical institutions, with 398947394 examinations performed. The number of devices and examinations rank among the highest by OECD standards. The average medical radiation dose per individual was 3.13 mSv, representing an increase of approximately 27.2% compared to 2020, contrary to the global trend of decreasing radiation exposure. This study aimed to review various research activities by the Korean Society of Radiology, its members, and other researchers to reduce radiation exposure and explore additional strategies to further mitigate this issue."
+      }
+    ],
+    "files": [
+      {
+        "path": "jksr-85-1020-s001.pdf",
+        "size": 395613,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Journal of the Korean Society of Radiology"
+          },
+          {
+            "name": "Volume",
+            "value": "85(6)"
+          },
+          {
+            "name": "Pages",
+            "value": "1020-1034"
+          },
+          {
+            "name": "Publication date",
+            "value": "2024 Nov"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.3348/jksr.2024.0119",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC11625832",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "39660318",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Eo H"
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

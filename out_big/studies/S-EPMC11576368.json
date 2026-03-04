@@ -1,0 +1,261 @@
+{
+  "accno": "S-EPMC11576368",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Radiation Exposure and Protection for (Assumed) Pregnant Interventional Cardiologists and Electrophysiologists."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2024-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Radiation Exposure and Protection for (Assumed) Pregnant Interventional Cardiologists and Electrophysiologists."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Background</h4>Concern about fetus radiation dose and assumed health effects remains a barrier for women considering a career in invasive cardiology. However, there is a lack of real-world fetus exposure data that can be used to support career decisions. The purpose of this work was to measure radiation exposure to invasive cardiologists which would contribute to dose to the fetus during pregnancy.<h4>Methods</h4>Radiation exposure to 42 female and male interventional cardiologists and electrophysiologists was monitored during their clinical routine. Multivariate analysis was used to assess the influences of patient radiation exposure, radioprotective garment material thickness (0.25, 0.35, 0.5 mm Pb equivalent), and cardiologist sex, height, and clinical role on occupational radiation exposure to the abdomen.<h4>Results</h4>Exposure to the abdomen of invasive cardiologists increased proportional to patient exposure and decreased predictably with increasing radioprotective material thickness. The median abdomen exposure when covered with a 0.5 mm Pb equivalent radioprotective material over a 40-week period was 0.22 mGy (95th percentile, 0.8 mGy). Physician sex, height, and clinical role did not influence occupational exposure.<h4>Conclusions</h4>The use of a 0.5 mm Pb equivalent radioprotective garment covering the abdomen, combined with appropriate radiation safety practices, can ensure that fetus radiation dose is below both US and international limits. Assumed fetus risk due to very low occupational radiation exposure is likely inconsequential in light of other known pregnancy risks."
+      }
+    ],
+    "files": [
+      {
+        "path": "mmc1.docx",
+        "size": 593004,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Journal of the Society for Cardiovascular Angiography & Interventions"
+          },
+          {
+            "name": "Volume",
+            "value": "3(9)"
+          },
+          {
+            "name": "Pages",
+            "value": "102239"
+          },
+          {
+            "name": "Publication date",
+            "value": "2024 Sep"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1016/j.jscai.2024.102239",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC11576368",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "39575215",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Fetterly KA"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Schueler BA"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Mihailovic JM"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Fiedler JH"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Sturchio GM"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Cabalka A"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Best PJM"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Gulati R"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a9",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Guerrero M"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Cardiovascular Medicine, Mayo Clinic, Rochester, Minnesota."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiology, Mayo Clinic, Rochester, Minnesota."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Division of Radiation Safety, Mayo Clinic, Rochester, Minnesota."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

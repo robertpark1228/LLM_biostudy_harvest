@@ -1,0 +1,524 @@
+{
+  "accno": "S-EPMC10542714",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Risk assessment, surveillance, and nonpharmaceutical prevention of acute radiation dermatitis: results of a multicentric survey among the German-speaking radiation oncology community."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2023-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Risk assessment, surveillance, and nonpharmaceutical prevention of acute radiation dermatitis: results of a multicentric survey among the German-speaking radiation oncology community."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Purpose</h4>Radiation dermatitis (RD) represents one of the most frequent side effects in radiotherapy (RT). Despite technical progress, mild and moderate RD still affects major subsets of patients and identification and management of patients with a high risk of severe RD is essential. We sought to characterize surveillance and nonpharmaceutical preventive management of RD in German-speaking hospitals and private centers.<h4>Methods</h4>We conducted a survey on RD among German-speaking radiation oncologists inquiring for their evaluation of risk factors, assessment methods, and nonpharmaceutical preventive management of RD.<h4>Results</h4>A total of 244 health professionals from public and private institutions in Germany, Austria, and Switzerland participated in the survey. RT-dependent factors were deemed most relevant for RD onset followed by lifestyle factors, emphasizing the impact of treatment conceptualization and patient education. While a broad majority of 92.8% assess RD at least once during RT, 59.0% of participants report RD at least partially arbitrarily and 17.4% stated to classify RD severity solely arbitrarily. 83.7% of all participants were unaware of patient-reported outcomes (PROs). Consensus exists on some lifestyle recommendations like avoidance of sun exposure (98.7%), hot baths (95.1%), and mechanical irritation (91.8%) under RT, while deodorant use (63.4% not at all, 22.1% with restrictions) or application of skin lotion (15.1% disapproval) remain controversial and are not recommended by guidelines or evidence-based practices.<h4>Conclusion</h4>Identification of patients at an increased risk of RD and subsequent implementation of adequate preventive measures remain relevant and challenging aspects of clinical routines. Consensus exists on several risk factors and nonpharmaceutical prevention recommendations, while RT-dependent risk factors, e.g., the fractionation scheme, or hygienic measures like deodorant use remain controversial. Surveillance is widely lacking methodology and objectivity. Intensifying outreach in the radiation oncology community is needed to improve practice patterns."
+      }
+    ],
+    "files": [
+      {
+        "path": "66_2023_2074_MOESM1_ESM.pdf",
+        "size": 146407,
+        "type": "file"
+      },
+      {
+        "path": "66_2023_2074_MOESM2_ESM.docx",
+        "size": 36019,
+        "type": "file"
+      },
+      {
+        "path": "66_2023_2074_MOESM3_ESM.tif",
+        "size": 26649724,
+        "type": "file"
+      },
+      {
+        "path": "66_2023_2074_MOESM4_ESM.tif",
+        "size": 16858076,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Universitätsklinikum Bonn"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Strahlentherapie und Onkologie : Organ der Deutschen Rontgengesellschaft ... [et al]"
+          },
+          {
+            "name": "Volume",
+            "value": "199(10)"
+          },
+          {
+            "name": "Pages",
+            "value": "891-900"
+          },
+          {
+            "name": "Publication date",
+            "value": "2023 Oct"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1007/s00066-023-02074-w",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC10542714",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "37099166",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Layer K"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Layer JP"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Glasmacher AR"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Sarria GR"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Bohner AMC"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Layer YL"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Dejonckheere CS"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Garbe S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a9",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Feyer P"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a10",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Baumert BG"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a11",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Schendera A"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a12",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Baumann R"
+          },
+          {
+            "name": "affiliation",
+            "value": "o5",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a13",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Krug D"
+          },
+          {
+            "name": "affiliation",
+            "value": "o6",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a14",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Koksal MA"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a15",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Koch D"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a16",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Scafa D"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a17",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Leitzen C"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a18",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Holzel M"
+          },
+          {
+            "name": "affiliation",
+            "value": "o7",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a19",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Giordano FA"
+          },
+          {
+            "name": "affiliation",
+            "value": "o8",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a20",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Schmeel LC"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-3901-4122"
+          },
+          {
+            "name": "affiliation",
+            "value": "o9",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a21",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "German-Speaking Radiation Dermatitis Survey Group"
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Community Hospital Mittelrhein, Koblenz, Germany."
+          }
+        ]
+      },
+      {
+        "accno": "o5",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, St. Marien Hospital Siegen, Siegen, Germany."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, University Hospital Bonn, University of Bonn, Venusberg-Campus 1, 53127, Bonn, Germany."
+          }
+        ]
+      },
+      {
+        "accno": "o9",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, University Hospital Bonn, University of Bonn, Venusberg-Campus 1, 53127, Bonn, Germany. christopher.schmeel@ukbonn.de."
+          }
+        ]
+      },
+      {
+        "accno": "o8",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, University Hospital Mannheim, University of Heidelberg, Heidelberg, Germany."
+          }
+        ]
+      },
+      {
+        "accno": "o6",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, University Medical Center Schleswig-Holstein, Kiel, Germany."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Vivantes Hospital Neukölln, Berlin, Germany."
+          }
+        ]
+      },
+      {
+        "accno": "o7",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Institute of Experimental Oncology, University Hospital Bonn, University of Bonn, Bonn, Germany."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Institute of Radiation Oncology, Cantonal Hospital Graubünden, Graubünden, Switzerland."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

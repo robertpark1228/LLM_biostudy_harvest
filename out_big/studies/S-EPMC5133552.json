@@ -1,0 +1,203 @@
+{
+  "accno": "S-EPMC5133552",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Spin-Crossover Materials towards Microwave Radiation Switches."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2016-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Spin-Crossover Materials towards Microwave Radiation Switches."
+      },
+      {
+        "name": "Abstract",
+        "value": "Microwave electromagnetic radiation that ranges from one meter to one millimetre wavelengths is finding numerous applications for wireless communication, navigation and detection, which makes materials able to tune microwave radiation getting widespread interest. Here we offer a new way to tune GHz frequency radiation by using spin-crossover complexes that are known to change their various physical properties under the influence of diverse external stimuli. As a result of electronic re-configuration process, microwave absorption properties differ for high spin and low spin forms of the complex. The evolution of a microwave absorption spectrum for the switchable compound within the region of thermal transition indicates that the high-spin and the low-spin forms are characterized by a different attenuation of electromagnetic waves. Absorption and reflection coefficients were found to be higher in the high-spin state comparing to the low-spin state. These results reveal a considerable potential for the implementation of spin-crossover materials into different elements of microwave signal switching and wireless communication."
+      }
+    ],
+    "files": [
+      {
+        "path": "srep38334-s1.pdf",
+        "size": 243821,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Scientific reports"
+          },
+          {
+            "name": "Volume",
+            "value": "6"
+          },
+          {
+            "name": "Pages",
+            "value": "38334"
+          },
+          {
+            "name": "Publication date",
+            "value": "2016 Dec"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1038/srep38334",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC5133552",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "27910956",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kucheriv OI"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-3761-1150"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Oliynyk VV"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-2959-6253"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Zagorodnii VV"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Launets VL"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Gural'skiy IA"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0003-0944-6300"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Chemistry, Taras Shevchenko National University of Kyiv, 64 Volodymyrska St., Kyiv 01601, Ukraine."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radio Physics, Electronics and Computer Systems, Taras Shevchenko National University of Kyiv, 64 Volodymyrska St., Kyiv 01601, Ukraine."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

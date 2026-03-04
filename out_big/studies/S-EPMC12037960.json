@@ -1,0 +1,372 @@
+{
+  "accno": "S-EPMC12037960",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Consequences of ionizing radiation exposure to the cardiovascular system."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2024-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Consequences of ionizing radiation exposure to the cardiovascular system."
+      },
+      {
+        "name": "Abstract",
+        "value": "Ionizing radiation is widely used in various industrial and medical applications, resulting in increased exposure for certain populations. Lessons from radiation accidents and occupational exposure have highlighted the cardiovascular and cerebrovascular risks associated with radiation exposure. In addition, radiation therapy for cancer has been linked to numerous cardiovascular complications, depending on the distribution of the dose by volume in the heart and other relevant target tissues in the circulatory system. The manifestation of symptoms is influenced by numerous factors, and distinct cardiac complications have previously been observed in different groups of patients with cancer undergoing radiation therapy. However, in contemporary radiation therapy, advances in treatment planning with conformal radiation delivery have markedly reduced the mean heart dose and volume of exposure, and these variables are therefore no longer sole surrogates for predicting the risk of specific types of heart disease. Nevertheless, certain cardiac substructures remain vulnerable to radiation exposure, necessitating close monitoring. In this Review, we provide a comprehensive overview of the consequences of radiation exposure on the cardiovascular system, drawing insights from various cohorts exposed to uniform, whole-body radiation or to partial-body irradiation, and identify potential risk modifiers in the development of radiation-associated cardiovascular disease."
+      }
+    ],
+    "files": [
+      {
+        "path": "NIHMS2071389-supplement-Supplementary_File.pdf",
+        "size": 597202,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NHLBI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "R01 HL130020"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "R01 CA266673"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NHLBI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "R01 HL141851"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NHLBI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "K99 HL173685"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NHLBI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "R01 HL126527"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NIAID NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "U01 AI183953"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NASA"
+          },
+          {
+            "name": "grant_id",
+            "value": "NNX16AO69A"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NHLBI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "R01 HL171102"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NASA"
+          },
+          {
+            "name": "grant_id",
+            "value": "80ARC022CA003"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "P01 CA244091"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Nature reviews. Cardiology"
+          },
+          {
+            "name": "Volume",
+            "value": "21(12)"
+          },
+          {
+            "name": "Pages",
+            "value": "880-898"
+          },
+          {
+            "name": "Publication date",
+            "value": "2024 Dec"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1038/s41569-024-01056-4",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "10.1038/s41569-024-01056-4",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC12037960",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "38987578",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Jahng JWS"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0003-2367-6567"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Little MP"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0003-0980-7567"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "No HJ"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Loo BW"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Wu JC"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-6068-8041"
+          },
+          {
+            "name": "affiliation",
+            "value": "o5",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Southern California Permanente Medical Group, Los Angeles, CA, USA"
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Stanford University School of Medicine, Stanford, CA, USA"
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Radiation Epidemiology Branch, National Cancer Institute, Bethesda, MD, USA"
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Stanford Cardiovascular Institute, Stanford University School of Medicine, Stanford, CA, USA. jahngwon@stanford.edu"
+          }
+        ]
+      },
+      {
+        "accno": "o5",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Stanford Cardiovascular Institute, Stanford University School of Medicine, Stanford, CA, USA. joewu@stanford.edu"
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

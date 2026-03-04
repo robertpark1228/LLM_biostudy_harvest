@@ -1,0 +1,364 @@
+{
+  "accno": "S-EPMC8932076",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Exploring the translational challenge for medical applications of ionising radiation and corresponding radiation protection research."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2022-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Exploring the translational challenge for medical applications of ionising radiation and corresponding radiation protection research."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Background</h4>Medical applications of ionising radiation and associated radiation protection research often encounter long delays and inconsistent implementation when translated into clinical practice. A coordinated effort is needed to analyse the research needs for innovation transfer in radiation-based high-quality healthcare across Europe which can inform the development of an innovation transfer framework tailored for equitable implementation of radiation research at scale.<h4>Methods</h4>Between March and September 2021 a Delphi methodology was employed to gain consensus on key translational challenges from a range of professional stakeholders. A total of three Delphi rounds were conducted using a series of electronic surveys comprised of open-ended and closed-type questions. The surveys were disseminated via the EURAMED Rocc-n-Roll consortium network and prominent medical societies in the field. Approximately 350 professionals were invited to participate. Participants' level of agreement with each generated statement was captured using a 6-point Likert scale. Consensus was defined as median ≥ 4 with ≥ 60% of responses in the upper tertile of the scale. Additionally, the stability of responses across rounds was assessed.<h4>Results</h4>In the first Delphi round a multidisciplinary panel of 20 generated 127 unique statements. The second and third Delphi rounds recruited a broader sample of 130 individuals to rate the extent to which they agreed with each statement as a key translational challenge. A total of 60 consensus statements resulted from the iterative Delphi process of which 55 demonstrated good stability. Ten statements were identified as high priority challenges with ≥ 80% of statement ratings either 'Agree' or 'Strongly Agree'.<h4>Conclusion</h4>A lack of interoperability between systems, insufficient resources, unsatisfactory education and training, and the need for greater public awareness surrounding the benefits, risks, and applications of ionising radiation were identified as principal translational challenges. These findings will help to inform a tailored innovation transfer framework for medical radiation research."
+      }
+    ],
+    "files": [
+      {
+        "path": "12967_2022_3344_MOESM1_ESM.docx",
+        "size": 42355,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "H2020 Euratom"
+          },
+          {
+            "name": "grant_id",
+            "value": "899995"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Journal of translational medicine"
+          },
+          {
+            "name": "Volume",
+            "value": "20(1)"
+          },
+          {
+            "name": "Pages",
+            "value": "137"
+          },
+          {
+            "name": "Publication date",
+            "value": "2022 Mar"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1186/s12967-022-03344-4",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC8932076",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "35303930",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Bockhold S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Foley SJ"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-9478-2802"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Rainford LA"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0001-8587-0782"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Corridori R"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Eberstein A"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Hoeschen C"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Konijnenberg MW"
+          },
+          {
+            "name": "affiliation",
+            "value": "o5",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Molyneux-Hodgson S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o6",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a9",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Paulo G"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0001-6297-778X"
+          },
+          {
+            "name": "affiliation",
+            "value": "o7",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a10",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Santos J"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-8923-5820"
+          },
+          {
+            "name": "affiliation",
+            "value": "o7",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a11",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "McNulty JP"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-1365-8747"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "COCIR, Brussels, Belgium."
+          }
+        ]
+      },
+      {
+        "accno": "o5",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiology and Nuclear Medicine, Erasmus Medical Centre, Rotterdam, Netherlands."
+          }
+        ]
+      },
+      {
+        "accno": "o7",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Escola Superior de Tecnologia da Saúde, Instituto Politécnico de Coimbra, Coimbra, Portugal."
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Institute of Medical Engineering, Otto Von Guericke Universität Magdeburg, Magdeburg, Germany."
+          }
+        ]
+      },
+      {
+        "accno": "o6",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Nuclear Societies Research Group, University of Exeter, Exeter, UK."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Radiography and Diagnostic Imaging, School of Medicine, University College Dublin, Belfield, Dublin 4, Ireland."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Radiography and Diagnostic Imaging, School of Medicine, University College Dublin, Belfield, Dublin 4, Ireland. sophie.bockhold@ucd.ie."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

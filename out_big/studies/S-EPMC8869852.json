@@ -1,0 +1,200 @@
+{
+  "accno": "S-EPMC8869852",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Development of Organ-Preserving Radiation Therapy in Gastric Marginal Zone Lymphoma."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2022-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Development of Organ-Preserving Radiation Therapy in Gastric Marginal Zone Lymphoma."
+      },
+      {
+        "name": "Abstract",
+        "value": "Gastric marginal zone lymphoma (gMZL) of mucosa-associated lymphoid tissue (MALT) may persist even after H. pylori eradication, or it can be primarily Helicobacter pylori (H. pylori) independent. For patients without the successful eradication of lymphoma, or with progressive disease, treatment options have historically included partial or total gastrectomy. Presently, in these instances, curative radiation therapy (RT) is the current standard of care. This review emphasizes the historically changing role of radiation therapy in gMZL, progressing from large-volume RT without surgery, to localized RT, on its own, as a curative organ-preserving treatment. This overview shows the substantial progress in radiation therapy during the recent two to three decades, from high-dose, large-field techniques to low-dose, localized target volumes based on advanced imaging, three-dimensional treatment planning, and advanced treatment delivery techniques. RT has evolved from very large extended field techniques (EF) with prophylactic treatment of the whole abdomen and the supradiaphragmatic lymph nodes, applying doses between 30 and 50 Gy, to involved-field RT (IF), to the current internationally recommended involved site radiation therapy (ISRT) with a radiation dose of 24-30 Gy in gMZL. Stage-adapted RT is a highly effective and safe treatment with excellent overall survival rates and very rare acute or late treatment-related toxicities, as shown not only in retrospective studies, but also in large prospective multicenter studies, such as those conducted by the German Study Group on Gastrointestinal Lymphoma (DSGL). Further de-escalation of the radiation treatments with low-dose 20 Gy, as well as ultra-low-dose 4 Gy radiation therapy, is under investigation within ongoing prospective clinical trials of the International Lymphoma Radiation Oncology Group (ILROG) and of the German Lymphoma Alliance (GLA)."
+      }
+    ],
+    "links": [
+      [
+        {
+          "url": "NCT04097067",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT03680586",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        }
+      ]
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Cancers"
+          },
+          {
+            "name": "Volume",
+            "value": "14(4)"
+          },
+          {
+            "name": "Pages",
+            "value": "873"
+          },
+          {
+            "name": "Publication date",
+            "value": "2022 Feb"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.3390/cancers14040873",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC8869852",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "35205623",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Rolf D"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Reinartz G"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-4869-5986"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Rehn S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kittel C"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Eich HT"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, University Hospital of Münster, 48149 Münster, Germany."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

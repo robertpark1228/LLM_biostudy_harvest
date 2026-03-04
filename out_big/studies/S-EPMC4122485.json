@@ -1,0 +1,210 @@
+{
+  "accno": "S-EPMC4122485",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Radiation therapy for liver tumors: ready for inclusion in guidelines?"
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2014-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Radiation therapy for liver tumors: ready for inclusion in guidelines?"
+      },
+      {
+        "name": "Abstract",
+        "value": "Despite the historically limited role of radiotherapy in the management of primary hepatic malignancies, modern advances in treatment design and delivery have renewed enthusiasm for radiation as a potentially curative treatment modality. Surgical resection and/or liver transplantation are traditionally regarded as the most effective forms of therapy, although the majority of patients with hepatocellular carcinoma and intrahepatic cholangiocarcinoma present with locally advanced or unresectable disease on the basis of local vascular invasion or inadequate baseline hepatobiliary function. In this context, many efforts have focused on nonoperative treatment approaches including novel systemic therapies, transarterial chemoembolization, ethanol ablation, radiofrequency ablation, and stereotactic body radiation therapy (SBRT). This review aims to summarize modern advances in radiotherapy, particularly SBRT, in the treatment of primary hepatic malignancies."
+      }
+    ],
+    "links": [
+      [
+        {
+          "url": "NCT00857805",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        }
+      ]
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "The oncologist"
+          },
+          {
+            "name": "Volume",
+            "value": "19(8)"
+          },
+          {
+            "name": "Pages",
+            "value": "868-79"
+          },
+          {
+            "name": "Publication date",
+            "value": "2014 Aug"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1634/theoncologist.2014-0097",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "10.1634/theoncologist.2014-0097",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC4122485",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "25001265",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Tanguturi SK"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Wo JY"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Zhu AX"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Dawson LA"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-9068-6872"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Hong TS"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Harvard Radiation Oncology Program, Harvard Medical School, Boston, Massachusetts, USA; Department of Radiation Oncology, Massachusetts General Hospital, Boston, Massachusetts, USA; Department of Radiation Oncology, Princess Margaret Cancer Centre, University of Toronto, Toronto, Ontario, Canada TSHong1@partners.org."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Harvard Radiation Oncology Program, Harvard Medical School, Boston, Massachusetts, USA; Department of Radiation Oncology, Massachusetts General Hospital, Boston, Massachusetts, USA; Department of Radiation Oncology, Princess Margaret Cancer Centre, University of Toronto, Toronto, Ontario, Canada."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

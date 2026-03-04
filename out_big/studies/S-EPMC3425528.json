@@ -1,0 +1,232 @@
+{
+  "accno": "S-EPMC3425528",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Review and uses of stereotactic body radiation therapy for oligometastases."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2012-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Review and uses of stereotactic body radiation therapy for oligometastases."
+      },
+      {
+        "name": "Abstract",
+        "value": "In patients with proven distant metastases from solid tumors, it has been a notion that the condition is incurable, warranting palliative care only. The term \"oligometastases\" was coined to refer to isolated sites of metastasis, whereby the entire burden of disease can be recognized as a finite number of discrete lesions that can be potentially cured with local therapies. Stereotactic body radiation therapy (SBRT) is a novel treatment modality in radiation oncology that delivers a very high dose of radiation to the tumor target with high precision using single or a small number of fractions. SBRT is the result of technological advances in patient and tumor immobilization, image guidance, and treatment planning and delivery. A number of studies, both retrospective and prospective, showed promising results in terms of local tumor control and, in a limited subset of patients, of survival. This article reviews the radiobiologic, technical, and clinical aspects of SBRT for various anatomical sites."
+      }
+    ],
+    "links": [
+      [
+        {
+          "url": "NCT01446744",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        }
+      ]
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "The oncologist"
+          },
+          {
+            "name": "Volume",
+            "value": "17(8)"
+          },
+          {
+            "name": "Pages",
+            "value": "1100-7"
+          },
+          {
+            "name": "Publication date",
+            "value": "2012"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1634/theoncologist.2012-0092",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "10.1634/theoncologist.2012-0092",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC3425528",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "22723509",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Alongi F"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-6569-8628"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Arcangeli S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Filippi AR"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0001-7159-7869"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Ricardi U"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0003-4406-7621"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Scorsetti M"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0003-0320-559X"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Medical and Surgical Sciences, Radiation Oncology Unit, University of Turin, Turin, Italy"
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Radiotherapy and Radiosurgery Department, Humanitas Cancer Center, Istituto Clinico Humanitas, Rozzano, Italy;"
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Radiotherapy and Radiosurgery Department, Humanitas Cancer Center, Istituto Clinico Humanitas, Via Manzoni 56, 20089 Rozzano, Italy."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

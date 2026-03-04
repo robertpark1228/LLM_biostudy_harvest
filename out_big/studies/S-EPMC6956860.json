@@ -1,0 +1,230 @@
+{
+  "accno": "S-EPMC6956860",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Applications of a Capacitor-Based Respiratory Position Sensing Device: Implications for Radiation Therapy."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2014-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Applications of a Capacitor-Based Respiratory Position Sensing Device: Implications for Radiation Therapy."
+      },
+      {
+        "name": "Abstract",
+        "value": "Respiratory motion may significantly affect the outcome in a number of medical imaging techniques and some radiation therapy applications. 4-dimensional computed tomography (4DCT) and respiratory gating technology, which account for the dynamics of respiration, are expensive and often unavailable in smaller radiation treatment centers. Here we evaluate the ability of an inexpensive, technology comprised of two capacitors placed next to the skin to provide real-time respiratory phase information. Three subjects were simultaneously monitored by the new capacitor-based device (CBD) and a commercially available Real time Position Management (RPM) system by Varian. All respiratory phases detected by the RPM system were also detected by the CBD. Automatically detected peaks were not significantly different in timing when comparing RPM and CBD-derived respiratory amplitudes. The anatomic locations of the CBD were varied to evaluate the change in signal quality across the abdomen and thorax. CBD signals were reliable on the abdomen and lower thorax but degraded when recorded from the upper thorax. We also used computed tomography (CT) to assess the imaging characteristics of CBD and found that there were minimal artifacts. We therefore conclude that CBD respiratory amplitude measurements may be useful for tracking respiratory movements as part of a number of advanced radiation therapy technologies including 4DCT image resorting, adaptive radiation therapy and gated radiation therapy."
+      }
+    ],
+    "files": [
+      {
+        "path": "NIHMS1053779-supplement-supp.doc",
+        "size": 31232,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NINDS NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "K23 NS090900"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Austin journal of medical oncology"
+          },
+          {
+            "name": "Volume",
+            "value": "1(2)"
+          },
+          {
+            "name": "Pages",
+            "value": "1009"
+          },
+          {
+            "name": "Publication date",
+            "value": "2014"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "PMC6956860",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "31934681",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Y W"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Mb W"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "C S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "G S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Mt B"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kd W"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Neurology, Massachusetts General Hospital, Boston, MA, USA."
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, UT Southwestern Medical School, Dallas, TX, USA."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Division of Radiation Physics, Department of Radiation Oncology, Massachustets General Hospital, Boston, MA, USA."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "UT Southwestern Medical School, Dallas, TX, USA."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

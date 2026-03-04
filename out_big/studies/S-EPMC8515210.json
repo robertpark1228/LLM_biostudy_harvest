@@ -1,0 +1,565 @@
+{
+  "accno": "S-EPMC8515210",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Patient Perceptions and Knowledge of Ionizing Radiation From Medical Imaging."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2021-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Patient Perceptions and Knowledge of Ionizing Radiation From Medical Imaging."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Importance</h4>Although imaging has become a standard tool of modern medicine, its widespread use has been paralleled by an increasing cumulative radiation dose to patients despite technological advancements and campaigns calling for better awareness and minimization of unnecessary exposures.<h4>Objective</h4>To assess patients' knowledge about medical radiation and related risks.<h4>Design, setting, and participants</h4>A survey study of hospitals in Italy was conducted; all patients in waiting rooms for medical imaging procedures before undergoing imaging examinations at 16 teaching and nonteaching hospitals were approached to take the survey. The survey was performed from June 1, 2019, to May 31, 2020.<h4>Main outcomes and measures</h4>Survey respondents' basic knowledge of ionizing radiation levels and health risks, earlier imaging tests performed, and information and communication about radiation protection issues.<h4>Results</h4>Among 3039 patients invited to participate, the response rate was 94.3% (n = 2866). Participants included 1531 women (53.4%); mean (SD) age was 44.9 (17.3) years. Of the 2866 participants, 1529 (53.3%) were aware of the existence of natural sources of ionizing radiation. Mammography (1101 [38.4%]) and magnetic resonance imaging (1231 [43.0%]) were categorized as radiation-based imaging modalities. More than half of the 2866 patients (1579 [55.1%]; P = .03) did not know that chest computed tomography delivers a larger dose of radiation than chest radiography, and only 1499 (52.3%) knew that radiation can be emitted after nuclear medicine examinations (P = .004). A total of 667 patients (23.3%) believed that radiation risks were unrelated to age, 1273 (44.4%) deemed their knowledge about radiation risks inadequate, and 2305 (80.4%) preferred to be informed about radiation risks by medical staff. A better knowledge of radiation issues was associated with receiving information from health care professionals (odds ratio [OR], 1.71; 95% CI, 1.43-2.03; P < .001) and having a higher educational level (intermediate vs low: OR, 1.48; 95% CI, 1.17-1.88; P < .001; high vs low: OR, 2.68; 95% CI, 2.09-3.43; P < .001).<h4>Conclusions and relevance</h4>The results of this survey suggest that patients undergoing medical imaging procedures have overall limited knowledge about medical radiation. Intervention to achieve better patient awareness of radiation risks related to medical exposures may be beneficial."
+      }
+    ],
+    "files": [
+      {
+        "path": "jamanetwopen-e2128561-s001.pdf",
+        "size": 202933,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "JAMA network open"
+          },
+          {
+            "name": "Volume",
+            "value": "4(10)"
+          },
+          {
+            "name": "Pages",
+            "value": "e2128561"
+          },
+          {
+            "name": "Publication date",
+            "value": "2021 Oct"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1001/jamanetworkopen.2021.28561",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC8515210",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "34643721",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Bastiani L"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Paolicchi F"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Faggioni L"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0001-5262-4489"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Martinelli M"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Gerasia R"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0001-7654-7246"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Martini C"
+          },
+          {
+            "name": "affiliation",
+            "value": "o5",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Cornacchione P"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-5573-6352"
+          },
+          {
+            "name": "affiliation",
+            "value": "o6",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Ceccarelli M"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0003-4272-902X"
+          },
+          {
+            "name": "affiliation",
+            "value": "o7",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a9",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Chiappino D"
+          },
+          {
+            "name": "affiliation",
+            "value": "o8",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a10",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Della Latta D"
+          },
+          {
+            "name": "affiliation",
+            "value": "o9",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a11",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Negri J"
+          },
+          {
+            "name": "affiliation",
+            "value": "o10",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a12",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Pertoldi D"
+          },
+          {
+            "name": "affiliation",
+            "value": "o11",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a13",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Negro D"
+          },
+          {
+            "name": "affiliation",
+            "value": "o12",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a14",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Nuzzi G"
+          },
+          {
+            "name": "affiliation",
+            "value": "o13",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a15",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Rizzo V"
+          },
+          {
+            "name": "affiliation",
+            "value": "o14",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a16",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Tamburrino P"
+          },
+          {
+            "name": "affiliation",
+            "value": "o15",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a17",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Pozzessere C"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0003-1379-5888"
+          },
+          {
+            "name": "affiliation",
+            "value": "o16",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a18",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Aringhieri G"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0003-0842-5372"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a19",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Caramella D"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o11",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Cardiovascular Diagnosis and Endoluminal Interventions Unit, Rovigo General Hospital, Rovigo, Italy."
+          }
+        ]
+      },
+      {
+        "accno": "o5",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Medicine and Surgery, University Hospital of Parma, Parma, Italy."
+          }
+        ]
+      },
+      {
+        "accno": "o12",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Medicine-DIMED University Hospital of Padua, Padua, Italy."
+          }
+        ]
+      },
+      {
+        "accno": "o7",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Physics, University of Cagliari, Calgiari, Italy."
+          }
+        ]
+      },
+      {
+        "accno": "o8",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiology, Institute of Clinical Physiology of the Italian National Research Council /Tuscany Region \"Gabriele Monasterio Foundation,\" Massa, Italy."
+          }
+        ]
+      },
+      {
+        "accno": "o10",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiology, Macerata Hospital, Macerata, Italy."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Diagnostic and Interventional Radiology, University of Pisa, Pisa, Italy."
+          }
+        ]
+      },
+      {
+        "accno": "o15",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Foggia United Hospitals, University Hospital of Foggia, Foggia, Italy."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Institute of Clinical Physiology of the Italian National Research Council, Pisa, Italy."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Italian National Research Council Institute of Information Science and Technologies, Signals & Images Laboratory, Pisa, Italy."
+          }
+        ]
+      },
+      {
+        "accno": "o9",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Monasterio Foundation, Tuscany Region \"Gabriele Monasterio Foundation, Massa, Italy."
+          }
+        ]
+      },
+      {
+        "accno": "o14",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Nuclear Medicine Unit, San Giuseppe Moscati Hospital, Avellino, Italy."
+          }
+        ]
+      },
+      {
+        "accno": "o16",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Radiology Unit, AUSL Toscana Centro San Giuseppe Hospital, Empoli, Italy."
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Radiology Unit, Mediterranean Institute for Transplantation and Advanced Specialized Therapies, Palermo, Italy."
+          }
+        ]
+      },
+      {
+        "accno": "o13",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "SantAnna and San Sebastiano Hospital, Caserta, Italy."
+          }
+        ]
+      },
+      {
+        "accno": "o6",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "UOC Oncological Radiotherapy, Department of Diagnostic Imaging, Oncological Radiotherapy and Hematology, A. Gemelli University Hospital Foundation, Mediterranean Institute for Transplantation and Advanced Specialized Therapies, Rome, Italy."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

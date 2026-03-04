@@ -1,0 +1,272 @@
+{
+  "accno": "S-EPMC8211712",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "A subterranean adaptive radiation of amphipods in Europe."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2021-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "A subterranean adaptive radiation of amphipods in Europe."
+      },
+      {
+        "name": "Abstract",
+        "value": "Adaptive radiations are bursts of evolutionary species diversification that have contributed to much of the species diversity on Earth. An exception is modern Europe, where descendants of ancient adaptive radiations went extinct, and extant adaptive radiations are small, recent and narrowly confined. However, not all legacy of old radiations has been lost. Subterranean environments, which are dark and food-deprived, yet buffered from climate change, have preserved ancient lineages. Here we provide evidence of an entirely subterranean adaptive radiation of the amphipod genus Niphargus, counting hundreds of species. Our modelling of lineage diversification and evolution of morphological and ecological traits using a time-calibrated multilocus phylogeny suggests a major adaptive radiation, comprised of multiple subordinate adaptive radiations. Their spatio-temporal origin coincides with the uplift of carbonate massifs in South-Eastern Europe 15 million years ago. Emerging subterranean environments likely provided unoccupied, predator-free space, constituting ecological opportunity, a key trigger of adaptive radiation. This discovery sheds new light on the biodiversity of Europe."
+      }
+    ],
+    "files": [
+      {
+        "path": "41467_2021_24023_MOESM1_ESM.pdf",
+        "size": 3874921,
+        "type": "file"
+      },
+      {
+        "path": "41467_2021_24023_MOESM2_ESM.pdf",
+        "size": 526343,
+        "type": "file"
+      },
+      {
+        "path": "41467_2021_24023_MOESM3_ESM.pdf",
+        "size": 401617,
+        "type": "file"
+      },
+      {
+        "path": "41467_2021_24023_MOESM4_ESM.xlsx",
+        "size": 7951383,
+        "type": "file"
+      },
+      {
+        "path": "41467_2021_24023_MOESM5_ESM.pdf",
+        "size": 1892089,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Javna Agencija za Raziskovalno Dejavnost RS"
+          },
+          {
+            "name": "grant_id",
+            "value": "P1-0184"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Javna Agencija za Raziskovalno Dejavnost RS"
+          },
+          {
+            "name": "grant_id",
+            "value": "J1-2464"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Javna Agencija za Raziskovalno Dejavnost RS"
+          },
+          {
+            "name": "grant_id",
+            "value": "1000-08-310028"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Nature communications"
+          },
+          {
+            "name": "Volume",
+            "value": "12(1)"
+          },
+          {
+            "name": "Pages",
+            "value": "3688"
+          },
+          {
+            "name": "Publication date",
+            "value": "2021 Jun"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1038/s41467-021-24023-w",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC8211712",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "34140494",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Borko S"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-8383-8778"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Trontelj P"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Seehausen O"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0001-6598-1434"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Moskric A"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0001-7517-293X"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Fiser C"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Aquatic Ecology and Evolution, Institute of Ecology and Evolution, University of Bern, Bern, Switzerland."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "SubBio Lab, Biotechnical Faculty, University of Ljubljana, Ljubljana, Slovenia."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "SubBio Lab, Biotechnical Faculty, University of Ljubljana, Ljubljana, Slovenia. spela.borko@bf.uni-lj.si."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

@@ -1,0 +1,160 @@
+{
+  "accno": "S-EPMC1482571",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Experimental evidence that predation promotes divergence in adaptive radiation."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2006-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Experimental evidence that predation promotes divergence in adaptive radiation."
+      },
+      {
+        "name": "Abstract",
+        "value": "Adaptive radiation is the evolution of ecological and phenotypic diversity within a rapidly multiplying lineage. Recent studies have identified general patterns in adaptive radiation and inferred that resource competition is a primary factor driving phenotypic divergence. The role and importance of other processes, such as predation, remains controversial. Here we use Timema stick insects to show that adaptive radiation can be driven by divergent selection from visual predators. Ecotypes using different host-plant species satisfy criteria for the early stages of adaptive radiation and differ in quantitative aspects of color, color pattern, body size, and body shape. A manipulative field experiment demonstrates that the direction and strength of divergent selection on these traits is strongly positively correlated with the direction and magnitude of their population divergence in nature but only when selection is estimated in the presence of predation. Our results indicate that both competition and predation may commonly serve as mechanisms of adaptive radiation."
+      }
+    ],
+    "files": [
+      {
+        "path": "pnas_0601575103_1.pdf",
+        "size": 31484,
+        "type": "file"
+      },
+      {
+        "path": "pnas_0601575103_index.html",
+        "size": 65275,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Proceedings of the National Academy of Sciences of the United States of America"
+          },
+          {
+            "name": "Volume",
+            "value": "103(24)"
+          },
+          {
+            "name": "Pages",
+            "value": "9090-5"
+          },
+          {
+            "name": "Publication date",
+            "value": "2006 Jun"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1073/pnas.0601575103",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "10.1073/pnas.0601575103",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC1482571",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "16754870",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Nosil P"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Crespi BJ"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Biological Sciences, Simon Fraser University, Burnaby, BC, Canada V5A 1S6"
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Biological Sciences, Simon Fraser University, Burnaby, BC, Canada V5A 1S6. pnosila@sfu.ca"
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

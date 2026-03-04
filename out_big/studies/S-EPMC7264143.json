@@ -1,0 +1,454 @@
+{
+  "accno": "S-EPMC7264143",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Toward personalized synchrotron microbeam radiation therapy."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2020-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Toward personalized synchrotron microbeam radiation therapy."
+      },
+      {
+        "name": "Abstract",
+        "value": "Synchrotron facilities produce ultra-high dose rate X-rays that can be used for selective cancer treatment when combined with micron-sized beams. Synchrotron microbeam radiation therapy (MRT) has been shown to inhibit cancer growth in small animals, whilst preserving healthy tissue function. However, the underlying mechanisms that produce successful MRT outcomes are not well understood, either in vitro or in vivo. This study provides new insights into the relationships between dosimetry, radiation transport simulations, in vitro cell response, and pre-clinical brain cancer survival using intracerebral gliosarcoma (9LGS) bearing rats. As part of this ground-breaking research, a new image-guided MRT technique was implemented for accurate tumor targeting combined with a pioneering assessment of tumor dose-coverage; an essential parameter for clinical radiotherapy. Based on the results of our study, we can now (for the first time) present clear and reproducible relationships between the in vitro cell response, tumor dose-volume coverage and survival post MRT irradiation of an aggressive and radioresistant brain cancer in a rodent model. Our innovative and interdisciplinary approach is illustrated by the results of the first long-term MRT pre-clinical trial in Australia. Implementing personalized synchrotron MRT for brain cancer treatment will advance this international research effort towards clinical trials."
+      }
+    ],
+    "files": [
+      {
+        "path": "41598_2020_65729_MOESM1_ESM.mp4",
+        "size": 5961779,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Department of Health | National Health and Medical Research Council"
+          },
+          {
+            "name": "grant_id",
+            "value": "APP1084994"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Department of Health | National Health and Medical Research Council"
+          },
+          {
+            "name": "grant_id",
+            "value": "APP1093256"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Scientific reports"
+          },
+          {
+            "name": "Volume",
+            "value": "10(1)"
+          },
+          {
+            "name": "Pages",
+            "value": "8833"
+          },
+          {
+            "name": "Publication date",
+            "value": "2020 Jun"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1038/s41598-020-65729-z",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC7264143",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "32483249",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Engels E"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0003-4704-2104"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Li N"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Davis J"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Paino J"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Cameron M"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Dipuglia A"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Vogel S"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-9779-8797"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Valceski M"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a9",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Khochaiche A"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a10",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "O'Keefe A"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a11",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Barnes M"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-8691-0616"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a12",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Cullen A"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a13",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Stevenson A"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a14",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Guatelli S"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-9289-7956"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a15",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Rosenfeld A"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0001-5116-6308"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a16",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Lerch M"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-2406-9972"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a17",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Corde S"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0003-0388-7340"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a18",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Tehei M"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0003-3654-6833"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Australian Synchrotron - Australia's Nuclear Science and Technology Organisation (ANSTO), 800 Blackburn Road, Clayton, Victoria, 3168, Australia."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Centre for Medical Radiation Physics, University of Wollongong, New South Wales, 2522, Australia."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Centre for Medical Radiation Physics, University of Wollongong, New South Wales, 2522, Australia. moeava@uow.edu.au."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

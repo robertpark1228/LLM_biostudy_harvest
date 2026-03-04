@@ -1,0 +1,707 @@
+{
+  "accno": "S-EPMC5766591",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "FDXR is a biomarker of radiation exposure in vivo."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2018-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "FDXR is a biomarker of radiation exposure in vivo."
+      },
+      {
+        "name": "Abstract",
+        "value": "Previous investigations in gene expression changes in blood after radiation exposure have highlighted its potential to provide biomarkers of exposure. Here, FDXR transcriptional changes in blood were investigated in humans undergoing a range of external radiation exposure procedures covering several orders of magnitude (cardiac fluoroscopy, diagnostic computed tomography (CT)) and treatments (total body and local radiotherapy). Moreover, a method was developed to assess the dose to the blood using physical exposure parameters. FDXR expression was significantly up-regulated 24 hr after radiotherapy in most patients and continuously during the fractionated treatment. Significance was reached even after diagnostic CT 2 hours post-exposure. We further showed that no significant differences in expression were found between ex vivo and in vivo samples from the same patients. Moreover, potential confounding factors such as gender, infection status and anti-oxidants only affect moderately FDXR transcription. Finally, we provided a first in vivo dose-response showing dose-dependency even for very low doses or partial body exposure showing good correlation between physically and biologically assessed doses. In conclusion, we report the remarkable responsiveness of FDXR to ionising radiation at the transcriptional level which, when measured in the right time window, provides accurate in vivo dose estimates."
+      }
+    ],
+    "files": [
+      {
+        "path": "41598_2017_19043_MOESM1_ESM.pdf",
+        "size": 201161,
+        "type": "file"
+      },
+      {
+        "path": "41598_2017_19043_MOESM2_ESM.xlsx",
+        "size": 55939,
+        "type": "file"
+      },
+      {
+        "path": "41598_2017_19043_MOESM3_ESM.xlsx",
+        "size": 47435,
+        "type": "file"
+      },
+      {
+        "path": "41598_2017_19043_MOESM4_ESM.xlsx",
+        "size": 58673,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Scientific reports"
+          },
+          {
+            "name": "Volume",
+            "value": "8(1)"
+          },
+          {
+            "name": "Pages",
+            "value": "684"
+          },
+          {
+            "name": "Publication date",
+            "value": "2018 Jan"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1038/s41598-017-19043-w",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC5766591",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "29330481",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "O'Brien G"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Cruz-Garcia L"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Majewski M"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Grepl J"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0003-0732-1344"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Abend M"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Port M"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-8496-5883"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Tichy A"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Sirak I"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-5972-3866"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a9",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Malkova A"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0001-9444-8065"
+          },
+          {
+            "name": "affiliation",
+            "value": "o5",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a10",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Donovan E"
+          },
+          {
+            "name": "affiliation",
+            "value": "o6",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a11",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Gothard L"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0003-2872-1048"
+          },
+          {
+            "name": "affiliation",
+            "value": "o7",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a12",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Boyle S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o7",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a13",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Somaiah N"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0003-4609-0518"
+          },
+          {
+            "name": "affiliation",
+            "value": "o7",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a14",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Ainsbury E"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0001-8076-6978"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a15",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Ponge L"
+          },
+          {
+            "name": "affiliation",
+            "value": "o8",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a16",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Slosarek K"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-0559-0180"
+          },
+          {
+            "name": "affiliation",
+            "value": "o8",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a17",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Miszczyk L"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-9668-6056"
+          },
+          {
+            "name": "affiliation",
+            "value": "o8",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a18",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Widlak P"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0001-5099-4726"
+          },
+          {
+            "name": "affiliation",
+            "value": "o8",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a19",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Green E"
+          },
+          {
+            "name": "affiliation",
+            "value": "o9",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a20",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Patel N"
+          },
+          {
+            "name": "affiliation",
+            "value": "o9",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a21",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kudari M"
+          },
+          {
+            "name": "affiliation",
+            "value": "o9",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a22",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Gleeson F"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-5121-3917"
+          },
+          {
+            "name": "affiliation",
+            "value": "o9",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a23",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Vinnikov V"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0003-0232-7050"
+          },
+          {
+            "name": "affiliation",
+            "value": "o10",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a24",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Starenkiy V"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-6600-3381"
+          },
+          {
+            "name": "affiliation",
+            "value": "o10",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a25",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Artiukh S"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-7189-3614"
+          },
+          {
+            "name": "affiliation",
+            "value": "o10",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a26",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Vasyliev L"
+          },
+          {
+            "name": "affiliation",
+            "value": "o10",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a27",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Zaman A"
+          },
+          {
+            "name": "affiliation",
+            "value": "o11",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a28",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Badie C"
+          },
+          {
+            "name": "affiliation",
+            "value": "o12",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Bundeswehr Institute of Radiobiology, Munich, Germany."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Centre for Radiation, Chemical and Environmental Hazards, Public Health England, Oxfordshire, United Kingdom."
+          }
+        ]
+      },
+      {
+        "accno": "o12",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Centre for Radiation, Chemical and Environmental Hazards, Public Health England, Oxfordshire, United Kingdom. christophe.badie@phe.gov.uk."
+          }
+        ]
+      },
+      {
+        "accno": "o6",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Centre for Vision, Speech and Signal Processing, University of Surrey, Guildford, GU2 7TE, United Kingdom."
+          }
+        ]
+      },
+      {
+        "accno": "o11",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Cardiology, Freeman Hospital and Institute of Cellular Medicine, Newcastle University, Newcastle-upon-Tyne, Newcastle, United Kingdom."
+          }
+        ]
+      },
+      {
+        "accno": "o5",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Hygiene and Preventive Medicine, Faculty of Medicine in Hradec Králové, Charles University, Hradec Králové, Czech Republic."
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Oncology & Radiotherapy and 4th Department of Internal Medicine - Hematology, University Hospital, Hradec Králové, Czech Republic."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiobiology, Faculty of Military Health Sciences in Hradec Králové, University of Defence in Brno, Hradec Králové, Czech Republic."
+          }
+        ]
+      },
+      {
+        "accno": "o9",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiology, Churchill Hospital, Oxford, United Kingdom."
+          }
+        ]
+      },
+      {
+        "accno": "o10",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Grigoriev Institute for Medical Radiology, National Academy of Medical Science, Kharkiv, Ukraine."
+          }
+        ]
+      },
+      {
+        "accno": "o7",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Institute of Cancer Research/Royal Marsden NHS Foundation Trust, Downs Road, Sutton, SM2 5PT, United Kingdom."
+          }
+        ]
+      },
+      {
+        "accno": "o8",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Maria Sklodowska-Curie Institute - Oncology Center, Gliwice Branch, Gliwice, Poland."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

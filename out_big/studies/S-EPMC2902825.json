@@ -1,0 +1,872 @@
+{
+  "accno": "S-EPMC2902825",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Radiation exposure, the ATM Gene, and contralateral breast cancer in the women's environmental cancer and radiation epidemiology study."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2010-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Radiation exposure, the ATM Gene, and contralateral breast cancer in the women's environmental cancer and radiation epidemiology study."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Background</h4>Ionizing radiation is a known mutagen and an established breast carcinogen. The ATM gene is a key regulator of cellular responses to the DNA damage induced by ionizing radiation. We investigated whether genetic variants in ATM play a clinically significant role in radiation-induced contralateral breast cancer in women.<h4>Methods</h4>The Women's Environmental, Cancer, and Radiation Epidemiology Study is an international population-based case-control study nested within a cohort of 52,536 survivors of unilateral breast cancer diagnosed between 1985 and 2000. The 708 case subjects were women with contralateral breast cancer, and the 1397 control subjects were women with unilateral breast cancer matched to the case subjects on age, follow-up time, registry reporting region, and race and/or ethnicity. All women were interviewed and underwent full mutation screening of the entire ATM gene. Complete medical treatment history information was collected, and for all women who received radiotherapy, the radiation dose to the contralateral breast was reconstructed using radiotherapy records and radiation measurements. Rate ratios (RRs) and corresponding 95% confidence intervals (CIs) were estimated by using multivariable conditional logistic regression. All P values are two-sided.<h4>Results</h4>Among women who carried a rare ATM missense variant (ie, one carried by <1% of the study participants) that was predicted to be deleterious, those who were exposed to radiation (mean radiation exposure = 1.2 Gy, SD = 0.7) had a statistically significantly higher risk of contralateral breast cancer compared with unexposed women who carried the wild-type genotype (0.01-0.99 Gy: RR = 2.8, 95% CI = 1.2 to 6.5; > or =1.0 Gy: RR = 3.3, 95% CI = 1.4 to 8.0) or compared with unexposed women who carried the same predicted deleterious missense variant (0.01-0.99 Gy: RR = 5.3, 95% CI = 1.6 to 17.3; > or =1.0 Gy: RR = 5.8, 95% CI = 1.8 to 19.0; P(trend) = .044).<h4>Conclusions</h4>Women who carry rare deleterious ATM missense variants and who are treated with radiation may have an elevated risk of developing contralateral breast cancer. However, the rarity of these deleterious missense variants in human populations implies that ATM mutations could account for only a small portion of second primary breast cancers."
+      }
+    ],
+    "files": [
+      {
+        "path": "djq055_1.pdf",
+        "size": 56489,
+        "type": "file"
+      },
+      {
+        "path": "djq055_2.pdf",
+        "size": 26128,
+        "type": "file"
+      },
+      {
+        "path": "djq055_index.html",
+        "size": 896,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "U01 CA083178"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "R01 CA097397"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NIA NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "R01 AG014358"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "R01 CA129639"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Journal of the National Cancer Institute"
+          },
+          {
+            "name": "Volume",
+            "value": "102(7)"
+          },
+          {
+            "name": "Pages",
+            "value": "475-83"
+          },
+          {
+            "name": "Publication date",
+            "value": "2010 Apr"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1093/jnci/djq055",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "10.1093/jnci/djq055",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC2902825",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "20305132",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Bernstein JL"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Haile RW"
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Stovall M"
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Boice JD"
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Shore RE"
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Langholz B"
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Thomas DC"
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Bernstein L"
+          }
+        ]
+      },
+      {
+        "accno": "a9",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Lynch CF"
+          }
+        ]
+      },
+      {
+        "accno": "a10",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Olsen JH"
+          }
+        ]
+      },
+      {
+        "accno": "a11",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Malone KE"
+          }
+        ]
+      },
+      {
+        "accno": "a12",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Mellemkjaer L"
+          }
+        ]
+      },
+      {
+        "accno": "a13",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Borresen-Dale AL"
+          }
+        ]
+      },
+      {
+        "accno": "a14",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Rosenstein BS"
+          }
+        ]
+      },
+      {
+        "accno": "a15",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Teraoka SN"
+          }
+        ]
+      },
+      {
+        "accno": "a16",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Diep AT"
+          }
+        ]
+      },
+      {
+        "accno": "a17",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Smith SA"
+          }
+        ]
+      },
+      {
+        "accno": "a18",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Capanu M"
+          }
+        ]
+      },
+      {
+        "accno": "a19",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Reiner AS"
+          }
+        ]
+      },
+      {
+        "accno": "a20",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Liang X"
+          }
+        ]
+      },
+      {
+        "accno": "a21",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Gatti RA"
+          }
+        ]
+      },
+      {
+        "accno": "a22",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Concannon P"
+          }
+        ]
+      },
+      {
+        "accno": "a23",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "WECARE Study Collaborative Group"
+          }
+        ]
+      },
+      {
+        "accno": "a24",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Bernstein JL"
+          }
+        ]
+      },
+      {
+        "accno": "a25",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Begg CB"
+          }
+        ]
+      },
+      {
+        "accno": "a26",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Capanu M"
+          }
+        ]
+      },
+      {
+        "accno": "a27",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Orlow I"
+          }
+        ]
+      },
+      {
+        "accno": "a28",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Liang X"
+          }
+        ]
+      },
+      {
+        "accno": "a29",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Reiner AS"
+          }
+        ]
+      },
+      {
+        "accno": "a30",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Layne TM"
+          }
+        ]
+      },
+      {
+        "accno": "a31",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Bernstein L"
+          }
+        ]
+      },
+      {
+        "accno": "a32",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Donnelly-Allen L"
+          }
+        ]
+      },
+      {
+        "accno": "a33",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Olsen JH"
+          }
+        ]
+      },
+      {
+        "accno": "a34",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Andersson M"
+          }
+        ]
+      },
+      {
+        "accno": "a35",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Bertelsen L"
+          }
+        ]
+      },
+      {
+        "accno": "a36",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Guldberg P"
+          }
+        ]
+      },
+      {
+        "accno": "a37",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Mellemkjaer L"
+          }
+        ]
+      },
+      {
+        "accno": "a38",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Malone KE"
+          }
+        ]
+      },
+      {
+        "accno": "a39",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Epstein N"
+          }
+        ]
+      },
+      {
+        "accno": "a40",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Boice JD"
+          }
+        ]
+      },
+      {
+        "accno": "a41",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Borg A"
+          }
+        ]
+      },
+      {
+        "accno": "a42",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Torngren T"
+          }
+        ]
+      },
+      {
+        "accno": "a43",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Tellhed L"
+          }
+        ]
+      },
+      {
+        "accno": "a44",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Rosenstein BS"
+          }
+        ]
+      },
+      {
+        "accno": "a45",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Atencio DP"
+          }
+        ]
+      },
+      {
+        "accno": "a46",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Seminara D"
+          }
+        ]
+      },
+      {
+        "accno": "a47",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Shore RE"
+          }
+        ]
+      },
+      {
+        "accno": "a48",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Borresen-Dale AL"
+          }
+        ]
+      },
+      {
+        "accno": "a49",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Jansen L"
+          }
+        ]
+      },
+      {
+        "accno": "a50",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Anton-Culver H"
+          }
+        ]
+      },
+      {
+        "accno": "a51",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Largent J"
+          }
+        ]
+      },
+      {
+        "accno": "a52",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Gatti A"
+          }
+        ]
+      },
+      {
+        "accno": "a53",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Lynch CF"
+          }
+        ]
+      },
+      {
+        "accno": "a54",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "DeWall J"
+          }
+        ]
+      },
+      {
+        "accno": "a55",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Haile RW"
+          }
+        ]
+      },
+      {
+        "accno": "a56",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Langholz B"
+          }
+        ]
+      },
+      {
+        "accno": "a57",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Thomas DC"
+          }
+        ]
+      },
+      {
+        "accno": "a58",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Xue S"
+          }
+        ]
+      },
+      {
+        "accno": "a59",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Zhou N"
+          }
+        ]
+      },
+      {
+        "accno": "a60",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Diep AT"
+          }
+        ]
+      },
+      {
+        "accno": "a61",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Ter-Karapetova E"
+          }
+        ]
+      },
+      {
+        "accno": "a62",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Thompson WD"
+          }
+        ]
+      },
+      {
+        "accno": "a63",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Stovall M"
+          }
+        ]
+      },
+      {
+        "accno": "a64",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Buchholz T"
+          }
+        ]
+      },
+      {
+        "accno": "a65",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Smith SA"
+          }
+        ]
+      },
+      {
+        "accno": "a66",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Concannon P"
+          }
+        ]
+      },
+      {
+        "accno": "a67",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Teraoka SN"
+          }
+        ]
+      },
+      {
+        "accno": "a68",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Olson ER"
+          }
+        ]
+      },
+      {
+        "accno": "a69",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Ramchurren N"
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Epidemiology and Biostatistics, Memorial Sloan-Kettering Cancer Center, 307 E 63rd St Fl 3, New York, NY 10065, USA."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

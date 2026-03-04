@@ -1,0 +1,155 @@
+{
+  "accno": "S-EPMC5364485",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Redshifted Cherenkov Radiation for in vivo Imaging: Coupling Cherenkov Radiation Energy Transfer to multiple Forster Resonance Energy Transfers."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2017-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Redshifted Cherenkov Radiation for in vivo Imaging: Coupling Cherenkov Radiation Energy Transfer to multiple Forster Resonance Energy Transfers."
+      },
+      {
+        "name": "Abstract",
+        "value": "Cherenkov Radiation (CR), this blue glow seen in nuclear reactors, is an optical light originating from energetic β-emitter radionuclides. CR emitter <sup>90</sup>Y triggers a cascade of energy transfers in the presence of a mixed population of fluorophores (which each other match their respective absorption and emission maxima): Cherenkov Radiation Energy Transfer (CRET) first, followed by multiple Förster Resonance Energy transfers (FRET): CRET ratios were calculated to give a rough estimate of the transfer efficiency. While CR is blue-weighted (300-500 nm), such cascades of Energy Transfers allowed to get a) fluorescence emission up to 710 nm, which is beyond the main CR window and within the near-infrared (NIR) window where biological tissues are most transparent, b) to amplify this emission and boost the radiance on that window: EMT6-tumor bearing mice injected with both a radionuclide and a mixture of fluorophores having a good spectral overlap, were shown to have nearly a two-fold radiance boost (measured on a NIR window centered on the emission wavelength of the last fluorophore in the Energy Transfer cascade) compared to a tumor injected with the radionuclide only. Some CR embarked light source could be converted into a near-infrared radiation, where biological tissues are most transparent."
+      }
+    ],
+    "files": [
+      {
+        "path": "srep45063-s1.pdf",
+        "size": 192491,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Scientific reports"
+          },
+          {
+            "name": "Volume",
+            "value": "7"
+          },
+          {
+            "name": "Pages",
+            "value": "45063"
+          },
+          {
+            "name": "Publication date",
+            "value": "2017 Mar"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1038/srep45063",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC5364485",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "28338043",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Bernhard Y"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Collin B"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Decreau RA"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0003-4205-0092"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Institut de Chimie Moléculaire, ICMUB CNRS UMR6302, University of Burgundy Franche-Comté, 9 avenue Alain Savary, 21078, Dijon, France."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

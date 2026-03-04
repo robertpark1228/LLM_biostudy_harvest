@@ -1,0 +1,299 @@
+{
+  "accno": "S-EPMC7034035",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Senolytics (DQ) Mitigates Radiation Ulcers by Removing Senescent Cells."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2019-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Senolytics (DQ) Mitigates Radiation Ulcers by Removing Senescent Cells."
+      },
+      {
+        "name": "Abstract",
+        "value": "Radiation ulcers are a prevalent toxic side effect in patients receiving radiation therapy. At present, there is still no effective treatment for the complication. Senescent cells accumulate after radiation exposure, which can induce cell and tissue dysfunction. Here we demonstrate increased expression of p16 (a senescence biomarker) in human radiation ulcers after radiotherapy and radiation-induced persistent cell senescence in animal ulcer models. Furthermore, senescent cells secreted the senescence-associated secretory phenotype (SASP) and induced cell senescence in adjacent cells, which was alleviated by JAK inhibition. In addition, the clearance of senescent cells following treatment with a senolytics cocktail, Dasatinib plus Quercetin (DQ), mitigated radiation ulcers. Finally, DQ induced tumor cell apoptosis and enhanced radiosensitivity in representative CAL-27 and MCF-7 cell lines. Our results demonstrate that cell senescence is involved in the development of radiation ulcers and that elimination of senescent cells might be a viable strategy for patients with this condition."
+      }
+    ],
+    "files": [
+      {
+        "path": "Data_Sheet_1.PDF",
+        "size": 24558,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "National Basic Research Program of China"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Frontiers in oncology"
+          },
+          {
+            "name": "Volume",
+            "value": "9"
+          },
+          {
+            "name": "Pages",
+            "value": "1576"
+          },
+          {
+            "name": "Publication date",
+            "value": "2019"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.3389/fonc.2019.01576",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC7034035",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "32117790",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Wang H"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Wang Z"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Huang Y"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Zhou Y"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Sheng X"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Jiang Q"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Wang Y"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Luo P"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a9",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Luo M"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a10",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Shi C"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-8264-738X"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Oncology, The Affiliated Hospital of Southwest Medical University, Luzhou, China."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Toxicology, Key Laboratory of Environmental Pollution Monitoring and Disease Control, Ministry of Education, Guizhou Medical University, Guiyang, China."
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Hunan Branch Center, National Tissue Engineering Center of China, Translational Medical Center, Central Laboratory, Hunan Cancer Hospital and The Affiliated Cancer Hospital of Xiangya School of Medicine, Central South University, Changsha, China."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "State Key Laboratory of Trauma, Burns and Combined Injury, Institute of Rocket Force Medicine, Third Military Medical University, Chongqing, China."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

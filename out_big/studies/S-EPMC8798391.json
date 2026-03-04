@@ -1,0 +1,204 @@
+{
+  "accno": "S-EPMC8798391",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "A narrative review of combining radiation and immunotherapy in gastroesophageal cancers."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2021-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "A narrative review of combining radiation and immunotherapy in gastroesophageal cancers."
+      },
+      {
+        "name": "Abstract",
+        "value": "Despite advances in chemotherapy, radiation, and surgery, prognosis in gastroesophageal cancers (GEC) remains poor. Recent studies have demonstrated that immune checkpoint inhibitors specific to the PD-1/PD-L1 axis can improve survival with dramatic durability for a subset of patients with GEC. Radiation therapy (RT) has been shown to enhance priming and anti-tumor immunogenicity. The combination of these two treatments has shown promising results acting synergistically in pre-clinical and clinical models. Much of this synergy appears linked to in-field radiation responses, but also the abscopal response where out-of-field tumors demonstrate regression. In this review, we summarize the current role of immunotherapy and radiation in GEC. We also highlight progress from preclinical studies and translational biomarker analyses that provide rationale for ongoing efforts combining immune checkpoint inhibition and radiotherapy specifically in GECs. Questions that remain unanswered in the clinic are the optimal radiation dosing, timing, and fractionation strategies to augment abscopal immune responses. Increasing recognition of the heterogeneity of immunosuppressive mechanisms that can arise in response to radiation indicates the need for novel immune checkpoint inhibitors that target beyond the PD-1/PD-L1 axis. Smartly designed prospective trials incorporating these two approaches with ongoing translational analyses will be critical in increasing the success of combinatorial radiation and immunotherapy strategies in this disease."
+      }
+    ],
+    "links": [
+      [
+        {
+          "url": "NCT02743494",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT03776487",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT04221893",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT03165994",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        }
+      ]
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Translational cancer research"
+          },
+          {
+            "name": "Volume",
+            "value": "10(5)"
+          },
+          {
+            "name": "Pages",
+            "value": "2586-2595"
+          },
+          {
+            "name": "Publication date",
+            "value": "2021 May"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.21037/tcr-20-2210",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC8798391",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "35116572",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Yoon K"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Chen YJ"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Chao J"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Internal Medicine, Harbor UCLA Medical Center, Torrance, CA, USA."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Medical Oncology & Therapeutics Research, City of Hope Comprehensive Cancer Center, Duarte, CA, USA."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, City of Hope Comprehensive Cancer Center, Duarte, CA, USA."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

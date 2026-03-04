@@ -1,0 +1,298 @@
+{
+  "accno": "S-EPMC8353511",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Entosis is induced by ultraviolet radiation."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2021-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Entosis is induced by ultraviolet radiation."
+      },
+      {
+        "name": "Abstract",
+        "value": "Entosis is a cell death mechanism that is executed through neighbor cell ingestion and killing that occurs in cancer tissues and during development. Here, we identify JNK and p38 stress-activated kinase signaling as an inducer of entosis in cells exposed to ultraviolet (UV) radiation. Cells with high levels of stress signaling are ingested and killed by those with low levels, a result of heterogeneity arising within cell populations over time. In stressed cells, entosis occurs as part of mixed-cell death response with parallel induction of apoptosis and necrosis, and we find that inhibition of one form of cell death leads to increased rates of another. Together, these findings identify stress-activated kinase signaling as a new inducer of entosis and demonstrate cross talk between different forms of cell death that can occur in parallel in response to UV radiation."
+      }
+    ],
+    "files": [
+      {
+        "path": "mmc1.pdf",
+        "size": 888821,
+        "type": "file"
+      },
+      {
+        "path": "mmc2.mp4",
+        "size": 7633040,
+        "type": "file"
+      }
+    ],
+    "links": [
+      [
+        {
+          "url": "CVCL_HD97",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "cellosaurus"
+            }
+          ]
+        },
+        {
+          "url": "CVCL_0291",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "cellosaurus"
+            }
+          ]
+        }
+      ]
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "American Association for Cancer Research"
+          },
+          {
+            "name": "grant_id",
+            "value": "SU2C-AACR-IRG-01-16"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "American Association for Cancer Research"
+          },
+          {
+            "name": "grant_id",
+            "value": "RO1CA154649"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "National Cancer Institute"
+          },
+          {
+            "name": "grant_id",
+            "value": "RO1CA154649"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "National Cancer Institute"
+          },
+          {
+            "name": "grant_id",
+            "value": "SU2C-AACR-IRG-01-16"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Stand Up To Cancer"
+          },
+          {
+            "name": "grant_id",
+            "value": "SU2C-AACR-IRG-01-16"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "P30 CA008748"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Stand Up To Cancer"
+          },
+          {
+            "name": "grant_id",
+            "value": "RO1CA154649"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "iScience"
+          },
+          {
+            "name": "Volume",
+            "value": "24(8)"
+          },
+          {
+            "name": "Pages",
+            "value": "102902"
+          },
+          {
+            "name": "Publication date",
+            "value": "2021 Aug"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1016/j.isci.2021.102902",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC8353511",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "34401679",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Chen R"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Ram A"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-5924-4646"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Albeck JG"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Overholtzer M"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Cell Biology Program, Memorial Sloan Kettering Cancer Center, New York, NY 10065, USA."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Molecular and Cellular Biology, University of California, Davis, Davis, CA 95616, USA."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

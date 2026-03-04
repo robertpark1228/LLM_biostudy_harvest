@@ -1,0 +1,270 @@
+{
+  "accno": "S-EPMC4267449",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Drosophila melanogaster show a threshold effect in response to radiation."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2014-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Drosophila melanogaster show a threshold effect in response to radiation."
+      },
+      {
+        "name": "Abstract",
+        "value": "We investigate the biological effects of radiation using adult Drosophila melanogaster as a model organism, focusing on gene expression and lifespan analysis to determine the effect of different radiation doses. Our results support a threshold effect in response to radiation: no effect on lifespan and no permanent effect on gene expression is seen at incident radiation levels below 100 J/kg. We also find that it is more appropriate to compare radiation effects in flies using the absorbed energy rather than incident radiation levels."
+      }
+    ],
+    "files": [
+      {
+        "path": "drp-12-551f4.tif",
+        "size": 1911656,
+        "type": "file"
+      },
+      {
+        "path": "drp-12-551f5.tif",
+        "size": 1131336,
+        "type": "file"
+      }
+    ],
+    "links": [
+      [
+        {
+          "url": "GSE47999",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "geo"
+            }
+          ]
+        }
+      ]
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NIA NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "K25 AG028753"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Dose-response : a publication of International Hormesis Society"
+          },
+          {
+            "name": "Volume",
+            "value": "12(4)"
+          },
+          {
+            "name": "Pages",
+            "value": "551-81"
+          },
+          {
+            "name": "Publication date",
+            "value": "2014 Dec"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.2203/dose-response.13-047.Antosh",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "10.2203/dose-response.13-047.antosh",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC4267449",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "25552957",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Antosh M"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Fox D"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Hasselbacher T"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Lanou R"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Neretti N"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-9552-1663"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Cooper LN"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Physics, Brown University."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Institute for Brain and Neural Systems, Brown University;"
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Institute for Brain and Neural Systems, Brown University; ; Department of Molecular Biology, Cell Biology and Biochemistry, Brown University."
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Institute for Brain and Neural Systems, Brown University; ; Department of Physics, Brown University."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

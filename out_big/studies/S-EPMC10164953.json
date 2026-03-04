@@ -1,0 +1,209 @@
+{
+  "accno": "S-EPMC10164953",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Radiation upregulates macrophage TREM-1 expression to exacerbate injury in mice."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2023-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Radiation upregulates macrophage TREM-1 expression to exacerbate injury in mice."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Introduction</h4>Exposure to high-dose ionizing radiation causes tissue injury, infections and even death due to immune dysfunction. The triggering receptor expressed on myeloid cells-1 (TREM-1) has been demonstrated to critically amplify and dysregulate immune responses. However, the role of TREM-1 in radiation injury remains unknown. Extracellular cold-inducible RNA-binding protein (eCIRP), a new damage-associated molecular pattern, is released from activated or stressed cells during inflammation. We hypothesized that ionizing radiation upregulates TREM-1 expression via eCIRP release to worsen survival.<h4>Methods</h4>RAW264.7 cells and peritoneal macrophages collected from C57BL/6 wild-type (WT) mice were exposed to 5- and 10-Gray (Gy) radiation. C57BL/6 WT and CIRP-/- mice underwent 10-Gy total body irradiation (TBI). TREM-1 expression on RAW264.7 cells and peritoneal macrophages in vitro and in vivo were evaluated by flow cytometry. eCIRP levels in cell culture supernatants and in peritoneal lavage isolated from irradiated mice were evaluated by Western blotting. We also evaluated 30-day survival in C57BL/6 WT, CIRP-/- and TREM-1-/- mice after 6.5-Gy TBI.<h4>Results</h4>The surface protein and mRNA levels of TREM-1 in RAW264.7 cells were significantly increased at 24 h after 5- and 10-Gy radiation exposure. TREM-1 expression on peritoneal macrophages was significantly increased after radiation exposure in vitro and in vivo. eCIRP levels were significantly increased after radiation exposure in cell culture supernatants of peritoneal macrophages in vitro and in peritoneal lavage in vivo. Moreover, CIRP-/- mice exhibited increased survival after 6.5-Gy TBI compared to WT mice. Interestingly, TREM-1 expression on peritoneal macrophages in CIRP-/- mice was significantly decreased compared to that in WT mice at 24 h after 10-Gy TBI. Furthermore, 30-day survival in TREM-1-/- mice was significantly increased to 64% compared to 20% in WT mice after 6.5-Gy TBI.<h4>Conclusion</h4>Our data indicate that ionizing radiation increases TREM-1 expression in macrophages via the release of eCIRP, and TREM-1 contributes to worse survival after total body irradiation. Thus, targeting TREM-1 could have the potential to be developed as a novel medical countermeasure for radiation injury."
+      }
+    ],
+    "files": [
+      {
+        "path": "Image_1.tif",
+        "size": 1529248,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NIAID NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "U01 AI170018"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Frontiers in immunology"
+          },
+          {
+            "name": "Volume",
+            "value": "14"
+          },
+          {
+            "name": "Pages",
+            "value": "1151250"
+          },
+          {
+            "name": "Publication date",
+            "value": "2023"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.3389/fimmu.2023.1151250",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC10164953",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "37168858",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Yamaga S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Murao A"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Ma G"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Brenner M"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Aziz M"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Wang P"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Center for Immunology and Inflammation, The Feinstein Institutes for Medical Research, Manhasset, NY, United States."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

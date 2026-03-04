@@ -1,0 +1,165 @@
+{
+  "accno": "S-EPMC5315567",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Radiation and circulatory disease."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2016-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Radiation and circulatory disease."
+      },
+      {
+        "name": "Abstract",
+        "value": "Exposure to therapeutic doses of ionizing radiation is associated with damage to the heart and coronary arteries. However, only recently have studies with high-quality individual dosimetry data allowed this risk to be quantified while also adjusting for concomitant chemotherapy, and medical and lifestyle risk factors. At lower levels of exposure the evidence is less clear. In this article I review radiation-associated risks of circulatory disease in groups treated with radiotherapy for malignant and non-malignant disease, and in occupationally- or environmentally-exposed groups receiving rather lower levels of radiation dose, also for medical diagnostic purposes. Results of a meta-analysis suggest that excess relative risks per unit dose for various types of heart disease do not exhibit statistically significant (p>0.2) heterogeneity between studies. Although there are no marked discrepancies between risks derived from the high-dose therapeutic and medical diagnostic studies and from the moderate/low dose occupational and environmental studies, at least for ischemic heart disease and stroke there are indications of larger risks per unit dose for lower dose rate and fractionated exposures. Risks for stroke and other types of circulatory disease are significantly more variable (p<0.0001), possibly resulting from confounding and effect-modification by well known (but unobserved) risk factors. Adjustment for any of mean dose, dose fractionation or age at exposure results in the residual heterogeneity for cerebrovascular disease becoming non-significant. The review provides strong evidence in support of a causal association between both low and high dose radiation exposure and most types of circulatory disease."
+      }
+    ],
+    "files": [
+      {
+        "path": "NIHMS812600-supplement-1.csv",
+        "size": 3900,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Division of Cancer Epidemiology and Genetics"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Intramural NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "Z99 CA999999"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "National Institutes of Health, the National Cancer Institute"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Mutation research. Reviews in mutation research"
+          },
+          {
+            "name": "Volume",
+            "value": "770(Pt B)"
+          },
+          {
+            "name": "Pages",
+            "value": "299-318"
+          },
+          {
+            "name": "Publication date",
+            "value": "2016 Oct - Dec"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1016/j.mrrev.2016.07.008",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "10.1016/j.mrrev.2016.07.008",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC5315567",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "27919337",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Little MP"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0003-0980-7567"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Radiation Epidemiology Branch, National Cancer Institute, Bethesda, MD 20892-9778, USA. Electronic address: mark.little@nih.gov."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

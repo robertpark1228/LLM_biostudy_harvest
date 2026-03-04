@@ -1,0 +1,320 @@
+{
+  "accno": "S-EPMC5552968",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Harnessing the Power of Nanotechnology for Enhanced Radiation Therapy."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2017-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Harnessing the Power of Nanotechnology for Enhanced Radiation Therapy."
+      },
+      {
+        "name": "Abstract",
+        "value": "Radiotherapy has emerged as one of the first lines of treatment in oncology. The past few decades have seen dramatic changes in the delivery of radiation therapy, with dose fractionation and treatment planning being the major focuses of research. Although effective, such empirical approaches are hardly optimal, and instances of patient mortality and tumor relapse are not rare. In this Perspective, we review the emerging technologies for optimization of radiosensitization, hypoxia modulation, and combinatorial therapeutic regimes for improved treatment outcomes in preclinical tumor models, with a focus on nanotechnology-mediated approaches. Such an approach is expected to open more productive avenues in the advancement of radiation therapy compared to simply modulating the radiation dose delivered to the tumor."
+      }
+    ],
+    "links": [
+      [
+        {
+          "url": "NCT02850419",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        }
+      ]
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "R01 CA169365"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "R01 CA205101"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "P30 CA014520"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "American Cancer Society"
+          },
+          {
+            "name": "grant_id",
+            "value": "125246-RSG-13-099-01-CCE"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "University of Wisconsin - Madison"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "National Institutes of Health"
+          },
+          {
+            "name": "grant_id",
+            "value": "P30CA014520"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "National Institutes of Health"
+          },
+          {
+            "name": "grant_id",
+            "value": "1R01CA205101"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "National Institutes of Health"
+          },
+          {
+            "name": "grant_id",
+            "value": "1R01EB021336"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "National Institutes of Health"
+          },
+          {
+            "name": "grant_id",
+            "value": "NIBIB/NCI 1R01CA169365"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NIBIB NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "R01 EB021336"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "ACS nano"
+          },
+          {
+            "name": "Volume",
+            "value": "11(6)"
+          },
+          {
+            "name": "Pages",
+            "value": "5233-5237"
+          },
+          {
+            "name": "Publication date",
+            "value": "2017 Jun"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1021/acsnano.7b03675",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "10.1021/acsnano.7b03675",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC5552968",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "28621524",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Goel S"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0001-8927-8380"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Ni D"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0001-6679-5414"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Cai W"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Materials Science & Engineering, University of Wisconsin, Madison, Wisconsin 53705, United States"
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiology, University of Wisconsin, Madison, Wisconsin 53705, United States"
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "University of Wisconsin Carbone Cancer Center , Madison, Wisconsin 53705, United States."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

@@ -1,0 +1,190 @@
+{
+  "accno": "S-EPMC8023876",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Effective radiation dose in radiostereometric analysis of the hip."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2020-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Effective radiation dose in radiostereometric analysis of the hip."
+      },
+      {
+        "name": "Abstract",
+        "value": "Background and purpose - Radiostereometric analysis (RSA) is the gold standard to study micromotion of joint replacements. RSA requires the acquisition of additional radiographs increasing the radiation dose of patients included in RSA studies. It is important to keep this dose as low as possible. Effective radiation dose (ED) measurements of RSA radiographs for different joints were done by Teeuwisse et al. some years ago using conventional radiology (CR); for total hip arthroplasty (THA), Teeuwisse et al. reported an ED of 0.150 milliSievert (mSv). With the modern digital radiography (DR) roentgen technique the ED is expected to be less.Material and methods - In this phantom study, simulating a standard patient, the ED for hip RSA radiographs is determined using DR under a variety of different roentgen techniques. The quality of the RSA radiographs was assessed for feasibility in migration analysis using a (semi-)automatic RSA analysis technique in RSA software.Results - A roentgen technique of 90 kV and 12.5 mAs with additional 0.2 copper (Cu) + 1 mm aluminum (Al) external tube filters results in an ED of 0.043 mSv and radiographs suitable for analysis in RSA software.Interpretation - The accumulated ED for a standard patient in a 2-year clinical hip RSA study with 5 follow-up moments and a double acquisition is below the acceptable threshold of 1.0 mSv provided by the EU radiation guideline for studies increasing knowledge for general health."
+      }
+    ],
+    "files": [
+      {
+        "path": "IORT_A_1767443_SM7929.pdf",
+        "size": 29651,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Acta orthopaedica"
+          },
+          {
+            "name": "Volume",
+            "value": "91(4)"
+          },
+          {
+            "name": "Pages",
+            "value": "390-395"
+          },
+          {
+            "name": "Publication date",
+            "value": "2020 Aug"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1080/17453674.2020.1767443",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC8023876",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "32452270",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Blom IF"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Koster LA"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-5874-389X"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Brinke BT"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Mathijssen NMC"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Orthopaedic Surgery, Leids Universitair Medisch Centrum, Leiden, The Netherlands."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Orthopaedic Surgery, Reinier de Graaf Groep, Delft, The Netherlands."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiology, Reinier de Graaf Groep, Delft, The Netherlands."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

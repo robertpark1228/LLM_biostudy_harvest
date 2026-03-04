@@ -1,0 +1,365 @@
+{
+  "accno": "S-EPMC6071169",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Stereotactic Body Radiation Therapy for Hepatocellular Carcinoma: Current Trends and Controversies."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2018-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Stereotactic Body Radiation Therapy for Hepatocellular Carcinoma: Current Trends and Controversies."
+      },
+      {
+        "name": "Abstract",
+        "value": "Hepatocellular carcinoma is the fourth leading cause of cancer-related death worldwide. Depending on the extent of disease and competing comorbidities for mortality, multiple liver-directed therapy options exist for the treatment of hepatocellular carcinoma. Advancements in radiation oncology have led to the emergence of stereotactic body radiation therapy as a promising liver-directed therapy, which delivers high doses of radiation with a steep dose gradient to maximize local tumor control and minimize radiation-induced treatment toxicity. In this study, we review the current clinical data as well as the unresolved issues and controversies regarding stereotactic body radiation therapy for hepatocellular carcinoma: (1) Is there a radiation dose-response relationship with hepatocellular carcinoma? (2) What are the optimal dosimetric predictors of radiation-induced liver disease, and do they differ for patients with varying liver function? (3) How do we assess treatment response on imaging? (4) How does stereotactic body radiation therapy compare to other liver-directed therapy modalities, including proton beam therapy? Based on the current literature discussed, this review highlights future possible research and clinical directions."
+      }
+    ],
+    "links": [
+      [
+        {
+          "url": "NCT03186898",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT01730937",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        }
+      ]
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "The Danish Cancer Society"
+          },
+          {
+            "name": "grant_id",
+            "value": "R191-A11526"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Technology in cancer research & treatment"
+          },
+          {
+            "name": "Volume",
+            "value": "17"
+          },
+          {
+            "name": "Pages",
+            "value": "1533033818790217"
+          },
+          {
+            "name": "Publication date",
+            "value": "2018 Jan"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1177/1533033818790217",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC6071169",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "30068240",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Schaub SK"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-5148-379X"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Hartvigson PE"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Lock MI"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-3782-4463"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Hoyer M"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0001-8609-0008"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Brunner TB"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Cardenes HR"
+          },
+          {
+            "name": "affiliation",
+            "value": "o5",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Dawson LA"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-9068-6872"
+          },
+          {
+            "name": "affiliation",
+            "value": "o6",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kim EY"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a9",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Mayr NA"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a10",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Lo SS"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a11",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Apisarnthanarax S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "1 Department of Radiation Oncology, University of Washington, Seattle, WA, USA."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "2 Department of Radiation Oncology, University of Western Ontario, London, Canada."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "3 Aarhus University Hospital, Danish Center for Particle Therapy, Aarhus, Denmark."
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "4 Klinik für Strahlentherapie, Universitätsklinikum Magdeburg, Magdeburg, Germany."
+          }
+        ]
+      },
+      {
+        "accno": "o5",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "5 Department of Radiation Oncology, Stich Radiation Center, NY, USA."
+          }
+        ]
+      },
+      {
+        "accno": "o6",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "6 Department of Radiation Oncology, Princess Margaret Cancer Centre, University of Toronto, Toronto, Canada."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

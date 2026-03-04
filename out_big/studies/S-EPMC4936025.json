@@ -1,0 +1,257 @@
+{
+  "accno": "S-EPMC4936025",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Phylogenetic context determines the role of competition in adaptive radiation."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2016-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Phylogenetic context determines the role of competition in adaptive radiation."
+      },
+      {
+        "name": "Abstract",
+        "value": "Understanding ecological mechanisms regulating the evolution of biodiversity is of much interest to ecologists and evolutionary biologists. Adaptive radiation constitutes an important evolutionary process that generates biodiversity. Competition has long been thought to influence adaptive radiation, but the directionality of its effect and associated mechanisms remain ambiguous. Here, we report a rigorous experimental test of the role of competition on adaptive radiation using the rapidly evolving bacterium Pseudomonas fluorescens SBW25 interacting with multiple bacterial species that differed in their phylogenetic distance to the diversifying bacterium. We showed that the inhibitive effect of competitors on the adaptive radiation of P. fluorescens decreased as their phylogenetic distance increased. To explain this phylogenetic dependency of adaptive radiation, we linked the phylogenetic distance between P. fluorescens and its competitors to their niche and competitive fitness differences. Competitive fitness differences, which showed weak phylogenetic signal, reduced P. fluorescens abundance and thus diversification, whereas phylogenetically conserved niche differences promoted diversification. These results demonstrate the context dependency of competitive effects on adaptive radiation, and highlight the importance of past evolutionary history for ongoing evolutionary processes."
+      }
+    ],
+    "files": [
+      {
+        "path": "rspb20160241supp1.pdf",
+        "size": 602783,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "British Ecological Society"
+          },
+          {
+            "name": "grant_id",
+            "value": "5174-6216"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Division of Environmental Biology"
+          },
+          {
+            "name": "grant_id",
+            "value": "1257858"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Division of Environmental Biology"
+          },
+          {
+            "name": "grant_id",
+            "value": "1342754"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Division of Ocean Sciences"
+          },
+          {
+            "name": "grant_id",
+            "value": "0851606"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Proceedings. Biological sciences"
+          },
+          {
+            "name": "Volume",
+            "value": "283(1833)"
+          },
+          {
+            "name": "Pages",
+            "value": "20160241"
+          },
+          {
+            "name": "Publication date",
+            "value": "2016 Jun"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1098/rspb.2016.0241",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "10.1098/rspb.2016.0241",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC4936025",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "27335414",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Tan J"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Slattery MR"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Yang X"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Jiang L"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Environmental and Molecular Toxicology, Oregon State University, Corvallis, OR 97330, USA."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "School of Biology, Georgia Institute of Technology, Atlanta, GA 30332, USA jtan@gatech.edu."
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "School of Biology, Georgia Institute of Technology, Atlanta, GA 30332, USA lin.jiang@biology.gatech.edu."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "School of Biology, Georgia Institute of Technology, Atlanta, GA 30332, USA."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

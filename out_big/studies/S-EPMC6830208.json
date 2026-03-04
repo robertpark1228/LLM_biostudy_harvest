@@ -1,0 +1,238 @@
+{
+  "accno": "S-EPMC6830208",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Resolution and dose dependence of radiation damage in biomolecular systems."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2019-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Resolution and dose dependence of radiation damage in biomolecular systems."
+      },
+      {
+        "name": "Abstract",
+        "value": "The local Fourier-space relation between diffracted intensity I, diffraction wavevector q and dose D, , is key to probing and understanding radiation damage by X-rays and energetic particles in both diffraction and imaging experiments. The models used in protein crystallography for the last 50 years provide good fits to experimental I(q) versus nominal dose data, but have unclear physical significance. More recently, a fit to diffraction and imaging experiments suggested that the maximum tolerable dose varies as q -1 or linearly with resolution. Here, it is shown that crystallographic data have been strongly perturbed by the effects of spatially nonuniform crystal irradiation and diffraction during data collection. Reanalysis shows that these data are consistent with a purely exponential local dose dependence, = I 0(q)exp[-D/D e(q)], where D e(q) ∝ q α with α ≃ 1.7. A physics-based model for radiation damage, in which damage events occurring at random locations within a sample each cause energy deposition and blurring of the electron density within a small volume, predicts this exponential variation with dose for all q values and a decay exponent α ≃ 2 in two and three dimensions, roughly consistent with both diffraction and imaging experiments over more than two orders of magnitude in resolution. The B-factor model used to account for radiation damage in crystallographic scaling programs is consistent with α = 2, but may not accurately capture the dose dependencies of structure factors under typical nonuniform illumination conditions. The strong q dependence of radiation-induced diffraction decays implies that the previously proposed 20-30 MGy dose limit for protein crystallography should be replaced by a resolution-dependent dose limit that, for atomic resolution data sets, will be much smaller. The results suggest that the physics underlying basic experimental trends in radiation damage at T ≃ 100 K is straightforward and universal. Deviations of the local I(q, D) from strictly exponential behavior may provide mechanistic insights, especially into the radiation-damage processes responsible for the greatly increased radiation sensitivity observed at T ≃ 300 K."
+      }
+    ],
+    "files": [
+      {
+        "path": "m-06-01040-sup1.pdf",
+        "size": 1725193,
+        "type": "file"
+      },
+      {
+        "path": "m-06-01040-sup2.mp4",
+        "size": 17322383,
+        "type": "file"
+      },
+      {
+        "path": "m-06-01040-sup3.mp4",
+        "size": 4192429,
+        "type": "file"
+      }
+    ],
+    "links": [
+      [
+        {
+          "url": "3e4h",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "pdb"
+            }
+          ]
+        }
+      ]
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "National Science Foundation, Directorate for Biological Sciences"
+          },
+          {
+            "name": "grant_id",
+            "value": "MCB-1330685"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NIGMS NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "R01 GM127528"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "National Institutes of Health, National Institute of General Medical Sciences"
+          },
+          {
+            "name": "grant_id",
+            "value": "R01-GM127528"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "IUCrJ"
+          },
+          {
+            "name": "Volume",
+            "value": "6(Pt 6)"
+          },
+          {
+            "name": "Pages",
+            "value": "1040-1053"
+          },
+          {
+            "name": "Publication date",
+            "value": "2019 Nov"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1107/S2052252519008777",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC6830208",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "31709060",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Atakisi H"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Conger L"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Moreau DW"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Thorne RE"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Cornell University, Ithaca, NY 14853, USA."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Physics Department, Cornell University, Ithaca, NY 14853, USA."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

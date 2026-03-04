@@ -1,0 +1,213 @@
+{
+  "accno": "S-EPMC4070951",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Aspermy, sperm quality and radiation in Chernobyl birds."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2014-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Aspermy, sperm quality and radiation in Chernobyl birds."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Background</h4>Following the Chernobyl nuclear power plant accident, large amounts of radionuclides were emitted and spread in the environment. Animals living in such contaminated areas are predicted to suffer fitness costs including reductions in the quality and quantity of gametes.<h4>Methodology/principal findings</h4>We studied whether aspermy and sperm quality were affected by radioactive contamination by examining ejaculates from wild caught birds breeding in areas varying in background radiation level by more than three orders of magnitude around Chernobyl, Ukraine. The frequency of males with aspermy increased logarithmically with radiation level. While 18.4% of males from contaminated areas had no sperm that was only the case for 3.0% of males from uncontaminated control areas. Furthermore, there were negative relationships between sperm quality as reflected by reduced sperm velocity and motility, respectively, and radiation.<h4>Conclusions/significance</h4>Our results suggest that radioactive contamination around Chernobyl affects sperm production and quality. We are the first to report an interspecific difference in sperm quality in relation to radioactive contamination."
+      }
+    ],
+    "files": [
+      {
+        "path": "pone.0100296.s001.doc",
+        "size": 70656,
+        "type": "file"
+      },
+      {
+        "path": "pone.0100296.s002.doc",
+        "size": 152064,
+        "type": "file"
+      },
+      {
+        "path": "pone.0100296.s003.doc",
+        "size": 61952,
+        "type": "file"
+      },
+      {
+        "path": "pone.0100296.s004.doc",
+        "size": 31232,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "PloS one"
+          },
+          {
+            "name": "Volume",
+            "value": "9(6)"
+          },
+          {
+            "name": "Pages",
+            "value": "e100296"
+          },
+          {
+            "name": "Publication date",
+            "value": "2014"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1371/journal.pone.0100296",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC4070951",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "24963711",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Moller AP"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Bonisoli-Alquati A"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-9255-7556"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Mousseau TA"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-2235-4868"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Rudolfsen G"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0001-7984-8458"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Arctic and Marine Biology, University of Tromsø, Tromsø, Norway."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Laboratoire d'Ecologie, Systématique et Evolution, CNRS Unité Mixte de Recherche 8079, Université Paris-Sud, Bâtiment 362, Orsay Cedex, France."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "University of South Carolina, Department of Biological Sciences, Columbia, South Carolina, United States of America."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

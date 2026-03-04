@@ -1,0 +1,366 @@
+{
+  "accno": "S-EPMC4814325",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Bioluminescence Tomography-Guided Radiation Therapy for Preclinical Research."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2016-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Bioluminescence Tomography-Guided Radiation Therapy for Preclinical Research."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Purpose</h4>In preclinical radiation research, it is challenging to localize soft tissue targets based on cone beam computed tomography (CBCT) guidance. As a more effective method to localize soft tissue targets, we developed an online bioluminescence tomography (BLT) system for small-animal radiation research platform (SARRP). We demonstrated BLT-guided radiation therapy and validated targeting accuracy based on a newly developed reconstruction algorithm.<h4>Methods and materials</h4>The BLT system was designed to dock with the SARRP for image acquisition and to be detached before radiation delivery. A 3-mirror system was devised to reflect the bioluminescence emitted from the subject to a stationary charge-coupled device (CCD) camera. Multispectral BLT and the incomplete variables truncated conjugate gradient method with a permissible region shrinking strategy were used as the optimization scheme to reconstruct bioluminescent source distributions. To validate BLT targeting accuracy, a small cylindrical light source with high CBCT contrast was placed in a phantom and also in the abdomen of a mouse carcass. The center of mass (CoM) of the source was recovered from BLT and used to guide radiation delivery. The accuracy of the BLT-guided targeting was validated with films and compared with the CBCT-guided delivery. In vivo experiments were conducted to demonstrate BLT localization capability for various source geometries.<h4>Results</h4>Online BLT was able to recover the CoM of the embedded light source with an average accuracy of 1 mm compared to that with CBCT localization. Differences between BLT- and CBCT-guided irradiation shown on the films were consistent with the source localization revealed in the BLT and CBCT images. In vivo results demonstrated that our BLT system could potentially be applied for multiple targets and tumors.<h4>Conclusions</h4>The online BLT/CBCT/SARRP system provides an effective solution for soft tissue targeting, particularly for small, nonpalpable, or orthotopic tumor models."
+      }
+    ],
+    "files": [
+      {
+        "path": "NIHMS745124-supplement.pdf",
+        "size": 927406,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "R01CA158100"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "R01 CA158100"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "R01 CA166348"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "International journal of radiation oncology, biology, physics"
+          },
+          {
+            "name": "Volume",
+            "value": "94(5)"
+          },
+          {
+            "name": "Pages",
+            "value": "1144-53"
+          },
+          {
+            "name": "Publication date",
+            "value": "2016 Apr"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1016/j.ijrobp.2015.11.039",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "10.1016/j.ijrobp.2015.11.039",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC4814325",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "26876954",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Zhang B"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Wang KK"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0001-8561-2898"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Yu J"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Eslami S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Iordachita I"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-2510-9008"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Reyes J"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Malek R"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Tran PT"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-0147-0376"
+          },
+          {
+            "name": "affiliation",
+            "value": "o5",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a9",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Patterson MS"
+          },
+          {
+            "name": "affiliation",
+            "value": "o6",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a10",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Wong JW"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o6",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Medical Physics and Applied Radiation Sciences, McMaster University, Hamilton, Ontario, Canada."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology and Molecular Radiation Sciences, Johns Hopkins School of Medicine, Baltimore, Maryland."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology and Molecular Radiation Sciences, Johns Hopkins School of Medicine, Baltimore, Maryland. Electronic address: kwang27@jhmi.edu."
+          }
+        ]
+      },
+      {
+        "accno": "o5",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology and Molecular Radiation Sciences, Johns Hopkins School of Medicine, Baltimore, Maryland; Department of Oncology and Urology, Brady Urological Institute, Johns Hopkins University, Baltimore, Maryland."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology and Molecular Radiation Sciences, Johns Hopkins School of Medicine, Baltimore, Maryland; School of Physics and Information Technology, Shaanxi Normal University, Shaanxi, China."
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Laboratory for Computational Sensing and Robotics, Johns Hopkins University, Baltimore, Maryland."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

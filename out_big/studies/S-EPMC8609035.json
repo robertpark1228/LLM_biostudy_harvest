@@ -1,0 +1,174 @@
+{
+  "accno": "S-EPMC8609035",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Generalized radiation model for human migration."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2021-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Generalized radiation model for human migration."
+      },
+      {
+        "name": "Abstract",
+        "value": "One of the main problems in the study of human migration is predicting how many people will migrate from one place to another. An important model used for this problem is the radiation model for human migration, which models locations as attractors whose attractiveness is moderated by distance as well as attractiveness of neighboring locations. In the model, the measure used for attractiveness is population which is a proxy for economic opportunities and jobs. However, this may not be valid, for example, in developing countries, and fails to take into account people migrating for non-economic reasons such as quality of life. Here, we extend the radiation model to include the number of amenities (offices, schools, leisure places, etc.) as features aside from population. We find that the generalized radiation model outperforms the radiation model by as much as 10.3% relative improvement in mean absolute percentage error based on actual census data five years apart. The best performing model does not even include population information which suggests that amenities already include the information that we get from population. The generalized radiation model provides a measure of feature importance thus presenting another avenue for investigating the effect of amenities on human migration."
+      }
+    ],
+    "files": [
+      {
+        "path": "41598_2021_2109_MOESM1_ESM.pdf",
+        "size": 143788,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Philippine Council for Industry, Energy, and Emerging Technology Research and Development"
+          },
+          {
+            "name": "grant_id",
+            "value": "08501, 2020"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Scientific reports"
+          },
+          {
+            "name": "Volume",
+            "value": "11(1)"
+          },
+          {
+            "name": "Pages",
+            "value": "22707"
+          },
+          {
+            "name": "Publication date",
+            "value": "2021 Nov"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1038/s41598-021-02109-1",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC8609035",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "34811415",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Alis C"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Legara EF"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Monterola C"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Analytics, Computing and Complex Systems Laboratory (ACCeSs@AIM), Asian Institute of Management, 123 Paseo De Roxas, Makati City, 1229, Philippines."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Analytics, Computing and Complex Systems Laboratory (ACCeSs@AIM), Asian Institute of Management, 123 Paseo De Roxas, Makati City, 1229, Philippines. calis@aim.edu."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

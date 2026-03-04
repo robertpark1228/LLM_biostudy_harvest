@@ -1,0 +1,342 @@
+{
+  "accno": "S-EPMC3594431",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "ATM polymorphisms predict severe radiation pneumonitis in patients with non-small cell lung cancer treated with definitive radiation therapy."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2013-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "ATM polymorphisms predict severe radiation pneumonitis in patients with non-small cell lung cancer treated with definitive radiation therapy."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Purpose</h4>The ataxia telangiectasia mutated (ATM) gene mediates detection and repair of DNA damage. We investigated associations between ATM polymorphisms and severe radiation-induced pneumonitis (RP).<h4>Methods and materials</h4>We genotyped 3 potentially functional single nucleotide polymorphisms (SNPs) of ATM (rs1801516 [D1853N/5557G>A], rs189037 [-111G>A] and rs228590) in 362 patients with non-small cell lung cancer (NSCLC), who received definitive (chemo)radiation therapy. The cumulative severe RP probabilities by genotypes were evaluated using the Kaplan-Meier analysis. The associations between severe RP risk and genotypes were assessed by both logistic regression analysis and Cox proportional hazard model with time to event considered.<h4>Results</h4>Of 362 patients (72.4% of non-Hispanic whites), 56 (15.5%) experienced grade ≥3 RP. Patients carrying ATM rs189037 AG/GG or rs228590 TT/CT genotypes or rs189037G/rs228590T/rs1801516G (G-T-G) haplotype had a lower risk of severe RP (rs189037: GG/AG vs AA, adjusted hazard ratio [HR] = 0.49, 95% confidence interval [CI], 0.29-0.83, P=.009; rs228590: TT/CT vs CC, HR=0.57, 95% CI, 0.33-0.97, P=.036; haplotype: G-T-G vs A-C-G, HR=0.52, 95% CI, 0.35-0.79, P=.002). Such positive findings remained in non-Hispanic whites.<h4>Conclusions</h4>ATM polymorphisms may serve as biomarkers for susceptibility to severe RP in non-Hispanic whites. Large prospective studies are required to confirm our findings."
+      }
+    ],
+    "files": [
+      {
+        "path": "NIHMS423042-supplement-01.pdf",
+        "size": 527258,
+        "type": "file"
+      }
+    ],
+    "links": [
+      [
+        {
+          "url": "rs189037",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refsnp"
+            }
+          ]
+        },
+        {
+          "url": "rs228590",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refsnp"
+            }
+          ]
+        },
+        {
+          "url": "rs1801516",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refsnp"
+            }
+          ]
+        }
+      ]
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "R01 CA131274"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NIEHS NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "R01 ES011740"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "International journal of radiation oncology, biology, physics"
+          },
+          {
+            "name": "Volume",
+            "value": "85(4)"
+          },
+          {
+            "name": "Pages",
+            "value": "1066-73"
+          },
+          {
+            "name": "Publication date",
+            "value": "2013 Mar"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1016/j.ijrobp.2012.09.024",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "10.1016/j.ijrobp.2012.09.024",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC3594431",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "23154078",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Xiong H"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Liao Z"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Liu Z"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Xu T"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Wang Q"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Liu H"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Komaki R"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Gomez D"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a9",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Wang LE"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a10",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Wei Q"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Epidemiology, The University of Texas M. D. Anderson Cancer Center, Holcombe Blvd, Houston, Texas, USA"
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Oncology, Tongji Hospital, Tongji Medical College, Huazhong University of Science and Technology, 1095 Jiefang Avenue, Wuhan, China."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, The University of Texas M. D. Anderson Cancer Center, Holcombe Blvd, Houston, Texas, USA"
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

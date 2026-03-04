@@ -1,0 +1,281 @@
+{
+  "accno": "S-EPMC4431353",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Soft X-Ray Microscopy Radiation Damage On Fixed Cells Investigated With Synchrotron Radiation FTIR Microscopy."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2015-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Soft X-Ray Microscopy Radiation Damage On Fixed Cells Investigated With Synchrotron Radiation FTIR Microscopy."
+      },
+      {
+        "name": "Abstract",
+        "value": "Radiation damage of biological samples remains a limiting factor in high resolution X-ray microscopy (XRM). Several studies have attempted to evaluate the extent and the effects of radiation damage, proposing strategies to minimise or prevent it. The present work aims to assess the impact of soft X-rays on formalin fixed cells on a systematic manner. The novelty of this approach resides on investigating the radiation damage not only with XRM, as often reported in relevant literature on the topic, but by coupling it with two additional independent non-destructive microscopy methods: Atomic Force Microscopy (AFM) and FTIR Microscopy (FTIRM). Human Embryonic Kidney 293 cells were exposed to different radiation doses at 1 keV. In order to reveal possible morphological and biochemical changes, the irradiated cells were systematically analysed with AFM and FTIRM before and after. Results reveal that while cell morphology is not substantially affected, cellular biochemical profile changes significantly and progressively when increasing dose, resulting in a severe breakdown of the covalent bonding network. This information impacts most soft XRM studies on fixed cells and adds an in-depth understanding of the radiation damage for developing better prevention strategies."
+      }
+    ],
+    "files": [
+      {
+        "path": "srep10250-s1.pdf",
+        "size": 954333,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Scientific reports"
+          },
+          {
+            "name": "Volume",
+            "value": "5"
+          },
+          {
+            "name": "Pages",
+            "value": "10250"
+          },
+          {
+            "name": "Publication date",
+            "value": "2015 May"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1038/srep10250",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC4431353",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "25974639",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Gianoncelli A"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Vaccari L"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0003-2355-114X"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kourousias G"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Cassese D"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Bedolla DE"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0003-1902-1517"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kenig S"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0003-4272-3058"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Storici P"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-2590-3332"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Lazzarino M"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0003-1077-6569"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a9",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kiskinova M"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "1] Elettra - Sincrotrone Trieste, 34149, Basovizza, Trieste, Italy [2] Physics Department, University of Trieste, 34127 Trieste, Italy."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Elettra - Sincrotrone Trieste, 34149, Basovizza, Trieste, Italy."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "IOM-CNR Laboratorio TASC, 34149, Basovizza, Trieste, Italy."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

@@ -1,0 +1,241 @@
+{
+  "accno": "S-EPMC6181979",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Effects of Thymoquinone on radiation enteritis in mice."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2018-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Effects of Thymoquinone on radiation enteritis in mice."
+      },
+      {
+        "name": "Abstract",
+        "value": "Radiation enteritis is an old but emerging question induced by the application of radiation. However, no effective drugs for radiation enteritis in clinic. In this study, we found that thymoquinone (TQ) could mitigate intestinal damages induced by irradiation. After exposure to irradiation, TQ-treated improved the irradiated mice survival rate, ameliorated intestinal injury and increased the numbers of intestinal crypts. Furthermore, Lgr5<sup>+</sup> ISCs and their daughter cells, including Vil1<sup>+</sup> enterocytes, Ki67<sup>+</sup> cells and lysozyme<sup>+</sup> Paneth cells, were all significantly increased with TQ treatment. In addition, P53, γH2AX, caspase8, caspase9 and caspase3 expression were all reduced by TQ. Our data showed that TQ modulated DNA damages and decreased the apoptosis in the small intestine. TQ might be used for radiation enteritis treatment."
+      }
+    ],
+    "files": [
+      {
+        "path": "41598_2018_33214_MOESM1_ESM.docx",
+        "size": 167822,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Scientific reports"
+          },
+          {
+            "name": "Volume",
+            "value": "8(1)"
+          },
+          {
+            "name": "Pages",
+            "value": "15122"
+          },
+          {
+            "name": "Publication date",
+            "value": "2018 Oct"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1038/s41598-018-33214-3",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC6181979",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "30310156",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Hou Q"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Liu L"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Dong Y"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Wu J"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Du L"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Dong H"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Li D"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Institute of Radiation Medicine, Chinese Academy of Medical Science and Peking Union Medical College, Tianjin Key Laboratory of Radiation Medicine and Molecular Nuclear Medicine, Tianjin, 300192, China."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Institute of Radiation Medicine, Chinese Academy of Medical Science and Peking Union Medical College, Tianjin Key Laboratory of Radiation Medicine and Molecular Nuclear Medicine, Tianjin, 300192, China. donghui@irm-cams.ac.cn."
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Institute of Radiation Medicine, Chinese Academy of Medical Science and Peking Union Medical College, Tianjin Key Laboratory of Radiation Medicine and Molecular Nuclear Medicine, Tianjin, 300192, China. lideguan@irm-cams.ac.cn."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Tianjin Hospital of Itcwm Nankai Hospital, Department of prediatrics, Tianjin, 300100, China."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

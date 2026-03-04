@@ -1,0 +1,245 @@
+{
+  "accno": "S-EPMC9109157",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Variation in Use of High-Cost Technologies for Palliative Radiation Therapy by Radiation Oncologists."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2021-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Variation in Use of High-Cost Technologies for Palliative Radiation Therapy by Radiation Oncologists."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Background</h4>Understanding the sources of variation in the use of high-cost technologies is important for developing effective strategies to control costs of care. Palliative radiation therapy (RT) is a discretionary treatment and its use may vary based on patient and clinician factors.<h4>Methods</h4>Using data from the SEER-Medicare linked database, we identified patients diagnosed with metastatic lung, prostate, breast, and colorectal cancers in 2010 through 2015 who received RT, and the radiation oncologists who treated them. The costs of radiation services for each patient over a 90-day episode were calculated, and radiation oncologists were assigned to cost quintiles. The use of advanced technologies (eg, intensity-modulated radiation, stereotactic RT) and the number of RT treatments (eg, any site, bone only) were identified. Multivariable random-effects models were constructed to estimate the proportion of variation in the use of advanced technologies and extended fractionation (>10 fractions) that could be explained by patient fixed effects versus physician random effects.<h4>Results</h4>We identified 37,361 patients with metastatic lung cancer, 3,684 with metastatic breast cancer, 5,323 with metastatic prostate cancer, and 8,726 with metastatic colorectal cancer, with 34%, 27%, 22%, and 9% receiving RT within the first year, respectively. The use of advanced technologies and extended fractionation was associated with higher costs of care. Compared with the patient case-mix, physician variation accounted for a larger proportion of the variation in the use of advanced technologies for palliative RT and the use of extended fractionation.<h4>Conclusions</h4>Differences in radiation oncologists' practice and choices, rather than differences in patient case-mix, accounted for a greater proportion of the variation in the use of advanced technologies and high-cost radiation services."
+      }
+    ],
+    "files": [
+      {
+        "path": "NIHMS1802253-supplement-1.pdf",
+        "size": 552788,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "R01 CA207216"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "P30 CA016672"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Journal of the National Comprehensive Cancer Network : JNCCN"
+          },
+          {
+            "name": "Volume",
+            "value": "19(4)"
+          },
+          {
+            "name": "Pages",
+            "value": "421-431"
+          },
+          {
+            "name": "Publication date",
+            "value": "2021 Apr"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.6004/jnccn.2020.7633",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "10.6004/jnccn.2020.7633",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC9109157",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "33578375",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Chen AB"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Niu J"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Cronin AM"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Shih YT"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0001-7290-3864"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Giordano S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Schrag D"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "1The University of Texas MD Anderson Cancer Center, Houston, Texas; and."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "2Division of Population Sciences and the Center for Outcomes and Policy Research, Dana-Farber Cancer Institute, Boston, Massachusetts."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

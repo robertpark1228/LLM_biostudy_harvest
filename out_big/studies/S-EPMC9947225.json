@@ -1,0 +1,446 @@
+{
+  "accno": "S-EPMC9947225",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Remote Global Radiation Oncology Education and Training: A Pathway to Increase Access to High-Quality Radiation Therapy Services in Low- and Middle-Income Countries."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2023-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Remote Global Radiation Oncology Education and Training: A Pathway to Increase Access to High-Quality Radiation Therapy Services in Low- and Middle-Income Countries."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Purpose</h4>There is a vital need to train radiation therapy professionals in low- and middle-income countries (LMICs) to develop sustainable cancer treatment capacity and infrastructure. LMICs have started to introduce intensity modulated radiation therapy (IMRT), which is the standard of care in high-income countries, because of improved outcomes and reduced toxicities. This work reports the efficacy of a complementary asynchronous plus synchronous virtual-training approach on improving radiation therapy professions' self-confidence levels and evaluating participants' attitudes toward asynchronous and synchronous didactic hands-on learning in 3 LMICs.<h4>Methods and materials</h4>Training was provided to 37 participants from Uganda, Guatemala, and Mongolia, which included 4 theoretical lectures, 4 hands-on sessions, and 8 self-guided online videos. The 36-day training focused on IMRT contouring, site-specific target/organ definition, planning/optimization, and quality assurance. Participants completed pre- and postsession confidence surveys on a 0 to 10 scale, which was converted to a 5-point Likert rating scale to evaluate the training outcomes. The pros and cons of the 3 different training formats were compared.<h4>Results</h4>The participants included 15 (40.5%) radiation oncologists, 11 (29.7%) medical physicists, 6 (16.2%) radiation therapists, and 5 (13.5%) dosimetrists. Approximately 50% had more than 10 years of radiation therapy experience, 70.8% had no formal IMRT training, and only 25% had IMRT at their institutions. The average experience and confidence levels in using IMRT at baseline were 3.2 and 2.9, which increased to 5.2 and 4.9 (<i>P</i> < .001) after the theoretical training. After the hands-on training, the experience and confidence levels further improved to 5.4 and 5.5 (<i>P</i> < .001). After the self-guided training, the confidence levels increased further to 6.9 (<i>P</i> < .01). Among the 3 different training sessions, hands-on trainings (58.3%) were most helpful for the development of participants' IMRT skills, followed by theoretical sessions with 25%.<h4>Conclusions</h4>After completing the training sessions, Uganda and Mongolia started IMRT treatments. Remote training provides an excellent and feasible e-learning platform to train radiation therapy professionals in LMICs. The training program improved the IMRT confidence levels and treatment delivery. The hands-on trainings were most preferred."
+      }
+    ],
+    "files": [
+      {
+        "path": "mmc1.docx",
+        "size": 276802,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Advances in radiation oncology"
+          },
+          {
+            "name": "Volume",
+            "value": "8(3)"
+          },
+          {
+            "name": "Pages",
+            "value": "101180"
+          },
+          {
+            "name": "Publication date",
+            "value": "2023 May-Jun"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1016/j.adro.2023.101180",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC9947225",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "36846439",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kavuma A"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kibudde S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Schmidt M"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Zhao T"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Gay H"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Li B"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Michalski J"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Hugo G"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a9",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Vanchinbazar E"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a10",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Minjgee M"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a11",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Nansalmaa E"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a12",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Ssewamala F"
+          },
+          {
+            "name": "affiliation",
+            "value": "o5",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a13",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Velarde A"
+          },
+          {
+            "name": "affiliation",
+            "value": "o6",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a14",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "De Fella V"
+          },
+          {
+            "name": "affiliation",
+            "value": "o7",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a15",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Ixquiac M"
+          },
+          {
+            "name": "affiliation",
+            "value": "o7",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a16",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Henke L"
+          },
+          {
+            "name": "affiliation",
+            "value": "o7",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a17",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "van Rheenen J"
+          },
+          {
+            "name": "affiliation",
+            "value": "o8",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a18",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Sun B"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o5",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Brown School, Washington University in St. Louis, St. Louis, Missouri."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, School of Medicine, Washington University in St. Louis, St. Louis, Missouri."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Therapy, Uganda Cancer Institute, Kampala, Uganda."
+          }
+        ]
+      },
+      {
+        "accno": "o8",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Global Health Center, Institute for Public Health, Washington University in St. Louis, St. Louis, Missouri."
+          }
+        ]
+      },
+      {
+        "accno": "o7",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Liga Nacional Contra el Cancer/Instituto de Cancerologia, Guatemala City, Guatemala."
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "National Cancer Center of Mongolia, Ulaanbaatar, Mongolia."
+          }
+        ]
+      },
+      {
+        "accno": "o6",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Perelman School of Medicine, University of Pennsylvania & Center for Global Health, Philadelphia, Pennsylvania."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Rayos Contra Cancer, Nashville, Tennessee."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

@@ -1,0 +1,130 @@
+{
+  "accno": "S-EPMC1635482",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "African cichlid fish: a model system in adaptive radiation research."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2006-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "African cichlid fish: a model system in adaptive radiation research."
+      },
+      {
+        "name": "Abstract",
+        "value": "The African cichlid fish radiations are the most diverse extant animal radiations and provide a unique system to test predictions of speciation and adaptive radiation theory. The past few years have seen major advances in the phylogenetics, evolutionary biogeography and ecology of cichlid fish. Most of this work has concentrated on the most diverse radiations. Unfortunately, a large number of small radiations and 'non-radiations' have been overlooked, potentially limiting the contribution of the cichlid system to our understanding of speciation and adaptive radiation. I have reviewed the literature to identify 33 intralacustrine radiations and 76 failed radiations. For as many as possible I collected information on lake size, age and phylogenetic relationships. I use these data to address two questions: (i) whether the rate of speciation and the resulting species richness are related to temporal and spatial variation in ecological opportunity and (ii) whether the likelihood of undergoing adaptive radiation is similar for different African cichlid lineages. The former is a key prediction of the ecological theory of adaptive radiation that has been presumed true but remains untested for cichlid radiations. The second is based on the hypothesis that the propensity of cichlids to radiate is due to a key evolutionary innovation shared by all African cichlids. The evidence suggests that speciation rate declines through time as niches get filled up during adaptive radiation: young radiations and early stages of old radiations are characterized by high rates of speciation, whereas at least 0.5 Myr into a radiation speciation becomes a lot less frequent. The number of species in cichlid radiations increases with lake size, supporting the prediction that species diversity increases with habitat heterogeneity, but also with opportunity for isolation by distance. Finally, the data suggest that the propensity to radiate within lakes is a derived property that evolved during the evolutionary history of some African cichlids, and the appearance of which does not coincide with the appearance of proposed key innovations in morphology and life history."
+      }
+    ],
+    "files": [
+      {
+        "path": "rspb20063539s01.pdf",
+        "size": 41389,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Proceedings. Biological sciences"
+          },
+          {
+            "name": "Volume",
+            "value": "273(1597)"
+          },
+          {
+            "name": "Pages",
+            "value": "1987-98"
+          },
+          {
+            "name": "Publication date",
+            "value": "2006 Aug"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1098/rspb.2006.3539",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "10.1098/rspb.2006.3539",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC1635482",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "16846905",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Seehausen O"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Aquatic Ecology and Evolution, Institute of Zoology, University of Bern, Switzerland. ole.seehausen@aqua.unibe.ch"
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

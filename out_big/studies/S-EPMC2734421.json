@@ -1,0 +1,329 @@
+{
+  "accno": "S-EPMC2734421",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Phase II study of bevacizumab with concurrent capecitabine and radiation followed by maintenance gemcitabine and bevacizumab for locally advanced pancreatic cancer: Radiation Therapy Oncology Group RTOG 0411."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2009-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Phase II study of bevacizumab with concurrent capecitabine and radiation followed by maintenance gemcitabine and bevacizumab for locally advanced pancreatic cancer: Radiation Therapy Oncology Group RTOG 0411."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Purpose</h4>The primary objective of this study was to assess the 1-year survival of patients with locally advanced, unresectable pancreatic cancer treated with the combination of bevacizumab, capecitabine, and radiation. Secondary end points were toxicity, progression-free survival (PFS), and response rate (RR).<h4>Patients and methods</h4>Patients with locally advanced pancreatic cancer without duodenal invasion were treated with 50.4 Gy per 28 fractions to the gross tumor with concurrent capecitabine 825 mg/m(2) orally twice daily on days of radiation and bevacizumab 5 mg/kg on days 1, 15, and 29 followed by maintenance gemcitabine 1 g/m(2) weekly for 3 weeks and bevacizumab 5 mg/kg every 2 weeks, both in 4-week cycles until progression. Treatment plans were reviewed for quality assurance (QA).<h4>Results</h4>Between January 2005 and February 2006, 82 eligible patients were treated. The median and 1-year survival rates were 11.9 months (95% CI, 9.9 to 14.0 months) and 47% (95% CI, 36% to 57%). Median PFS was 8.6 months (95% CI, 6.9 to 10.5), and RR was 26%. Overall, 35.4% of patients had grade 3 or greater treatment-related gastrointestinal toxicity (22.0% during chemoradiotherapy, 13.4% during maintenance chemotherapy). Unacceptable radiotherapy protocol deviations (ie, inappropriately generous volume contoured) correlated with grade 3 or greater gastrointestinal toxicity during chemoradiotherapy (45% v 18%; adjusted odds ratio, 3.7; 95% CI, 0.98 to 14.1; P = .05).<h4>Conclusion</h4>The addition of bevacizumab to chemoradiotherapy followed by bevacizumab and gemcitabine resulted in a similar median survival to previous Radiation Therapy Oncology Group studies in patients with locally advanced pancreatic cancer. Prospective QA may help limit toxicity in future trials."
+      }
+    ],
+    "links": [
+      [
+        {
+          "url": "NCT00114179",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        }
+      ]
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "U10 CA021661"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "U10 CA032115"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "U10 CA32115"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "U10 CA37422"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "U10 CA037422"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "U10 CA21661"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology"
+          },
+          {
+            "name": "Volume",
+            "value": "27(25)"
+          },
+          {
+            "name": "Pages",
+            "value": "4096-102"
+          },
+          {
+            "name": "Publication date",
+            "value": "2009 Sep"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1200/JCO.2009.21.8529",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "10.1200/jco.2009.21.8529",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC2734421",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "19636002",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Crane CH"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Winter K"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Regine WF"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Safran H"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Rich TA"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Curran W"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Wolff RA"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Willett CG"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, The University of Texas M. D. Anderson Cancer Center, 1515 Holcombe Blvd., Houston, TX 77030, USA. ccrane@mdanderson.org"
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "From the Department of Radiation Oncology and Gastrointestinal Medical Oncology, The University of Texas M. D. Anderson Cancer Center, Houston, TX; Radiation Therapy Oncology Group, Philadelphia, PA; Department of Radiation Oncology, University of Maryland, Baltimore, MD; Department of Medical Oncology, Brown University, Providence, RI; Department of Radiation Oncology, University of Virginia, Charlottesville, VA; Department of Radiation Oncology, Emory University, Atlanta, GA; and Department of Radiation Oncology, Duke University, Durham, NC."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

@@ -1,0 +1,289 @@
+{
+  "accno": "S-EPMC5182021",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Conformational variation of proteins at room temperature is not dominated by radiation damage."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2017-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Conformational variation of proteins at room temperature is not dominated by radiation damage."
+      },
+      {
+        "name": "Abstract",
+        "value": "Protein crystallography data collection at synchrotrons is routinely carried out at cryogenic temperatures to mitigate radiation damage. Although damage still takes place at 100 K and below, the immobilization of free radicals increases the lifetime of the crystals by approximately 100-fold. Recent studies have shown that flash-cooling decreases the heterogeneity of the conformational ensemble and can hide important functional mechanisms from observation. These discoveries have motivated increasing numbers of experiments to be carried out at room temperature. However, the trade-offs between increased risk of radiation damage and increased observation of alternative conformations at room temperature relative to cryogenic temperature have not been examined. A considerable amount of effort has previously been spent studying radiation damage at cryo-temperatures, but the relevance of these studies to room temperature diffraction is not well understood. Here, the effects of radiation damage on the conformational landscapes of three different proteins (T. danielli thaumatin, hen egg-white lysozyme and human cyclophilin A) at room (278 K) and cryogenic (100 K) temperatures are investigated. Increasingly damaged datasets were collected at each temperature, up to a maximum dose of the order of 10<sup>7</sup> Gy at 100 K and 10<sup>5</sup> Gy at 278 K. Although it was not possible to discern a clear trend between damage and multiple conformations at either temperature, it was observed that disorder, monitored by B-factor-dependent crystallographic order parameters, increased with higher absorbed dose for the three proteins at 100 K. At 278 K, however, the total increase in this disorder was only statistically significant for thaumatin. A correlation between specific radiation damage affecting side chains and the amount of disorder was not observed. This analysis suggests that elevated conformational heterogeneity in crystal structures at room temperature is observed despite radiation damage, and not as a result thereof."
+      }
+    ],
+    "files": [
+      {
+        "path": "s-24-00073-sup1.pdf",
+        "size": 332413,
+        "type": "file"
+      }
+    ],
+    "links": [
+      [
+        {
+          "url": "4c3c",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "pdb"
+            }
+          ]
+        },
+        {
+          "url": "3v88",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "pdb"
+            }
+          ]
+        }
+      ]
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "DP5 OD009180"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NIGMS NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "R21 GM110580"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NIGMS NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "P41 GM103393"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Journal of synchrotron radiation"
+          },
+          {
+            "name": "Volume",
+            "value": "24(Pt 1)"
+          },
+          {
+            "name": "Pages",
+            "value": "73-82"
+          },
+          {
+            "name": "Publication date",
+            "value": "2017 Jan"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1107/S1600577516017343",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC5182021",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "28009548",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Russi S"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-9666-1465"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Gonzalez A"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kenner LR"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Keedy DA"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Fraser JS"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-5080-2859"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "van den Bedem H"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0003-2358-841X"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Bioscience Department, SLAC National Accelerator Laboratory, Menlo Park, CA 94025, USA."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Bioengineering and Therapeutic Sciences, UCSF, San Francisco, CA, USA."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Stanford Synchrotron Radiation Lightsource, SLAC National Accelerator Laboratory, Menlo Park, CA 94025, USA."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

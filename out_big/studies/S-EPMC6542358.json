@@ -1,0 +1,232 @@
+{
+  "accno": "S-EPMC6542358",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Model-Interpolated Gating for Magnetic Resonance Image-Guided Radiation Therapy."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2018-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Model-Interpolated Gating for Magnetic Resonance Image-Guided Radiation Therapy."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Purpose</h4>To develop and validate a technique for radiation therapy gating using slow (≤1 frame per second) magnetic resonance imaging (MRI) and a motion model. Proposed uses of the technique include radiation therapy gating using T2-weighted images and conducting additional imaging studies during gated treatments.<h4>Methods and materials</h4>The technique uses a physiologically guided breathing motion model to interpolate deformed target position between 2-dimensional (2D) MRI images acquired every 1 to 3 seconds. The model is parameterized by a 1-dimensional respiratory bellows surrogate and is continuously updated with the most recently acquired 2D images. A phantom and 8 volunteers were imaged with a 0.35T MRI-guided radiation therapy system. A balanced steady-state free precession sequence with a 2D frame rate of 3 frames per second was used to evaluate the technique. The accuracy and beam-on positive predictive value (PPV) of the model-based gating decisions were evaluated using the gating decisions derived from imaging as a ground truth. A T2-weighted gating offline proof-of-concept study using a half-Fourier, single-shot, turbo-spin echo sequence is reported.<h4>Results</h4>Model-interpolated gating accuracy, beam-on PPV, and median absolute distances between model and image-tracked target centroids were, on average, 98.3%, 98.4%, and 0.33 mm, respectively, in the balanced steady-state free precession phantom studies and 93.7%, 92.1%, and 0.86 mm, respectively, in the volunteer studies. T2 model-interpolated gating in 6 volunteers yielded an average accuracy and PPV of 94.3% and 92.5%, respectively, and the mean absolute median distance between modeled and imaged target centroids was 0.86 mm.<h4>Conclusions</h4>This work demonstrates the concept of model-interpolated gating for MRI-guided radiation therapy. The technique was found to be potentially sufficiently accurate for clinical use. Further development is needed to accommodate out-of-plane motion and the use of an internal MR-based respiratory surrogate."
+      }
+    ],
+    "files": [
+      {
+        "path": "NIHMS968119-supplement-1.docx",
+        "size": 227226,
+        "type": "file"
+      },
+      {
+        "path": "NIHMS968119-supplement-2.mp4",
+        "size": 3757845,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NIBIB NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "T32 EB002101"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "International journal of radiation oncology, biology, physics"
+          },
+          {
+            "name": "Volume",
+            "value": "102(4)"
+          },
+          {
+            "name": "Pages",
+            "value": "885-894"
+          },
+          {
+            "name": "Publication date",
+            "value": "2018 Nov"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1016/j.ijrobp.2018.05.012",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "10.1016/j.ijrobp.2018.05.012",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC6542358",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "29970314",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Ginn JS"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-5694-9392"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "O'Connell D"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Thomas DH"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Low DA"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Lamb JM"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, David Geffen School of Medicine, University of California, Los Angeles, Los Angeles, California."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, David Geffen School of Medicine, University of California, Los Angeles, Los Angeles, California. Electronic address: jginn@mednet.ucla.edu."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, University of Colorado School of Medicine, University of Colorado, Aurora, Colorado."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

@@ -1,0 +1,186 @@
+{
+  "accno": "S-EPMC8060663",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Dermatologic toxicities associated with radiation therapy in women with breast cancer."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2020-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Dermatologic toxicities associated with radiation therapy in women with breast cancer."
+      },
+      {
+        "name": "Abstract",
+        "value": "Breast-conserving surgery with adjuvant radiation therapy has become the standard of care for women with early stage breast cancer, and as a result, a large number of patients are affected by the cutaneous sequelae of radiation therapy. These dermatologic toxicities may present during treatment or years later and can significantly impact patients' quality of life. In this review, we discuss the clinical presentation, prevention, and management of radiation-induced cutaneous toxicities in women with breast cancer, including radiation dermatitis, radiation recall, radiation-induced morphea, radiation-induced fibrosis, and cutaneous malignancies in irradiated skin."
+      }
+    ],
+    "files": [
+      {
+        "path": "mmc1.pdf",
+        "size": 787639,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "National Cancer Institute"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "National Institutes of Health"
+          },
+          {
+            "name": "grant_id",
+            "value": "P30CA016359"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCATS NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "UL1 TR001863"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "International journal of women's dermatology"
+          },
+          {
+            "name": "Volume",
+            "value": "6(5)"
+          },
+          {
+            "name": "Pages",
+            "value": "349-356"
+          },
+          {
+            "name": "Publication date",
+            "value": "2020 Dec"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1016/j.ijwd.2020.07.015",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC8060663",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "33898697",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Ramseier JY"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Ferreira MN"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Leventhal JS"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Dermatology, Yale School of Medicine, New Haven, CT, United States."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

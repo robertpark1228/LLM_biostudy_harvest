@@ -1,0 +1,300 @@
+{
+  "accno": "S-EPMC8317587",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Trends in Radiation Therapy for Bone Metastases, 2015 to 2017: Choosing Wisely in the Era of Complex Radiation."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2021-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Trends in Radiation Therapy for Bone Metastases, 2015 to 2017: Choosing Wisely in the Era of Complex Radiation."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Purpose</h4>Guidelines recommend short-course (≤10 fractions) external-beam radiation therapy (EBRT) for bone metastases. Stereotactic body radiation therapy (SBRT) may also improve outcomes; however, routine use is not recommended outside clinical trials. We assessed national radiation therapy trends in complex techniques for bone metastases and associated expenditures.<h4>Methods and materials</h4>Using a claims-based Medicare data set covering 84% of beneficiaries, we assessed the relative proportion of all radiation episodes represented by bone metastases. We then evaluated use of short-course and long-course (>10 fractions) EBRT, intensity modulated radiation therapy (IMRT), and SBRT for bone metastases in hospital-affiliated outpatient (OPD) or freestanding (FREE) facilities. We assessed differences using χ<sup>2</sup>d or Wilcoxon rank sum tests for categorical and continuous variables, respectively. We identified associations with modality, fractionation, and expenditures using multivariable logistic/linear regression.<h4>Results</h4>Among 467,781 radiation episodes for 17 cancer diagnoses, the overall proportion of episodes dedicated to bone metastases (9.4%) was stable from 2015 to 2017, although treatments were increasing in the hospital-affiliated outpatient setting (P < .005). We identified 40,993 episodes for bone metastases, of which 63% were short-course EBRT, 24% were long-course EBRT, 7% were SBRT, and 6% were IMRT. Techniques more common in the hospital-affiliated outpatient setting included short-course EBRT (OPD, 69%, vs FREE, 56%) and SBRT (OPD, 9%, vs FREE, 5%). Techniques more common among free-standing centers included long-course EBRT (OPD, 19%, vs FREE, 31%) and IMRT (OPD, 4%, vs FREE, 9%). From 2015 to 2017, long-course EBRT decreased by an absolute 8%; short-course EBRT, SBRT, and IMRT increased by 4%, 2.5%, and 1%, respectively. The SBRT/IMRT uptake did not differ by setting (P = .4). Differences in expenditures between SBRT and short-course EBRT decreased by a relative 8% in professional and 12% in technical fees.<h4>Conclusions</h4>Approximately 1 in 4 patients received long-course EBRT, with small reductions in use largely replaced by complex treatment modalities. However, expenditures for complex modalities also decreased over time. As alternative payment models take effect, quality metrics are needed to ensure appropriate, effective, and safe delivery of complex technologies."
+      }
+    ],
+    "files": [
+      {
+        "path": "NIHMS1715197-supplement-1.docx",
+        "size": 73311,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "National Comprehensive Cancer Network"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "K08 CA252640"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "P30 CA008748"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "International journal of radiation oncology, biology, physics"
+          },
+          {
+            "name": "Volume",
+            "value": "109(4)"
+          },
+          {
+            "name": "Pages",
+            "value": "923-931"
+          },
+          {
+            "name": "Publication date",
+            "value": "2021 Mar"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1016/j.ijrobp.2020.11.016",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "10.1016/j.ijrobp.2020.11.016",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC8317587",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "33188862",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Santos PMG"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Lapen K"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Zhang Z"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Lobaugh S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Tsai CJ"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Yang TJ"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Bekelman JE"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Gillespie EF"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Epidemiology and Biostatistics, Memorial Sloan Kettering Cancer Center, New York, New York."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Abramson Cancer Center, Hospital of the University of Pennsylvania, Philadelphia, Pennsylvania."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Memorial Sloan Kettering Cancer Center, New York, New York."
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Memorial Sloan Kettering Cancer Center, New York, New York; Center for Health Policy and Outcomes, Memorial Sloan Kettering Cancer Center, New York, New York. Electronic address: efgillespie@ucsd.edu."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

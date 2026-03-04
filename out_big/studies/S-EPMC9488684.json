@@ -1,0 +1,170 @@
+{
+  "accno": "S-EPMC9488684",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Ionizing radiation and melanism in Chornobyl tree frogs."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2022-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Ionizing radiation and melanism in Chornobyl tree frogs."
+      },
+      {
+        "name": "Abstract",
+        "value": "Human actions are altering ecosystems worldwide. Among human-released pollutants, ionizing radiation arises as a rare but potentially devastating threat to natural systems. The Chornobyl accident (1986) represents the largest release of radioactive material to the environment. Our aim was to examine how exposure to radiation from the Chornobyl accident influences dorsal skin coloration of Eastern tree frog (<i>Hyla orientalis</i>) males sampled across a wide gradient of radioactive contamination in northern Ukraine. We assessed the relationship between skin frog coloration (which can act as a protective mechanism against ionizing radiation), radiation conditions and oxidative stress levels. Skin coloration was darker in localities closest to areas with high radiation levels at the time of the accident, whereas current radiation levels seemed not to influence skin coloration in Chornobyl tree frogs. Tree frogs living within the Chornobyl Exclusion Zone had a remarkably darker dorsal skin coloration than frogs from outside the Zone. The maintenance of dark skin coloration was not linked to physiological costs in terms of frog body condition or oxidative status, and we did not detect short-term changes in frog coloration. Dark coloration is known to protect against different sources of radiation by neutralizing free radicals and reducing DNA damage, and, particularly melanin pigmentation has been proposed as a buffering mechanism against ionizing radiation. Our results suggest that exposure to high levels of ionizing radiation, likely at the time of the accident, may have been selected for darker coloration in Chornobyl tree frogs. Further studies are needed to determine the underlying mechanisms and evolutionary consequences of the patterns found here."
+      }
+    ],
+    "files": [
+      {
+        "path": "EVA-15-1469-s001.docx",
+        "size": 92705,
+        "type": "file"
+      }
+    ],
+    "links": [
+      [
+        {
+          "url": "10.6084/m9.figshare.15124218.v1",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "doi"
+            }
+          ]
+        }
+      ]
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "HORIZON EUROPE Marie Sklodowska-Curie Actions"
+          },
+          {
+            "name": "grant_id",
+            "value": "METAGE‐797879"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Evolutionary applications"
+          },
+          {
+            "name": "Volume",
+            "value": "15(9)"
+          },
+          {
+            "name": "Pages",
+            "value": "1469-1479"
+          },
+          {
+            "name": "Publication date",
+            "value": "2022 Sep"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1111/eva.13476",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC9488684",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "36187188",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Burraco P"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-9007-2643"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Orizaola G"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-6748-966X"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Animal Ecology, Department of Ecology and Genetics, Evolutionary Biology Centre Uppsala University Uppsala Sweden."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

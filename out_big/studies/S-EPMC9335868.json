@@ -1,0 +1,338 @@
+{
+  "accno": "S-EPMC9335868",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Cylindrical Metalens for Generation and Focusing of Free-Electron Radiation."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2022-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Cylindrical Metalens for Generation and Focusing of Free-Electron Radiation."
+      },
+      {
+        "name": "Abstract",
+        "value": "Metasurfaces constitute a powerful approach to generate and control light by engineering optical material properties at the subwavelength scale. Recently, this concept was applied to manipulate free-electron radiation phenomena, rendering versatile light sources with unique functionalities. In this Letter, we experimentally demonstrate spectral and angular control over coherent light emission by metasurfaces that interact with free-electrons under grazing incidence. Specifically, we study metalenses based on chirped metagratings that simultaneously emit and shape Smith-Purcell radiation in the visible and near-infrared spectral regime. In good agreement with theory, we observe the far-field signatures of strongly convergent and divergent cylindrical radiation wavefronts using <i>in situ</i> hyperspectral angle-resolved light detection in a scanning electron microscope. Furthermore, we theoretically explore simultaneous control over the polarization and wavefront of Smith-Purcell radiation via a split-ring-resonator metasurface, enabling tunable operation by spatially selective mode excitation at nanometer resolution. Our work highlights the potential of merging metasurfaces with free-electron excitations for versatile and highly tunable radiation sources in wide-ranging spectral regimes."
+      }
+    ],
+    "files": [
+      {
+        "path": "nl1c04556_si_001.pdf",
+        "size": 1243858,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Israel Science Foundation"
+          },
+          {
+            "name": "grant_id",
+            "value": "1415/17"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "H2020 Future and Emerging Technologies"
+          },
+          {
+            "name": "grant_id",
+            "value": "101017720"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "European Research Council"
+          },
+          {
+            "name": "grant_id",
+            "value": "695343"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Dutch Research Council (NWO)"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Israel Academy of Sciences and Humanities"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "H2020 Leadership in Enabling and Industrial Technologies"
+          },
+          {
+            "name": "grant_id",
+            "value": "10101932"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Nano letters"
+          },
+          {
+            "name": "Volume",
+            "value": "22(14)"
+          },
+          {
+            "name": "Pages",
+            "value": "5641-5650"
+          },
+          {
+            "name": "Publication date",
+            "value": "2022 Jul"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1021/acs.nanolett.1c04556",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC9335868",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "35791573",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Karnieli A"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Roitman D"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-1111-026X"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Liebtrau M"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Tsesses S"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0003-0167-3402"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Van Nielen N"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kaminer I"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0003-2691-1892"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Arie A"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Polman A"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Andrew and Erna Viterbi Department of Electrical Engineering, Technion-Israel Institute of Technology, Haifa 32000, Israel."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Center for Nanophotonics, NWO-Institute AMOLF, Science Park 104, 1098 XG Amsterdam, The Netherlands."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Raymond and Beverly Sackler School of Physics and Astronomy, Tel Aviv University, Tel Aviv 69978, Israel."
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "School of Electrical Engineering, Fleischman Faculty of Engineering, Tel Aviv University, Tel Aviv 69978, Israel."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

@@ -1,0 +1,297 @@
+{
+  "accno": "S-EPMC6036380",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Influence of respiratory motion management technique on radiation pneumonitis risk with robotic stereotactic body radiation therapy."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2018-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Influence of respiratory motion management technique on radiation pneumonitis risk with robotic stereotactic body radiation therapy."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Purpose/objectives</h4>For lung stereotactic body radiation therapy (SBRT), real-time tumor tracking (RTT) allows for less radiation to normal lung compared to the internal target volume (ITV) method of respiratory motion management. To quantify the advantage of RTT, we examined the difference in radiation pneumonitis risk between these two techniques using a normal tissue complication probability (NTCP) model.<h4>Materials/method</h4>20 lung SBRT treatment plans using RTT were replanned with the ITV method using respiratory motion information from a 4D-CT image acquired at the original simulation. Risk of symptomatic radiation pneumonitis was calculated for both plans using a previously derived NTCP model. Features available before treatment planning that identified significant increase in NTCP with ITV versus RTT plans were identified.<h4>Results</h4>Prescription dose to the planning target volume (PTV) ranged from 22 to 60 Gy in 1-5 fractions. The median tumor diameter was 3.5 cm (range 2.1-5.5 cm) with a median volume of 14.5 mL (range 3.6-59.9 mL). The median increase in PTV volume from RTT to ITV plans was 17.1 mL (range 3.5-72.4 mL), and the median increase in PTV/lung volume ratio was 0.46% (range 0.13-1.98%). Mean lung dose and percentage dose-volumes were significantly higher in ITV plans at all levels tested. The median NTCP was 5.1% for RTT plans and 8.9% for ITV plans, with a median difference of 1.9% (range 0.4-25.5%, pairwise P < 0.001). Increases in NTCP between plans were best predicted by increases in PTV volume and PTV/lung volume ratio.<h4>Conclusions</h4>The use of RTT decreased the risk of radiation pneumonitis in all plans. However, for most patients the risk reduction was minimal. Differences in plan PTV volume and PTV/lung volume ratio may identify patients who would benefit from RTT technique before completing treatment planning."
+      }
+    ],
+    "files": [
+      {
+        "path": "ACM2-19-48-s001.docx",
+        "size": 46554,
+        "type": "file"
+      },
+      {
+        "path": "ACM2-19-48-s002.docx",
+        "size": 40292,
+        "type": "file"
+      },
+      {
+        "path": "ACM2-19-48-s003.docx",
+        "size": 77158,
+        "type": "file"
+      },
+      {
+        "path": "ACM2-19-48-s004.docx",
+        "size": 59056,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Journal of applied clinical medical physics"
+          },
+          {
+            "name": "Volume",
+            "value": "19(4)"
+          },
+          {
+            "name": "Pages",
+            "value": "48-57"
+          },
+          {
+            "name": "Publication date",
+            "value": "2018 Jul"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1002/acm2.12338",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC6036380",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "29700954",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Chapman CH"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "McGuinness C"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Gottschalk AR"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Yom SS"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-0779-7476"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Garsa AA"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Anwar M"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Braunstein SE"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Sudhyadhom A"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-0397-0884"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a9",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Keall P"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0003-4803-6507"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a10",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Descovich M"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-6415-3415"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, University of California San, Francisco, CA, USA."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Sydney Medical School, University of Sydney, Camperdown, Australia."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

@@ -1,0 +1,210 @@
+{
+  "accno": "S-EPMC9310822",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Quality indicators for radiation oncology."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2022-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Quality indicators for radiation oncology."
+      },
+      {
+        "name": "Abstract",
+        "value": "Quality Indicators, based on clinical practice guidelines, have been used in medicine and within oncology to measure quality of care for over twenty years. However, radiation oncology quality indicators are sparse. This article describes the background to the development of current national and international, general and tumour site-specific radiation oncology quality indicators in use. We explore challenges and opportunities to expand their routine prospective collection and feedback to help drive improvements in the quality of care received by people undergoing radiation therapy."
+      }
+    ],
+    "links": [
+      [
+        {
+          "url": "4DCT",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "pdb"
+            }
+          ]
+        }
+      ]
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Journal of medical imaging and radiation oncology"
+          },
+          {
+            "name": "Volume",
+            "value": "66(2)"
+          },
+          {
+            "name": "Pages",
+            "value": "249-257"
+          },
+          {
+            "name": "Publication date",
+            "value": "2022 Mar"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1111/1754-9485.13373",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC9310822",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "35243788",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Harden SV"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0001-6067-7177"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Chiew KL"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Millar J"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Vinod SK"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0001-8075-6219"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Macarthur Cancer Therapy Centre, Campbelltown Hospital, Campbelltown, New South Wales, Australia."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Peter MacCallum Cancer Centre, Melbourne, Victoria, Australia."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "School of Public Health and Preventive Medicine, Monash University, Melbourne, Victoria, Australia."
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "South Western Sydney Clinical School, UNSW Ingham Institute for Applied Medical Research, Liverpool, New South Wales, Australia."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

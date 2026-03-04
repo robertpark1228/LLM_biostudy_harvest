@@ -1,0 +1,221 @@
+{
+  "accno": "S-EPMC11558818",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Toxicity assessment following conventional radiation therapy and pulsed low dose rate radiation therapy: an in vivo animal study."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2024-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Toxicity assessment following conventional radiation therapy and pulsed low dose rate radiation therapy: an in vivo animal study."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Background</h4>Pulsed low dose rate radiotherapy (PLDR) is a new radiation delivery method, in which the fractional dose is divided into sub-fractional doses with periodical time breaks in between. The goal of our study is to assess the toxicity on healthy tissues resulting from PLDR as compared to conventional radiotherapy (CRT) using the same physical X-ray dose.<h4>Methods</h4>We analyzed the weight and survival time for CRT and PLDR groups and studied the inflammatory cytokine transforming Growth Factor-β (TGF-β), usually released following irradiation. Histopathological and immunohistochemical analyses were conducted for intestinal and bone marrow tissues from rats subjected to 8 Gy whole- body irradiation using CRT and PLDR techniques. We investigated genotoxicity by performing a comet assay (CA) in splenic tissues.<h4>Results</h4>Our findings showed an improvement in survival time with PLDR versus CRT by 82%.The mean survival time for CRT rats' group was 6.3 days, while it was 35.9 days for PLDR group.The weight of CRT group decreased gradually by 3.7%, while weight of PLDR group increased gradually by 2.4%.CRT resulted in more cellular atrophy in bone marrow and intestinal tissues than in PLDR treatments as shown by hematoxylin and eosin staining analysis. In addition, the transforming growth factor-β (TGF-β) expression in bone marrow and intestinal tissues of CRT was higher than those expressed in tissues from PLDR as demonstrated by the Immuno reactive score (IRS). It was10(0.53) and 9.8(0.55) for BM and intestinal tissues, respectively from CRT group and 5.8(0.63) for PLDR for both tissues. The measured CA parameters were larger with CRT compared to PLDR, where the Tail Length (TL), Tail DNA % (TD%) and Tail Moment (TM) measurements were 25.4(3.4), 56.5(7.6) % and 20.5(3.5) for CRT, 7.3(1.9), 30.0(7.2) % and 5.7(1.8) for PLDR, with P value 0.000064, 0.0004 and 0.00017, respectively.<h4>Conclusion</h4>This study indicates that PLDR can reduce the toxicity on normal tissues compared to CRT."
+      }
+    ],
+    "files": [
+      {
+        "path": "13014_2024_2545_MOESM1_ESM.xlsx",
+        "size": 12882,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Radiation oncology (London, England)"
+          },
+          {
+            "name": "Volume",
+            "value": "19(1)"
+          },
+          {
+            "name": "Pages",
+            "value": "159"
+          },
+          {
+            "name": "Publication date",
+            "value": "2024 Nov"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1186/s13014-024-02545-z",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC11558818",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "39538311",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Salem NR"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Eldib A"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "El-Sayed EM"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Mostafa E"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Desouky OS"
+          },
+          {
+            "name": "affiliation",
+            "value": "o5",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Physics Department, Faculty of Science, Ain Shams University, Cairo, Egypt."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Radiation Oncology Department, Fox Chase Cancer Center, Philadelphia, PA, USA."
+          }
+        ]
+      },
+      {
+        "accno": "o5",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Radiation Physics Department, Egyptian Atomic Energy Authority (EAEA), Cairo, Egypt."
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Radiation oncology Department, Faculty of Medicine, Ain Shams University, Cairo, Egypt."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Radiation oncology Department, Faculty of Medicine, Ain Shams University, Cairo, Egypt. noharoshdy@med.asu.edu.eg."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

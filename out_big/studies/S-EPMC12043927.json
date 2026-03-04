@@ -1,0 +1,314 @@
+{
+  "accno": "S-EPMC12043927",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Evaluation of deliverable artificial intelligence-based automated volumetric arc radiation therapy planning for whole pelvic radiation in gynecologic cancer."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2025-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Evaluation of deliverable artificial intelligence-based automated volumetric arc radiation therapy planning for whole pelvic radiation in gynecologic cancer."
+      },
+      {
+        "name": "Abstract",
+        "value": "This study aimed to develop a deep learning (DL)-based deliverable whole pelvic volumetric arc radiation therapy (VMAT) for patients with gynecologic cancer using a prototype DL-based automated planning support system, named RatoGuide, to evaluate its clinical validity. In our hospital, 110 patients with gynecologic cancer were registered. The prescribed dose was 50.4 Gy/28 fr. A DL-based three-dimensional dose prediction model was first trained by the dose distribution and structure data of whole pelvic VMAT (n = 100) created on the Monaco treatment planning system (TPS). The structure data of the test data (n = 10) were then input to RatoGuide, and RatoGuide predicted the dose distribution of the whole pelvic VMAT plan (PreDose). We established deliverable plans with Monaco and Eclipse TPS (DeliDose) based on PreDose and vendor-supplied optimization objectives. Medical physicists then manually developed plans (CliDose) for the test data. Finally, we evaluated and compared the dose distribution and dose constraints of PreDose, DeliDose, and CliDose. DeliDose, in both Eclipse and Monaco, was comparable to PreDose in most Dose constraints, planning target volume (PTV) coverage, and Dmax of the bladder, rectum, and bowel bag were better for DeliDose than for PreDose. Additionally, DeliDose demonstrated no significant difference from CliDose in most dose constraints. The blinded average scores of radiation oncologists for DeliDose and CliDose were 4.2 ± 0.4 and 4.3 ± 0.5, respectively, in Eclipse, and 4.0 ± 0.6 and 3.9 ± 0.5, respectively, in Monaco (5 is the max score and 3 is clinically acceptable). We indicated that RatoGuide can eliminate variations in plan quality between hospitals in whole pelvic VMAT irradiation and help develop VMAT plans in a short time."
+      }
+    ],
+    "files": [
+      {
+        "path": "41598_2025_99717_MOESM1_ESM.docx",
+        "size": 20528651,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "JST SPRING"
+          },
+          {
+            "name": "grant_id",
+            "value": "JPMJSP2114"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Scientific reports"
+          },
+          {
+            "name": "Volume",
+            "value": "15(1)"
+          },
+          {
+            "name": "Pages",
+            "value": "15219"
+          },
+          {
+            "name": "Publication date",
+            "value": "2025 Apr"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1038/s41598-025-99717-y",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC12043927",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "40307456",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Xiao Y"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Tanaka S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kadoya N"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Sato K"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kimura Y"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Umezawa R"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Katsuta Y"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Arai K"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a9",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Takahashi H"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a10",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Hoshino T"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a11",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Jingu K"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Tohoku University Graduate School of Medicine, 1-1 Seiryo-machi, Aoba-ku, Sendai, 980-8574, Japan"
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Tohoku University Graduate School of Medicine, 1-1 Seiryo-machi, Aoba-ku, Sendai, 980-8574, Japan. kadoya.n@rad.med.tohoku.ac.jp"
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Radiation Oncology Center, Ofuna Chuo Hospital, Kamakura, Japan"
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Radiation Technology, Tohoku University Hospital, Sendai, Japan"
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

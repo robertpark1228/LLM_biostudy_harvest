@@ -1,0 +1,179 @@
+{
+  "accno": "S-EPMC6871583",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Strategies to Enhance Radiosensitivity to Heavy Ion Radiation Therapy."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2018-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Strategies to Enhance Radiosensitivity to Heavy Ion Radiation Therapy."
+      },
+      {
+        "name": "Abstract",
+        "value": "Heavy ion radiation therapy has been increasingly used due to several advantages over low linear energy transfer (LET) photon therapy, but further improvement of its therapeutic efficacy would be necessary. In this review, we summarize effective radiosensitizers for heavy ion radiation therapy and mechanisms associated with the radiosensitization. High LET heavy ions induce more complex and clustered DNA damage than low LET radiation. Inhibition of homologous recombimation repair or nonhomologous end rejoining and dysfunctional cell cycle checkpoint have been reported to sensitize cancer cells to heavy ions. Radiosenstizing agents, including DNA damage response inhibitors, Hsp90 inhibitors, histone acetylase inhibitors, and nanomaterials have been found to enhance cell killing by heavy ion irradiation through disrupted DNA damage response, cell cycle arrest, or other cellular processes. The use of these radiosensitizers could be a promising strategy to enhance the efficacy of heavy ion radiation therapy."
+      }
+    ],
+    "links": [
+      [
+        {
+          "url": "NCT03373877",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT03166085",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT02965885",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        }
+      ]
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "International journal of particle therapy"
+          },
+          {
+            "name": "Volume",
+            "value": "5(1)"
+          },
+          {
+            "name": "Pages",
+            "value": "114-121"
+          },
+          {
+            "name": "Publication date",
+            "value": "2018"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.14338/IJPT-18-00014.1",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "10.14338/ijpt-18-00014.1",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC6871583",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "31773023",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Lee Y"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Okayasu R"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Center for Radiological Research, Columbia University Medical Center, New York, NY, USA."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Basic Medical Sciences for Radiation Damages, National Institutes for Quantum and Radiological Science and Technology/National Institute of Radiological Sciences, Japan."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

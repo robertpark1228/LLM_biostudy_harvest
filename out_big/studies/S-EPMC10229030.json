@@ -1,0 +1,191 @@
+{
+  "accno": "S-EPMC10229030",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Awareness of Radiation Protection and Common Radiation Dose Levels Among Healthcare Workers."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2023-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Awareness of Radiation Protection and Common Radiation Dose Levels Among Healthcare Workers."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Introduction</h4>Access to ionizing radiation has become widely available for diagnosis and treatment. The increased use of ionizing radiation has been associated with radiation exposure hazards for patients and radiation workers. Raising the level of radiation protection awareness is important to maintain the safety of healthcare settings.<h4>Methods</h4>Online questionnaires were distributed to 755 healthcare workers and students at King Abdulaziz Medical City and King Saud bin Abdulaziz University for Health Sciences, Riyadh, Saudi Arabia. The questionnaire consisted of 14 multiple-choice questions divided into two sections (questions related to radiation protection and common radiologic examination doses).<h4>Results</h4>In total, 443 participants completed the questionnaire, including 142 (32%) medical students, 107 (24%) radiology technologists, 105 (24%) radiography students, and 89 (20%) physicians. Of the participants, 245 (55%) were men. A total of 74 (84%) physicians and 51 (47%) radiology technologists had more than 5 years of experience. Eleven (12%) physicians and 44 (41%) radiology technologists had 1-4 years of experience, whereas the rest had less than 1 year of experience. Only 16% of participants attended training courses on a regular basis. However, 15% of the participants thought that they had excellent knowledge of radiation protection, whereas 18% admitted that they did not have sufficient knowledge. Sixty-two percent of the questions related to radiation protection awareness were answered correctly. Forty-five percent of the participants correctly answered questions related to doses from common radiologic examinations. Only 23% and 16% of participants were aware of the noncontrast chest CT and lumbar x-ray doses, respectively. Moreover, 35% and 24% of participants did not know that pelvic MRI and abdominal ultrasound do not contribute any radiation dose, respectively.<h4>Conclusion</h4>The results showed a knowledge gap regarding radiation protection and dose levels; therefore, periodic refresher courses are recommended for healthcare workers in order to increase the level of awareness."
+      }
+    ],
+    "files": [
+      {
+        "path": "jqsh-06-01-02_s01.docx",
+        "size": 19702,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Global journal on quality and safety in healthcare"
+          },
+          {
+            "name": "Volume",
+            "value": "6(1)"
+          },
+          {
+            "name": "Pages",
+            "value": "1-5"
+          },
+          {
+            "name": "Publication date",
+            "value": "2023 Feb"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.36401/JQSH-22-14",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC10229030",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "37260860",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Alyousef K"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Assiri A"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Almutairi S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Aldalham T"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Felimban G"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "King Abdulaziz Medical City, Riyadh, Saudi Arabia."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "King Saud Bin Abdulaziz University for Health Sciences, Riyadh, Saudi Arabia."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

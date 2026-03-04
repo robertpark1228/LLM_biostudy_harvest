@@ -1,0 +1,201 @@
+{
+  "accno": "S-EPMC10654893",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Glaucomagenesis following ionizing radiation exposure."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2019-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Glaucomagenesis following ionizing radiation exposure."
+      },
+      {
+        "name": "Abstract",
+        "value": "Glaucoma is a group of optic neuropathies causing optic nerve damage and visual field defects, and is one of the leading causes of blindness. Nearly a century has passed since the first report of glaucoma manifested following ionizing radiation therapy of cancers. Nevertheless, associations between glaucoma and radiation exposures, a dose response relationship, and the mechanistic underpinnings remain incompletely understood. Here we review the current knowledge on manifestations and mechanisms of radiogenic glaucoma. There is some evidence that neovascular glaucoma is manifest relatively quickly, within a few years after high-dose and high dose-rate radiotherapeutic exposure, but little evidence of excess risks of glaucoma after exposure to much lower doses or dose rates. As such, glaucoma appears to have some of the characteristics of a tissue reaction effect, with a threshold of at least 5 Gy but possibly much higher."
+      }
+    ],
+    "files": [
+      {
+        "path": "NIHMS1942255-supplement-Supplement.pdf",
+        "size": 419235,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Intramural NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "Z99 CA999999"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Mutation research. Reviews in mutation research"
+          },
+          {
+            "name": "Volume",
+            "value": "779"
+          },
+          {
+            "name": "Pages",
+            "value": "36-44"
+          },
+          {
+            "name": "Publication date",
+            "value": "2019 Jan - Mar"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1016/j.mrrev.2019.01.001",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "10.1016/j.mrrev.2019.01.001",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC10654893",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "31097150",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Hamada N"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0003-2518-6131"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Azizova TV"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0001-6954-2674"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Little MP"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Clinical Department, Southern Urals Biophysics Institute, Ozyorskoe Shosse 19, Ozyorsk Chelyabinsk Region, 456780, Russia. Electronic address: clinic@subi.su."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Radiation Epidemiology Branch, National Cancer Institute, National Institutes of Health, 9609 Medical Center Drive, MSC 9778, Bethesda, MD, 20892-9778, USA. Electronic address: mark.little@nih.gov."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Radiation Safety Research Center, Nuclear Technology Research Laboratory, Central Research Institute of Electric Power Industry (CRIEPI), 2-11-1 Iwado-kita, Komae, Tokyo, 201-8511, Japan. Electronic address: hamada-n@criepi.denken.or.jp."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

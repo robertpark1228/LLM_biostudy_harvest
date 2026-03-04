@@ -1,0 +1,186 @@
+{
+  "accno": "S-EPMC9184472",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Identifying radiation responsive exon-regions of genes often used for biodosimetry and acute radiation syndrome prediction."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2022-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Identifying radiation responsive exon-regions of genes often used for biodosimetry and acute radiation syndrome prediction."
+      },
+      {
+        "name": "Abstract",
+        "value": "Gene expression (GE) analysis of FDXR, DDB2, WNT3 and POU2AF1 is a promising approach for identification of clinically relevant groups (unexposed, low- and high exposed) after radiological/nuclear events. However, results from international biodosimetry exercises have shown differences in dose estimates based on radiation-induced GE of the four genes. Also, differences in GE using next-generation-sequening (NGS) and validation with quantitative real-time polymerase chain reaction (qRT-PCR) was reported. These discrepancies could be caused by radiation-responsive differences among exons of the same gene. We performed GE analysis with qRT-PCR using TaqMan-assays covering all exon-regions of FDXR, DDB2, WNT3 and POU2AF1. Peripheral whole blood from three healthy donors was X-irradiated with 0, 0.5 and 4 Gy. After 24 and 48 h a dose-dependent up-regulation across almost all exon-regions for FDXR and DDB2 (4-42-fold) was found. A down-regulation for POU2AF1 (two- to threefold) and WNT3 (< sevenfold) at the 3'-end was found at 4 Gy irradiation only. Hence, this confirms our hypothesis for radiation-responsive exon-regions for WNT3 and POU2AF1, but not for FDXR and DDB2. Finally, we identified the most promising TaqMan-assays for FDXR (e.g. AR7DTG3, Hs00244586_m1), DDB2 (AR47X6H, Hs03044951_m1), WNT3 (Hs00902258_m1, Hs00902257_m1) and POU2AF1 (Hs01573370_g1, Hs01573371_m1) for biodosimetry purposes and acute radiation syndrome prediction, considering several criteria (detection limit, dose dependency, time persistency, inter-individual variability)."
+      }
+    ],
+    "files": [
+      {
+        "path": "41598_2022_13577_MOESM1_ESM.pdf",
+        "size": 573984,
+        "type": "file"
+      },
+      {
+        "path": "41598_2022_13577_MOESM2_ESM.pdf",
+        "size": 787664,
+        "type": "file"
+      },
+      {
+        "path": "41598_2022_13577_MOESM3_ESM.xlsx",
+        "size": 77969,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Scientific reports"
+          },
+          {
+            "name": "Volume",
+            "value": "12(1)"
+          },
+          {
+            "name": "Pages",
+            "value": "9545"
+          },
+          {
+            "name": "Publication date",
+            "value": "2022 Jun"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1038/s41598-022-13577-4",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC9184472",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "35680903",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Schule S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Ostheim P"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Port M"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Abend M"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Bundeswehr Institute of Radiobiology Affiliated to the University Ulm, Neuherbergstr. 11, 80937, Munich, Germany."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Bundeswehr Institute of Radiobiology Affiliated to the University Ulm, Neuherbergstr. 11, 80937, Munich, Germany. michaelabend@bundeswehr.org."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

@@ -1,0 +1,327 @@
+{
+  "accno": "S-EPMC7147983",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Historical contingency shapes adaptive radiation in Antarctic fishes."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2019-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Historical contingency shapes adaptive radiation in Antarctic fishes."
+      },
+      {
+        "name": "Abstract",
+        "value": "Adaptive radiation illustrates links between ecological opportunity, natural selection and the generation of biodiversity. Central to adaptive radiation is the association between a diversifying lineage and the evolution of phenotypic variation that facilitates the use of new environments or resources. However, is not clear whether adaptive evolution or historical contingency is more important for the origin of key phenotypic traits in adaptive radiation. Here we use targeted sequencing of >250,000 loci across 46 species to examine hypotheses concerning the origin and diversification of key traits in the adaptive radiation of Antarctic notothenioid fishes. Contrary to expectations of adaptive evolution, we show that notothenioids experienced a punctuated burst of genomic diversification and evolved key skeletal modifications before the onset of polar conditions in the Southern Ocean. We show that diversifying selection in pathways associated with human skeletal dysplasias facilitates ecologically important variation in buoyancy among Antarctic notothenioid species, and demonstrate the sufficiency of altered trip11, col1a2 and col1a1a function in zebrafish (Danio rerio) to phenocopy skeletal reduction in Antarctic notothenioids. Rather than adaptation being driven by the cooling of the Antarctic, our results highlight the role of historical contingency in shaping the adaptive radiation of notothenioids. Understanding the historical and environmental context for the origin of key traits in adaptive radiations extends beyond reconstructing events that result in evolutionary innovation, as it also provides a context in forecasting the effects of climate change on the stability and evolvability of natural populations."
+      }
+    ],
+    "files": [
+      {
+        "path": "NIHMS1528536-supplement-1.pdf",
+        "size": 3024658,
+        "type": "file"
+      }
+    ],
+    "links": [
+      [
+        {
+          "url": "PRJNA531677",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "bioproject"
+            }
+          ]
+        },
+        {
+          "url": "10.5281/zenodo.2628936",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "doi"
+            }
+          ]
+        }
+      ]
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NIDCR NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "U01 DE024434"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Nature ecology & evolution"
+          },
+          {
+            "name": "Volume",
+            "value": "3(7)"
+          },
+          {
+            "name": "Pages",
+            "value": "1102-1109"
+          },
+          {
+            "name": "Publication date",
+            "value": "2019 Jul"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1038/s41559-019-0914-2",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC7147983",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "31182814",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Daane JM"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0003-3631-4514"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Dornburg A"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Smits P"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "MacGuigan DJ"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0001-5930-5931"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Brent Hawkins M"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Near TJ"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-7398-6670"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "William Detrich Iii H"
+          },
+          {
+            "name": "affiliation",
+            "value": "o5",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Harris MP"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-7201-4693"
+          },
+          {
+            "name": "affiliation",
+            "value": "o6",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Ecology and Evolutionary Biology, Yale University, New Haven, CT, USA."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Marine and Environmental Sciences, Northeastern University Marine Science Center, Nahant, MA, USA. j.daane@northeastern.edu."
+          }
+        ]
+      },
+      {
+        "accno": "o5",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Marine and Environmental Sciences, Northeastern University Marine Science Center, Nahant, MA, USA. w.detrich@northeastern.edu."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "North Carolina Museum of Natural Sciences, Raleigh, NC, USA."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Orthopaedic Research Laboratories, Department of Orthopaedic Surgery, Boston Children's Hospital, Boston, MA, USA."
+          }
+        ]
+      },
+      {
+        "accno": "o6",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Orthopaedic Research Laboratories, Department of Orthopaedic Surgery, Boston Children's Hospital, Boston, MA, USA. harris@genetics.med.harvard.edu."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

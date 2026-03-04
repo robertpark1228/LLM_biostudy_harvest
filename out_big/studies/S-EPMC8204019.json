@@ -1,0 +1,170 @@
+{
+  "accno": "S-EPMC8204019",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Radiation Resistance: A Matter of Transcription Factors."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2021-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Radiation Resistance: A Matter of Transcription Factors."
+      },
+      {
+        "name": "Abstract",
+        "value": "Currently, radiation therapy is one of the standard therapies for cancer treatment. Since the first applications, the field of radiotherapy has constantly improved, both in imaging technologies and from a dose-painting point of view. Despite this, the mechanisms of resistance are still a great problem to overcome. Therefore, a more detailed understanding of these molecular mechanisms will allow researchers to develop new therapeutic strategies to eradicate cancer effectively. This review focuses on different transcription factors activated in response to radiotherapy and, unfortunately, involved in cancer cells' survival. In particular, ionizing radiations trigger the activation of the immune modulators STAT3 and NF-κB, which contribute to the development of radiation resistance through the up-regulation of anti-apoptotic genes, the promotion of proliferation, the alteration of the cell cycle, and the induction of genes responsible for the Epithelial to Mesenchymal Transition (EMT). Moreover, the ROS-dependent damaging effects of radiation therapy are hampered by the induction of antioxidant enzymes by NF-κB, NRF2, and HIF-1. This protective process results in a reduced effectiveness of the treatment, whose mechanism of action relies mainly on the generation of free oxygen radicals. Furthermore, the previously mentioned transcription factors are also involved in the maintenance of stemness in Cancer Stem Cells (CSCs), a subset of tumor cells that are intrinsically resistant to anti-cancer therapies. Therefore, combining standard treatments with new therapeutic strategies targeted against these transcription factors may be a promising opportunity to avoid resistance and thus tumor relapse."
+      }
+    ],
+    "links": [
+      [
+        {
+          "url": "NCT02724618",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT00892658",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        }
+      ]
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Frontiers in oncology"
+          },
+          {
+            "name": "Volume",
+            "value": "11"
+          },
+          {
+            "name": "Pages",
+            "value": "662840"
+          },
+          {
+            "name": "Publication date",
+            "value": "2021"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.3389/fonc.2021.662840",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC8204019",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "34141616",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Galeaz C"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Totis C"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Bisio A"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-3326-1923"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Laboratory of Radiobiology, Department of Cellular, Computational and Integrative Biology (CIBIO), University of Trento, Trento, Italy."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

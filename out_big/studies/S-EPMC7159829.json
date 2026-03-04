@@ -1,0 +1,151 @@
+{
+  "accno": "S-EPMC7159829",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "NF-kB as a key player in regulation of cellular radiation responses and identification of radiation countermeasures."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2015-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "NF-kB as a key player in regulation of cellular radiation responses and identification of radiation countermeasures."
+      },
+      {
+        "name": "Abstract",
+        "value": "Nuclear factor (NF)-κB is a transcription factor that plays significant role in immunity, cellular survival and inhibition of apoptosis, through the induction of genetic networks. Depending on the stimulus and the cell type, the members of NF-κB related family (RelA, c-Rel, RelB, p50, and p52), forms different combinations of homo and hetero-dimers. The activated complexes (Es) translocate into the nucleus and bind to the 10bp κB site of promoter region of target genes in stimulus specific manner. In response to radiation, NF-κB is known to reduce cell death by promoting the expression of anti-apoptotic proteins and activation of cellular antioxidant defense system. Constitutive activation of NF-κB associated genes in tumour cells are known to enhance radiation resistance, whereas deletion in mice results in hypersensitivity to IR-induced GI damage. NF-κB is also known to regulate the production of a wide variety of cytokines and chemokines, which contribute in enhancing cell proliferation and tissue regeneration in various organs, such as the GI crypts stem cells, bone marrow etc., following exposure to IR. Several other cytokines are also known to exert potent pro-inflammatory effects that may contribute to the increase of tissue damage following exposure to ionizing radiation. Till date there are a series of molecules or group of compounds that have been evaluated for their radio-protective potential, and very few have reached clinical trials. The failure or less success of identified agents in humans could be due to their reduced radiation protection efficacy. In this review we have considered activation of NF-κB as a potential marker in screening of radiation countermeasure agents (RCAs) and cellular radiation responses. Moreover, we have also focused on associated mechanisms of activation of NF-κB signaling and their specified family member activation with respect to stimuli. Furthermore, we have categorized their regulated gene expressions and their function in radiation response or modulation. In addition, we have discussed some recently developed radiation countermeasures in relation to NF-κB activation."
+      }
+    ],
+    "files": [
+      {
+        "path": "discoveries-03-035-s001.pdf",
+        "size": 147866,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Discoveries (Craiova, Romania)"
+          },
+          {
+            "name": "Volume",
+            "value": "3(1)"
+          },
+          {
+            "name": "Pages",
+            "value": "e35"
+          },
+          {
+            "name": "Publication date",
+            "value": "2015 Mar"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.15190/d.2015.27",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC7159829",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "32309561",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Singh V"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Gupta D"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Arora R"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Division of Radiation Biosciences, Institute of Nuclear Medicine & Allied Sciences, Brig SK Mazumdar Marg, Timarpur, Delhi, India."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

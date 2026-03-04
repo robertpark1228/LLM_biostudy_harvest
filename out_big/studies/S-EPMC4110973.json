@@ -1,0 +1,225 @@
+{
+  "accno": "S-EPMC4110973",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "The human salivary proteome is radiation responsive."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2014-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "The human salivary proteome is radiation responsive."
+      },
+      {
+        "name": "Abstract",
+        "value": "In the event of a nuclear incident in a heavily populated area, the surge in demand for medical evaluation will likely overwhelm our emergency care system, compromising our ability to care for victims with life-threatening injuries or exposures. Therefore, there exists a need for a rapidly deployable biological assay for radiation exposure that can be performed in the field by individuals with little to no medical training. Saliva is an attractive biofluid for this purpose, due to the relative ease of its collection and the wide array of biomolecules it contains. To determine whether the human salivary proteome is responsive to ionizing radiation exposure, we characterized the abundances of salivary proteins in humans before and after total body irradiation. Using an assay panel targeting 90 analytes (growth factors, chemokines and cytokines), we identified proteins that were significantly radiation responsive in human saliva. The responses of three proteins (monocyte chemo-attractant protein 1, interleukin 8 and intercellular adhesion molecule 1) were confirmed using independent immunoassay platforms and then verified and further characterized in 130 saliva samples from a completely independent set of 38 patients undergoing total body irradiation. The results demonstrate the potential for detecting radiation exposure based on analysis of human saliva."
+      }
+    ],
+    "files": [
+      {
+        "path": "NIHMS595304-supplement-supplementary_file_1.pdf",
+        "size": 485976,
+        "type": "file"
+      },
+      {
+        "path": "NIHMS595304-supplement-supplementary_file_2.pdf",
+        "size": 102998,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NIAID NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "R01 AI080330"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NIAID NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "R01AI080330"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Radiation research"
+          },
+          {
+            "name": "Volume",
+            "value": "181(5)"
+          },
+          {
+            "name": "Pages",
+            "value": "521-30"
+          },
+          {
+            "name": "Publication date",
+            "value": "2014 May"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1667/RR13586.1",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "10.1667/rr13586.1",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC4110973",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "24720749",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Moore HD"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Ivey RG"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0001-8218-7718"
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Voytovich UJ"
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Lin C"
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Stirewalt DL"
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Pogosova-Agadjanyan EL"
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Paulovich AG"
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Fred Hutchinson Cancer Research Center, Seattle, Washington 98109-1024."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

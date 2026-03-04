@@ -1,0 +1,193 @@
+{
+  "accno": "S-EPMC8944299",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Ultraviolet radiation causes leaf warming due to partial stomatal closure."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2022-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Ultraviolet radiation causes leaf warming due to partial stomatal closure."
+      },
+      {
+        "name": "Abstract",
+        "value": "Variation in solar ultraviolet radiation induces a wide-range of plant responses from the cellular to whole-plant scale. We demonstrate here for the first time that partial stomatal closure caused by ultraviolet radiation exposure results in significant increases in leaf temperature. Significant leaf warming in response to ultraviolet radiation was consistent in tomato (Solanum lycopersicum L.) across different experimental approaches. In field experiments where solar ultraviolet radiation was attenuated using filters, exposure to ultraviolet radiation significantly decreased stomatal conductance and increased leaf temperature by up to 1.5°C. Using fluorescent lamps to provide ultraviolet radiation treatments, smaller but significant increases in leaf temperature due to decreases in stomatal conductance occurred in both multi-day controlled environment growth room experiments and short-term (< 2 hours) climate cabinet irradiance response experiments. We show that leaf warming due to partial stomatal closure is independent of any direct warming effects of ultraviolet radiation manipulations. We discuss the implications of ultraviolet radiation-induced warming both for horticultural crop production and understanding broader plant responses to ultraviolet radiation."
+      }
+    ],
+    "files": [
+      {
+        "path": "web_material_uhab066.docx",
+        "size": 346868,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Biotechnology and Biological Sciences Research Council"
+          },
+          {
+            "name": "grant_id",
+            "value": "1653788"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Horticulture research"
+          },
+          {
+            "name": "Pages",
+            "value": "uhab066"
+          },
+          {
+            "name": "Publication date",
+            "value": "2022 Jan"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1093/hr/uhab066",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC8944299",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "35043163",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Williams TB"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-4837-973X"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Dodd IC"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0003-2725-859X"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Sobeih WY"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Paul ND"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Arid Agritec Ltd. Gordon Manley Building, Lancaster Environmental Centre, Lancaster University, Lancaster, UK, LA1 4YQ."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Lancaster Environment Centre, Lancaster University, Lancaster, UK, LA1 4YQ."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

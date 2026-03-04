@@ -1,0 +1,286 @@
+{
+  "accno": "S-EPMC10502090",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "PEGylated thrombopoietin mimetic, JNJ‑26366821 a novel prophylactic radiation countermeasure for acute radiation injury."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2023-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "PEGylated thrombopoietin mimetic, JNJ‑26366821 a novel prophylactic radiation countermeasure for acute radiation injury."
+      },
+      {
+        "name": "Abstract",
+        "value": "Thrombopoietin (TPO) is the primary regulator of platelet generation and a stimulator of multilineage hematopoietic recovery following exposure to total body irradiation (TBI). JNJ‑26366821, a novel PEGylated TPO mimetic peptide, stimulates platelet production without developing neutralizing antibodies or causing any adverse effects. Administration of a single dose of JNJ‑26366821 demonstrated its efficacy as a prophylactic countermeasure in various mouse strains (males CD2F1, C3H/HeN, and male and female C57BL/6J) exposed to Co-60 gamma TBI. A dose dependent survival efficacy of JNJ‑26366821 (- 24 h) was identified in male CD2F1 mice exposed to a supralethal dose of radiation. A single dose of JNJ‑26366821 administered 24, 12, or 2 h pre-radiation resulted in 100% survival from a lethal dose of TBI with a dose reduction factor of 1.36. There was significantly accelerated recovery from radiation-induced peripheral blood neutropenia and thrombocytopenia in animals pre-treated with JNJ‑26366821. The drug also increased bone marrow cellularity and megakaryocytes, accelerated multi-lineage hematopoietic recovery, and alleviated radiation-induced soluble markers of bone marrow aplasia and endothelial damage. These results indicate that JNJ‑26366821 is a promising prophylactic radiation countermeasure for hematopoietic acute radiation syndrome with a broad window for medical management in a radiological or nuclear event."
+      }
+    ],
+    "files": [
+      {
+        "path": "41598_2023_42443_MOESM1_ESM.docx",
+        "size": 62958,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Scientific reports"
+          },
+          {
+            "name": "Volume",
+            "value": "13(1)"
+          },
+          {
+            "name": "Pages",
+            "value": "15211"
+          },
+          {
+            "name": "Publication date",
+            "value": "2023 Sep"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1038/s41598-023-42443-0",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC10502090",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "37709916",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Holmes-Hampton GP"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kumar VP"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Biswas S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Stone S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Sharma NK"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Legesse B"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Vercellino J"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Guha C"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a9",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Eichenbaum G"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a10",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Ghosh SP"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Armed Forces Radiobiology Research Institute, Uniformed Services University of the Health Sciences, Bethesda, MD, 20889, USA."
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Armed Forces Radiobiology Research Institute, Uniformed Services University of the Health Sciences, Bethesda, MD, 20889, USA. Sanchita.ghosh@usuhs.edu."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Albert Einstein College of Medicine, Bronx, NY, 10467, USA."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Johnson & Johnson, Office of the Chief Medical Officer, 410 George Street, New Brunswick, NJ, 08901, USA."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

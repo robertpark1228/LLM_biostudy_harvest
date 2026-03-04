@@ -1,0 +1,666 @@
+{
+  "accno": "S-EPMC8604860",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Innovative radiation oncology Together - Precise, Personalized, Human : Vision 2030 for radiotherapy & radiation oncology in Germany."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2021-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Innovative radiation oncology Together - Precise, Personalized, Human : Vision 2030 for radiotherapy & radiation oncology in Germany."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Purpose</h4>Scientific and clinical achievements in radiation, medical, and surgical oncology are changing the landscape of interdisciplinary oncology. The German Society for Radiation Oncology (DEGRO) working group of young clinicians and scientists (yDEGRO) and the DEGRO representation of associate and full professors (AKRO) are aware of the essential role of radiation oncology in multidisciplinary treatment approaches. Together, yDEGRO and AKRO endorsed developing a German radiotherapy & radiation oncology vision 2030 to address future challenges in patient care, research, and education. The vision 2030 aims to identify priorities and goals for the next decade in the field of radiation oncology.<h4>Methods</h4>The vision development comprised three phases. During the first phase, areas of interest, objectives, and the process of vision development were defined jointly by the yDEGRO, AKRO, and the DEGRO board. In the second phase, a one-day strategy retreat was held to develop AKRO and yDEGRO representatives' final vision from medicine, biology, and physics. The third phase was dedicated to vision interpretation and program development by yDEGRO representatives.<h4>Results</h4>The strategy retreat's development process resulted in conception of the final vision \"Innovative radiation oncology Together - Precise, Personalized, Human.\" The first term \"Innovative radiation oncology\" comprises the promotion of preclinical research and clinical trials and highlights the development of a national committee for strategic development in radiation oncology research. The term \"together\" underpins collaborations within radiation oncology departments as well as with other partners in the clinical and scientific setting. \"Precise\" mainly covers technological precision in radiotherapy as well as targeted oncologic therapeutics. \"Personalized\" emphasizes biology-directed individualization of radiation treatment. Finally, \"Human\" underlines the patient-centered approach and points towards the need for individual longer-term career curricula for clinicians and researchers in the field.<h4>Conclusion</h4>The vision 2030 balances the ambition of physical, technological, and biological innovation as well as a comprehensive, patient-centered, and collaborative approach towards radiotherapy & radiation oncology in Germany."
+      }
+    ],
+    "files": [
+      {
+        "path": "66_2021_1843_MOESM1_ESM.pdf",
+        "size": 2190630,
+        "type": "file"
+      },
+      {
+        "path": "66_2021_1843_MOESM2_ESM.pdf",
+        "size": 1218518,
+        "type": "file"
+      },
+      {
+        "path": "66_2021_1843_MOESM3_ESM.pdf",
+        "size": 616625,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Ludwig-Maximilians-Universität München"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Strahlentherapie und Onkologie : Organ der Deutschen Rontgengesellschaft ... [et al]"
+          },
+          {
+            "name": "Volume",
+            "value": "197(12)"
+          },
+          {
+            "name": "Pages",
+            "value": "1043-1048"
+          },
+          {
+            "name": "Publication date",
+            "value": "2021 Dec"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1007/s00066-021-01843-9",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC8604860",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "34515820",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Krug D"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0001-8811-5416"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Hecht M"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Ebert N"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Maurer M"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Fleischmann DF"
+          },
+          {
+            "name": "affiliation",
+            "value": "o5",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Fokas E"
+          },
+          {
+            "name": "affiliation",
+            "value": "o6",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Straube C"
+          },
+          {
+            "name": "affiliation",
+            "value": "o7",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Nicolay NH"
+          },
+          {
+            "name": "affiliation",
+            "value": "o8",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a9",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Horner-Rieber J"
+          },
+          {
+            "name": "affiliation",
+            "value": "o9",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a10",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Schmitt D"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-9657-0715"
+          },
+          {
+            "name": "affiliation",
+            "value": "o10",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a11",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "von Neubeck C"
+          },
+          {
+            "name": "affiliation",
+            "value": "o11",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a12",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Zamboglou C"
+          },
+          {
+            "name": "affiliation",
+            "value": "o8",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a13",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Sperk E"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-8771-8124"
+          },
+          {
+            "name": "affiliation",
+            "value": "o12",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a14",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kaul D"
+          },
+          {
+            "name": "affiliation",
+            "value": "o13",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a15",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Hess J"
+          },
+          {
+            "name": "affiliation",
+            "value": "o14",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a16",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Corradini S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o5",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a17",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Seidel C"
+          },
+          {
+            "name": "affiliation",
+            "value": "o15",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a18",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Gani C"
+          },
+          {
+            "name": "affiliation",
+            "value": "o16",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a19",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Baues C"
+          },
+          {
+            "name": "affiliation",
+            "value": "o17",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a20",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Frey B"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a21",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Blanck O"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0003-1391-1308"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a22",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Gauer T"
+          },
+          {
+            "name": "affiliation",
+            "value": "o18",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a23",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Niyazi M"
+          },
+          {
+            "name": "affiliation",
+            "value": "o19",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o11",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Particle Therapy, University Hospital Essen, University of Duisburg-Essen, Essen, Germany."
+          }
+        ]
+      },
+      {
+        "accno": "o17",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology and Cyberknife Center, University Hospital of Cologne, Cologne, Germany."
+          }
+        ]
+      },
+      {
+        "accno": "o13",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Charité-Universitätsmedizin Berlin, Corporate Member of Freie Universität Berlin, Humboldt-Universität zu Berlin, Berlin, Germany."
+          }
+        ]
+      },
+      {
+        "accno": "o16",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Eberhard Karls Universität Tübingen, Tübingen, Germany."
+          }
+        ]
+      },
+      {
+        "accno": "o9",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Heidelberg University Hospital, Heidelberg, Germany."
+          }
+        ]
+      },
+      {
+        "accno": "o7",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Klinikum rechts der Isar, Technical University of Munich, School of Medicine, Munich, Germany."
+          }
+        ]
+      },
+      {
+        "accno": "o8",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Medical Center-University of Freiburg, Faculty of Medicine, University of Freiburg, Freiburg, Germany."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, University Hospital Schleswig-Holstein, Kiel, Germany."
+          }
+        ]
+      },
+      {
+        "accno": "o5",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, University Hospital, LMU Munich, Munich, Germany."
+          }
+        ]
+      },
+      {
+        "accno": "o19",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, University Hospital, LMU Munich, Munich, Germany. maximilian.niyazi@med.uni-muenchen.de."
+          }
+        ]
+      },
+      {
+        "accno": "o10",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, University Medical Center Göttingen, Göttingen, Germany."
+          }
+        ]
+      },
+      {
+        "accno": "o12",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, University Medical Center Mannheim, Medical Faculty Mannheim, Heidelberg University, Mannheim, Germany."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Universitätsklinikum Erlangen, Friedrich-Alexander-Universität Erlangen-Nürnberg, Erlangen, Germany."
+          }
+        ]
+      },
+      {
+        "accno": "o6",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiotherapy and Oncology, University Hospital, Goethe University, Frankfurt, Germany."
+          }
+        ]
+      },
+      {
+        "accno": "o18",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiotherapy and Oncology, University Medical Center Hamburg-Eppendorf, Hamburg, Germany."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiotherapy and Radiation Oncology, Faculty of Medicine and University Hospital Carl Gustav Carus, Technische Universität, Dresden, Germany."
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiotherapy and Radiation Oncology, University Hospital, Friedrich-Schiller-University, Jena, Germany."
+          }
+        ]
+      },
+      {
+        "accno": "o15",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Klinik für Radioonkologie und Strahlentherapie, Universitätsklinikum Leipzig, Leipzig, Germany."
+          }
+        ]
+      },
+      {
+        "accno": "o14",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Research Unit Radiation Cytogenetics, Helmholtz Zentrum München, German Research Center for Environmental Health GmbH, Neuherberg, Germany."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

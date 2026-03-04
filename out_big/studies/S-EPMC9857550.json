@@ -1,0 +1,172 @@
+{
+  "accno": "S-EPMC9857550",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Radiation Therapy for Retroperitoneal Sarcomas: A Strass-Ful Situation."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2023-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Radiation Therapy for Retroperitoneal Sarcomas: A Strass-Ful Situation."
+      },
+      {
+        "name": "Abstract",
+        "value": "Locoregional recurrence (LRR) is the predominant pattern of relapse and often the cause of death in patients with retroperitoneal sarcomas (RPS). As a result, reducing LRR is a critical objective for RPS patients. However, unlike soft tissue sarcomas (STS) of the superficial trunk and extremity where the benefits of radiation therapy (RT) are well-established, the role of RT in the retroperitoneum remains controversial. Historically, preoperative or postoperative RT, either alone or in combination with intraoperative radiation (IORT), was commonly justified for RPS based on extrapolation from the superficial trunk and extremity STS literature. However, long-awaited results were recently published from the European Organization for Research and Treatment of Cancer (EORTC) STRASS study of preoperative radiotherapy plus surgery versus surgery alone for patients with RPS; there was no statistical difference in the primary endpoint of abdominal recurrence-free survival. However, several subset analyses and study limitations complicate the interpretation of the results. This review explores and contextualizes the body of evidence regarding RT's role in managing RPS."
+      }
+    ],
+    "links": [
+      [
+        {
+          "url": "NCT01344018",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        }
+      ]
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Current oncology (Toronto, Ont.)"
+          },
+          {
+            "name": "Volume",
+            "value": "30(1)"
+          },
+          {
+            "name": "Pages",
+            "value": "598-609"
+          },
+          {
+            "name": "Publication date",
+            "value": "2023 Jan"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.3390/curroncol30010047",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC9857550",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "36661696",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Farooqi AS"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Guadagnolo BA"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Mitra D"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Bishop AJ"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Unit 97, Department of Radiation Oncology, The University of Texas MD Anderson Cancer Center, 1515 Holcombe Blvd., Houston, TX 77030, USA."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

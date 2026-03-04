@@ -1,0 +1,255 @@
+{
+  "accno": "S-EPMC5845878",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Stereotactic Body Radiation Therapy for Locally Progressive and Recurrent Pancreatic Cancer after Prior Radiation."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2018-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Stereotactic Body Radiation Therapy for Locally Progressive and Recurrent Pancreatic Cancer after Prior Radiation."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Introduction</h4>Pancreatic adenocarcinoma is an aggressive malignancy that has consistently demonstrated poor outcomes despite aggressive treatments. Despite multimodal treatment, local disease progression and local recurrence are common. Management of recurrent or progressive pancreatic carcinomas proves a further challenge. In patients previously treated with radiation therapy, stereotactic body radiation therapy (SBRT) is a promising modality capable of delivering high dose to the tumor while limiting dose to critical structures. We aimed to determine the feasibility and tolerability of SBRT for recurrent or local pancreatic cancer in patients previously treated with external beam radiation therapy (EBRT).<h4>Materials and methods</h4>Patients treated with EBRT who developed recurrent or local pancreatic ductal adenocarcinoma treated with SBRT reirradiation at our institution, from 2004 to 2014 were reviewed. Our primary endpoints included overall survival (OS), local control, regional control, and late grade 3+ radiation toxicity. Endpoints were analyzed with the Kaplan-Meier method. The association of these survival endpoints with risk factors was studied with univariate Cox proportional hazards models.<h4>Results</h4>We identified 38 patients with recurrent/progressive pancreatic cancer treated with SBRT following prior radiation therapy. Prior radiation was delivered to a median dose of 50.4 Gy in 28 fractions. SBRT was delivered to a median dose of 24.5 Gy in 1-3 fractions. Surgical resection was performed on 55.3% of all patients. Within a median follow-up of 24.4 months (inter-quartile range, 14.9-32.7 months), the median OS from diagnosis for the entire cohort was 26.6 months (95% CI: 20.3-29.8) with 2-year OS of 53.0%. Median survival from SBRT was 9.7 months (95% CI, 5.5-13.8). The 2-year freedom from local progression and regional progression was 58 and 82%, respectively. For the entire cohort, 18.4 and 10.5% experienced late grade 2+ and grade 3+ toxicity, respectively.<h4>Conclusion</h4>This single institution retrospective review identified SBRT reirradiation to be a feasible and tolerable treatment strategy for patients with previous locally progressive or recurrent pancreatic adenocarcinoma."
+      }
+    ],
+    "files": [
+      {
+        "path": "data_sheet_1.docx",
+        "size": 42575,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Frontiers in oncology"
+          },
+          {
+            "name": "Volume",
+            "value": "8"
+          },
+          {
+            "name": "Pages",
+            "value": "52"
+          },
+          {
+            "name": "Publication date",
+            "value": "2018"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.3389/fonc.2018.00052",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC5845878",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "29564223",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Sutera P"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Bernard ME"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Wang H"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0003-0477-2908"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Bahary N"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Burton S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Zeh H"
+          },
+          {
+            "name": "affiliation",
+            "value": "o5",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Heron DE"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Biostatics, University of Pittsburgh, Pittsburgh, PA, United States."
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Medical Oncology, University of Pittsburgh Cancer Institute, Pittsburgh, PA, United States."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Medicine, University of Kentucky, Lexington, KY, United States."
+          }
+        ]
+      },
+      {
+        "accno": "o5",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Surgical Oncology, University of Pittsburgh, Pittsburgh, PA, United States."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "UPMC Hillman Cancer Center, University of Pittsburgh School of Medicine, Pittsburgh, PA, United States."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

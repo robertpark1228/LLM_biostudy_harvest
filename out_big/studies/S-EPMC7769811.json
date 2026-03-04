@@ -1,0 +1,180 @@
+{
+  "accno": "S-EPMC7769811",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Ultraviolet Radiation From a Plant Perspective: The Plant-Microorganism Context."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2020-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Ultraviolet Radiation From a Plant Perspective: The Plant-Microorganism Context."
+      },
+      {
+        "name": "Abstract",
+        "value": "Ultraviolet (UV) radiation directly affects plants and microorganisms, but also alters the species-specific interactions between them. The distinct bands of UV radiation, UV-A, UV-B, and UV-C have different effects on plants and their associated microorganisms. While UV-A and UV-B mainly affect morphogenesis and phototropism, UV-B and UV-C strongly trigger secondary metabolite production. Short wave (<350 nm) UV radiation negatively affects plant pathogens in direct and indirect ways. Direct effects can be ascribed to DNA damage, protein polymerization, enzyme inactivation and increased cell membrane permeability. UV-C is the most energetic radiation and is thus more effective at lower doses to kill microorganisms, but by consequence also often causes plant damage. Indirect effects can be ascribed to UV-B specific pathways such as the UVR8-dependent upregulated defense responses in plants, UV-B and UV-C upregulated ROS accumulation, and secondary metabolite production such as phenolic compounds. In this review, we summarize the physiological and molecular effects of UV radiation on plants, microorganisms and their interactions. Considerations for the use of UV radiation to control microorganisms, pathogenic as well as non-pathogenic, are listed. Effects can be indirect by increasing specialized metabolites with plant pre-treatment, or by directly affecting microorganisms."
+      }
+    ],
+    "files": [
+      {
+        "path": "Table_1.DOCX",
+        "size": 90155,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Frontiers in plant science"
+          },
+          {
+            "name": "Volume",
+            "value": "11"
+          },
+          {
+            "name": "Pages",
+            "value": "597642"
+          },
+          {
+            "name": "Publication date",
+            "value": "2020"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.3389/fpls.2020.597642",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC7769811",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "33384704",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Vanhaelewyn L"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Van Der Straeten D"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "De Coninck B"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-9349-5086"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Vandenbussche F"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Laboratory of Functional Plant Biology, Department of Biology, Ghent University, Ghent, Belgium."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Plant Health and Protection Laboratory, Division of Crop Biotechnics, Department of Biosystems, KU Leuven, Leuven, Belgium."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

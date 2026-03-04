@@ -1,0 +1,208 @@
+{
+  "accno": "S-EPMC6735299",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Radiation of Dynamic Toroidal Moments."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2019-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Radiation of Dynamic Toroidal Moments."
+      },
+      {
+        "name": "Abstract",
+        "value": "Dynamic toroidal dipoles, a distinguished class of fundamental electromagnetic sources, receive increasing interest and participate in fascinating electrodynamic phenomena and sensing applications. As described in the literature, the radiative nature of dynamic toroidal dipoles is sometimes confounded, intermixing with static toroidal dipoles and plasmonic dark modes. Here, we elucidate this issue and provide proof-of-principle experiments exclusively on the radiation behavior of dynamic toroidal moments. Optical toroidal modes in plasmonic heptamer nanocavities are analyzed by electron energy loss spectroscopy and energy-filtered transmission electron microscopy supported by finite-difference time-domain numerical calculations. Additionally, their corresponding radiation behaviors are experimentally investigated by means of cathodoluminescence. The observed contrasting behaviors of a single dynamic toroidal dipole mode and an antiparallel toroidal dipole pair mode are discussed and elucidated. Our findings further clarify the electromagnetic properties of dynamic toroidal dipoles and serve as important guidance for the use of toroidal dipole moments in future applications."
+      }
+    ],
+    "files": [
+      {
+        "path": "ph8b01422_si_001.pdf",
+        "size": 827589,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "FP7 Research infrastructures"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "ACS photonics"
+          },
+          {
+            "name": "Volume",
+            "value": "6(2)"
+          },
+          {
+            "name": "Pages",
+            "value": "467-474"
+          },
+          {
+            "name": "Publication date",
+            "value": "2019 Feb"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1021/acsphotonics.8b01422",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC6735299",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "31523699",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Guo S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Talebi N"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Campos A"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0001-7921-8309"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kociak M"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "van Aken PA"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0003-1890-1256"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Laboratoire de Physique des Solides, Université Paris Sud, Orsay 91400, France."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Stuttgart Center for Electron Microscopy, Max Planck Institute for Solid State Research, Heisenbergstrasse 1, Stuttgart 70569, Germany."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

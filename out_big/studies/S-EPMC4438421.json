@@ -1,0 +1,211 @@
+{
+  "accno": "S-EPMC4438421",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Radiation countermeasure agents: an update (2011-2014)."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2014-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Radiation countermeasure agents: an update (2011-2014)."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Introduction</h4>Despite significant scientific advances over the past 60 years towards the development of a safe, nontoxic and effective radiation countermeasure for the acute radiation syndrome (ARS), no drug has been approved by the US FDA. A radiation countermeasure to protect the population at large from the effects of lethal radiation exposure remains a significant unmet medical need of the US citizenry and, thus, has been recognized as a high priority area by the government.<h4>Area covered</h4>This article reviews relevant publications and patents for recent developments and progress for potential ARS treatments in the area of radiation countermeasures. Emphasis is placed on the advanced development of existing agents since 2011 and new agents identified as radiation countermeasure for ARS during this period.<h4>Expert opinion</h4>A number of promising radiation countermeasures are currently under development, seven of which have received US FDA investigational new drug status for clinical investigation. Four of these agents, CBLB502, Ex-RAD, HemaMax and OrbeShield, are progressing with large animal studies and clinical trials. G-CSF has high potential and well-documented therapeutic effects in countering myelosuppression and may receive full licensing approval by the US FDA in the future."
+      }
+    ],
+    "links": [
+      [
+        {
+          "url": "LY294002",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "ENA"
+            }
+          ]
+        }
+      ]
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Expert opinion on therapeutic patents"
+          },
+          {
+            "name": "Volume",
+            "value": "24(11)"
+          },
+          {
+            "name": "Pages",
+            "value": "1229-55"
+          },
+          {
+            "name": "Publication date",
+            "value": "2014 Nov"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1517/13543776.2014.964684",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC4438421",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "25315070",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Singh VK"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-6631-3849"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Newman VL"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Romaine PL"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Wise SY"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Seed TM"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Armed Forces Radiobiology Research Institute , 8901 Wisconsin Ave, Bethesda, MD 20889-5603 , USA +1 301 295 2347 ; +1 301 295 6503 ; vijay.singh@usuhs.edu."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Armed Forces Radiobiology Research Institute , Wisconsin Ave, Bethesda, MD 20889-, +; +;"
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Tech Micro Services , Maple Avenue, Bethesda, MD ,"
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

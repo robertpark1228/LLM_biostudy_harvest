@@ -1,0 +1,279 @@
+{
+  "accno": "S-EPMC7268463",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Ultraviolet radiation changes plant color."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2020-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Ultraviolet radiation changes plant color."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Background</h4>Plant absorption of ultraviolet (UV) radiation can result in multiple deleterious effects to plant tissues. As a result, plants have evolved an array of strategies to protect themselves from UV radiation, particularly in the UV-B range (280-320 nm). A common plant response to UV exposure is investment in phenolic compounds that absorb damaging wavelengths of light. However, the inverse phenomenon - plant reflectance of UV to protect plant tissues - has not previously been explored. In a paired experiment, we expose half of our sample (N = 108) of insect-pollinated plants of the cultivar Zinnia Profusion Series to UV radiation, and protect the other half from all light < 400 nm for 42 days, and measure leaf and flower reflectance using spectroscopy. We compare UV-B reflectance in leaves and flowers at the beginning of the experiment or flowering, and after treatment.<h4>Results</h4>We find that plants protected from UV exposure downregulate UV-B reflectance, and that plants exposed to increased levels of UV show trends of increased UV-B reflectance.<h4>Conclusions</h4>Our results indicate that upregulation of UV-B reflecting pigments or structures may be a strategy to protect leaves against highly energetic UV-B radiation."
+      }
+    ],
+    "files": [
+      {
+        "path": "12870_2020_2471_MOESM1_ESM.xlsx",
+        "size": 44201751,
+        "type": "file"
+      },
+      {
+        "path": "12870_2020_2471_MOESM2_ESM.docx",
+        "size": 223153,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "BMC plant biology"
+          },
+          {
+            "name": "Volume",
+            "value": "20(1)"
+          },
+          {
+            "name": "Pages",
+            "value": "253"
+          },
+          {
+            "name": "Publication date",
+            "value": "2020 Jun"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1186/s12870-020-02471-8",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC7268463",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "32493218",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Valenta K"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Dimac-Stohl K"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Baines F"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Smith T"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Piotrowski G"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Hill N"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kuppler J"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0003-4409-9367"
+          },
+          {
+            "name": "affiliation",
+            "value": "o5",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Nevo O"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0003-3549-4509"
+          },
+          {
+            "name": "affiliation",
+            "value": "o5",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Anthropology, University of Florida, Turlington Hall, PO Box 117305, Gainesville, FL, 32611-7305, USA. kimvalenta@ufl.edu."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Evolutionary Anthropology, Duke University, 130 Science Drive, Durham, NC, 27708, USA."
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Duke University Phytotron, 14 Circuit Dr, Durham, NC, 27710, USA."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "UV Guide UK, Greenfield, School Lane, Govilon, Abergavenny NP79NT, Wales, UK."
+          }
+        ]
+      },
+      {
+        "accno": "o5",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Ulm University, Institute of Evolutionary Ecology and Conservation Genomics, Albert-Einstein-Allee 11, 89081, Ulm, Germany."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

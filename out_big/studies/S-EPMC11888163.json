@@ -1,0 +1,220 @@
+{
+  "accno": "S-EPMC11888163",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Radiation damage to a three-dimensional hydrogel model of the brain perivascular niche."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2025-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Radiation damage to a three-dimensional hydrogel model of the brain perivascular niche."
+      },
+      {
+        "name": "Abstract",
+        "value": "Glioblastoma (GBM) is a highly aggressive and recurrent brain cancer characterized by diffuse metastasis at the tumor margins. Radiation therapy is a standard component of current treatment and offers potential for improved patient outcomes. While radiation therapy targets GBM cells in the tumor margins, it may also significantly damage adjacent non-cancerous tissues, leading to reduced quality of life and potentially creating a tumor-supportive microenvironment. The perivascular niche (PVN) in the tumor margins is believed to play a significant role in regulating the glioblastoma stem cell subpopulation as well as serving as a site for cancer recurrence and migration. Understanding the impact of radiation on the PVN can better inform radiation schemes and improve our understanding of GBM recurrence, but is difficult <i>in vivo</i>. Here we adapt a previously developed three-dimensional hydrogel model of the brain perivascular niche to investigate the impact of radiation dosage and delivery rate on perivascular niche properties <i>in vitro</i>. Effects of radiation on vessel architecture can be measured in this hydrogel-based model, suggesting an approach that can provide insight into the effects of radiation on a shorter time scale relative to <i>in vivo</i> experiments."
+      }
+    ],
+    "files": [
+      {
+        "path": "NIHPP2025.02.20.639287v1-supplement-1.pdf",
+        "size": 34110,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "R01 CA256481"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "bioRxiv : the preprint server for biology"
+          },
+          {
+            "name": "Pages",
+            "value": "2025.02.20.639287"
+          },
+          {
+            "name": "Publication date",
+            "value": "2025 Feb"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1101/2025.02.20.639287",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC11888163",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "40060667",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Ivanova YI"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Nunes AC"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Cruz V"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Selting K"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Harley BAC"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Cancer Center at Illinois, University of Illinois at Urbana-Champaign Urbana, IL 61801"
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Carl R. Woese Institute for Genomic Biology, University of Illinois at Urbana-Champaign Urbana, IL 61801"
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Dept. of Bioengineering, University of Illinois at Urbana-Champaign Urbana, IL 61801"
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Dept. of Materials Science and Engineering, University of Illinois at Urbana-Champaign Urbana, IL 61801"
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

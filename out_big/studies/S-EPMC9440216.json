@@ -1,0 +1,344 @@
+{
+  "accno": "S-EPMC9440216",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "ICOS is upregulated on T cells following radiation and agonism combined with radiation results in enhanced tumor control."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2022-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "ICOS is upregulated on T cells following radiation and agonism combined with radiation results in enhanced tumor control."
+      },
+      {
+        "name": "Abstract",
+        "value": "Multiple preclinical studies have shown improved outcomes when radiation therapy is combined with immune modulating antibodies. However, to date, many of these promising results have failed to translate to successful clinical studies. This led us to explore additional checkpoint and co-stimulatory pathways that may be regulated by radiation therapy. Here, we demonstrate that radiation increases the expression of inducible T cell co-stimulator (ICOS) on both CD4 and CD8 T cells in the blood following treatment. Moreover, when we combined a novel ICOS agonist antibody with radiation we observed durable cures across multiple tumor models and mouse strains. Depletion studies revealed that CD8 T cells were ultimately required for treatment efficacy, but CD4 T cells and NK cells also partially contributed to tumor control. Phenotypic analysis showed that the combination therapy diminished the increased infiltration of regulatory T cells into the tumor that typically occurs following radiation alone. Finally, we demonstrate in a poorly immunogenic pancreatic tumor model which is resistant to combined radiation and anti-PD1 checkpoint blockade that the addition of this novel ICOS agonist antibody to the treatment regimen results in tumor control. These findings identify ICOS as part of a T cell pathway that is modulated by radiation and targeting this pathway with a novel ICOS antibody results in durable tumor control in preclinical models."
+      }
+    ],
+    "files": [
+      {
+        "path": "41598_2022_19256_MOESM1_ESM.csv",
+        "size": 70527,
+        "type": "file"
+      },
+      {
+        "path": "41598_2022_19256_MOESM2_ESM.csv",
+        "size": 73265,
+        "type": "file"
+      },
+      {
+        "path": "41598_2022_19256_MOESM3_ESM.csv",
+        "size": 73039,
+        "type": "file"
+      },
+      {
+        "path": "41598_2022_19256_MOESM4_ESM.csv",
+        "size": 76671,
+        "type": "file"
+      },
+      {
+        "path": "41598_2022_19256_MOESM5_ESM.pdf",
+        "size": 543911,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "NIH R01CA182311"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Jounce Therapeutics"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "R01 CA182311"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "R01 CA208644"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "R01 CA244142"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "National Institutes of Health"
+          },
+          {
+            "name": "grant_id",
+            "value": "NIH R01CA182311"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Scientific reports"
+          },
+          {
+            "name": "Volume",
+            "value": "12(1)"
+          },
+          {
+            "name": "Pages",
+            "value": "14954"
+          },
+          {
+            "name": "Publication date",
+            "value": "2022 Sep"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1038/s41598-022-19256-8",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC9440216",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "36056093",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Blair T"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Baird J"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Bambina S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kramer G"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Gostissa M"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Harvey CJ"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Gough MJ"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-5575-0074"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Crittenden MR"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Earle A. Chiles Research Institute, Robert W. Franz Cancer Center, Providence Portland Medical Center, 4805 NE Glisan St, North Pavilion, Suite 2N108, Portland, OR, 97213, USA"
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Earle A. Chiles Research Institute, Robert W. Franz Cancer Center, Providence Portland Medical Center, 4805 NE Glisan St, North Pavilion, Suite 2N108, Portland, OR, 97213, USA. marka.crittenden@providence.org"
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Jounce Therapeutics, Inc., 780 Memorial Drive, Cambridge, MA, 02139, USA"
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

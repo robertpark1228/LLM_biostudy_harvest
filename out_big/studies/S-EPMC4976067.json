@@ -1,0 +1,874 @@
+{
+  "accno": "S-EPMC4976067",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Addressing ecological effects of radiation on populations and ecosystems to improve protection of the environment against radiation: Agreed statements from a Consensus Symposium."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2016-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Addressing ecological effects of radiation on populations and ecosystems to improve protection of the environment against radiation: Agreed statements from a Consensus Symposium."
+      },
+      {
+        "name": "Abstract",
+        "value": "This paper reports the output of a consensus symposium organized by the International Union of Radioecology in November 2015. The symposium gathered an academically diverse group of 30 scientists to consider the still debated ecological impact of radiation on populations and ecosystems. Stimulated by the Chernobyl and Fukushima disasters' accidental contamination of the environment, there is increasing interest in developing environmental radiation protection frameworks. Scientific research conducted in a variety of laboratory and field settings has improved our knowledge of the effects of ionizing radiation on the environment. However, the results from such studies sometimes appear contradictory and there is disagreement about the implications for risk assessment. The Symposium discussions therefore focused on issues that might lead to different interpretations of the results, such as laboratory versus field approaches, organism versus population and ecosystemic inference strategies, dose estimation approaches and their significance under chronic exposure conditions. The participating scientists, from across the spectrum of disciplines and research areas, extending also beyond the traditional radioecology community, successfully developed a constructive spirit directed at understanding discrepancies. From the discussions, the group has derived seven consensus statements related to environmental protection against radiation, which are supplemented with some recommendations. Each of these statements is contextualized and discussed in view of contributing to the orientation and integration of future research, the results of which should yield better consensus on the ecological impact of radiation and consolidate suitable approaches for efficient radiological protection of the environment."
+      }
+    ],
+    "files": [
+      {
+        "path": "NIHMS805570-supplement-Sups.docx",
+        "size": 24794,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NIGMS NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "R01 GM036827"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Norges Forskningsråd"
+          },
+          {
+            "name": "grant_id",
+            "value": "223268/F50"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Journal of environmental radioactivity"
+          },
+          {
+            "name": "Volume",
+            "value": "158-159"
+          },
+          {
+            "name": "Pages",
+            "value": "21-9"
+          },
+          {
+            "name": "Publication date",
+            "value": "2016 Jul"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1016/j.jenvrad.2016.03.021",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC4976067",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "27058410",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Brechignac F"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Oughton D"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Mays C"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0001-7869-2674"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Barnthouse L"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Beasley JC"
+          },
+          {
+            "name": "affiliation",
+            "value": "o5",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Bonisoli-Alquati A"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-9255-7556"
+          },
+          {
+            "name": "affiliation",
+            "value": "o6",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Bradshaw C"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-8421-2750"
+          },
+          {
+            "name": "affiliation",
+            "value": "o7",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Brown J"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-2016-0971"
+          },
+          {
+            "name": "affiliation",
+            "value": "o8",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a9",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Dray S"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0003-0153-1105"
+          },
+          {
+            "name": "affiliation",
+            "value": "o9",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a10",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Geras'kin S"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0001-9978-3049"
+          },
+          {
+            "name": "affiliation",
+            "value": "o10",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a11",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Glenn T"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0001-7725-3637"
+          },
+          {
+            "name": "affiliation",
+            "value": "o11",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a12",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Higley K"
+          },
+          {
+            "name": "affiliation",
+            "value": "o12",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a13",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Ishida K"
+          },
+          {
+            "name": "affiliation",
+            "value": "o13",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a14",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kapustka L"
+          },
+          {
+            "name": "affiliation",
+            "value": "o14",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a15",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kautsky U"
+          },
+          {
+            "name": "affiliation",
+            "value": "o15",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a16",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kuhne W"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-0501-1919"
+          },
+          {
+            "name": "affiliation",
+            "value": "o16",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a17",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Lynch M"
+          },
+          {
+            "name": "affiliation",
+            "value": "o17",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a18",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Mappes T"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-5936-7355"
+          },
+          {
+            "name": "affiliation",
+            "value": "o18",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a19",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Mihok S"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0003-2328-8986"
+          },
+          {
+            "name": "affiliation",
+            "value": "o19",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a20",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Moller AP"
+          },
+          {
+            "name": "affiliation",
+            "value": "o20",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a21",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Mothersill C"
+          },
+          {
+            "name": "affiliation",
+            "value": "o21",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a22",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Mousseau TA"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-2235-4868"
+          },
+          {
+            "name": "affiliation",
+            "value": "o22",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a23",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Otaki JM"
+          },
+          {
+            "name": "affiliation",
+            "value": "o23",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a24",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Pryakhin E"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-5990-9118"
+          },
+          {
+            "name": "affiliation",
+            "value": "o24",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a25",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Rhodes OE"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0001-7271-9805"
+          },
+          {
+            "name": "affiliation",
+            "value": "o25",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a26",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Salbu B"
+          },
+          {
+            "name": "affiliation",
+            "value": "o26",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a27",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Strand P"
+          },
+          {
+            "name": "affiliation",
+            "value": "o27",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a28",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Tsukada H"
+          },
+          {
+            "name": "affiliation",
+            "value": "o28",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o19",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "388 Church Street, Russell, Ontario K4R 1A8, Canada. Electronic address: smihok@bell.net."
+          }
+        ]
+      },
+      {
+        "accno": "o26",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Center for Environmental Radioactivity (CERAD), Norwegian University of Life Sciences, P.O. Box 5003, 1432 Aas, Norway. Electronic address: brit.salbu@nmbu.no."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Center for Environmental Radioactivity (CERAD), Norwegian University of Life Sciences, P.O. Box 5003, 1432 Aas, Norway. Electronic address: deborah.oughton@nmbu.no."
+          }
+        ]
+      },
+      {
+        "accno": "o22",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Biological Sciences, and, the School of Earth, Ocean and Environment, University of South Carolina, Columbia, SC 29208, USA. Electronic address: mousseau@sc.edu."
+          }
+        ]
+      },
+      {
+        "accno": "o18",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Biological and Environmental Science, University of Jyvaskyla, P.O. Box 35, 40014 Jyvaskyla, Finland. Electronic address: tapio.mappes@jyu.fi."
+          }
+        ]
+      },
+      {
+        "accno": "o17",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Biology, Indiana University, 1001 East Third Street, Bloomington, IN 47405, USA. Electronic address: milynch@indiana.edu."
+          }
+        ]
+      },
+      {
+        "accno": "o7",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Ecology, Environment and Plant Sciences, Stockholm University, 10691 Stockholm, Sweden. Electronic address: clare.bradshaw@su.se."
+          }
+        ]
+      },
+      {
+        "accno": "o11",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Environmental Health Science, University of Georgia, Athens, GA 30602, USA. Electronic address: travisg@uga.edu."
+          }
+        ]
+      },
+      {
+        "accno": "o21",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Medical Physics and Applied Radiation Sciences, McMaster University, Hamilton, Ontario, Canada. Electronic address: mothers@mcmaster.ca."
+          }
+        ]
+      },
+      {
+        "accno": "o20",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Ecologie Systématique Evolution, Université Paris-Sud, CNRS, AgroParisTech, Université Paris-Saclay, F-91405 Orsay, Cedex, France. Electronic address: anders.Moller@u-psud.fr."
+          }
+        ]
+      },
+      {
+        "accno": "o13",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Graduate School of Agricultural and Life Sciences, The University of Tokyo, 113-8657, Japan. Electronic address: ishiken@es.a.u-tokyo.ac.jp."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Institut Symlog de France, 262 rue Saint-Jacques, 75005 Paris, France. Electronic address: claire.mays@post.harvard.edu."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Institute for Radioprotection and Nuclear Safety (IRSN), Centre of Cadarache, BP 3, 13115 St Paul-lez-Durance, Cedex, France; International Union of Radioecology (IUR), Center of Cadarache, BP 3, 13115 St Paul-lez-Durance, Cedex, France. Electronic address: francois.brechignac@irsn.fr."
+          }
+        ]
+      },
+      {
+        "accno": "o28",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Institute of Environmental Radioactivity, Fukushima University, 1 Kanayagawa, Fukushima-shi, Fukushima 960-1296, Japan. Electronic address: hirot@ipc.fukushima-u.ac.jp."
+          }
+        ]
+      },
+      {
+        "accno": "o14",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "LK Consultancy, P.O. Box 373, Turner Valley, Alberta T0L 2A0, Canada. Electronic address: kapustka@xplornet.com."
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "LWB Environmental Services, Inc., 1620 New London Rd., Hamilton, OH 45013, USA. Electronic address: barnthouse@lwb-env.com."
+          }
+        ]
+      },
+      {
+        "accno": "o8",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Norwegian Radiation Protection Authority (NRPA), Østerås, Norway. Electronic address: Justin.brown@nrpa.no."
+          }
+        ]
+      },
+      {
+        "accno": "o27",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Norwegian University of Life Sciences (NMBU), Universitetstunet 3, 1430 Ås, Norway. Electronic address: per.strand@nrpa.no."
+          }
+        ]
+      },
+      {
+        "accno": "o10",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Russian Institute of Radiology and Agroecology, Obninsk, Russia. Electronic address: stgeraskin@gmail.com."
+          }
+        ]
+      },
+      {
+        "accno": "o25",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Savannah River Ecology Laboratory (SREL), Drawer E, Aiken, SC 29802, USA. Electronic address: rhodes@srel.uga.edu."
+          }
+        ]
+      },
+      {
+        "accno": "o16",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Savannah River National Laboratory, Aiken, SC, USA. Electronic address: wendy.kuhne@srnl.doe.gov."
+          }
+        ]
+      },
+      {
+        "accno": "o12",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "School of Nuclear Science and Engineering, Oregon State University, Corvallis, OR 97331, USA. Electronic address: kathryn.higley@oregonstate.edu."
+          }
+        ]
+      },
+      {
+        "accno": "o6",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "School of Renewable Natural Resources, Louisiana State University AgCenter, Baton Rouge, LA 70803, USA. Electronic address: andreabonisoli@gmail.com."
+          }
+        ]
+      },
+      {
+        "accno": "o15",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Swedish Nuclear Fuel and Waste Management Co., (SKB), P.O. Box 250, SE-101 24 Stockholm, Sweden. Electronic address: ulrikkau+iurj@gmail.com."
+          }
+        ]
+      },
+      {
+        "accno": "o23",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "The BCPH Unit of Molecular Physiology, Department of Chemistry, Biology and Marine Science, Faculty of Science, University of the Ryukyus, Okinawa 903-0213, Japan. Electronic address: otaki@sci.u-ryukyu.ac.jp."
+          }
+        ]
+      },
+      {
+        "accno": "o5",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "University of Georgia, Savannah River Ecology Laboratory & Warnell School of Forestry and Natural Resources, PO Drawer E, Aiken, SC 29802, USA. Electronic address: beasley@srel.uga.edu."
+          }
+        ]
+      },
+      {
+        "accno": "o9",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Université de Lyon, F-69000, Lyon, France; Université Lyon 1, France; CNRS, UMR5558, Laboratoire de Biométrie et Biologie Evolutive, F-69622 Villeurbanne, France. Electronic address: stephane.dray@univ-lyon1.fr."
+          }
+        ]
+      },
+      {
+        "accno": "o24",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Urals Research Center for Radiation Medicine, Vorovsky Str. 68a, 454076 Chelyabinsk, Russia. Electronic address: pryakhin@yandex.ru."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

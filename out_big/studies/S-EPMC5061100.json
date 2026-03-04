@@ -1,0 +1,295 @@
+{
+  "accno": "S-EPMC5061100",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Faculty of Radiation Oncology 2014 workforce census."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2015-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Faculty of Radiation Oncology 2014 workforce census."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Introduction</h4>This paper reports the key findings of the Faculty of Radiation Oncology 2014 workforce census and compares the results with earlier surveys.<h4>Methods</h4>The census was conducted in mid-2014 with distribution to all radiation oncologists, educational affiliates and trainees listed on the college database. There were six email reminders and responses were anonymous. The overall response rate was 76.1%.<h4>Results</h4>The age range of fellows was 32-96 (mean = 49 years, median = 47 years). The majority of the radiation oncologists were male (n = 263, 63%). The minority of radiation oncologists were of Asian descent (n = 43, 13.4%). Radiation oncologists graduated from medical school on average 23 years ago (median = 22 years). A minority of fellows (n = 66, 20%) held another postgraduate qualification. Most radiation oncologists worked, on average, at two practices (median = 2, range 1-7). Practising radiation oncologists worked predominantly in the public sector (n = 131, 49%), but many worked in both the public and private sectors (n = 94, 37%), and a minority worked in the private sector only (n = 38, 14%). The largest proportion of the workforce was from New South Wales accounting for 29% of radiation oncologists. Radiation oncologists worked an average of 43 h/week (median = 43 h, range 6-80). Radiation oncologists who worked in the private sector worked less hours than their public sector or public/private sector colleagues. (38.3 vs. 42.9 vs. 44.3 h, P = 0.042). Victorians worked the fewest average hours per week at 38 h and West Australians the most at 46 h/week. Radiation oncologists averaged 48 min for each new case, 17 min per follow up and 11 min for a treatment review. Radiation oncologists averaged 246 new patients per year (median = 250, range = 20-600) with men (average = 268), Western Australians (average = 354) and those in private practice seeing more (average = 275). Most radiation oncologists considered themselves as specialists (n = 151, 60%), but nearly all those from South Australia were generalists (n = 15, 94%) as were three-quarters of those from private practice. A minority of radiation oncologist respondents (10%) intended to retire within 5 years with a further 16% within 10 years.There was a stabilisation of trainee numbers in Australia and New Zealand with no increase compared with 2010 (142 in 2014 vs. 143 in 2010). The most common age bracket for trainees remained 31-35 years. One-third of trainees were of Asian descent and nearly half held other degrees. The majority of trainees were satisfied with their career, but 30% were not entirely satisfied. Nearly half of trainee respondents would have reconsidered their choice of specialty had they known about the possible oversupply in the workforce with 12.4% undecided about continuing their career in radiation oncology. There were still 16% of trainees with no protected time during the working week, and a further 21% with only 1 h. Only one trainee respondent preferred to work in private practice, and job availability remained a concern for 89% of respondents.<h4>Conclusions</h4>The radiation oncologist workforce numbers have increased at a much slower rate, and unemployment remained low. Many parameters remained similar to the 2010 survey. However, there has been a decrease in the average number of new patients seen per year, working hours and also a slight decrease in the time spent per new patient. The trainee numbers have stabilised, but job availability remained a concern. A significant proportion of trainees were not satisfied with their career."
+      }
+    ],
+    "files": [
+      {
+        "path": "JMIRO-59-717-s001.doc",
+        "size": 1491968,
+        "type": "file"
+      },
+      {
+        "path": "JMIRO-59-717-s002.docx",
+        "size": 18054,
+        "type": "file"
+      },
+      {
+        "path": "JMIRO-59-717-s003.docx",
+        "size": 131513,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Journal of medical imaging and radiation oncology"
+          },
+          {
+            "name": "Volume",
+            "value": "59(6)"
+          },
+          {
+            "name": "Pages",
+            "value": "717-27"
+          },
+          {
+            "name": "Publication date",
+            "value": "2015 Dec"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1111/1754-9485.12320",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC5061100",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "26511456",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Leung J"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Munro PL"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-1422-7033"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "James M"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Economic and Workforce Committee"
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Forstner D"
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Chee R"
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Poulsen M"
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Dreosti M"
+          }
+        ]
+      },
+      {
+        "accno": "a9",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kaminski A"
+          }
+        ]
+      },
+      {
+        "accno": "a10",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Duchesne G"
+          }
+        ]
+      },
+      {
+        "accno": "a11",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Burke M"
+          }
+        ]
+      },
+      {
+        "accno": "a12",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Pham T"
+          }
+        ]
+      },
+      {
+        "accno": "a13",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Cronje S"
+          }
+        ]
+      },
+      {
+        "accno": "a14",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Lee L"
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Canterbury Blood and Haematology Service, Christchurch Hospital, Christchurch, New Zealand."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Policy and Advocacy Unit, Royal Australian and New Zealand College of Radiologists, Sydney, New South Wales, Australia."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Radiation Oncology, Adelaide Radiotherapy Centre, Adelaide, South Australia, Australia."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

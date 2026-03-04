@@ -1,0 +1,195 @@
+{
+  "accno": "S-EPMC6123896",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Tongue myokymia presenting twelve years after radiation therapy."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2016-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Tongue myokymia presenting twelve years after radiation therapy."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Objective</h4>This case is a patient with tongue myokymia following radiation therapy 12 years earlier, documented using video and EMG.<h4>Case report</h4>A 68-year-old woman with a history of nasopharyngeal carcinoma presented with subacute onset of difficulty in speaking and involuntary movements of her tongue approximately 12 years after radiation therapy to head and neck. Electromyography displayed myokymic discharges. There was no evidence of recurrent malignancy.<h4>Significance</h4>Delayed effects of radiation therapy might be seen decades later. Myokymic discharges may reveal radiation-induced neuropathy."
+      }
+    ],
+    "files": [
+      {
+        "path": "mmc1.mp4",
+        "size": 8640797,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Clinical neurophysiology practice"
+          },
+          {
+            "name": "Volume",
+            "value": "1"
+          },
+          {
+            "name": "Pages",
+            "value": "41-42"
+          },
+          {
+            "name": "Publication date",
+            "value": "2016"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1016/j.cnp.2016.05.002",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC6123896",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "30214958",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Tiftikcioglu BI"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-4573-3844"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Bulbul I"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Ozcelik MM"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Piskin-Demir G"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Zorlu Y"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Tepecik Education and Research Hospital, Department of Neurology, Izmir, Turkey."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Tepecik Education and Research Hospital, Department of Radiation Oncology, Izmir, Turkey."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

@@ -1,0 +1,166 @@
+{
+  "accno": "S-EPMC7859810",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Intraoperative risks of radiation exposure for the surgeon and patient."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2021-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Intraoperative risks of radiation exposure for the surgeon and patient."
+      },
+      {
+        "name": "Abstract",
+        "value": "Intraoperative radiological imaging serves an essential role in many spine surgery procedures. It is critical that patients, staff and physicians have an adequate understanding of the risks and benefits associated with radiation exposure for all involved. In this review, we briefly introduce the current trends associated with intraoperative radiological imaging. With the increased utilization of minimally invasive spine surgery (MIS) techniques, the benefits of intraoperative imaging have become even more important. Less surgical exposure, however, often equates to an increased requirement for intraoperative imaging. Understanding the conventions for radiation measurement, radiological fundamental concepts, along with deterministic or stochastic effects gives a framework for conceptualizing how radiation exposure relates to the risk of various sequela. Additionally, we describe the various options surgeons have for intraoperative imaging modalities including those based on conventional fluoroscopy, computer tomography, and magnetic resonance imaging. We also describe different ways to prevent unnecessary radiation exposure including dose reduction, better education, and use of personal protective equipment (PPE). Finally, we conclude with a reflection on the progress that has been made to limit intraoperative radiation exposure and the promise of future technology and policy."
+      }
+    ],
+    "files": [
+      {
+        "path": "atm-09-01-84-coif.pdf",
+        "size": 241951,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Annals of translational medicine"
+          },
+          {
+            "name": "Volume",
+            "value": "9(1)"
+          },
+          {
+            "name": "Pages",
+            "value": "84"
+          },
+          {
+            "name": "Publication date",
+            "value": "2021 Jan"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.21037/atm-20-1052",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC7859810",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "33553377",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Jenkins NW"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Parrish JM"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Sheha ED"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Singh K"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Orthopaedic Surgery, Rush University Medical Center, Chicago, IL, USA."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

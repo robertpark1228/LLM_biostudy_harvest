@@ -1,0 +1,275 @@
+{
+  "accno": "S-EPMC3833592",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Systematic review of hypofractionated radiation therapy for prostate cancer."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2013-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Systematic review of hypofractionated radiation therapy for prostate cancer."
+      },
+      {
+        "name": "Abstract",
+        "value": "Prostate cancer is the second most prevalent solid tumor diagnosed in men in the United States and Western Europe. Conventionally fractionated external beam radiation therapy (1.8-2.0 Gy/fraction) is an established treatment modality for men in all disease risk groups. Emerging evidence from experimental and clinical studies suggests that the α/β ratio for prostate cancer may be as low as 1.5 Gy, which has prompted investigators around the world to explore moderately hypofractionated radiation therapy (2.1-3.5 Gy/fraction). We review the impetus behind moderate hypofractionation and the current clinical evidence supporting moderate hypofractionated radiation therapy for prostate cancer. Although hypofractionated radiation therapy has many theoretical advantages, there is no clear evidence from prospective, randomized, controlled trials showing that hypofractionated schedules have improved outcomes or lower toxicity than conventionally fractionated regimens. Currently, hypofractionated schedules should only be used in the context of clinical trials. High dose rate brachytherapy and stereotactic body radiation therapy (fraction size 3.5 Gy and greater) are alternative approaches to hypofractionation, but are beyond the scope of this report."
+      }
+    ],
+    "links": [
+      [
+        {
+          "url": "NCT00304759",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT00667888",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT00331773",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT00392535",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        }
+      ]
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "P30 CA056036"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "P30 CA56036"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Cancer treatment reviews"
+          },
+          {
+            "name": "Volume",
+            "value": "39(7)"
+          },
+          {
+            "name": "Pages",
+            "value": "728-36"
+          },
+          {
+            "name": "Publication date",
+            "value": "2013 Nov"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1016/j.ctrv.2013.01.008",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "10.1016/j.ctrv.2013.01.008",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC3833592",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "23453861",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Zaorsky NG"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-4932-1986"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Ohri N"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Showalter TN"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0003-1373-8496"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Dicker AP"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0003-0733-3337"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Den RB"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-8653-1763"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Jefferson Medical College & Kimmel Cancer Center, Thomas Jefferson University, Philadelphia, PA 19107, USA. nicholaszaorsky@gmail.com"
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Thomas Jefferson University Hospital, Philadelphia, PA"
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

@@ -1,0 +1,372 @@
+{
+  "accno": "S-EPMC6986889",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "MicroRNA-21 is Required for Hematopoietic Cell Viability After Radiation Exposure."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2019-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "MicroRNA-21 is Required for Hematopoietic Cell Viability After Radiation Exposure."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Purpose</h4>Radiation therapy is an essential intervention used in the treatment of more than half of cancer patients. With the increasing use of hypofractionated radiation regimens, concurrent use of radiation and chemotherapy, targeted agents and immunotherapy, the risk of radiation-induced toxicities is increased. However, much remains unknown about the molecular underpinnings responsible for radiation-induced toxicity. MicroRNA (miRNA) are small, non-coding RNA involved in post-transcriptional regulation of gene expression. miR-21 is an oncomiR that is dysregulated in a significant fraction of human malignancies, and its overexpression is linked to poor overall survival, chemoresistance, and radioresistance in several human cancers. However, the contribution of miR-21 in governing radiation sensitivity in normal, untransformed cells, and the impact of silencing this miRNA in normal tissues remains largely unexplored.<h4>Materials and methods</h4>miR-21 levels were evaluated in tissues by qRT-PCR without and after total body irradiation (TBI). Mice lacking miR-21 were genetically engineered, subjected to TBI, and monitored for survival. Hematopoietic stem and progenitor cell (HSPC) numbers and function were assessed using flow cytometry, histology, complete blood cell counts, and bone marrow transplantation.<h4>Results</h4>miR-21 expression was increased in radiosensitive tissues, but not in radioinsensitive tissues following TBI in wild-type mice, suggesting it may have a critical function in the normal tissue response to irradiation. Compared to wild-type mice, mice lacking one or both alleles of miR-21 showed reduced numbers of HSPCs and increased sensitivity to an LD<sub>50/30</sub> dose of TBI with evidence of bone marrow failure. Transplantation of wild-type bone marrow into irradiated miR-21-deficient mice rescued the mice from death.<h4>Conclusions</h4>Our data identify miR-21 as a critical component of HSPC viability and essential for bone marrow recovery following irradiation. Further investigation is warranted to determine whether miR-21 can be used to stratify patients at risk for hematopoietic toxicity following irradiation."
+      }
+    ],
+    "files": [
+      {
+        "path": "NIHMS1065563-supplement-1.pdf",
+        "size": 1301598,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "R01 CA227479"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Translational Research and Pathology, and Laboratory Animals Core"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "F30 CA189433"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Flow Cytometry"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "P30 CA056036"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI Cancer Center"
+          },
+          {
+            "name": "grant_id",
+            "value": "P30CA056036"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "R01 CA226432"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "International journal of radiation oncology, biology, physics"
+          },
+          {
+            "name": "Volume",
+            "value": "104(5)"
+          },
+          {
+            "name": "Pages",
+            "value": "1165-1174"
+          },
+          {
+            "name": "Publication date",
+            "value": "2019 Aug"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1016/j.ijrobp.2019.04.020",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "10.1016/j.ijrobp.2019.04.020",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC6986889",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "31039423",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Puccetti MV"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Adams CM"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Dan TD"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0003-1154-0507"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Palagani A"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Simone BA"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "DeAngelis T"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Eischen CM"
+          },
+          {
+            "name": "affiliation",
+            "value": "o5",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Simone NL"
+          },
+          {
+            "name": "affiliation",
+            "value": "o6",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Cancer Biology, Sidney Kimmel Cancer Center, Thomas Jefferson University, Philadelphia, Pennsylvania."
+          }
+        ]
+      },
+      {
+        "accno": "o5",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Cancer Biology, Sidney Kimmel Cancer Center, Thomas Jefferson University, Philadelphia, Pennsylvania. Electronic address: christine.eischen@jefferson.edu."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Cancer Biology, Sidney Kimmel Cancer Center, Thomas Jefferson University, Philadelphia, Pennsylvania; Medical Scientist Training Program, Vanderbilt University School of Medicine, Nashville, Tennessee."
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Sidney Kimmel Medical College, Thomas Jefferson University, Philadelphia, Pennsylvania."
+          }
+        ]
+      },
+      {
+        "accno": "o6",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Sidney Kimmel Medical College, Thomas Jefferson University, Philadelphia, Pennsylvania. Electronic address: nicole.simone@jefferson.edu."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, University of Texas Southwestern Medical Center, Dallas, Texas."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

@@ -1,0 +1,258 @@
+{
+  "accno": "S-EPMC11379926",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Transverse recoil imprinted on free-electron radiation."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2024-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Transverse recoil imprinted on free-electron radiation."
+      },
+      {
+        "name": "Abstract",
+        "value": "Phenomena of free-electron X-ray radiation are treated almost exclusively with classical electrodynamics, despite the intrinsic interaction being that of quantum electrodynamics. The lack of quantumness arises from the vast disparity between the electron energy and the much smaller photon energy, resulting in a small cross-section that makes quantum effects negligible. Here we identify a fundamentally distinct phenomenon of electron radiation that bypasses this energy disparity, and thus displays extremely strong quantum features. This phenomenon arises when free-electron transverse scattering occurs during the radiation process, creating entanglement between each transversely recoiled electron and the photons it emitted. This phenomenon profoundly modifies the characteristics of free-electron radiation mediated by crystals, compared to conventional classical analysis and even previous quantum analysis. We also analyze conditions to detect this phenomenon using low-emittance electron beams and high-resolution X-ray spectrometers. These quantum radiation features could guide the development of compact coherent X-ray sources facilitated by nanophotonics and quantum optics."
+      }
+    ],
+    "files": [
+      {
+        "path": "41467_2024_52050_MOESM1_ESM.pdf",
+        "size": 2562686,
+        "type": "file"
+      },
+      {
+        "path": "41467_2024_52050_MOESM2_ESM.pdf",
+        "size": 653468,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Israel Science Foundation (ISF)"
+          },
+          {
+            "name": "grant_id",
+            "value": "3525/20"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "EC | EU Framework Programme for Research and Innovation H2020 | H2020 The European Institute of Innovation and Technology | EIT Climate-KIC (Climate-KIC Holding B.V.)"
+          },
+          {
+            "name": "grant_id",
+            "value": "851780"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "European Research Council"
+          },
+          {
+            "name": "grant_id",
+            "value": "851780"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "National Research Foundation Singapore (National Research Foundation-Prime Minister's office, Republic of Singapore)"
+          },
+          {
+            "name": "grant_id",
+            "value": "NRF2020-NRF-ISF004-3525"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Nature communications"
+          },
+          {
+            "name": "Volume",
+            "value": "15(1)"
+          },
+          {
+            "name": "Pages",
+            "value": "7803"
+          },
+          {
+            "name": "Publication date",
+            "value": "2024 Sep"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1038/s41467-024-52050-w",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC11379926",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "39242627",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Shi X"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Wong LWW"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Huang S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Wong LJ"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kaminer I"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "School of Electrical and Electronic Engineering, Nanyang Technological University, 50 Nanyang Avenue, Singapore, 639798, Singapore."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Solid State Institute and Faculty of Electrical and Computer Engineering, Technion - Israel Institute of Technology, Haifa, 3200003, Israel."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Solid State Institute and Faculty of Electrical and Computer Engineering, Technion - Israel Institute of Technology, Haifa, 3200003, Israel. kaminer@technion.ac.il."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

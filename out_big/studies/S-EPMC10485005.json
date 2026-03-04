@@ -1,0 +1,191 @@
+{
+  "accno": "S-EPMC10485005",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Contactless deformation of fluid interfaces by acoustic radiation pressure."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2023-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Contactless deformation of fluid interfaces by acoustic radiation pressure."
+      },
+      {
+        "name": "Abstract",
+        "value": "Reversible and programmable shaping of surfaces promises wide-ranging applications in tunable optics and acoustic metasurfaces. Based on acoustic radiation pressure, contactless and real-time deformation of fluid interface can be achieved. This paper presents an experimental and numerical study to characterize the spatiotemporal properties of the deformation induced by acoustic radiation pressure. Using localized ultrasonic excitation, we report the possibility of on-demand tailoring of the induced protrusion at water-air interface in space and time, depending on the shape of the input pressure field. The experimental method used to measure the deformation of the water surface in space and time shows close agreement with simulations. We demonstrate that acoustic radiation pressure allows shaping protrusion at fluid interfaces, which could be changed into a various set of spatiotemporal distributions, considering simple parameters of the ultrasonic excitation. This paves the way for novel approach to design programmable space and time-dependent gratings at fluid interfaces."
+      }
+    ],
+    "files": [
+      {
+        "path": "41598_2023_39464_MOESM1_ESM.docx",
+        "size": 22121,
+        "type": "file"
+      },
+      {
+        "path": "41598_2023_39464_MOESM2_ESM.mp4",
+        "size": 1336838,
+        "type": "file"
+      },
+      {
+        "path": "41598_2023_39464_MOESM3_ESM.mp4",
+        "size": 13191385,
+        "type": "file"
+      },
+      {
+        "path": "41598_2023_39464_MOESM4_ESM.mp4",
+        "size": 3295477,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Scientific reports"
+          },
+          {
+            "name": "Volume",
+            "value": "13(1)"
+          },
+          {
+            "name": "Pages",
+            "value": "14703"
+          },
+          {
+            "name": "Publication date",
+            "value": "2023 Sep"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1038/s41598-023-39464-0",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC10485005",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "37679368",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Sisombat F"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Devaux T"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Haumesser L"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Calle S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "GREMAN UMR 7347, Université de Tours, INSA CVL, CNRS, 41000, Blois, France."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "GREMAN UMR 7347, Université de Tours, INSA CVL, CNRS, 41000, Blois, France. felix.sisombat@univ-tours.fr."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

@@ -1,0 +1,176 @@
+{
+  "accno": "S-EPMC5679386",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Lifetime cost-effectiveness analysis of intraoperative radiation therapy versus external beam radiation therapy for early stage breast cancer."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2017-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Lifetime cost-effectiveness analysis of intraoperative radiation therapy versus external beam radiation therapy for early stage breast cancer."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Background</h4>To date no one has examined the quality of life and direct costs of care in treating early stage breast cancer with adjunct intraoperative radiation therapy (IORT) versus external beam radiation therapy (EBRT) over the life of the patient. As well no one has examined the effects of radiation exposure with both therapies on the longer term sequelae. The purpose of this analysis was to examine the cost-effectiveness of IORT vs. EBRT over the life of the patient.<h4>Methods</h4>A Markov decision-analytic model evaluated these treatment strategies in terms of the direct costs in treating patients over their lifetime (including the downstream costs associated with radiation exposure) and the resultant quality of life of these patients. Medicare reimbursement amounts in treating patients were used for acute, steady state, recurrent cancer(s), and complications associated with radiation exposure. Quality adjusted life years (QALYs) derived from the medical literature were assessed with each of these states. Life expectancies as well were derived from the medical literature. Cost-effectiveness was evaluated for dominance and net monetary benefit [at a willingness to pay (WTP)] of $50,000/QALY. Sensitivity analysis was also performed.<h4>Results</h4>IORT was the dominant (least costly with greater QALYs) versus EBRT: total costs over the life of the patient = $53,179 (IORT) vs. $63,828 (EBRT) and total QALYs: 17.86 (IORT) vs. 17.06 (EBRT). At a willingness to pay of $50,000 for each additional QALY, the net monetary benefit demonstrated that IORT was the most cost effective option: $839,815 vs. $789,092. The model was most sensitive to the probabilities of recurrent cancer and death for both IORT and EBRT.<h4>Conclusion</h4>IORT is the more valuable (lower cost with improved QALYs) strategy for use in patients presenting with early stage ER+ breast cancer. It should be used preferentially in these patients."
+      }
+    ],
+    "files": [
+      {
+        "path": "12962_2017_84_MOESM1_ESM.docx",
+        "size": 28064,
+        "type": "file"
+      },
+      {
+        "path": "12962_2017_84_MOESM2_ESM.docx",
+        "size": 46534,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Cost effectiveness and resource allocation : C/E"
+          },
+          {
+            "name": "Volume",
+            "value": "15"
+          },
+          {
+            "name": "Pages",
+            "value": "22"
+          },
+          {
+            "name": "Publication date",
+            "value": "2017"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1186/s12962-017-0084-5",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC5679386",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "29151818",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Patel R"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Ivanov O"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Voigt J"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Breast Health Center, Celebration Health, 2nd Floor, 380 Celebration Pl, Celebration, FL 34747 USA."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Medical Device Consultants of Ridgewood, LLC, 99 Glenwood Rd., Ridgewood, NJ 07450 USA."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Radiation Oncology, Good Samaritan Hospital, 425 Samaritan Dr, San Jose, CA 95124 USA."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

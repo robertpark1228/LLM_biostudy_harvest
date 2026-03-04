@@ -1,0 +1,289 @@
+{
+  "accno": "S-EPMC8657493",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Differential Effects of Low and High Radiation Dose Rates on Mouse Spermatogenesis."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2021-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Differential Effects of Low and High Radiation Dose Rates on Mouse Spermatogenesis."
+      },
+      {
+        "name": "Abstract",
+        "value": "The adverse effects of radiation are proportional to the total dose and dose rate. We aimed to investigate the effects of radiation dose rate on different organs in mice. The mice were subjected to low dose rate (LDR, ~3.4 mGy/h) and high dose rate (HDR, ~51 Gy/h) radiation. LDR radiation caused severe tissue toxicity, as observed in the histological analysis of testis. It adversely influenced sperm production, including sperm count and motility, and induced greater sperm abnormalities. The expression of markers of early stage spermatogonial stem cells, such as Plzf, c-Kit, and Oct4, decreased significantly after LDR irradiation, compared to that following exposure of HDR radiation, in qPCR analysis. The compositional ratios of all stages of spermatogonia and meiotic cells, except round spermatid, were considerably reduced by LDR in FACS analysis. Therefore, LDR radiation caused more adverse testicular damage than that by HDR radiation, contrary to the response observed in other organs. Therefore, the dose rate of radiation may have differential effects, depending on the organ; it is necessary to evaluate the effect of radiation in terms of radiation dose, dose rate, organ type, and other conditions."
+      }
+    ],
+    "files": [
+      {
+        "path": "ijms-22-12834-s001.zip",
+        "size": 620672,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Dongnam Institute of Radiological &amp; Medical Sciences"
+          },
+          {
+            "name": "grant_id",
+            "value": "50492-2017, 50491-2018, 50492-2019, 50492-2020, and 50491-2021"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "International journal of molecular sciences"
+          },
+          {
+            "name": "Volume",
+            "value": "22(23)"
+          },
+          {
+            "name": "Pages",
+            "value": "12834"
+          },
+          {
+            "name": "Publication date",
+            "value": "2021 Nov"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.3390/ijms222312834",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC8657493",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "34884637",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Bae MJ"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kang MK"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kye YU"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Baek JH"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Sim YJ"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Lee HJ"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kang YR"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Jo WS"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a9",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kim JS"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a10",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Lee CG"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "College of Veterinary Medicine and BK21 Plus Project Team, Chonnam National University, 77 Yongbong-ro, Buk-gu, Gwangju 61186, Korea."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Division of Radiation Biomedical Research, Korea Institute of Radiological & Medical Sciences, 75 Nowon-ro, Nowon-gu, Seoul 01812, Korea."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Research Center, Dongnam Institute of Radiological & Medical Sciences, Busan 619-953, Korea."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

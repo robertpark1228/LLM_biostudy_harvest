@@ -1,0 +1,200 @@
+{
+  "accno": "S-EPMC6462885",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Investigation of Radiation Oncologists' Awareness of Online Reputation Management."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2019-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Investigation of Radiation Oncologists' Awareness of Online Reputation Management."
+      },
+      {
+        "name": "Abstract",
+        "value": "BACKGROUND:Online reputation management (ORM) is an emerging practice strategy that emphasizes the systematic and proactive monitoring of online reviews relating to one's professional reputation. OBJECTIVE:We developed this survey project to assess whether radiation oncologists are aware of ORM and how it is utilized in their practices. We hypothesized that ORM is largely unknown by most practicing radiation oncologists and that little time is spent actively managing their reputations. METHODS:An online survey was submitted to 1222 radiation oncologists using the Qualtrics research platform. Physician emails were gathered from the American Society for Radiation Oncology member directory. A total of 85 physicians initiated the survey, whereas 76 physicians completed more than or equal to 94% (15/16) of the survey questions and were subsequently used in our analyses. The survey consisted of 15 questions querying practice demographics, patient satisfaction determination, ORM understanding, and activities to address ORM and 1 question for physicians to opt-in to a US $50 Amazon gift card raffle. The survey data were summarized using a frequency table, and data were analyzed using the Chi-square test, Fisher exact test, and Spearman correlation coefficients. RESULTS:We calculated a 7% (85/1222) response rate for our survey, with a completion rate of 89% (76/85). A majority of respondents (97%, 74/76) endorsed being somewhat or strongly concerned about patient satisfaction (P<.001). However, 58% (44/76) of respondents reported spending 0 hours per week reviewing or managing their online reputation and 39% (30/76) reported spending less than 1 hour per week (P<.001). A majority of physicians (58%, 44/76) endorsed no familiarity with ORM (P<.001) and 70% (53/76) did not actively manage their online reputation (P<.001). Although 83% (63/76) of respondents strongly or somewhat believed that patients read online reviews (P<.001), 57% (43/76) of respondents did not check their online reviews (P=.25) and 80% (61/76) endorsed never responding to online reviews (P<.001). Moreover, 58% (44/76) of the respondents strongly or somewhat supported the idea of managing their online reputation going forward (P=.001). In addition, 11 out of the 28 pairs of questions asked in our correlation studies reached statistical significance. Degree of concern for patient satisfaction and the notion of managing one's ORM going forward were the 2 most frequently correlated topics of statistical significance in our analyses. CONCLUSIONS:ORM is presently under-recognized in radiation oncology. Although most practitioners are concerned about patient satisfaction, little effort is directed toward the internet on this matter. ORM offers an area of practice improvement for many practicing radiation oncologists."
+      }
+    ],
+    "files": [
+      {
+        "path": "cancer_v5i1e10530_app1.PPTX",
+        "size": 462263,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "JMIR cancer"
+          },
+          {
+            "name": "Volume",
+            "value": "5(1)"
+          },
+          {
+            "name": "Pages",
+            "value": "e10530"
+          },
+          {
+            "name": "Publication date",
+            "value": "2019 Apr"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.2196/10530",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC6462885",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "30932863",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Waxer JF"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0001-7552-9951"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Srivastav S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "DiBiase CS"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "DiBiase SJ"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Global Biostatistics and Data Science, Tulane University School of Public Health and Tropical Medicine, New Orleans, LA, United States."
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, New York-Presbyterian Queens, Weill Cornell Medicine, Flushing, NY, United States."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Tulane University School of Medicine, New Orleans, LA, United States."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Webb School of Knoxville, Knoxville, TN, United States."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

@@ -1,0 +1,353 @@
+{
+  "accno": "S-EPMC4522159",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "TGFβ Is a Master Regulator of Radiation Therapy-Induced Antitumor Immunity."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2015-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "TGFβ Is a Master Regulator of Radiation Therapy-Induced Antitumor Immunity."
+      },
+      {
+        "name": "Abstract",
+        "value": "T cells directed to endogenous tumor antigens are powerful mediators of tumor regression. Recent immunotherapy advances have identified effective interventions to unleash tumor-specific T-cell activity in patients who naturally develop them. Eliciting T-cell responses to a patient's individual tumor remains a major challenge. Radiation therapy can induce immune responses to model antigens expressed by tumors, but it remains unclear whether it can effectively prime T cells specific for endogenous antigens expressed by poorly immunogenic tumors. We hypothesized that TGFβ activity is a major obstacle hindering the ability of radiation to generate an in situ tumor vaccine. Here, we show that antibody-mediated TGFβ neutralization during radiation therapy effectively generates CD8(+) T-cell responses to multiple endogenous tumor antigens in poorly immunogenic mouse carcinomas. Generated T cells were effective at causing regression of irradiated tumors and nonirradiated lung metastases or synchronous tumors (abscopal effect). Gene signatures associated with IFNγ and immune-mediated rejection were detected in tumors treated with radiation therapy and TGFβ blockade in combination but not as single agents. Upregulation of programmed death (PD) ligand-1 and -2 in neoplastic and myeloid cells and PD-1 on intratumoral T cells limited tumor rejection, resulting in rapid recurrence. Addition of anti-PD-1 antibodies extended survival achieved with radiation and TGFβ blockade. Thus, TGFβ is a fundamental regulator of radiation therapy's ability to generate an in situ tumor vaccine. The combination of local radiation therapy with TGFβ neutralization offers a novel individualized strategy for vaccinating patients against their tumors."
+      }
+    ],
+    "files": [
+      {
+        "path": "NIHMS681049-supplement-1.tif",
+        "size": 3160804,
+        "type": "file"
+      },
+      {
+        "path": "NIHMS681049-supplement-2.tif",
+        "size": 2276688,
+        "type": "file"
+      },
+      {
+        "path": "NIHMS681049-supplement-3.docx",
+        "size": 15301,
+        "type": "file"
+      }
+    ],
+    "links": [
+      [
+        {
+          "url": "GSE61208",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "geo"
+            }
+          ]
+        },
+        {
+          "url": "NCT01401062",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        }
+      ]
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "P30 CA016087"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "P30CA016087"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Cancer research"
+          },
+          {
+            "name": "Volume",
+            "value": "75(11)"
+          },
+          {
+            "name": "Pages",
+            "value": "2232-42"
+          },
+          {
+            "name": "Publication date",
+            "value": "2015 Jun"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1158/0008-5472.CAN-14-3511",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "10.1158/0008-5472.can-14-3511",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC4522159",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "25858148",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Vanpouille-Box C"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0001-7213-0670"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Diamond JM"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Pilones KA"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Zavadil J"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0003-0640-5562"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Babb JS"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0003-1798-1186"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Formenti SC"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Barcellos-Hoff MH"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-5994-9558"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Demaria S"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0003-4426-0499"
+          },
+          {
+            "name": "affiliation",
+            "value": "o5",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Pathology, New York University School of Medicine, New York, New York."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Pathology, New York University School of Medicine, New York, New York. Center for Health Informatics and Bioinformatics, NYU Laura and Isaac Perlmutter Cancer Center, New York University School of Medicine, New York, New York."
+          }
+        ]
+      },
+      {
+        "accno": "o5",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Pathology, New York University School of Medicine, New York, New York. Department of Radiation Oncology, New York University School of Medicine, New York, New York. sandra.demaria@nyumc.org."
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, New York University School of Medicine, New York, New York."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiology, New York University School of Medicine, New York, New York."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

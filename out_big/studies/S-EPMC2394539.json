@@ -1,0 +1,159 @@
+{
+  "accno": "S-EPMC2394539",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Species richness and abundance of forest birds in relation to radiation at Chernobyl."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2007-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Species richness and abundance of forest birds in relation to radiation at Chernobyl."
+      },
+      {
+        "name": "Abstract",
+        "value": "The effects of low-level radiation on the abundance of animals are poorly known, as are the effects on ecosystems and their functioning. Recent conclusions from the UN Chernobyl forum and reports in the popular media concerning the effects of radiation from Chernobyl on animals have left the impression that the Chernobyl exclusion zone is a thriving ecosystem, filled with an increasing number of rare species. Surprisingly, there are no standardized censuses of common animals in relation to radiation, leaving the question about the ecological effects of radiation unresolved. We conducted standardized point counts of breeding birds at forest sites around Chernobyl differing in level of background radiation by over three orders of magnitude. Species richness, abundance and population density of breeding birds decreased with increasing level of radiation, even after controlling statistically for the effects of potentially confounding factors such as soil type, habitat and height of the vegetation. This effect was differential for birds eating soil invertebrates living in the most contaminated top soil layer. These results imply that the ecological effects of Chernobyl on animals are considerably greater than previously assumed."
+      }
+    ],
+    "files": [
+      {
+        "path": "rsbl20070226s12.doc",
+        "size": 93696,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Biology letters"
+          },
+          {
+            "name": "Volume",
+            "value": "3(5)"
+          },
+          {
+            "name": "Pages",
+            "value": "483-6"
+          },
+          {
+            "name": "Publication date",
+            "value": "2007 Oct"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1098/rsbl.2007.0226",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "10.1098/rsbl.2007.0226",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC2394539",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "17698449",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Moller AP"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Mousseau TA"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-2235-4868"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Biological Sciences, University of South Carolina Columbia, SC 29208, USA"
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Laboratoire de Parasitologie Evolutive, CNRS UMR 7103, Université Pierre et Marie Curie, Bâtiment A, 7ème étage, 7 quai St Bernard, Case 237, 75252 Paris Cedex 05, France."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

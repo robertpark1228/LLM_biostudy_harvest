@@ -1,0 +1,171 @@
+{
+  "accno": "S-EPMC9066197",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Wnt5a-mediated autophagy promotes radiation resistance of nasopharyngeal carcinoma."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2022-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Wnt5a-mediated autophagy promotes radiation resistance of nasopharyngeal carcinoma."
+      },
+      {
+        "name": "Abstract",
+        "value": "Wnt signaling pathways and autophagy play an essential role in tumor progression. Canonical Wnt signaling pathways in radiation resistance have been studied in the past, but it remains unclear whether the noncanonical Wnt signaling pathways can affect tumor radiation resistance through protective autophagy. Nasopharyngeal carcinoma, a particular subtype of head and neck squamous cell carcinoma, relies on radiation therapy. In this study, we found that radioactive rays could significantly promote the expression of Wnt noncanonical signaling pathways ligands in nasopharyngeal carcinoma, among which Wnt5A was the most markedly altered. We have demonstrated that Wnt5a can reduce the radiation sensitivity of nasopharyngeal carcinoma <i>in vitro</i> and <i>in vitro</i> experiments. Meanwhile, we found much more greater autophagosomes in overexpressed-Wnt5A nasopharyngeal carcinoma cells by electron microscopy. Further mechanism exploration revealed that Beclin1 is the main target of Wnt5A, and knocking down Beclin1 can partially reduce Wnt5a-induced radiation resistance. By studying Wnt5A-mediated protective autophagy in promoting radiation resistance in nasopharyngeal carcinoma cells, we hope that the Wnt5A and Beclin1 can become effective targets for overcoming radiation resistance in the future."
+      }
+    ],
+    "files": [
+      {
+        "path": "jcav13p2388s1.pdf",
+        "size": 7414757,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Journal of Cancer"
+          },
+          {
+            "name": "Volume",
+            "value": "13(7)"
+          },
+          {
+            "name": "Pages",
+            "value": "2388-2396"
+          },
+          {
+            "name": "Publication date",
+            "value": "2022"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.7150/jca.71526",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC9066197",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "35517407",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Lu Z"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Zhou Y"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Jing Q"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Changsha Aier Eye Hospital, Aier Eye Hospital Group, Changsha, Hunan,410000, People's Republic of China."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Otolaryngology Head and Neck Surgery, Xiangya Hospital, Central South University, 87 Xiangya Road, Changsha, Hunan 410008, People's Republic of China."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "The Affiliated Changsha Central Hospital, Department of Otolaryngology Head and Neck Surgery, Hengyang Medical School, University of South China. Changsha, Hunan, 410001, People's Republic of China."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

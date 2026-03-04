@@ -1,0 +1,191 @@
+{
+  "accno": "S-EPMC9507987",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Representation of Women in Canadian Radiation Oncology Trainees and Radiation Oncologists: Progress or Regress?"
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2022-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Representation of Women in Canadian Radiation Oncology Trainees and Radiation Oncologists: Progress or Regress?"
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Purpose</h4>The study objective was to determine the representation of women in Canadian radiation oncology (RO) trainees and the radiation oncologist workforce over time.<h4>Methods and materials</h4>Gender data for Canadian RO trainees (residents and fellows) and radiation oncologists were collected from the Canadian Post-MD Education Registry (1994-2021) and Canadian Medical Association (1994-2019). Visa trainees were excluded. Gender parity was defined as a 1:1 female-to-male ratio. Descriptive statistics were used to summarize the data.<h4>Results</h4>Female trainee proportions varied with 2 rising trend periods (1994-1998: 38%-43%, <i>P</i> = .93; 2002-2014: 35%-51%, <i>P</i> = .53) and 2 regression trend periods (1998-2002: 43%-35%, <i>P</i> = .83; 2014-2021: 52%-35%, <i>P</i> = .011). Gender parity was observed in RO trainees between 2012 and 2016. The annual number of RO trainees ranged from 66 to 173 with 2 near-parallel periods of gender-associated growth (1994-1996; 2002-2008) and regression (1997-2001; 2009-2016) followed by gender divergence (2017-2021) with increasing male and decreasing female trainees. Nearly all Canadian regions, except Ontario, reached 50% or higher female representation in RO trainees during the study period. In the radiation oncologist workforce, female representation increased from 20% (54/271) to 37% (217/582) between 1994 and 2019, and all regions and age groups demonstrated higher female representation over time. Within radiation oncologist subgroups, age <35 years old and Quebec region cohorts reached gender parity.<h4>Conclusions</h4>Representation of women varied in Canadian RO trainees and has fallen since 2014, whereas female representation generally increased in the radiation oncologist workforce over time. Gender parity was observed in RO trainees, radiation oncologists <35 years old, and radiation oncologists in Quebec. Recent declining female representation among RO trainees is worrisome, and further study is warranted to identify potential gender-based barriers in attracting women to the specialty."
+      }
+    ],
+    "files": [
+      {
+        "path": "mmc1.pdf",
+        "size": 250097,
+        "type": "file"
+      },
+      {
+        "path": "mmc2.pdf",
+        "size": 17085694,
+        "type": "file"
+      },
+      {
+        "path": "mmc3.docx",
+        "size": 214692,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Advances in radiation oncology"
+          },
+          {
+            "name": "Volume",
+            "value": "7(6)"
+          },
+          {
+            "name": "Pages",
+            "value": "101023"
+          },
+          {
+            "name": "Publication date",
+            "value": "2022 Nov-Dec"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1016/j.adro.2022.101023",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC9507987",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "36164478",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kwok JK"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Samson N"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Doll CM"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Barbera L"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Loewen SK"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Tom Baker Cancer Centre, Calgary, AB, Canada."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

@@ -1,0 +1,456 @@
+{
+  "accno": "S-EPMC7598436",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Prostate Cancer Radiation Therapy Recommendations in Response to COVID-19."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2020-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Prostate Cancer Radiation Therapy Recommendations in Response to COVID-19."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Purpose</h4>During a global pandemic, the benefit of routine visits and treatment of patients with cancer must be weighed against the risks to patients, staff, and society. Prostate cancer is one of the most common cancers radiation oncology departments treat, and efficient resource utilization is essential in the setting of a pandemic. Herein, we aim to establish recommendations and a framework by which to evaluate prostate radiation therapy management decisions.<h4>Methods and materials</h4>Radiation oncologists from the United States and the United Kingdom rapidly conducted a systematic review and agreed upon recommendations to safely manage patients with prostate cancer during the COVID-19 pandemic. A RADS framework was created: remote visits, and avoidance, deferment, and shortening of radiation therapy was applied to determine appropriate approaches.<h4>Results</h4>Recommendations were provided by the National Comprehensive Cancer Network risk group regarding clinical node-positive, postprostatectomy, oligometastatic, and low-volume M1 disease. Across all prostate cancer stages, telemedicine consultations and return visits were recommended when resources/staff available. Delays in consultations and return visits of between 1 and 6 months were deemed safe based on stage of disease. Treatment can be avoided or delayed until safe for very low, low, and favorable intermediate-risk disease. Unfavorable intermediate-risk, high-risk, clinical node-positive, recurrence postsurgery, oligometastatic, and low-volume M1 disease can receive neoadjuvant hormone therapy for 4 to 6 months as necessary. Ultrahypofractionation is preferred for localized, oligometastatic, and low-volume M1, and moderate hypofractionation is preferred for postprostatectomy and clinical node positive disease. Salvage is preferred to adjuvant radiation.<h4>Conclusions</h4>Resources can be reduced for all identified stages of prostate cancer. The RADS (remote visits, and avoidance, deferment, and shortening of radiation therapy) framework can be applied to other disease sites to help with decision making in a global pandemic."
+      }
+    ],
+    "files": [
+      {
+        "path": "mmc1.docx",
+        "size": 872702,
+        "type": "file"
+      }
+    ],
+    "links": [
+      [
+        {
+          "url": "NCT00541047",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        }
+      ]
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCATS NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "UL1 TR001863"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Advances in radiation oncology"
+          },
+          {
+            "name": "Volume",
+            "value": "5(Suppl 1)"
+          },
+          {
+            "name": "Pages",
+            "value": "26-32"
+          },
+          {
+            "name": "Publication date",
+            "value": "2020 Nov"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1016/j.adro.2020.10.003",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC7598436",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "33145460",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Zaorsky NG"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Yu JB"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "McBride SM"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Dess RT"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0003-2331-3758"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Jackson WC"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Mahal BA"
+          },
+          {
+            "name": "affiliation",
+            "value": "o5",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Chen R"
+          },
+          {
+            "name": "affiliation",
+            "value": "o6",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Choudhury A"
+          },
+          {
+            "name": "affiliation",
+            "value": "o7",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a9",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Henry A"
+          },
+          {
+            "name": "affiliation",
+            "value": "o8",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a10",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Syndikus I"
+          },
+          {
+            "name": "affiliation",
+            "value": "o9",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a11",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Mitin T"
+          },
+          {
+            "name": "affiliation",
+            "value": "o10",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a12",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Tree A"
+          },
+          {
+            "name": "affiliation",
+            "value": "o11",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a13",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kishan AU"
+          },
+          {
+            "name": "affiliation",
+            "value": "o12",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a14",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Spratt DE"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o8",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Clinical Oncology, Leeds Teaching Hospitals NHS Trust and the University of Leeds, Leeds, United Kingdom."
+          }
+        ]
+      },
+      {
+        "accno": "o9",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Clinical Oncology, The Clatterbridge Cancer Centre NHS Foundation Trust, Liverpool, United Kingdom."
+          }
+        ]
+      },
+      {
+        "accno": "o5",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Dana Farber, Boston, Massachusetts."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Memorial Sloan Kettering Cancer Center, New York, New York."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Penn State Cancer Institute, Hershey, Pennsylvania."
+          }
+        ]
+      },
+      {
+        "accno": "o12",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, UCLA, Los Angeles, California."
+          }
+        ]
+      },
+      {
+        "accno": "o6",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, University of Kansas, Kansas City, Kansas."
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, University of Michigan, Ann Arbor, Michigan."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Therapeutic Radiology/Radiation Oncology, Yale, New Haven, Connecticut."
+          }
+        ]
+      },
+      {
+        "accno": "o7",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Division of Cancer Sciences, University of Manchester and The Christie NHS Foundation Trust, Manchester, United Kingdom."
+          }
+        ]
+      },
+      {
+        "accno": "o10",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Knight Cancer Institute, Department of Radiation Medicine, Oregon Health and Science University, Portland, Oregon."
+          }
+        ]
+      },
+      {
+        "accno": "o11",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Radiotherapy and Imaging Division, Institute of Cancer Research, Sutton, London, United Kingdom."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

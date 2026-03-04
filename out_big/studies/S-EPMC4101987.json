@@ -1,0 +1,213 @@
+{
+  "accno": "S-EPMC4101987",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Radiation and immunotherapy: a synergistic combination."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2013-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Radiation and immunotherapy: a synergistic combination."
+      },
+      {
+        "name": "Abstract",
+        "value": "Immunotherapy can be an effective treatment for metastatic cancer, but a significant subpopulation will not respond, likely due to the lack of antigenic mutations or the immune-evasive properties of cancer. Likewise, radiation therapy (RT) is an established cancer treatment, but local failures still occur. Clinical observations suggest that RT may expand the therapeutic reach of immunotherapy. We examine the immunobiologic and clinical rationale for combining RT and immunotherapy, two modalities yet to be used in combination in routine practice. Preclinical data indicate that RT can potentiate the systemic efficacy of immunotherapy, while activation of the innate and adaptive immune system can enhance the local efficacy of RT."
+      }
+    ],
+    "links": [
+      [
+        {
+          "url": "NCT01595321",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT01689974",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT01347034",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        }
+      ]
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "The Journal of clinical investigation"
+          },
+          {
+            "name": "Volume",
+            "value": "123(7)"
+          },
+          {
+            "name": "Pages",
+            "value": "2756-63"
+          },
+          {
+            "name": "Publication date",
+            "value": "2013 Jul"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1172/JCI69219",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "10.1172/jci69219",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC4101987",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "23863633",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kalbasi A"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0001-8692-1457"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "June CH"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Haas N"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Vapiwala N"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Departmentof Pathology and Laboratory Medicine Division of Hematology/Oncology,Department of Medicine, Hospital of the University of Pennsylvania, Philadelphia, Pennsylvania,USA."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Hospital of the University of Pennsylvania, Philadelphia, Pennsylvania 19104, USA. Anusha.Kalbasi@uphs.upenn.edu"
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

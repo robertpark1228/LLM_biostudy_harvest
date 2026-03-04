@@ -1,0 +1,321 @@
+{
+  "accno": "S-EPMC10774647",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "High Radiation Dose to the Fornix Causes Symptomatic Radiation Necrosis in Patients with Anaplastic Oligodendroglioma."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2024-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "High Radiation Dose to the Fornix Causes Symptomatic Radiation Necrosis in Patients with Anaplastic Oligodendroglioma."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Purpose</h4>Surgery, radiotherapy (RT), and chemotherapy have prolonged the survival of patients with anaplastic oligodendroglioma. However, whether RT induces long-term toxicity remains unknown. We analyzed the relationship between the RT dose to the fornix and symptomatic radiation necrosis (SRN).<h4>Materials and methods</h4>A total of 67 patients treated between 2009 and 2019 were analyzed. SRN was defined according to the following three criteria: 1) radiographic findings, 2) symptoms attributable to the lesion, and 3) treatment resulting in symptom improvement. Various contours, including the fornix, were delineated. Univariate and multivariate analyses of the relationship between RT dose and SRN, as well as receiver operating characteristic curve analysis for cut-off values, were performed.<h4>Results</h4>The most common location was the frontal lobe (n=40, 60%). Gross total resection was performed in 38 patients (57%), and 42 patients (63%) received procarbazine, lomustine, and vincristine chemotherapy. With a median follow-up of 42 months, the median overall and progression-free survival was 74 months. Sixteen patients (24%) developed SRN. In multivariate analysis, age and maximum dose to the fornix were associated with the development of SRN. The cut-off values for the maximum dose to the fornix and age were 59 Gy (equivalent dose delivered in 2 Gy fractions) and 46 years, respectively. The rate of SRN was higher in patients whose maximum dose to the fornix was >59 Gy (13% vs. 43%, <i>p</i>=0.005).<h4>Conclusion</h4>The maximum dose to the fornix was a significant factor for SRN development. While fornix sparing may help maintain neurocognitive function, additional studies are needed."
+      }
+    ],
+    "files": [
+      {
+        "path": "ymj-65-1-s001.pdf",
+        "size": 38064,
+        "type": "file"
+      },
+      {
+        "path": "ymj-65-1-s002.pdf",
+        "size": 37537,
+        "type": "file"
+      },
+      {
+        "path": "ymj-65-1-s003.pdf",
+        "size": 37656,
+        "type": "file"
+      },
+      {
+        "path": "ymj-65-1-s004.pdf",
+        "size": 38904,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "National Research Foundation of Korea"
+          },
+          {
+            "name": "grant_id",
+            "value": "NRF-2021R1G1A1092804"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "National Research Foundation of Korea"
+          },
+          {
+            "name": "grant_id",
+            "value": "NRF-2020R1F1A1076287"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Yonsei medical journal"
+          },
+          {
+            "name": "Volume",
+            "value": "65(1)"
+          },
+          {
+            "name": "Pages",
+            "value": "1-9"
+          },
+          {
+            "name": "Publication date",
+            "value": "2024 Jan"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.3349/ymj.2023.0112",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC10774647",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "38154474",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kim TH"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Cho J"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kang SG"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0001-5676-2037"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Moon JH"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Suh CO"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Park YW"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Chang JH"
+          },
+          {
+            "name": "affiliation",
+            "value": "o5",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Yoon HI"
+          },
+          {
+            "name": "affiliation",
+            "value": "o6",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Neurosurgery, Brain Tumor Center, Yonsei University College of Medicine, Seoul, Korea."
+          }
+        ]
+      },
+      {
+        "accno": "o5",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Neurosurgery, Brain Tumor Center, Yonsei University College of Medicine, Seoul, Korea. changjh@yuhs.ac."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, CHA Bundang Medical Center, CHA University, Seongnam, Korea."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Yonsei Cancer Center, Yonsei University College of Medicine, Seoul, Korea."
+          }
+        ]
+      },
+      {
+        "accno": "o6",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Yonsei Cancer Center, Yonsei University College of Medicine, Seoul, Korea. YHI0225@yuhs.ac."
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiology and Research Institute of Radiological Science and Center for Clinical Image Data Science, Yonsei University College of Medicine, Seoul, Korea."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

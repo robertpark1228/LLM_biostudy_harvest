@@ -1,0 +1,295 @@
+{
+  "accno": "S-EPMC7713593",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Biological Guided Carbon-Ion Microporous Radiation to Tumor Hypoxia Area Triggers Robust Abscopal Effects as Open Field Radiation."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2020-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Biological Guided Carbon-Ion Microporous Radiation to Tumor Hypoxia Area Triggers Robust Abscopal Effects as Open Field Radiation."
+      },
+      {
+        "name": "Abstract",
+        "value": "Recently, a growing number of studies focus on partial tumor irradiation to induce the stronger non-target effects. However, the value of partial volume carbon ion radiotherapy (CIRT) targeting hypoxic region of a tumor under imaging guidance as well as its effect of inducing radiation induced abscopal effects (RIAEs) have not been well investigated. Herein, we developed a technique of carbon ion microporous radiation (CI-MPR), guided by <sup>18</sup>F-FMISO PET/computerized tomography (CT), for partial volume radiation targeting the hypoxia area of a tumor and investigated its capability of inducing abscopal effects. Tumor-bearing mice were inoculated subcutaneously with breast cancer 4T1 cells into the flanks of both hind legs of mouse. Mice were assigned to three groups: group I: control group with no treatment; group II: carbon ion open field radiation (CI-OFR group) targeting the entire tumor; group III: partial volume carbon ion microporous radiation (CI-MPR group) targeting the hypoxia region. The tumors on the left hind legs of mice were irradiated with single fraction of 20 Gy of CIRT. Mice treated with CI-MPR or CI-OFR showed that significant growth delay on both the irradiated and unirradiated of tumor as compared to the control groups. Tumor regression of left tumor irradiated with CI-OFR was more prominent as compared to the tumor treated with CI-MPR, while the regression of the unirradiated tumor in both CI-MPR and CI-OFR group was similar. Biological-guided CIRT using the newly developed microporous technique targeting tumor hypoxia region could induce robust abscopal effects similar to CIRT covering the entire tumor."
+      }
+    ],
+    "files": [
+      {
+        "path": "Image_1.tif",
+        "size": 1791712,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Science and Technology Commission of Shanghai Municipality"
+          },
+          {
+            "name": "grant_id",
+            "value": "18XD1423000"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "National Key Research and Development Program of China Stem Cell and Translational Research"
+          },
+          {
+            "name": "grant_id",
+            "value": "2018YFC0115700"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Frontiers in oncology"
+          },
+          {
+            "name": "Volume",
+            "value": "10"
+          },
+          {
+            "name": "Pages",
+            "value": "597702"
+          },
+          {
+            "name": "Publication date",
+            "value": "2020"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.3389/fonc.2020.597702",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC7713593",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "33330089",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Huang Q"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Sun Y"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-2652-3040"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Wang W"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Lin LC"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Huang Y"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Yang J"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Wu X"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kong L"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a9",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Lu JJ"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0001-7163-9539"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Shanghai Proton and Heavy Ion Center, Fudan University Cancer Hospital, Shanghai, China."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Shanghai Proton and Heavy Ion Center, Shanghai, China."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Shanghai Engineering Research Center of Proton and Heavy Ion Radiation Therapy, Shanghai, China."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

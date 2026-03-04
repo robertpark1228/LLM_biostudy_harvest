@@ -1,0 +1,164 @@
+{
+  "accno": "S-EPMC8836916",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Interactions between Radiation and One-Carbon Metabolism."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2022-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Interactions between Radiation and One-Carbon Metabolism."
+      },
+      {
+        "name": "Abstract",
+        "value": "Metabolic reprogramming is a hallmark of cancer. Cancer cells rewire one-carbon metabolism, a central metabolic pathway, to turn nutritional inputs into essential biomolecules required for cancer cell growth and maintenance. Radiation therapy, a common cancer therapy, also interacts and alters one-carbon metabolism. This review discusses the interactions between radiation therapy, one-carbon metabolism and its component metabolic pathways."
+      }
+    ],
+    "links": [
+      [
+        {
+          "url": "NCT03574194",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT00840047",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        }
+      ]
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Cancer Center Support Grant, NCI, Damon Runyon Cancer Foundation, Ben and Catherine Ivy Foundation, Sontag Foundation"
+          },
+          {
+            "name": "grant_id",
+            "value": "K08CA234416 R37CA258346 P30CA46592"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "International journal of molecular sciences"
+          },
+          {
+            "name": "Volume",
+            "value": "23(3)"
+          },
+          {
+            "name": "Pages",
+            "value": "1919"
+          },
+          {
+            "name": "Publication date",
+            "value": "2022 Feb"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.3390/ijms23031919",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC8836916",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "35163841",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Korimerla N"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Wahl DR"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, University of Michigan, Ann Arbor, MI 48109, USA."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

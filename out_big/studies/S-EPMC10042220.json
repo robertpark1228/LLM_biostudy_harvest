@@ -1,0 +1,324 @@
+{
+  "accno": "S-EPMC10042220",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "The state of gynecologic radiation therapy in low- and middle-income countries."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2022-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "The state of gynecologic radiation therapy in low- and middle-income countries."
+      },
+      {
+        "name": "Abstract",
+        "value": "A disproportionate burden of gynecologic malignancies occurs in low- and middle-income countries. Radiation therapy is an integral component of treatment for gynecologic malignancies both from a curative (locally advanced cervical cancer) and palliative (bleeding cervical or pelvic mass) standpoint. Critical to understanding how better to serve patients in this regard is understanding both the extent of disease epidemiology and the radiotherapy infrastructure to treat these diseases. In this review, we explore various geographic regions and how they address a unique set of challenges specific to the peoples and culture of the region. We identify common threads across regions, including sparse distribution of radiation equipment, geographic access, and specialized training. We also highlight examples of success in the use of telemedicine and cross-cultural partnerships to help bolster access to training to ensure increased access to adequate and appropriate treatment of gynecologic malignancies."
+      }
+    ],
+    "links": [
+      [
+        {
+          "url": "NCT03750539",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT04070976",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        }
+      ]
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "K08 CA230170"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "International journal of gynecological cancer : official journal of the International Gynecological Cancer Society"
+          },
+          {
+            "name": "Volume",
+            "value": "32(3)"
+          },
+          {
+            "name": "Pages",
+            "value": "421-428"
+          },
+          {
+            "name": "Publication date",
+            "value": "2022 Mar"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1136/ijgc-2021-002470",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "10.1136/ijgc-2021-002470",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC10042220",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "35256432",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Bhatia R"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-1444-7378"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Lichter KE"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0003-4136-6490"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Gurram L"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "MacDuffie E"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0001-8479-8512"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Lombe D"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-5083-1801"
+          },
+          {
+            "name": "affiliation",
+            "value": "o5",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Sarria GR"
+          },
+          {
+            "name": "affiliation",
+            "value": "o6",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Grover S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o7",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o5",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Oncology, Cancer Diseases Hospital, Lusaka, Zambia."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology and Molecular Sciences, Johns Hopkins University School of Medicine, Baltimore, Maryland, USA."
+          }
+        ]
+      },
+      {
+        "accno": "o7",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Botswana-University of Pennsylvania Partnership, Philadelphia, Pennsylvania, USA surbhigrover@gmail.com."
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Tata Memorial Hospital, Mumbai, Maharashtra, India."
+          }
+        ]
+      },
+      {
+        "accno": "o6",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, University Hospital Bonn, Bonn, Nordrhein-Westfalen, Germany."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, University of California San Francisco, San Francisco, California, USA."
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, University of Pennsylvania, Philadelphia, Pennsylvania, USA."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

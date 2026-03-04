@@ -1,0 +1,199 @@
+{
+  "accno": "S-EPMC3968552",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Exploiting sensitization windows of opportunity in hyper and hypo-fractionated radiation therapy."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2014-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Exploiting sensitization windows of opportunity in hyper and hypo-fractionated radiation therapy."
+      },
+      {
+        "name": "Abstract",
+        "value": "In contrast to the conventional radiotherapy/chemoradiotherapy paradigms used in the treatment of majority of cancer types, this review will describe two areas of radiobiology, hyperfractionated and hypofractionated radiation therapy, for cancer treatment focusing on application of novel concepts underlying these treatment modalities. The initial part of the review discusses the phenomenon of hyper-radiation sensitivity (HRS) at lower doses (0.1 to 0.6 Gy), describing the underlying mechanisms and how this could enhance the effects of chemotherapy, particularly, in hyperfractionated settings. The second part examines the radiobiological/physiological mechanisms underlying the effects of high-dose hypofractionated radiation therapy that can be exploited for tumor cure. These include abscopal/bystander effects, activation of immune system, endothelial cell death and effect of hypoxia with re-oxygenation. These biological properties along with targeted dose delivery and distribution to reduce normal tissue toxicity may make high-dose hypofractionation more effective than conventional radiation therapy for treatment of advanced cancers. The novel radiation physics based methods that take into consideration the tumor volume to be irradiated and normal tissue avoidance/tolerance can further improve treatment outcome and post-treatment quality of life. In conclusion, there is enough evidence to further explore novel avenues to exploit biological mechanisms from hyper-fractionation by enhancing the efficacy of chemotherapy and hypo-fractionated radiation therapy that could enhance tumor control and use imaging and technological advances to reduce toxicity."
+      }
+    ],
+    "links": [
+      [
+        {
+          "url": "NCT01466686",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT01820312",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT01794845",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        }
+      ]
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Journal of thoracic disease"
+          },
+          {
+            "name": "Volume",
+            "value": "6(4)"
+          },
+          {
+            "name": "Pages",
+            "value": "287-302"
+          },
+          {
+            "name": "Publication date",
+            "value": "2014 Apr"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.3978/j.issn.2072-1439.2014.01.14",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "10.3978/j.issn.2072-1439.2014.01.14",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC3968552",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "24688774",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Prasanna A"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Ahmed MM"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Mohiuddin M"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Coleman CN"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "1 Radiation Research Program, Division of Cancer Treatment and Diagnosis, National Cancer Institute, National Institutes of Health, Rockville, MD, USA ; 2 Oncology Centre, King Faisal Specialist Hospital and Research Centre, Riyadh, Kingdom of Saudi Arabia."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

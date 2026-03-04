@@ -1,0 +1,192 @@
+{
+  "accno": "S-EPMC4196578",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Gold nanoparticles and their alternatives for radiation therapy enhancement."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2014-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Gold nanoparticles and their alternatives for radiation therapy enhancement."
+      },
+      {
+        "name": "Abstract",
+        "value": "Radiation therapy is one of the most commonly used treatments for cancer. The dose of delivered ionizing radiation can be amplified by the presence of high-Z materials via an enhancement of the photoelectric effect; the most widely studied material is gold (atomic number 79). However, a large amount is needed to obtain a significant dose enhancement, presenting a challenge for delivery. In order to make this technique of broader applicability, the gold must be targeted, or alternative formulations developed that do not rely solely on the photoelectric effect. One possible approach is to excite scintillating nanoparticles with ionizing radiation, and then exploit energy transfer between these particles and attached dyes in a manner analogous to photodynamic therapy (PDT). Doped rare-earth halides and semiconductor quantum dots have been investigated for this purpose. However, although the spectrum of emitted light after radiation excitation is usually similar to that seen with light excitation, the yield is not. Measurement of scintillation yields is challenging, and in many cases has been done only for bulk materials, with little understanding of how the principles translate to the nanoscale. Another alternative is to use local heating using gold or iron, followed by application of ionizing radiation. Hyperthermia pre-sensitizes the tumors, leading to an improved response. Another approach is to use chemotherapeutic drugs that can radiosensitize tumors. Drugs may be attached to high-Z nanoparticles or encapsulated. This article discusses each of these techniques, giving an overview of the current state of nanoparticle-assisted radiation therapy and future directions."
+      }
+    ],
+    "links": [
+      [
+        {
+          "url": "NCT00848042",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT00356980",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT01679470",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT01433068",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        }
+      ]
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Frontiers in chemistry"
+          },
+          {
+            "name": "Volume",
+            "value": "2"
+          },
+          {
+            "name": "Pages",
+            "value": "86"
+          },
+          {
+            "name": "Publication date",
+            "value": "2014"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.3389/fchem.2014.00086",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC4196578",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "25353018",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Cooper DR"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-7558-0308"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Bekah D"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Nadeau JL"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0001-5258-0076"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Biomedical Engineering, McGill University Montreal, QC, Canada."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

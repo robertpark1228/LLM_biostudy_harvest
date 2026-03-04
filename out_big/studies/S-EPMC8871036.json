@@ -1,0 +1,236 @@
+{
+  "accno": "S-EPMC8871036",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Advances in Radiation Oncology for the Treatment of Cervical Cancer."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2022-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Advances in Radiation Oncology for the Treatment of Cervical Cancer."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Background</h4>Over the past two decades, there has been significant advancement in the management of cervical cancer, particularly in the domain of definitive chemoradiotherapy for locally advanced cervical cancer (LACC). Indeed, radiation treatment paradigms have shifted from a two-dimensional (2D) approach solely based on anatomical bony landmarks, to an image-guided three-dimensional (3D) approach, with the goal of delivering doses more precisely to clinical targets with an increased sparing of organs-at-risk.<h4>Methods</h4>This is a narrative review on the advances in radiation technologies for the treatment of cervical cancer. Using the PubMed database, we identified articles published in English up until November 18, 2021 on the treatment of LACC with external beam radiotherapy (EBRT) and brachytherapy. A search of the Clinicaltrials.gov and Clinicaltrialsregister.eu retrieved information on ongoing clinical trials on the topic of combined immunotherapy and radiotherapy in cervical cancer.<h4>Results</h4>We highlight the historical evolution from the use of 2D radiotherapy to 3D-conformal radiotherapy, and then intensity modulated radiotherapy (IMRT) for the delivery of EBRT. We also discuss advances in brachytherapy, notably the transition to 3D image-guided adaptive brachytherapy (3D-IGABT). In this context, we highlight large cohort studies that were recently constructed and have shown significant improvement in local control and treatment-related toxicities with 3D-IGABT. Finally, we discuss other advances in the field, notably the use of stereotactic body radiotherapy (SBRT) as a substitute to brachytherapy, and the addition of immunotherapy to chemoradiation.<h4>Conclusions</h4>The use of IG-IMRT and 3D-IGABT have considerably improved treatment outcomes and toxicity profiles for patients with LACC, and are now considered the gold standard in many countries. The use of SBRT boost as a replacement for brachytherapy has been associated with increased toxicity and decreased efficacy and should be used with caution in the context of clinical trials. New experimental approaches include the addition of immunotherapy to chemoradiation regimens."
+      }
+    ],
+    "links": [
+      [
+        {
+          "url": "NCT03298893",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT03830866",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT04580771",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT03527264",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT01158248",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT03738228",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT03612791",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT01711515",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT04221945",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT03635567",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        },
+        {
+          "url": "NCT02635360",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        }
+      ]
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Current oncology (Toronto, Ont.)"
+          },
+          {
+            "name": "Volume",
+            "value": "29(2)"
+          },
+          {
+            "name": "Pages",
+            "value": "928-944"
+          },
+          {
+            "name": "Publication date",
+            "value": "2022 Feb"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.3390/curroncol29020079",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC8871036",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "35200578",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Faye MD"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-3274-2055"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Alfieri J"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Division of Radiation Oncology, McGill University Health Centre, Montreal, QC H4A 3J1, Canada."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

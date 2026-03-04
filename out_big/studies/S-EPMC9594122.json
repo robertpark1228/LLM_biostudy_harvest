@@ -1,0 +1,221 @@
+{
+  "accno": "S-EPMC9594122",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Simulation-Free Radiation Therapy: An Emerging Form of Treatment Planning to Expedite Plan Generation for Patients Receiving Palliative Radiation Therapy."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2023-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Simulation-Free Radiation Therapy: An Emerging Form of Treatment Planning to Expedite Plan Generation for Patients Receiving Palliative Radiation Therapy."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Purpose</h4>Herein we report the clinical and dosimetric experience for patients with metastases treated with palliative simulation-free radiation therapy (SFRT) at a single institution.<h4>Methods and materials</h4>SFRT was performed at a single institution. Multiple fractionation regimens were used. Diagnostic imaging was used for treatment planning. Patient characteristics as well as planning and treatment time points were collected. A matched cohort of patients with conventional computed tomography simulation radiation therapy (CTRT) was acquired to evaluate for differences in planning and treatment time. SFRT dosimetry was evaluated to determine the fidelity of SFRT. Descriptive statistics were calculated on all variables and statistical significance was evaluated using the Wilcoxon signed rank test and <i>t</i> test methods.<h4>Results</h4>Thirty sessions of SFRT were performed and matched with 30 sessions of CTRT. Seventy percent of SFRT and 63% of CTRT treatments were single fraction. The median time to plan generation was 0.88 days (0.19-1.47) for SFRT and 1.90 days (0.39-5.23) for CTRT (<i>P</i> = .02). The total treatment time was 41 minutes (28-64) for SFRT and 30 minutes (21-45) for CTRT (<i>P</i> = .02). In the SFRT courses, the maximum and mean deviations in the actual delivered dose from the approved plans for the maximum dose were 4.1% and 0.07%, respectively. All deliveries were within a 5% threshold and deemed clinically acceptable.<h4>Conclusions</h4>Palliative SFRT is an emerging technique that allowed for a statistically significant lower time to plan generation and was dosimetrically acceptable. This benefit must be weighed against increased total treatment time for patients receiving SFRT compared with CTRT, and appropriate patient selection is critical."
+      }
+    ],
+    "links": [
+      [
+        {
+          "url": "NCT05233904",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        }
+      ]
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Advances in radiation oncology"
+          },
+          {
+            "name": "Volume",
+            "value": "8(1)"
+          },
+          {
+            "name": "Pages",
+            "value": "101091"
+          },
+          {
+            "name": "Publication date",
+            "value": "2023 Jan-Feb"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1016/j.adro.2022.101091",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC9594122",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "36304132",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Schiff JP"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-0661-4420"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Zhao T"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Huang Y"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Sun B"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Hugo GD"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Spraker MB"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Abraham CD"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Washington University School of Medicine in St. Louis, Department of Radiation Oncology, St. Louis, Missouri."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

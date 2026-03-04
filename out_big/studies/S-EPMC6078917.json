@@ -1,0 +1,134 @@
+{
+  "accno": "S-EPMC6078917",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Researches of Epigenetic Epidemiology for Infections and Radiation as Carcinogen."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2018-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Researches of Epigenetic Epidemiology for Infections and Radiation as Carcinogen."
+      },
+      {
+        "name": "Abstract",
+        "value": "In recent years, a number of studies have been reported on the various types of cancer arising from epigenetic alterations, including reports that these epigenetic alterations occur as a result of radiation exposure or infection. Thyroid cancer and breast cancer, in particular, have high cancer burden, and it has been confirmed that radiation exposure or onco-viral infection are linked to increased risk of development of these two types of cancer, respectively. Thus, the environment-epigenetic alteration-cancer occurrence (EEC) hypothesis has been suggested. This paper reviews the trends in research supporting this hypothesis for radiation exposure and onco-viral infection. If more evidences accumulate for the EEC hypothesis from future research, those findings may greatly aid in the prevention, early diagnosis, treatment, and prognosis of the thyroid cancer and breast cancer."
+      }
+    ],
+    "files": [
+      {
+        "path": "jpmph-51-4-169-suppl1.docx",
+        "size": 33380,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Jeju National University"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Journal of preventive medicine and public health = Yebang Uihakhoe chi"
+          },
+          {
+            "name": "Volume",
+            "value": "51(4)"
+          },
+          {
+            "name": "Pages",
+            "value": "169-172"
+          },
+          {
+            "name": "Publication date",
+            "value": "2018 Jul"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.3961/jpmph.18.070",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC6078917",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "30071703",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Bae JM"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0003-3080-7852"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Preventive Medicine, Jeju National University School of Medicine, Jeju, Korea."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

@@ -1,0 +1,291 @@
+{
+  "accno": "S-EPMC3182144",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Radiation modulation of microRNA in prostate cancer cell lines."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2008-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Radiation modulation of microRNA in prostate cancer cell lines."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Background</h4>MicroRNAs (miRNA) are gene regulators and play an important role in response to cellular stress.<h4>Methods</h4>Using multiplexed quantitative real-time PCR we performed global miRNA screening of prostate cancer cells in response to radiation treatment.<h4>Results</h4>Several miRNA were significantly altered in response to radiation treatment. Significant changes were observed in miR-521 and miR-34c. To determine the role of miR-521 in radiation response we transiently overexpressed miR-521 using miR-521 mimic. The miR-521 mimic significantly sensitized prostate cancer cells to radiation treatment. Conversely, ectopic inhibition of miR-521 resulted in radiation resistance of prostate cancer cells. To determine the mechanism by which miR-521 modulates radiation sensitivity we measured the expression levels of one of its predicted target protein, Cockayne syndrome protein A (CSA). CSA is a DNA repair protein, and its levels correlated inversely with the levels of miR-521. Radiation treatment downregulated the levels of miR-521 and upregulated CSA protein. Similarly, ectopic inhibition of miR-521 resulted in increased CSA protein levels. Therefore by altering the levels of CSA protein, miR-521 sensitized prostate cancer cells to radiation treatment.<h4>Conclusion</h4>miR-521 modulates the expression levels of DNA repair protein, CSA and plays an important role, in the radio-sensitivity of prostate cancer cell lines. Thus miR-521 can be a potential target for enhancing the effect of radiation treatment on prostate cancer cells."
+      }
+    ],
+    "files": [
+      {
+        "path": "NIHMS322107-supplement-1a.tif",
+        "size": 122648,
+        "type": "file"
+      },
+      {
+        "path": "NIHMS322107-supplement-1b.tif",
+        "size": 130872,
+        "type": "file"
+      },
+      {
+        "path": "NIHMS322107-supplement-1c.tif",
+        "size": 111660,
+        "type": "file"
+      },
+      {
+        "path": "NIHMS322107-supplement-1d.tif",
+        "size": 122232,
+        "type": "file"
+      },
+      {
+        "path": "NIHMS322107-supplement-1e.tif",
+        "size": 113448,
+        "type": "file"
+      },
+      {
+        "path": "NIHMS322107-supplement-1f.tif",
+        "size": 115417,
+        "type": "file"
+      },
+      {
+        "path": "NIHMS322107-supplement-2.tif",
+        "size": 58852,
+        "type": "file"
+      },
+      {
+        "path": "NIHMS322107-supplement-3.tif",
+        "size": 63491,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "5P01CA098912-05"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "P01 CA098912"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "The Prostate"
+          },
+          {
+            "name": "Volume",
+            "value": "68(15)"
+          },
+          {
+            "name": "Pages",
+            "value": "1599-606"
+          },
+          {
+            "name": "Publication date",
+            "value": "2008 Nov"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1002/pros.20827",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "10.1002/pros.20827",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC3182144",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "18668526",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Josson S"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Sung SY"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Lao K"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Chung LW"
+          },
+          {
+            "name": "affiliation",
+            "value": "o4",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Johnstone PA"
+          },
+          {
+            "name": "affiliation",
+            "value": "o5",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Applied Biosystems, Foster City, California"
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "China Medical University Hospital, Taichung, Taiwan"
+          }
+        ]
+      },
+      {
+        "accno": "o5",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Indiana University School of Medicine, Bloomington, Indiana"
+          }
+        ]
+      },
+      {
+        "accno": "o4",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Urology, Winship Cancer Institute, Emory University School of Medicine, Atlanta, Georgia"
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Radiation Oncology, Winship Cancer Institute, Emory University, Atlanta, Georgia 30322, USA. sjosson@emory.edu"
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

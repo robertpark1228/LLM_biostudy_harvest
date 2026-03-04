@@ -1,0 +1,136 @@
+{
+  "accno": "S-EPMC4523352",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Integration and scaling of UV-B radiation effects on plants: from DNA to leaf."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2015-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Integration and scaling of UV-B radiation effects on plants: from DNA to leaf."
+      },
+      {
+        "name": "Abstract",
+        "value": "A process-based model integrating the effects of UV-B radiation through epidermis, cellular DNA, and its consequences to the leaf expansion was developed from key parameters in the published literature. Enhanced UV-B radiation-induced DNA damage significantly delayed cell division, resulting in significant reductions in leaf growth and development. Ambient UV-B radiation-induced DNA damage significantly reduced the leaf growth of species with high relative epidermal absorbance at longer wavelengths and average/low pyrimidine cyclobutane dimers (CPD) photorepair rates. Leaf expansion was highly dependent on the number of CPD present in the DNA, as a result of UV-B radiation dose, quantitative and qualitative absorptive properties of epidermal pigments, and repair mechanisms. Formation of pyrimidine-pyrimidone (6-4) photoproducts (6-4PP) has no effect on the leaf expansion. Repair mechanisms could not solely prevent the UV-B radiation interference with the cell division. Avoidance or effective shielding by increased or modified qualitative epidermal absorptance was required. Sustained increased UV-B radiation levels are more detrimental than short, high doses of UV-B radiation. The combination of low temperature and increased UV-B radiation was more significant in the level of UV-B radiation-induced damage than UV-B radiation alone. Slow-growing leaves were more affected by increased UV-B radiation than fast-growing leaves."
+      }
+    ],
+    "files": [
+      {
+        "path": "ece30005-2544-sd1.docx",
+        "size": 1321338,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Ecology and evolution"
+          },
+          {
+            "name": "Volume",
+            "value": "5(13)"
+          },
+          {
+            "name": "Pages",
+            "value": "2544-55"
+          },
+          {
+            "name": "Publication date",
+            "value": "2015 Jul"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1002/ece3.1332",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC4523352",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "26257869",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Suchar VA"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Robberecht R"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Forest, Rangeland, and Fire Sciences, College of Natural Resources, University of Idaho 875 Perimeter Drive MS1133, Moscow, Idaho, 83844-1133."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

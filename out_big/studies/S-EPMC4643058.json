@@ -1,0 +1,298 @@
+{
+  "accno": "S-EPMC4643058",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Bouvardin is a Radiation Modulator with a Novel Mechanism of Action."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2015-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Bouvardin is a Radiation Modulator with a Novel Mechanism of Action."
+      },
+      {
+        "name": "Abstract",
+        "value": "Protein synthesis is essential for growth, proliferation and survival of cells. Translation factors are overexpressed in many cancers and in preclinical models, their experimental inhibition has been shown to inhibit cancer growth. Differential regulation of translation also occurs upon exposure to cancer-relevant stressors such as hypoxia and ionizing radiation. The failure to regulate translation has been shown to interfere with recovery after genotoxic stress. These findings suggest that modulation of translation, alone or in conjunction with genotoxins, may be therapeutic in oncology. Yet, only two drugs that directly inhibit translation are FDA-approved for oncology therapies used today. We have previously identified the protein synthesis inhibitor, bouvardin in a screen for small molecule enhancers of ionizing radiation in Drosophila melanogaster . Bouvardin was independently identified in a screen for selective inhibitors of engineered human breast cancer stem cells. Here we report the effect of bouvardin treatment in preclinical models of head and neck cancer (HNC) and glioma, two cancer types for which radiation therapy is the most common treatment. Our data show that bouvardin treatment blocked translation elongation on human ribosomes and suggest that it did so by blocking the dissociation of elongation factor 2 from the ribosome. Bouvardin and radiation enhanced the induction of clonogenic death in HNC and glioma cells, although by different mechanisms. Bouvardin treatment enhanced the radiation-induced antitumor effects in HNC tumor xenografts in mice. These data suggest that inhibition of translation elongation, particularly in combination with radiation treatment, may be a promising treatment option for cancer."
+      }
+    ],
+    "files": [
+      {
+        "path": "NIHMS730157-supplement-Supplementary_file_1.pdf",
+        "size": 10518665,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NIGMS NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "R01 GM106317"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NIGMS NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "T32 GM142607"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NIGMS NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "GM106317"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NIGMS NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "T32 GM008759"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NIGMS NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "GM008759"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "P30 CA046934"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NIGMS NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "GM087276"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NIGMS NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "R01 GM087276"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Radiation research"
+          },
+          {
+            "name": "Volume",
+            "value": "184(4)"
+          },
+          {
+            "name": "Pages",
+            "value": "392-403"
+          },
+          {
+            "name": "Publication date",
+            "value": "2015 Oct"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1667/RR14068.1",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "10.1667/rr14068.1",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC4643058",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "26414509",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Stickel SA"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Gomes NP"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-5868-5482"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Frederick B"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Raben D"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Su TT"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "a Molecular, Cellular and Developmental Biology, University of Colorado, Boulder, Colorado;"
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

@@ -1,0 +1,238 @@
+{
+  "accno": "S-EPMC8268607",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "GSTP1 as a novel target in radiation induced lung injury."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2021-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "GSTP1 as a novel target in radiation induced lung injury."
+      },
+      {
+        "name": "Abstract",
+        "value": "The glutathione S-transferase P1(GSTP1) is an isoenzyme in the glutathione-S transferases (GSTs) enzyme system, which is the most abundant GSTs expressed in adult lungs. Recent research shows that GSTP1 is closely related to the regulation of cell oxidative stress, inhibition of cell apoptosis and promotion of cytotoxic metabolism. Interestingly, there is evidence that GSTP1 single nucleotide polymorphisms (SNP) 105Ile/Val related to the risk of radiation induced lung injury (RILI) development, which strongly suggests that GSTP1 is closely associated with the occurrence and development of RILI. In this review, we discuss our understanding of the role of GSTP1 in RILI and its possible mechanism."
+      }
+    ],
+    "links": [
+      [
+        {
+          "url": "rs1695",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refsnp"
+            }
+          ]
+        }
+      ]
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Military Research Plan"
+          },
+          {
+            "name": "grant_id",
+            "value": "20BJZ40"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "National Natural Science Foundation of China"
+          },
+          {
+            "name": "grant_id",
+            "value": "82003387"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Journal of translational medicine"
+          },
+          {
+            "name": "Volume",
+            "value": "19(1)"
+          },
+          {
+            "name": "Pages",
+            "value": "297"
+          },
+          {
+            "name": "Publication date",
+            "value": "2021 Jul"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1186/s12967-021-02978-0",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC8268607",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "34238333",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Lei X"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Du L"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Yu W"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Wang Y"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Ma N"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Qu B"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, The Fifth Medical Center of the Chinese PLA General Hospital , Beijing, China."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, The Fifth Medical Center of the Chinese PLA General Hospital , Beijing, China. baolinqu301@163.com."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

@@ -1,0 +1,131 @@
+{
+  "accno": "S-EPMC3901372",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Integrative radiation systems biology."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2014-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Integrative radiation systems biology."
+      },
+      {
+        "name": "Abstract",
+        "value": "Maximisation of the ratio of normal tissue preservation and tumour cell reduction is the main concept of radiotherapy alone or combined with chemo-, immuno- or biologically targeted therapy. The foremost parameter influencing this ratio is radiation sensitivity and its modulation towards a more efficient killing of tumour cells and a better preservation of normal tissue at the same time is the overall aim of modern therapy schemas. Nevertheless, this requires a deep understanding of the molecular mechanisms of radiation sensitivity in order to identify its key players as potential therapeutic targets. Moreover, the success of conventional approaches that tried to statistically associate altered radiation sensitivity with any molecular phenotype such as gene expression proofed to be somewhat limited since the number of clinically used targets is rather sparse. However, currently a paradigm shift is taking place from pure frequentistic association analysis to the rather holistic systems biology approach that seeks to mathematically model the system to be investigated and to allow the prediction of an altered phenotype as the function of one single or a signature of biomarkers. Integrative systems biology also considers the data from different molecular levels such as the genome, transcriptome or proteome in order to partially or fully comprehend the causal chain of molecular mechanisms. An example for the application of this concept currently carried out at the Clinical Cooperation Group \"Personalized Radiotherapy in Head and Neck Cancer\" of the Helmholtz-Zentrum München and the LMU Munich is described. This review article strives for providing a compact overview on the state of the art of systems biology, its actual challenges, potential applications, chances and limitations in radiation oncology research working towards improved personalised therapy concepts using this relatively new methodology."
+      }
+    ],
+    "links": [
+      [
+        {
+          "url": "NCT01750918",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "nct"
+            }
+          ]
+        }
+      ]
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Radiation oncology (London, England)"
+          },
+          {
+            "name": "Volume",
+            "value": "9"
+          },
+          {
+            "name": "Pages",
+            "value": "21"
+          },
+          {
+            "name": "Publication date",
+            "value": "2014 Jan"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1186/1748-717X-9-21",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC3901372",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "24411063",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Unger K"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-0374-2320"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Research Unit Radiation Cytogenetics, Helmholtz-Zentrum München, German Research Center for Environmental Health, Ingolstädter-Landstr, 1, 85764 Neuherberg, Germany. unger@helmholtz-muenchen.de."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

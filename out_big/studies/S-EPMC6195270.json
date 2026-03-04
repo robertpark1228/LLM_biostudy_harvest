@@ -1,0 +1,183 @@
+{
+  "accno": "S-EPMC6195270",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Spatial-temporal modeling of background radiation using mobile sensor networks."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2018-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Spatial-temporal modeling of background radiation using mobile sensor networks."
+      },
+      {
+        "name": "Abstract",
+        "value": "Modeling of background radiation for the urban environment plays an important role in homeland security. However, background radiation is difficult to assess due to its spatial-temporal fluctuations caused by the variation in soil composition, building materials, and weather patterns etc. To address the challenge of background radiation modeling, we developed a mobile sensor network to continuously monitor the background radiation; we also proposed a maximum likelihood estimation algorithm to decouple and estimate the background's spatial distribution and temporal fluctuation. Experimental results demonstrated how this background radiation monitoring system accurately recognized high background regions in the experimental area, and successfully captured temporal fluctuation trends of background radiation during rains. Our system provides an efficient solution to model the temporal fluctuation and spatial distribution of background radiation."
+      }
+    ],
+    "files": [
+      {
+        "path": "pone.0205092.s001.csv",
+        "size": 65914519,
+        "type": "file"
+      },
+      {
+        "path": "pone.0205092.s002.csv",
+        "size": 68128355,
+        "type": "file"
+      },
+      {
+        "path": "pone.0205092.s003.csv",
+        "size": 26694,
+        "type": "file"
+      },
+      {
+        "path": "pone.0205092.s004.csv",
+        "size": 924694,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Defense Threat Reduction Agency"
+          },
+          {
+            "name": "grant_id",
+            "value": "HDTRA 1-14-1-0011"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "PloS one"
+          },
+          {
+            "name": "Volume",
+            "value": "13(10)"
+          },
+          {
+            "name": "Pages",
+            "value": "e0205092"
+          },
+          {
+            "name": "Publication date",
+            "value": "2018"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1371/journal.pone.0205092",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC6195270",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "30339704",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Liu Z"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Abbaszadeh S"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0001-6345-2408"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Sullivan CJ"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Nuclear, Plasma, and Radiological Engineering, University of Illinois at Urbana-Champaign, Urbana, IL, United States of America."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

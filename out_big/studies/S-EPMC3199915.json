@@ -1,0 +1,475 @@
+{
+  "accno": "S-EPMC3199915",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Differential effects of alpha-particle radiation and x-irradiation on genes associated with apoptosis."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2011-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Differential effects of alpha-particle radiation and x-irradiation on genes associated with apoptosis."
+      },
+      {
+        "name": "Abstract",
+        "value": "This study examined differential effects of alpha-(α-) particle radiation and X-rays on apoptosis and associated changes in gene expression. Human monocytic cells were exposed to α-particle radiation and X-rays from 0 to 1.5 Gy. Four days postexposure, cell death was measured by flow cytometry and 84 genes related to apoptosis were analyzed using real-time PCR. On average, 33% of the cells were apoptotic at 1.5 Gy of α-particle radiation. Transcript profiling showed statistical expression of 15 genes at all three doses tested. Cells exposed to X-rays were <5% apoptotic at ~1.5 Gy and induced less than a 2-fold expression in 6 apoptotic genes at the higher doses of radiation. Among these 6 genes, Fas and TNF-α were common to the α-irradiated cells. This data suggests that α-particle radiation initiates cell death by TNF-α and Fas activation and through intermediate signalling mediators that are distinct from X-irradiated cells."
+      }
+    ],
+    "links": [
+      [
+        {
+          "url": "NM_000594",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refseq"
+            }
+          ]
+        },
+        {
+          "url": "NM_000043",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refseq"
+            }
+          ]
+        },
+        {
+          "url": "NM_001229",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refseq"
+            }
+          ]
+        },
+        {
+          "url": "NM_000633",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refseq"
+            }
+          ]
+        },
+        {
+          "url": "NM_000875",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refseq"
+            }
+          ]
+        },
+        {
+          "url": "NM_001924",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refseq"
+            }
+          ]
+        },
+        {
+          "url": "NM_001166",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refseq"
+            }
+          ]
+        },
+        {
+          "url": "NM_003842",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refseq"
+            }
+          ]
+        },
+        {
+          "url": "NM_000639",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refseq"
+            }
+          ]
+        },
+        {
+          "url": "NM_003921",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refseq"
+            }
+          ]
+        },
+        {
+          "url": "NM_001196",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refseq"
+            }
+          ]
+        },
+        {
+          "url": "NM_001252",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refseq"
+            }
+          ]
+        },
+        {
+          "url": "NM_014739",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refseq"
+            }
+          ]
+        },
+        {
+          "url": "NM_014959",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refseq"
+            }
+          ]
+        },
+        {
+          "url": "NM_004281",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refseq"
+            }
+          ]
+        },
+        {
+          "url": "NM_021960",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refseq"
+            }
+          ]
+        },
+        {
+          "url": "NM_000546",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refseq"
+            }
+          ]
+        },
+        {
+          "url": "NM_004049",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refseq"
+            }
+          ]
+        },
+        {
+          "url": "NM_004323",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refseq"
+            }
+          ]
+        },
+        {
+          "url": "NM_004048",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refseq"
+            }
+          ]
+        },
+        {
+          "url": "NM_004347",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refseq"
+            }
+          ]
+        },
+        {
+          "url": "NM_002546",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refseq"
+            }
+          ]
+        },
+        {
+          "url": "NM_003879",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refseq"
+            }
+          ]
+        },
+        {
+          "url": "NM_012423",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refseq"
+            }
+          ]
+        },
+        {
+          "url": "NM_004295",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refseq"
+            }
+          ]
+        },
+        {
+          "url": "NM_033341",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refseq"
+            }
+          ]
+        },
+        {
+          "url": "NM_001065",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refseq"
+            }
+          ]
+        },
+        {
+          "url": "NM_001561",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refseq"
+            }
+          ]
+        },
+        {
+          "url": "NM_000074",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refseq"
+            }
+          ]
+        },
+        {
+          "url": "NM_004050",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "refseq"
+            }
+          ]
+        }
+      ]
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Health Canada"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Radiology research and practice"
+          },
+          {
+            "name": "Volume",
+            "value": "2011"
+          },
+          {
+            "name": "Pages",
+            "value": "679806"
+          },
+          {
+            "name": "Publication date",
+            "value": "2011"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1155/2011/679806",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC3199915",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "22091383",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Chauhan V"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-4498-0915"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Howland M"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0001-9125-0950"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Chen J"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Kutzner B"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Wilkins RC"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Consumer and Clinical Radiation Protection Bureau, Healthy Environments and Consumer Safety Branch, Health Canada, 775 Brookfield Road, PL 6303B, Ottawa, ON, Canada K1A 0K9."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Consumer and Clinical Radiation Protection Bureau, Healthy Environments and Consumer Safety Branch, Health Canada, Brookfield Road, PL 6303B, Ottawa, ON, Canada K1A 0K9"
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

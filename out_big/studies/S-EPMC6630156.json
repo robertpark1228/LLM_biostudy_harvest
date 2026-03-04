@@ -1,0 +1,199 @@
+{
+  "accno": "S-EPMC6630156",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "MRI basics for radiation oncologists."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2019-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "MRI basics for radiation oncologists."
+      },
+      {
+        "name": "Abstract",
+        "value": "MRI is increasingly used in radiation oncology to facilitate tumor and organ-at-risk delineation and image guidance. In this review, we address issues of MRI that are relevant for radiation oncologists when interpreting MR images offered for radiotherapy. Whether MRI is used in combination with CT or in an MRI-only workflow, it is generally necessary to ensure that MR images are acquired in treatment position, using the positioning and fixation devices that are commonly applied in radiotherapy. For target delineation, often a series of separate image sets are used with distinct image contrasts, acquired within a single exam. MR images can suffer from image distortions. While this can be avoided with dedicated scan protocols, in a diagnostic setting geometrical fidelity is less relevant and is therefore less accounted for. Since geometrical fidelity is of utmost importance in radiation oncology, it requires dedicated scan protocols. The strong magnetic field of an MRI scanner and the use of radiofrequency radiation can cause safety hazards if not properly addressed. Safety screening is crucial for every patient and every operator prior to entering the MRI room."
+      }
+    ],
+    "files": [
+      {
+        "path": "mmc1.xml",
+        "size": 281,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Clinical and translational radiation oncology"
+          },
+          {
+            "name": "Volume",
+            "value": "18"
+          },
+          {
+            "name": "Pages",
+            "value": "74-79"
+          },
+          {
+            "name": "Publication date",
+            "value": "2019 Sep"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1016/j.ctro.2019.04.008",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC6630156",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "31341980",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "van der Heide UA"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-4146-6419"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Frantzen-Steneker M"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Astreinidou E"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Nowee ME"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "van Houdt PJ"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0001-7431-8386"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Leiden University Medical Center, Leiden, the Netherlands."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, The Netherlands Cancer Institute, Amsterdam, the Netherlands."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

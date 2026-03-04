@@ -1,0 +1,278 @@
+{
+  "accno": "S-EPMC9449753",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Prospective Clinical Evaluation of Integrating a Radiation Anatomist for Contouring in Routine Radiation Treatment Planning."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2022-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Prospective Clinical Evaluation of Integrating a Radiation Anatomist for Contouring in Routine Radiation Treatment Planning."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Purpose</h4>A radiation anatomist was trained and integrated into clinical practice at a multi-site academic center. The primary objective of this quality improvement study was to determine whether a radiation anatomist improves the quality of organ-at-risk (OAR) contours, and secondarily to determine the impact on efficiency in the treatment planning process.<h4>Methods and materials</h4>From March to August 2020, all patients undergoing computed tomography-based radiation planning at 2 clinics at Memorial Sloan Kettering Cancer Center were assigned using an \"every other\" process to either (1) OAR contouring by a radiation anatomist (intervention) or (2) contouring by the treating physician (standard of care). Blinded dosimetrists reported OAR contour quality using a 3-point scoring system based on a common clinical trial protocol deviation scale (1, acceptable; 2, minor deviation; and 3, major deviation). Physicians reported time spent contouring for all cases. Analyses included the Fisher exact test and multivariable ordinal logistic regression.<h4>Results</h4>There were 249 cases with data available for the primary endpoint (66% response rate). The mean OAR quality rating was 1.1 ± 0.4 for the intervention group and 1.4 ± 0.7 for the standard of care group (<i>P</i> < .001), with subset analysis showing a significant difference for gastrointestinal cases (n = 49; <i>P</i> <.001). Time from simulation to contour approval was reduced from 3 days (interquartile range [IQR], 1-6 days) in the control group to 2 days (IQR, 1-5 days) in the intervention group (<i>P</i> = .007). Both physicians and dosimetrists self-reported decreased time spent contouring in the intervention group compared with the control group, with a decreases of 8 minutes (17%; <i>P</i> < .001) and 5 minutes (50%; <i>P</i> = .002), respectively. Qualitative comments most often indicated edits required to bowel contours (n = 14).<h4>Conclusions</h4>These findings support improvements in both OAR contour quality and workflow efficiency with implementation of a radiation anatomist in routine practice. Findings could also inform development of autosegmentation by identifying disease sites and specific OARs contributing to low clinical efficiency. Future research is needed to determine the potential effect of reduced physician time spent contouring OARs on burnout."
+      }
+    ],
+    "files": [
+      {
+        "path": "mmc1.pdf",
+        "size": 4791080,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Memorial Sloan-Kettering Cancer Center"
+          },
+          {
+            "name": "grant_id",
+            "value": "P30 CA008748"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Radiological Society of North America"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Advances in radiation oncology"
+          },
+          {
+            "name": "Volume",
+            "value": "7(6)"
+          },
+          {
+            "name": "Pages",
+            "value": "101009"
+          },
+          {
+            "name": "Publication date",
+            "value": "2022 Nov-Dec"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1016/j.adro.2022.101009",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC9449753",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "36092987",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Zhang H"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Onochie I"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Hilal L"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Wijetunga NA"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Hipp E"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Guttmann DM"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Cahlon O"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Washington C"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a9",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Gomez DR"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a10",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Gillespie EF"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

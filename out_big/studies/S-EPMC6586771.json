@@ -1,0 +1,262 @@
+{
+  "accno": "S-EPMC6586771",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Radiation Risks of Uterine Cancer in Atomic Bomb Survivors: 1958-2009."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2018-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Radiation Risks of Uterine Cancer in Atomic Bomb Survivors: 1958-2009."
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Background</h4>Ionizing radiation is known to be capable of causing cancer of many organs, but its relationship with uterine cancer has not been well characterized.<h4>Methods</h4>We studied incidence of uterine cancer during 1958-2009 among 62 534 female atomic bomb survivors. Using Poisson regression analysis, we fitted excess relative risk (ERR) models to uterine cancer rates adjusted for several lifestyle and reproductive factors. Person-years at risk were also adjusted for the probability of prior hysterectomy, because it could affect the subsequent risk of uterine cancer. We assessed the modifying effect of age and other factors on the radiation risk. For analysis of the modifying effect of age at radiation exposure around menarche, we compared the radiation risk for several exposure-age categories as well as using parametric models.<h4>Results</h4>There were 224 uterine corpus cancers and 982 cervical cancers. We found a significant association between radiation dose and risk of corpus cancer (ERR per Gray [ERR/Gy] = 0.73, 95% confidence interval [CI] = 0.03 to 1.87) but not for cervical cancer (ERR/Gy = 0.00, 95% CI = -0.22 to 0.31). For corpus cancer, we found statistically significant heterogeneity in ERR/Gy by age (<i>P</i> <sub><i>heterogeneity</i></sub>  = .001) with elevated risk for women exposed to radiation between ages 11 and 15 years (ERR/Gy = 4.10, 95% CI = 1.47 to 8.42) and no indication of a radiation effect for exposures before or after this exposure-age range.<h4>Conclusions</h4>The current data suggest that uterine corpus is especially sensitive to the carcinogenic effect of radiation exposure occurring during the mid-pubertal period preceding menarche. There is little evidence for a radiation effect on cervical cancer risk."
+      }
+    ],
+    "files": [
+      {
+        "path": "supplement_material_pky081.docx",
+        "size": 59790,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "National Academy of Sciences"
+          },
+          {
+            "name": "grant_id",
+            "value": "HHSN261201400009C"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "Radiation Effects Research Foundation"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "HHSN261201400009C"
+          }
+        ]
+      },
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "National Cancer Institute"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "JNCI cancer spectrum"
+          },
+          {
+            "name": "Volume",
+            "value": "2(4)"
+          },
+          {
+            "name": "Pages",
+            "value": "pky081"
+          },
+          {
+            "name": "Publication date",
+            "value": "2018 Oct"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.1093/jncics/pky081",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC6586771",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "31249993",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Utada M"
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Brenner AV"
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Preston DL"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-0641-2925"
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Cologne JB"
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Sakata R"
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Sugiyama H"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0003-2536-0865"
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Sadakane A"
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Grant EJ"
+          }
+        ]
+      },
+      {
+        "accno": "a9",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Cahoon EK"
+          }
+        ]
+      },
+      {
+        "accno": "a10",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Ozasa K"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0002-5637-1383"
+          }
+        ]
+      },
+      {
+        "accno": "a11",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Mabuchi K"
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

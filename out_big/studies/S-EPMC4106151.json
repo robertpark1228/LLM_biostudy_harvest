@@ -1,0 +1,223 @@
+{
+  "accno": "S-EPMC4106151",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Radiation fosters dose-dependent and chemotherapy-induced immunogenic cell death."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2014-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Radiation fosters dose-dependent and chemotherapy-induced immunogenic cell death."
+      },
+      {
+        "name": "Abstract",
+        "value": "Established tumors are typified by an immunosuppresive microenvironment. Countering this naturally occurring phenomenon, emerging evidence suggests that radiation promotes a proimmunogenic milieu within the tumor capable of stimulating host cancer-specific immune responses. Three cryptic immunogenic components of cytotoxic-agent induced cell death-namely, calreticulin cell surface exposure, the release of high mobility group box 1 (HMGB1) protein, and the liberation of ATP-have been previously shown to be critical for dendritic cell (DC) activation and effector T-cell priming. Thus, these immune-mobilizing components commonly presage tumor rejection in response to treatment. We initially set out to address the hypothesis that radiation-induced immunogenic cell death (ICD) is dose-dependent. Next, we hypothesized that radiation would enhance chemotherapy-induced ICD when given concomitantly, as suggested by the favorable clinical outcomes observed in response to analogous concurrent chemoradiation regimens. Thus, we designed an in vitro assay to examine the 3 hallmark features of ICD at clinically relevant doses of radiation. We then tested the immunogenic-death inducing effects of radiation combined with carboplatin or paclitaxel, focusing on these combinations to mimic chemoradiation regimens actually used in clinical trials of early stage triple negative [NCT0128953/NYU-10-01969] and locally advanced [NYU-06209] breast cancer patients, respectively. Despite the obvious limitations of an in vitro model, radiotherapy produced both a dose-dependent induction and chemotherapeutic enhancement of ICD. These findings provide preliminary evidence that ICD stimulated by either high-dose radiotherapy alone, or concurrent chemoradiation regimens, may contribute to the establishment of a peritumoral proimmunogenic milieu."
+      }
+    ],
+    "files": [
+      {
+        "path": "onci-3-e28518-s01.pdf",
+        "size": 108368,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Funding",
+        "attributes": [
+          {
+            "name": "Agency",
+            "value": "NCI NIH HHS"
+          },
+          {
+            "name": "grant_id",
+            "value": "R01 CA161891"
+          }
+        ]
+      },
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Oncoimmunology"
+          },
+          {
+            "name": "Volume",
+            "value": "3"
+          },
+          {
+            "name": "Pages",
+            "value": "e28518"
+          },
+          {
+            "name": "Publication date",
+            "value": "2014"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.4161/onci.28518",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC4106151",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "25071979",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Golden EB"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Frances D"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Pellicciotta I"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Demaria S"
+          },
+          {
+            "name": "ORCID",
+            "value": "0000-0003-4426-0499"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Helen Barcellos-Hoff M"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Formenti SC"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology; New York University School of Medicine; New York, NY USA ; Department of Pathology; New York University School of Medicine; New York, NY USA."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology; New York University School of Medicine; New York, NY USA."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

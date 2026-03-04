@@ -1,0 +1,269 @@
+{
+  "accno": "S-EPMC9991537",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Normal Tissue Integral Dose as a Result of Prostate Radiation Therapy: A Quantitative Comparison Between High-Dose-Rate Brachytherapy and Modern External Beam Radiation Therapy Techniques"
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2022-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Normal Tissue Integral Dose as a Result of Prostate Radiation Therapy: A Quantitative Comparison Between High-Dose-Rate Brachytherapy and Modern External Beam Radiation Therapy Techniques"
+      },
+      {
+        "name": "Abstract",
+        "value": "<h4>Purpose</h4> Quantification of integral radiation dose delivered during treatment for prostate cancer is lacking. We performed a comparative quantification of dose to nontarget body tissues delivered via 4 common radiation techniques: conventional volumetric modulated arc therapy, stereotactic body radiation therapy, pencil-beam scanning proton therapy, and high-dose-rate brachytherapy. <h4>Methods and Materials</h4> Plans for each radiation technique were generated for 10 patients with typical anatomy. For brachytherapy plans, virtual needles were placed to achieve standard dosimetry. Standard planning target volume margins or robustness margins were applied as appropriate. A “normal tissue” structure (entire computed tomography simulation volume minus planning target volume) was generated for integral dose computation. Dose-volume histogram parameters for targets and normal structures were tabulated. Normal tissue integral dose was calculated by multiplying normal tissue volume by mean dose. <h4>Results</h4> Normal tissue integral dose was lowest for brachytherapy. Pencil-beam scanning protons, stereotactic body radiation therapy, and brachytherapy resulted in 17%, 57%, and 91% absolute reductions compared with standard volumetric modulated arc therapy, respectively. Mean nontarget tissues receiving 25%, 50%, and 75% of the prescription dose were reduced by 85%, 76%, and 83% for brachytherapy relative to volumetric modulated arc therapy, by 79%, 64%, and 74% relative to stereotactic body radiation therapy, and 73%, 60%, and 81% relative to proton therapy. All reductions observed using brachytherapy were statistically significant. <h4>Conclusions</h4> High-dose-rate brachytherapy is an effective technique for reducing dose to nontarget body tissues relative to volumetric modulated arc therapy, stereotactic body radiation therapy, and pencil-beam scanning proton therapy."
+      }
+    ],
+    "files": [
+      {
+        "path": "mmc1.docx",
+        "size": 74838,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Advances in radiation oncology"
+          },
+          {
+            "name": "Volume",
+            "value": "8(3)"
+          },
+          {
+            "name": "Publication date",
+            "value": "2022 Dec"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "PMC9991537",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Grzywacz V"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Arden J"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Mankuzhy N"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Gustafson G"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Sebastian E"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Abbott V"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a7",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Walters K"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a8",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Puzzonia J"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a9",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Limbacher A"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a10",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Hafron J"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a11",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Krauss D"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Internal Medicine, St. Joseph's Health, Ann Arbor, Michigan"
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, Beaumont Health, Royal Oak, Michigan"
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Urology, Beaumont Health, Royal Oak, Michigan"
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

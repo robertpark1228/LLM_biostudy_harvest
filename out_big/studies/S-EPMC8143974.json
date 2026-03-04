@@ -1,0 +1,216 @@
+{
+  "accno": "S-EPMC8143974",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "Radiation Therapy for Chemotherapy Refractory Gingival Myeloid Sarcoma."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2021-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "Radiation Therapy for Chemotherapy Refractory Gingival Myeloid Sarcoma."
+      },
+      {
+        "name": "Abstract",
+        "value": "Gingival myeloid sarcoma (MS) refractory to induction chemotherapy is a rare clinical entity and can be treated with palliative radiation therapy (RT). However, there are few previously published reports of RT approaches for the treatment of gingival MS. We present a single institution retrospective observational study of adult patients treated with palliative RT for chemotherapy refractory gingival MS. A total of six patients diagnosed with gingival MS in the setting of relapsed or refractory acute myeloid leukemia treated with palliative RT were identified, with a median age of 66 (range 52-77). Patients were treated with radiation doses ranging from 5 to 20 Gy in 2-10 fractions. Two patients had adequate follow-up time to assess treatment response. One patient who was simulated with PET/CT experienced a local complete response, while the other patient required retreatment 2 months after initial treatment and experienced an eventual local partial response. Three patients experienced radiation mucositis, with one patient experiencing grade 5 toxicity attributed to concomitant treatment with the radiosensitizer hydroxyurea. We believe that this study can provide a practical reference point for other clinicians given the rarity of gingival MS requiring palliative radiation therapy as a clinical entity."
+      }
+    ],
+    "files": [
+      {
+        "path": "Table_1.docx",
+        "size": 19139,
+        "type": "file"
+      }
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "Frontiers in oncology"
+          },
+          {
+            "name": "Volume",
+            "value": "11"
+          },
+          {
+            "name": "Pages",
+            "value": "671514"
+          },
+          {
+            "name": "Publication date",
+            "value": "2021"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.3389/fonc.2021.671514",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC8143974",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "34046361",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Lee DY"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Baron J"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Wright CM"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a4",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Plastaras JP"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a5",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Perl AE"
+          },
+          {
+            "name": "affiliation",
+            "value": "o3",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a6",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Paydar I"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o3",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Medicine, Division of Hematology-Oncology, University of Pennsylvania, Philadelphia, PA, United States."
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Department of Radiation Oncology, University of Pennsylvania, Philadelphia, PA, United States."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "University of Pennsylvania School of Medicine, Philadelphia, PA, United States."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}

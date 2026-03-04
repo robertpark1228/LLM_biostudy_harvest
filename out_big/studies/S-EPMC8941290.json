@@ -1,0 +1,167 @@
+{
+  "accno": "S-EPMC8941290",
+  "attributes": [
+    {
+      "name": "DataSource",
+      "value": "Europe PMC"
+    },
+    {
+      "name": "Title",
+      "value": "EMI radiation of power transmission lines in Malaysia."
+    },
+    {
+      "name": "ReleaseDate",
+      "value": "2021-01-01"
+    },
+    {
+      "name": "AttachTo",
+      "value": "EuropePMC"
+    }
+  ],
+  "section": {
+    "type": "Study",
+    "attributes": [
+      {
+        "name": "Title",
+        "value": "EMI radiation of power transmission lines in Malaysia."
+      },
+      {
+        "name": "Abstract",
+        "value": "<b>Background:</b> There has been rising concern amongst the public regarding their home's proximity to high tension power transmission lines. The primary cause of fear is the impact of the electromagnetic interference (EMI) radiation on the nearby occupants' health. Despite the presence of national permissible limits of EMI radiation, there is still lack of information with regards to the EMI radiation of the types of power lines configuration in Malaysia. <b>Methods:</b> The electric and magnetic fields of several selected power transmission lines were simulated using the EMFACDC software program from the recommendation ITU-T K.90. Five types of power transmission lines available in Malaysia are considered. <b>Results:</b> It was found that the simulated electric and magnetic field levels at all the power lines' right of way (ROW) boundary complies with the prescribed exposure limit. However, the electromagnetic fields (EMF) level increases significantly as the separation distance is reduced from 30m. For a more conservative approach, the ROW can be set at 30m across all transmission voltage level and corridor area condition. <b>Conclusion:</b> It can be concluded that Malaysia's power transmission lines are within the prescribed exposure limits. To further minimize the electric and magnetic field level, it is recommended that the residential building should be built at least 30 meters away from the power transmission lines, especially for the 275kV double circuit, 275/132kV quadruple circuit, and 500kV double circuit lines."
+      }
+    ],
+    "links": [
+      [
+        {
+          "url": "10.6084/m9.figshare.16577423.v2",
+          "attributes": [
+            {
+              "name": "Type",
+              "value": "doi"
+            }
+          ]
+        }
+      ]
+    ],
+    "subsections": [
+      {
+        "type": "Publication",
+        "attributes": [
+          {
+            "name": "Journal",
+            "value": "F1000Research"
+          },
+          {
+            "name": "Volume",
+            "value": "10"
+          },
+          {
+            "name": "Pages",
+            "value": "1136"
+          },
+          {
+            "name": "Publication date",
+            "value": "2021"
+          }
+        ],
+        "links": [
+          [
+            {
+              "url": "10.12688/f1000research.73067.2",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "DOI"
+                }
+              ]
+            },
+            {
+              "url": "PMC8941290",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMC"
+                }
+              ]
+            },
+            {
+              "url": "35387277",
+              "attributes": [
+                {
+                  "name": "Type",
+                  "value": "PMID"
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "accno": "a1",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Fikry A"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a2",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Lim SC"
+          },
+          {
+            "name": "affiliation",
+            "value": "o1",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "a3",
+        "type": "Author",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Ab Kadir MZA"
+          },
+          {
+            "name": "affiliation",
+            "value": "o2",
+            "reference": true
+          }
+        ]
+      },
+      {
+        "accno": "o2",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Electrical & Electronic Engineering, University Putra Malaysia, Serdang, Selangor, 43400, Malaysia."
+          }
+        ]
+      },
+      {
+        "accno": "o1",
+        "type": "Organization",
+        "attributes": [
+          {
+            "name": "Name",
+            "value": "Faculty of Engineering, Multimedia University, Cyberjaya, Selangor, 63100, Malaysia."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "submission"
+}
